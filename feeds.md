@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 09:24:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-06 10:21:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 09:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 10:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260406_1775470656245_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC says Strait of Hormuz will &#x27;never&#x27; revert to pre-war state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: IRGC says Strait of Hormuz will &#x27;never&#x27; revert to pre-war state</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-06 10:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney?traffic_source=rss" target="_blank">World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 09:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +100,20 @@
                 <span class="time">2026-04-06 05:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260403-artemis-ii-earth-ew-320p-ae5928.jpg" alt="A milestone for Artemis II: Astronauts enter the &#x27;lunar sphere of influence&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/science/space/artemis-ii-astronauts-moon-lunar-sphere-influence-nasa-rcna266631" target="_blank">A milestone for Artemis II: Astronauts enter the &#x27;lunar sphere of influence&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-06 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774557/ucla-ncaa-womens-basketball-champions" target="_blank">UCLA storms past South Carolina to claim its 1st NCAA women&#x27;s basketball title</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-06 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69cffdb3640c23d3efe3532c/master/pass/snake_bite_antivenom_top.gif" alt="Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/" target="_blank">Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d0010ebd20ea771b0078c1/master/pass/Intel-Copackaging-Business-DSC01068.jpg" alt="The Ridiculously Nerdy Intel Bet That Could Rake in Billions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review" target="_blank">Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-05 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/" target="_blank">TechCrunch Mobility: ‘A stunning lack of transparency’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-05 16:05</span>
             </div>
         </div>
 </div>
@@ -233,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/shutterstock_2442151057-1280x619.jpg" alt="Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-app-store-experiences-surge-in-new-apps-amid-vibe-coding-boom-2000742653" target="_blank">Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/lotr-rings-of-power-hed-1280x853.jpg" alt="Amazon Is Sticking With ‘Rings of Power’ to the End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,15 +291,6 @@
                 <span class="time">2026-04-05 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Nintendo-Switch.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This is your sign to finally buy the Nintendo Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/05/this-is-your-sign-to-finally-buy-the-nintendo-switch.html" target="_blank">This is your sign to finally buy the Nintendo Switch</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 10:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
