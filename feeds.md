@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 01:31:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 02:59:22 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774557/ucla-ncaa-womens-basketball-champions" target="_blank">UCLA storms past South Carolina to claim its 1st NCAA women&#x27;s basketball title</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 01:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8493/live/fba08020-313a-11f1-819d-c96a4978551d.jpg" alt="Trump issues expletive-laden threat to Iran over Hormuz Strait blockage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss" target="_blank">UK police arrest seven protesters near RAF base used by US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-05 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/iran-flag-20260405-gty-jh_1775394099906_hpMain_4x3t_384.jpg" alt="Trump says &#x27;we&#x27;re blowing up the whole country&#x27; if no Iran deal in 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/trump-blowing-country-iran-deal-reached-48-hours/story?id=131744086" target="_blank">Trump says &#x27;we&#x27;re blowing up the whole country&#x27; if no Iran deal in 48 hours</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-05 20:38</span>
             </div>
         </div>
 </div>
@@ -169,9 +166,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tylerlwsmith/alma-and-rocky-isos-dvd-vs-boot-vs-minimal-hi5" target="_blank">Alma and Rocky Linux ISOs: DVD vs Boot vs Minimal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 02:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/java-news-roundup-mar30-2026/en/headerimage/java-istock-image-01-1775426752167.jpg" alt="Java News Roundup: TornadoVM 4.0, Google ADK for Java 1.0, Grails, Tomcat, Log4j, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: TornadoVM 4.0, Google ADK for Java 1.0, Grails, Tomcat, Log4j, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-06 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rodrigo_caetano_a69bd0726/ai-wont-save-bad-code-why-senior-developers-matter-more-than-ever-oi4" target="_blank">AI Won&#x27;t Save Bad Code: Why Senior Developers Matter More Than Ever</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://playlists.at/youtube/search/" target="_blank">Show HN: YouTube search barely works, I made a search form with advanced filters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 00:18</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-pro-initial-setup-tool" target="_blank">You can now enable Ubuntu Pro from the OS setup tool</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-05 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro.jpg?resize=406%2C232&amp;ssl=1" alt="You can now enable Ubuntu Pro from the OS welcome wizard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-pro-initial-setup-tool" target="_blank">You can now enable Ubuntu Pro from the OS welcome wizard</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-05 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-rc7-Released" target="_blank">Linux 7.0-rc7 Released With Improved Docs For AI Agents, WiFi Driver Performance Fix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-05 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuz59fiffgwvsby6r8tcr.png" alt="O Claude terminou com o OpenClaw… Será mesmo?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ggondim/o-claude-terminou-com-o-openclaw-sera-mesmo-8bl" target="_blank">O Claude terminou com o OpenClaw… Será mesmo?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-05 21:50</span>
             </div>
         </div>
 </div>
@@ -284,6 +281,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5801.png" alt="Recognition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5801" target="_blank">Recognition</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-06 01:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1775358890-20260405.png" alt="Saturday Morning Breakfast Cereal - Hi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -297,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
