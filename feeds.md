@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 18:14:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-06 19:20:55 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 18:14 UTC</div>
+    <div class="newspaper-date">Monday, April 06, 2026 - 19:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5763692/arsenio-hall-memoir" target="_blank">Even when Arsenio Hall&#x27;s show was a hit, &#x27;everyone wanted it to be something else&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss" target="_blank">North Korea keeping Iran at arm’s length, reports Seoul</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +102,29 @@
                 <span class="time">2026-04-06 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg" alt="Trump to hold news conference on airman rescue as his deadline for Iran looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hold-news-conference-airman-rescue-deadline-iran/story?id=131764525" target="_blank">Trump to hold news conference on airman rescue as his deadline for Iran looms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-06 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775489473110_f_mo_dc_trump_oil_people_260406_S3_1920x1080-1a3x99.jpg" alt="Trump says he would like Iran&#x27;s oil but &#x27;American people would like to see us come home&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-he-would-like-iran-s-oil-but-american-people-would-like-to-see-us-come-home-260762693695" target="_blank">Trump says he would like Iran&#x27;s oil but &#x27;American people would like to see us come home&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-06 15:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly releases an offline-first AI dictation app on iOS</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-06 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/NHQ202603240060medium-500x500.jpg" alt="NASA&#x27;s Moon ship and rocket seem to be working well, so what about the landers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/" target="_blank">NASA&#x27;s Moon ship and rocket seem to be working well, so what about the landers?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-06 18:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,20 @@
                 <span class="time">2026-04-06 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor" target="_blank">Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-06 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/" target="_blank">OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-06 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Laptop-Matrix" target="_blank">FreeBSD Aims To Better Track Laptop Hardware That Works Or Doesn&#x27;t For Their OS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-06 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fexe0crf7xezimfmlzr0u.png" alt="🚀 Why Your Android App is Slow (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/entalogics/what-we-learned-delivering-600-software-project-4onc" target="_blank">What We Learned Delivering 600+ Software Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18829550&w=600" alt="Smart Controls for Infrastructure as Code with LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/smart-controls-for-infrastructure-as-code" target="_blank">Smart Controls for Infrastructure as Code with LLMs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-06 15:00</span>
             </div>
         </div>
 </div>
@@ -304,6 +308,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/06/around-back" target="_blank">Around Back</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-06 18:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1775358940-20260406.png" alt="Saturday Morning Breakfast Cereal - Borax" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -335,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
