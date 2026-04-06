@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 05:40:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 06:31:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 05:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 06:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Haifa-impact-DB-260406_1775453984328_hpMain_4x3t_384.jpg" alt="Iran live updates: Casualties reported from missile strikes in Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Casualties reported from missile strikes in Israel</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-06 06:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss" target="_blank">Steph Curry returns from injury with 29 points but Warriors lose to Rockets</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 06:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby" target="_blank">NASA&#x27;s Artemis II crew readies for Monday&#x27;s lunar flyby. Here&#x27;s what you need to know</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-06 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260403-artemis-ii-earth-ew-320p-ae5928.jpg" alt="A milestone for Artemis II: Astronauts enter the &#x27;lunar sphere of influence&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/science/space/artemis-ii-astronauts-moon-lunar-sphere-influence-nasa-rcna266631" target="_blank">A milestone for Artemis II: Astronauts enter the &#x27;lunar sphere of influence&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-06 04:44</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump issues expletive-laden threat to Iran over Hormuz Strait blockage</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-06 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0d/live/4e8fd160-2e9c-11f1-90b9-6ffcd881a7dc.jpg" alt="Benefits and pensions rise as two-child cap ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss" target="_blank">Benefits and pensions rise as two-child cap ends</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8493/live/fba08020-313a-11f1-819d-c96a4978551d.jpg" alt="Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss" target="_blank">Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-05 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/05/nx-s1-5774517/hollywood-studios-wga-tentative-agreement-writers-union" target="_blank">Hollywood studios reach a tentative agreement with writers union</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-05 21:09</span>
             </div>
         </div>
 </div>
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
