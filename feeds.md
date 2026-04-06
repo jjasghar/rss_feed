@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 16:12:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 17:15:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 16:12 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks on US airman rescue: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump speaks on US airman rescue: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-06 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference" target="_blank">Trump set to hold press conference after profanity-laced post on Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 16:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +98,20 @@
                 <span class="time">2026-04-06 13:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss" target="_blank">The US could still try to play the ethnic card in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss" target="_blank">Has Trump confirmed Iran’s claim that protesters were US-armed?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d3e66ea41acfdddf0d2e07/master/pass/One-Of-Our-Favorite-360-Cams-Is-35-Percent-Off.jpg" alt="One Of Our Favorite 360 Cams Is 35 Percent Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dji-osmo-360-deal-426/" target="_blank">One Of Our Favorite 360 Cams Is 35 Percent Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-06 17:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +157,20 @@
                 <span class="time">2026-04-06 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-040626a-lg-500x500.jpg" alt="Why will today&#x27;s lunar flyby only beam back low-resolution video?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/" target="_blank">Why will today&#x27;s lunar flyby only beam back low-resolution video?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-06 12:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-AGESA-Version-Linux-7.1" target="_blank">A Small But Useful Debugging Addition For AMD Zen Systems With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-06 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms624wqvmfczhk5sc03.png" alt="Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +216,6 @@
                 <span class="time">2026-04-06 14:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.0xsid.com/blog/wont-download-your-app" target="_blank">I Won&#x27;t Download Your App. The Web Version Is A-OK</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/border-patrol-e1775493651116.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Officials say refugee&#x27;s death was a homicide after Border Patrol agents left him alone in the cold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/06/officials-say-refugees-death-was-a-homicide-after-border-patrol-agents-left-him-alone-in-the-cold.html" target="_blank">Officials say refugee&#x27;s death was a homicide after Border Patrol agents left him alone in the cold</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-06 16:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Zendaya-1280x853.jpg" alt="You Can Buy ‘Dune: Part Three’ IMAX Tickets Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +298,20 @@
                 <span class="time">2026-04-06 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-51.jpg" alt="Nintendo Hits Another Home Run In Hollywood As Mario Galaxy Movie Tops $350 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-galaxy-box-office-record-halo-ce-date-2000685153" target="_blank">Nintendo Hits Another Home Run In Hollywood As Mario Galaxy Movie Tops $350 Million</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-06 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1775358940-20260406.png" alt="Saturday Morning Breakfast Cereal - Borax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/borax" target="_blank">Saturday Morning Breakfast Cereal - Borax</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-06 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
