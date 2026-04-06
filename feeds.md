@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 22:06:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 23:08:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 22:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 23:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg" alt="LIVE:  Artemis II crew enters planned communications blackout: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Artemis II crew enters planned communications blackout: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-06 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b3/live/286983f0-31a3-11f1-b238-cf10fe15ebcf.jpg" alt="Wireless Festival boss defends Kanye West appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss" target="_blank">Wireless Festival boss defends Kanye West appearance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-06 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5775639/artemis-astronauts-moon-observation-nasa-human-eye" target="_blank">What can Artemis II astronauts see that satellites haven&#x27;t captured?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 20:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-17-ht-gmh-260406_1775499306076_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew begins lunar flyby after breaking distance record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,38 +99,20 @@
                 <span class="time">2026-04-06 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss" target="_blank">Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks on US airman rescue: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump speaks on US airman rescue: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-06 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference" target="_blank">Trump set to hold press conference after profanity-laced post on Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-06 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg" alt="After court loss, RFK Jr. gives himself more power over CDC vaccine panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/" target="_blank">After court loss, RFK Jr. gives himself more power over CDC vaccine panel</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-06 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-500x500-1775509438.jpg" alt="Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -104,6 +120,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/" target="_blank">Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-06 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed" target="_blank">Wisconsin governor says ‘no’ to age checks for porn</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-06 21:47</span>
             </div>
         </div>
 <div class="story">
@@ -133,24 +158,6 @@
                 <span class="time">2026-04-06 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly releases an offline-first AI dictation app on iOS</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-06 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/NHQ202603240060medium-500x500.jpg" alt="NASA&#x27;s Moon ship and rocket seem to be working well, so what about the landers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/" target="_blank">NASA&#x27;s Moon ship and rocket seem to be working well, so what about the landers?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-06 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,6 +170,24 @@
                 <span class="title"><a href="https://dev.to/butterflycss/xenon-script-v001-26hm" target="_blank">xenon script v0.0.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 22:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-vpn.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s free VPN rollout finally reached me – is it any good though?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-free-vpn-enabled" target="_blank">Firefox’s free VPN rollout finally reached me – is it any good though?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-06 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/" target="_blank">GitHub Copilot CLI combines model families for a second opinion</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-06 21:53</span>
             </div>
         </div>
 <div class="story">
@@ -192,29 +217,20 @@
                 <span class="time">2026-04-06 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fnpm%2Fv%2Fkiattp.svg%3Fcolor%3D007EC6" alt="I Got Mad at an npm Hack, Spent 3 Days Yelling at an AI, and Accidentally Built a Library 4 Faster Than Axios" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev-dami/i-got-mad-at-an-npm-hack-spent-3-days-yelling-at-an-ai-and-accidentally-built-a-library-4-faster-1bld" target="_blank">I Got Mad at an npm Hack, Spent 3 Days Yelling at an AI, and Accidentally Built a Library 4 Faster Than Axios</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/matthartman/ghost-pepper" target="_blank">Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html" target="_blank">New Mexico’s Meta Ruling and Encryption</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-06 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wowreaction-1280x720.jpg" alt="World Of Warcraft Pro Players Surprised After Dead Raid Boss Comes Back To Life For Secret Phase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-pro-players-celebrate-early-raid-boss-midnight-return-life-liquid-wow-2000685269" target="_blank">World Of Warcraft Pro Players Surprised After Dead Raid Boss Comes Back To Life For Secret Phase</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-06 22:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/wholesome-content-nasa-1280x720.jpg" alt="Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +308,6 @@
                 <span class="time">2026-04-06 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/border-patrol-e1775493651116.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Officials say refugee&#x27;s death was a homicide after Border Patrol agents left him alone in the cold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/06/officials-say-refugees-death-was-a-homicide-after-border-patrol-agents-left-him-alone-in-the-cold.html" target="_blank">Officials say refugee&#x27;s death was a homicide after Border Patrol agents left him alone in the cold</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-06 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,6 +341,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/grammar.png" alt="Grammar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3229/" target="_blank">Grammar</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-06 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5801.png" alt="Recognition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -338,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:06 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
