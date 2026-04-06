@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 12:11:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-04-06 13:28:13 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 12:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-040626a-lg-500x500.jpg" alt="Why will today&#x27;s lunar flyby only beam back low-resolution video?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/" target="_blank">Why will today&#x27;s lunar flyby only beam back low-resolution video?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-06 12:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69d0b281ac880fc9063fd00d/master/pass/The-Best-Apple-Watch-Accessories-to-Get-More-Out-of-Your-Device.jpg" alt="8 Best Apple Watch Accessories (2026): Bands, Chargers, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +152,38 @@
                 <span class="time">2026-04-06 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/" target="_blank">Polymarket took down wagers tied to rescue of downed Air Force officer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-05 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926261&w=600" alt="The 2026 Guide to Ecommerce Security and Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/2026-guide-to-ecommerce-security-and-development" target="_blank">The 2026 Guide to Ecommerce Security and Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://belief.horse/notes/what-being-ripped-off-taught-me/" target="_blank">What Being Ripped Off Taught Me</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/duolingo-eks-kubernetes/en/mediumimage/Franka-Passing-medium-1774441713171.jpg" alt="Presentation: Duolingo&#x27;s Kubernetes Leap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/duolingo-eks-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Duolingo&#x27;s Kubernetes Leap</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-06 12:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +209,6 @@
                 <span class="title"><a href="https://dev.to/dahkenangnon/i-built-a-better-documentation-site-for-oidc-provider-1f11" target="_blank">I built a better documentation site for oidc-provider</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/alternative-reduce-test-suite-size/en/headerimage/alternative-reduce-test-suite-size-header-1774943323622.jpg" alt="Article: A Better Alternative to Reducing CI Regression Test Suite Sizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/alternative-reduce-test-suite-size/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: A Better Alternative to Reducing CI Regression Test Suite Sizes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17314389/tennis-csv-tool" target="_blank">I Found A Terminal Tool That Makes CSV Files Look Stunning</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-06 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tboteproject.com/surveillancefindings/" target="_blank">Age Verification as Mass Surveillance Infrastructure</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 10:33</span>
             </div>
         </div>
 </div>
@@ -341,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
