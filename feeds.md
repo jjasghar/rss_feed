@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 10:21:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-06 11:16:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 10:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada" target="_blank">Trump threatens Iran&#x27;s power plants, bridges. And, Artemis II readies for lunar flyby</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-06 10:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-DB-260406_1775470656245_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC says Strait of Hormuz will &#x27;never&#x27; revert to pre-war state" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets?traffic_source=rss" target="_blank">Steph Curry returns from injury with 29 points but Warriors lose to Rockets</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-06 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby" target="_blank">NASA&#x27;s Artemis II crew readies for Monday&#x27;s lunar flyby. Here&#x27;s what you need to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-06 05:09</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dahkenangnon/i-built-a-better-documentation-site-for-oidc-provider-1f11" target="_blank">I built a better documentation site for oidc-provider</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/alternative-reduce-test-suite-size/en/headerimage/alternative-reduce-test-suite-size-header-1774943323622.jpg" alt="Article: A Better Alternative to Reducing CI Regression Test Suite Sizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/alternative-reduce-test-suite-size/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: A Better Alternative to Reducing CI Regression Test Suite Sizes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-06 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17314389/tennis-csv-tool" target="_blank">I Found A Terminal Tool That Makes CSV Files Look Stunning</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-06 10:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wg9ll0ijo9sp1sx8cml.png" alt="Why Strong IT Careers Are Built in Communities, Not in Isolation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -191,33 +218,6 @@
                 <span class="time">2026-04-06 05:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dynamic Languages Faster and Cheaper in 13-Language Claude Code Benchmark</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-06 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/mikf/gallery-dl/discussions/9304" target="_blank">Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tylerlwsmith/alma-and-rocky-isos-dvd-vs-boot-vs-minimal-hi5" target="_blank">Alma and Rocky Linux ISOs: DVD vs Boot vs Minimal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 02:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/star-wars-maul-shadow-lord-review-1280x853.jpg" alt="‘Maul: Shadow Lord’ Is a Fine Prequel to a Great TV Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/maul-shadow-lord-review-star-wars-disney-plus-2000740086" target="_blank">‘Maul: Shadow Lord’ Is a Fine Prequel to a Great TV Show</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/shutterstock_2442151057-1280x619.jpg" alt="Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-04-05 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/mass-effect-3-endings-1280x853.jpg" alt="The ‘Mass Effect’ Show is Getting Rewritten to Get Greenlit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-mass-effect-show-is-getting-rewritten-to-get-greenlit-2000742629" target="_blank">The ‘Mass Effect’ Show is Getting Rewritten to Get Greenlit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-05 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 10:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
