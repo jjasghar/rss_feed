@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 21:09:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2026-04-06 22:06:35 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-500x500-1775509438.jpg" alt="Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/" target="_blank">Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-06 21:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -148,20 +151,20 @@
                 <span class="time">2026-04-06 18:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/" target="_blank">Iran threatens ‘Stargate’ AI data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-06 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/butterflycss/xenon-script-v001-26hm" target="_blank">xenon script v0.0.1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,19 +204,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-Laptop-Matrix" target="_blank">FreeBSD Aims To Better Track Laptop Hardware That Works Or Doesn&#x27;t For Their OS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-06 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fexe0crf7xezimfmlzr0u.png" alt="🚀 Why Your Android App is Slow (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahsanahmed03/why-your-android-app-is-slow-and-how-to-fix-it-p5f" target="_blank">🚀 Why Your Android App is Slow (And How to Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 18:07</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/matthartman/ghost-pepper" target="_blank">Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 19:50</span>
             </div>
         </div>
 </div>
@@ -244,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wholesome-content-nasa-1280x720.jpg" alt="Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/artemis-ii-astronauts-nutella-moon-mission-crying-crater-video-stream-nasa-content-2000685243" target="_blank">Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-06 20:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Punisher-One-Last-Kill-first-look-1280x853.jpg" alt="All Hell Breaks Loose in a Tease of the End of ‘Daredevil: Born Again’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/06/officials-say-refugees-death-was-a-homicide-after-border-patrol-agents-left-him-alone-in-the-cold.html" target="_blank">Officials say refugee&#x27;s death was a homicide after Border Patrol agents left him alone in the cold</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-06 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Zendaya-1280x853.jpg" alt="You Can Buy ‘Dune: Part Three’ IMAX Tickets Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-can-buy-dune-part-three-imax-tickets-right-now-2000742907" target="_blank">You Can Buy ‘Dune: Part Three’ IMAX Tickets Right Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-06 16:01</span>
             </div>
         </div>
 </div>
@@ -344,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
