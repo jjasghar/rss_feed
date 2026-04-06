@@ -1,15 +1,7 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 20:09:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-06 21:09:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -17,20 +9,26 @@
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, April 06, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +106,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names" target="_blank">Artemis II astronauts break a record, name a crater</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-06 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d3cedfd1ed3fbe37496db8/master/pass/Water_leadoptipnal%202.jpeg" alt="A Single Strike Won’t Shut Off the Gulf’s Desalination System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/" target="_blank">A Single Strike Won’t Shut Off the Gulf’s Desalination System</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-06 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly launched an AI dictation app that works offline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-06 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly releases an offline-first AI dictation app on iOS</a></span>
                 <span class="feed">TechCrunch</span>
@@ -132,38 +157,38 @@
                 <span class="time">2026-04-06 18:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/LG-rollable-500x500.jpg" alt="Teardown of unreleased LG Rollable shows why rollable phones aren&#x27;t a thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/" target="_blank">Teardown of unreleased LG Rollable shows why rollable phones aren&#x27;t a thing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-06 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d3e66ea41acfdddf0d2e07/master/pass/One-Of-Our-Favorite-360-Cams-Is-35-Percent-Off.jpg" alt="One of Our Favorite 360 Cams Is 35 Percent Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dji-osmo-360-deal-426/" target="_blank">One of Our Favorite 360 Cams Is 35 Percent Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-06 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d3e66ea41acfdddf0d2e07/master/pass/One-Of-Our-Favorite-360-Cams-Is-35-Percent-Off.jpg" alt="One Of Our Favorite 360 Cams Is 35 Percent Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dji-osmo-360-deal-426/" target="_blank">One Of Our Favorite 360 Cams Is 35 Percent Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-06 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrlinuncut/the-day-anthropic-banned-openclaw-and-killed-my-ai-stack-and-how-i-rebuilt-it-5c6f" target="_blank">The Day Anthropic Banned OpenClaw and Killed My AI Stack (And How I Rebuilt It).</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-06 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18972942&w=600" alt="Spark on AmpereOne® M Arm Processors Reference Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spark-ampereone-arm-architecture" target="_blank">Spark on AmpereOne® M Arm Processors Reference Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-06 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking" target="_blank">A time bomb in macOS TCP networking that detonates after 49 days</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fnpm%2Fv%2Fkiattp.svg%3Fcolor%3D007EC6" alt="I Got Mad at an npm Hack, Spent 3 Days Yelling at an AI, and Accidentally Built a Library 4 Faster Than Axios" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/ahsanahmed03/why-your-android-app-is-slow-and-how-to-fix-it-p5f" target="_blank">🚀 Why Your Android App is Slow (And How to Fix It)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926316&w=600" alt="Reduce Frontend Complexity in ASP.NET Razor Pages Using HTMX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reduce-frontend-complexity-in-aspnet-razor-pages" target="_blank">Reduce Frontend Complexity in ASP.NET Razor Pages Using HTMX</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.wesnoth.org" target="_blank">Battle for Wesnoth: open-source, turn-based strategy game</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-AGESA-Version-Linux-7.1" target="_blank">A Small But Useful Debugging Addition For AMD Zen Systems With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-06 17:03</span>
             </div>
         </div>
 </div>
@@ -256,6 +254,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/hasbro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Hasbro confirmed a cyberattack and says recovery could take several weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/06/hasbro-confirmed-a-cyberattack-and-says-recovery-could-take-several-weeks.html" target="_blank">Hasbro confirmed a cyberattack and says recovery could take several weeks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-06 18:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2019/08/v2ofqin61wipgqri6yde-1024x576.jpg" alt="Wisconsin Remains a Gooning Sanctuary State After Governor Rejects Age Verification Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/you-can-buy-dune-part-three-imax-tickets-right-now-2000742907" target="_blank">You Can Buy ‘Dune: Part Three’ IMAX Tickets Right Now</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-06 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNHNDTCA5V9P1NQR86GJXTBX/hero-image.png" alt="This High-Powered JBL Party Speaker Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-partybox-720-speaker-sale-april-2026?utm_medium=RSS" target="_blank">This High-Powered JBL Party Speaker Is $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-06 15:30</span>
             </div>
         </div>
 </div>
@@ -346,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
