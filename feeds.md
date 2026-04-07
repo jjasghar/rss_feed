@@ -1,46 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 11:17:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 12:12:39 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 37 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 11:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 12:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss" target="_blank">Barcelona vs Atletico Madrid: Champions League – team news, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775561768250_tdy_news_7a_gosk_trump_iranian_civilians_260407_S3_1920x1080-9xknyp.jpg" alt="Trump Vows to Target Iranian Civilian Infrastructure if No Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-vows-to-target-iranian-civilian-infrastructure-if-no-deal-260812869551" target="_blank">Trump Vows to Target Iranian Civilian Infrastructure if No Deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-07 11:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,29 +96,20 @@
                 <span class="time">2026-04-07 08:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss" target="_blank">What is driving the Houthis’ decision-making on joining the Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 08:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran?traffic_source=rss" target="_blank">Iran says US-Israeli projectile has struck a synagogue in Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d446d19190f3b9514cbfba/master/pass/The-11-Best-Electric-Bikes-for-Every-Kind-of-Ride.jpg" alt="Best Electric Bikes (2026): Commuting, Cargo Bikes, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electric-bikes/" target="_blank">Best Electric Bikes (2026): Commuting, Cargo Bikes, Mountain Biking</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d42b4fd56dd374cb779310/master/pass/gear_dnd_GettyImages-2198206856.jpg" alt="My Blissful Week as a ‘Do Not Disturb’ Maximalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -160,20 +155,29 @@
                 <span class="time">2026-04-07 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/" target="_blank">AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-07 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926319&w=600" alt="Precision, Recall, and Identity Error in Programmatic Advertising" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/precision-recall-identity-error-programmatic-advertising" target="_blank">Precision, Recall, and Identity Error in Programmatic Advertising</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/istio-ai-multicluster/en/headerimage/generatedHeaderImage-1775305820792.jpg" alt="Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/istio-ai-multicluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-07 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1gz9qodhi6qemcia2lb.png" alt="Publish a Power BI Report and Embed It into a Website." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ericmwaimiri/publish-a-power-bi-report-and-embed-it-into-a-website-20pm" target="_blank">Publish a Power BI Report and Embed It into a Website.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/bloom-filters-practice-go-recommender/en/headerimage/bloom-filters-practice-go-recommender-header-1774946606518.jpg" alt="Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sheets.works/data-viz/every-gpu" target="_blank">Every GPU That Mattered</a></span>
+                <span class="title"><a href="https://idiocracy.wtf/" target="_blank">Are We Idiocracy Yet?</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-07 08:38</span>
+                <span class="time">2026-04-07 09:57</span>
             </div>
         </div>
 </div>
@@ -329,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
