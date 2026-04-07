@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-06 23:08:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-07 00:11:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, April 06, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 00:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +70,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss" target="_blank">Trump says US could charge for Strait of Hormuz passage amid Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-06 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5775639/artemis-astronauts-moon-observation-nasa-human-eye" target="_blank">What can Artemis II astronauts see that satellites haven&#x27;t captured?</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -88,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5763692/arsenio-hall-memoir" target="_blank">Even when Arsenio Hall&#x27;s show was a hit, &#x27;everyone wanted it to be something else&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-06 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss" target="_blank">North Korea keeping Iran at arm’s length, reports Seoul</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-06 18:32</span>
             </div>
         </div>
 </div>
@@ -264,6 +268,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s plan for Iran is: ¯_(ツ)_/¯" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/06/trumps-plan-for-iran-is-%c2%af_%e3%83%84_-%c2%af.html" target="_blank">Trump&#x27;s plan for Iran is: ¯_(ツ)_/¯</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-06 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNJ929H4Q3S9PNX1K30KNHHV/hero-image.jpg" alt="The FBI Is Warning Users About &#x27;Foreign-Developed&#x27; Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/fbi-warning-foreign-developed-mobile-apps?utm_medium=RSS" target="_blank">The FBI Is Warning Users About &#x27;Foreign-Developed&#x27; Apps</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-06 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/wholesome-content-nasa-1280x720.jpg" alt="Artemis II Astronauts Are Creating The Wholesome Content The Internet Desperately Needs Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,24 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/06/hasbro-confirmed-a-cyberattack-and-says-recovery-could-take-several-weeks.html" target="_blank">Hasbro confirmed a cyberattack and says recovery could take several weeks</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-06 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2019/08/v2ofqin61wipgqri6yde-1024x576.jpg" alt="Wisconsin Remains a Gooning Sanctuary State After Governor Rejects Age Verification Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wisconsin-remains-a-gooning-sanctuary-state-after-governor-rejects-age-verification-bill-2000742910" target="_blank">Wisconsin Remains a Gooning Sanctuary State After Governor Rejects Age Verification Bill</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-06 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tornado.jpg?fit=1200%2C697&amp;quality=60&amp;ssl=1" alt="Incredible storm chaser footage captures tornadoes up close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/06/incredible-storm-chaser-footage-captures-tornadoes-up-close.html" target="_blank">Incredible storm chaser footage captures tornadoes up close</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-06 17:14</span>
             </div>
         </div>
 </div>
@@ -363,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:09 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
