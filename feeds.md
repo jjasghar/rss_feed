@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 21:13:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-07 22:09:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 22:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +109,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/" target="_blank">I can’t help rooting for tiny open source AI model maker Arcee</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-07 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d535126bd1aa95a55f1073/master/pass/Gear_AppleiPhoneEarnsaD-.jpg" alt="The iPhone Gets a D– for Repairability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/" target="_blank">The iPhone Gets a D– for Repairability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts" target="_blank">Spotify&amp;#8217;s Prompted Playlists can help you find new podcasts to listen to</a></span>
                 <span class="feed">The Verge</span>
@@ -145,29 +160,20 @@
                 <span class="time">2026-04-07 19:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/master/pass/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg" alt="Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/" target="_blank">Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-07 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d54132a4ccef95d80996d7/master/pass/Our-Favorite-Video-Doorbell-Is-$40-Off.jpg" alt="Our Favorite Video Doorbell Is $40 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nest-doorbell-deal-426/" target="_blank">Our Favorite Video Doorbell Is $40 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-07 18:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pooyagolchian/reasoning-models-emergence-how-chain-of-thought-unlocks-complex-problem-solving-53bf" target="_blank">Reasoning Models Emergence: How Chain-of-Thought Unlocks Complex Problem Solving</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +219,6 @@
                 <span class="time">2026-04-07 18:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18927544&w=600" alt="Build a Smart AI Financial Advisor Using Google ADK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-a-smart-ai-financial-advisor" target="_blank">Build a Smart AI Financial Advisor Using Google ADK</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -259,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/this-week-games.jpg" alt="The Week In Games: Pokémon Champions And Starfield’s Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/april-2026-games-coming-out-pokemon-champions-starfield-terran-armada-2000685496" target="_blank">The Week In Games: Pokémon Champions And Starfield’s Second Chance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-07 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNMNCE7GYE03F0KMZWCBHP56/hero-image.jpg" alt="I Tried Google&#x27;s New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,15 +310,6 @@
                 <span class="time">2026-04-07 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J8TFD5CTJTG1R3D89CFP1P72/hero-image.png" alt="The LTE Version of This Fitbit for Kids Just Dropped to $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/fitbit-google-ace-lte-sale-april-2026?utm_medium=RSS" target="_blank">The LTE Version of This Fitbit for Kids Just Dropped to $100</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
