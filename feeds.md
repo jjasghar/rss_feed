@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 15:25:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 16:19:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 15:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5775907/high-gas-prices-save-money-iran-war" target="_blank">Drive slower, go electric, don&#x27;t drive at all? Americans weigh options for saving gas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-threatens-iran-a-whole-civilisation-will-die?traffic_source=rss" target="_blank">Trump threatens Iran: ‘A whole civilisation will die tonight’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 15:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/30e05350-327b-11f1-934f-036468834728.jpg" alt="One gunman killed and two injured in shooting at Israeli consulate in Istanbul" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/4/7/free-will-can-we-really-shape-our-destiny?traffic_source=rss" target="_blank">Free will: can we really shape our destiny?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/4/7/iranians-reject-idea-that-us-will-bring?traffic_source=rss" target="_blank">‘Iranians reject idea that US will bring stability’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan" target="_blank">Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-07 12:46</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pixotter/can-you-actually-fix-a-blurry-photo-11mj" target="_blank">Can You Actually Fix a Blurry Photo?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mortylen/why-simple-architecture-wins-2dnp" target="_blank">Why Simple Architecture Wins</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 15:23</span>
@@ -210,15 +210,6 @@
                 <span class="time">2026-04-07 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-Memory-Costs-April" target="_blank">Framework Reports More Memory Cost Increases, Some Good News For Framework 16</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-07 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Polaroid-Hi-Print-3x3-3Q-Front-View-Composite-1280x853.jpg" alt="Polaroid’s New Hi-Print for Phone Photos Doubles as a Freestanding Frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/polaroids-new-hi-print-for-phone-photos-doubles-as-a-freestanding-frame-2000743417" target="_blank">Polaroid’s New Hi-Print for Phone Photos Doubles as a Freestanding Frame</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-52-1280x720.jpg" alt="Quantic Dream Is About To Skip An Entire PlayStation Console Generation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-eclipse-quantic-dream-ps6-coming-out-2000685378" target="_blank">Quantic Dream Is About To Skip An Entire PlayStation Console Generation</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-07 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/ray-ban-display-crop-1280x853.jpg" alt="Meta Hopes a Hide-and-Seek App Will Convince You to Buy Its Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,29 +292,20 @@
                 <span class="time">2026-04-07 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNK539P8QS8A2TW33QBAR8H9/hero-image.png" alt="These Bose QuietComfort Ultra Headphones Are Nearly $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-sale-april-2026?utm_medium=RSS" target="_blank">These Bose QuietComfort Ultra Headphones Are Nearly $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Daleks-1280x853.jpg" alt="Why There Is Still Hope to Find Even More Missing ‘Doctor Who’ Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-there-is-still-hope-to-find-even-more-missing-doctor-who-episodes-2000743155" target="_blank">Why There Is Still Hope to Find Even More Missing ‘Doctor Who’ Episodes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1775512256-20260407.png" alt="Saturday Morning Breakfast Cereal - Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/will-2" target="_blank">Saturday Morning Breakfast Cereal - Will</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
