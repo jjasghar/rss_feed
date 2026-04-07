@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 00:11:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 01:31:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 00:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss" target="_blank">Iran war live: Trump warns of attacks as Hormuz deal deadline nears</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg" alt="LIVE:  Artemis II crew enters planned communications blackout: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew begins lunar flyby after breaking distance record</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-06 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/06/nx-s1-5763692/arsenio-hall-memoir" target="_blank">Even when Arsenio Hall&#x27;s show was a hit, &#x27;everyone wanted it to be something else&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-06 18:35</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/someb1oody/rust-guide-34-functions-and-comments-43hc" target="_blank">[Rust Guide] 3.4. Functions and Comments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 01:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm" target="_blank">After 20 years I turned off Google Adsense for my websites</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-06 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/butterflycss/xenon-script-v001-26hm" target="_blank">xenon script v0.0.1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 22:03</span>
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/mrlinuncut/the-day-anthropic-banned-openclaw-and-killed-my-ai-stack-and-how-i-rebuilt-it-5c6f" target="_blank">The Day Anthropic Banned OpenClaw and Killed My AI Stack (And How I Rebuilt It).</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-06 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18972942&w=600" alt="Spark on AmpereOne® M Arm Processors Reference Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spark-ampereone-arm-architecture" target="_blank">Spark on AmpereOne® M Arm Processors Reference Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-06 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking" target="_blank">A time bomb in macOS TCP networking that detonates after 49 days</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-06 20:20</span>
             </div>
         </div>
 </div>
@@ -353,22 +347,13 @@
                 <span class="time">2026-04-06 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5801.png" alt="Recognition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5801" target="_blank">Recognition</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-06 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:11 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
