@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 22:09:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 23:10:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 22:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 23:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss" target="_blank">Billionaire investor Ackman makes $64bn bid for Universal Music Group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation" target="_blank">US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-07 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +107,29 @@
                 <span class="time">2026-04-07 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/7/french-nationals-return-home-following-iran-prison-release?traffic_source=rss" target="_blank">French nationals return home following Iran prison release</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/03/1920x1080/image_7188046.jpg?20260310163710" alt="HMS Dragon suffers &#x27;technical issue&#x27; as Iran war escalates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hms-dragon-docks-with-minor-technical-issue-in-eastern-mediterranean-as-iran-war-escalates-13529035" target="_blank">HMS Dragon suffers &#x27;technical issue&#x27; as Iran war escalates</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-07 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-500x500.jpeg" alt="Valve brings native Steam Link app to Apple&#x27;s Vision Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/" target="_blank">Valve brings native Steam Link app to Apple&#x27;s Vision Pro</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-07 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale" target="_blank">Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-07 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +166,20 @@
                 <span class="time">2026-04-07 20:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/" target="_blank">Iranian hackers are targeting American critical infrastructure, US agencies warn</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-07 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d" target="_blank">You can now turn 2D apps into 3D while using the Galaxy XR headset</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lvazmecheng/journal-log-no-2-moving-from-linux-unhatched-to-essentials-my-devsecops-journey-58oh" target="_blank">📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 23:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +225,6 @@
                 <span class="time">2026-04-07 18:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/glasswing" target="_blank">Project Glasswing: Securing critical software for the AI era</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-07 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +262,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/soap.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The doctor who proved handwashing saves lives was locked in an asylum for it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/07/the-doctor-who-proved-handwashing-saves-lives-was-locked-in-an-asylum-for-it.html" target="_blank">The doctor who proved handwashing saves lives was locked in an asylum for it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-07 22:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/this-week-games.jpg" alt="The Week In Games: Pokémon Champions And Starfield’s Second Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +316,6 @@
                 <span class="time">2026-04-07 18:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Exit-8-review-1280x853.jpg" alt="‘Exit 8’ Is a Satisfying, Scary Twitch Stream Come to Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/exit-8-is-a-satisfying-scary-twitch-stream-come-to-life-2000732500" target="_blank">‘Exit 8’ Is a Satisfying, Scary Twitch Stream Come to Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
