@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 12:12:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-07 13:28:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 12:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/4/7/iranians-reject-idea-that-us-will-bring?traffic_source=rss" target="_blank">‘Iranians reject idea that US will bring stability’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5775867/montana-federal-medicaid-cuts-doula-birth" target="_blank">Bracing for federal cuts, some states are already paring back Medicaid services</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iranrailway-DB260407_1775544091863_hpMain_4x3t_384.jpg" alt="Iran live updates: IDF tells Iranians to avoid railways until Tuesday night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: IDF tells Iranians to avoid railways until Tuesday night</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-07 08:34</span>
             </div>
         </div>
 </div>
@@ -161,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/commonlayer/i-turned-notion-into-a-shared-brain-for-ai-agents-and-it-actually-made-sense-26ha" target="_blank">I Turned Notion Into a Shared Brain for AI Agents (and it actually made sense)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Framework-Memory-Costs-April" target="_blank">Framework Reports More Memory Cost Increases, Some Good News For Framework 16</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-07 12:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926319&w=600" alt="Precision, Recall, and Identity Error in Programmatic Advertising" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -196,29 +212,20 @@
                 <span class="time">2026-04-07 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Updates-Exception-Fedora" target="_blank">Mesa Granted Permanent Updates Exception For Fedora Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-07 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://idiocracy.wtf/" target="_blank">Are We Idiocracy Yet?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-07 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html" target="_blank">Hong Kong Police Can Force You to Reveal Your Encryption Keys</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-07 09:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNK539P8QS8A2TW33QBAR8H9/hero-image.png" alt="These Bose QuietComfort Ultra Headphones Are Nearly $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-ultra-headphones-sale-april-2026?utm_medium=RSS" target="_blank">These Bose QuietComfort Ultra Headphones Are Nearly $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Daleks-1280x853.jpg" alt="Why There Is Still Hope to Find Even More Missing ‘Doctor Who’ Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +294,6 @@
                 <span class="time">2026-04-07 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/0k8tji0auprg1.jpg" alt="Overwatch Reveals The Anran Redesign Fans Begged For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-season-2-anran-face-redesign-fareeha-voice-2000685284" target="_blank">Overwatch Reveals The Anran Redesign Fans Begged For</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-06 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
