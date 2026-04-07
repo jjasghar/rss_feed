@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 14:30:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-07 15:25:46 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 14:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 15:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/30e05350-327b-11f1-934f-036468834728.jpg" alt="One gunman killed and two injured in shooting at Israeli consulate in Istanbul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss" target="_blank">One gunman killed and two injured in shooting at Israeli consulate in Istanbul</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-07 14:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens &#x27;a whole civilization will die tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump threatens &#x27;a whole civilization will die tonight&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-07 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-iran-bridge-trump_7213198.jpg?20260407125845" alt="Is the US about to commit war crimes in Iran?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/is-the-us-about-to-commit-war-crimes-in-iran-13528916" target="_blank">Is the US about to commit war crimes in Iran?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-07 14:21</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan" target="_blank">Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-07 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start?traffic_source=rss" target="_blank">Barcelona vs Atletico Madrid: Champions League – team news, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775561768250_tdy_news_7a_gosk_trump_iranian_civilians_260407_S3_1920x1080-9xknyp.jpg" alt="Trump Vows to Target Iranian Civilian Infrastructure if No Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-vows-to-target-iranian-civilian-infrastructure-if-no-deal-260812869551" target="_blank">Trump Vows to Target Iranian Civilian Infrastructure if No Deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-07 11:36</span>
             </div>
         </div>
 </div>
@@ -172,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mortylen/why-simple-architecture-wins-2dnp" target="_blank">Why Simple Architecture Wins</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18915888&w=600" alt="TOP-5 Lightweight Linux Distributions for Container Base Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-5-lightweight-linux-distributions-for-container" target="_blank">TOP-5 Lightweight Linux Distributions for Container Base Images</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Greg-KH-Clanker-Linux-Bugs" target="_blank">Linux&#x27;s Second-In-Command Turns To New Fuzzing Tools For Uncovering Kernel Bugs</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,24 +219,6 @@
                 <span class="time">2026-04-07 12:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926319&w=600" alt="Precision, Recall, and Identity Error in Programmatic Advertising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/precision-recall-identity-error-programmatic-advertising" target="_blank">Precision, Recall, and Identity Error in Programmatic Advertising</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/istio-ai-multicluster/en/headerimage/generatedHeaderImage-1775305820792.jpg" alt="Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/istio-ai-multicluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Istio Evolves for the AI Era with Multicluster, Ambient Mode, and Inference Capabilities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-07 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +248,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/ray-ban-display-crop-1280x853.jpg" alt="Meta Hopes a Hide-and-Seek App Will Convince You to Buy Its Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-hopes-a-hide-and-seek-app-will-convince-you-to-buy-its-smart-glasses-2000743397" target="_blank">Meta Hopes a Hide-and-Seek App Will Convince You to Buy Its Smart Glasses</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Twilight-1280x720.jpg" alt="A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/zelda-twilight-princess-pc-60fps-mod-port-2000685391" target="_blank">A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-07 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNM283XHEEPZJAF9XR11KDBR/hero-image.jpg" alt="Your Google Pixel Comes With a Secret Diagnostic Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-secret-diagnostic-mode?utm_medium=RSS" target="_blank">Your Google Pixel Comes With a Secret Diagnostic Mode</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-07 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Anran-1280x720.jpg" alt="The Overwatch Anran Redesign Saga Is Over And Some Fans Are Underwhelmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,33 +301,6 @@
                 <span class="time">2026-04-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/kim-il-sung-square-north-korea-crypto-1280x853.jpg" alt="Crypto Project Details Alleged 6-Month North Korean Intel Op Behind $285 Million Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/crypto-project-details-alleged-6-month-north-korean-intel-op-behind-285-million-hack-2000741330" target="_blank">Crypto Project Details Alleged 6-Month North Korean Intel Op Behind $285 Million Hack</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1280x853.jpg" alt="Crypto Investment Scams Were the Most Costly Type of Fraud in the U.S. in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/crypto-investment-scams-were-the-most-costly-type-of-fraud-in-the-u-s-in-2025-2000743099" target="_blank">Crypto Investment Scams Were the Most Costly Type of Fraud in the U.S. in 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/iphone-moon-1280x701.jpeg" alt="Someone Finally Took a Good iPhone Photo of the Moon. Good Luck Copying Their Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/someone-finally-took-a-good-iphone-photo-of-the-moon-good-luck-copying-their-trick-2000743218" target="_blank">Someone Finally Took a Good iPhone Photo of the Moon. Good Luck Copying Their Trick</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 02:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,22 +315,13 @@
                 <span class="time">2026-04-06 18:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775358940-20260406.png" alt="Saturday Morning Breakfast Cereal - Borax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/borax" target="_blank">Saturday Morning Breakfast Cereal - Borax</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
