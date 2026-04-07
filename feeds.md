@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 05:31:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-07 06:26:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 05:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 06:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +58,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran?traffic_source=rss" target="_blank">Iran says US-Israeli projectile has struck a synagogue in Tehran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 06:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss" target="_blank">Trump’s threat to strike Iran’s power plants looms</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 04:33</span>
@@ -58,6 +79,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116620/michigan-ncaa-national-title" target="_blank">Michigan muscles its way to program&#x27;s 2nd NCAA basketball title, beating UConn</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-07 04:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-34-ht-gmh-260406_1775522452639_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Trump calls crew after lunar flyby: &#x27;You&#x27;ve made history&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Trump calls crew after lunar flyby: &#x27;You&#x27;ve made history&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-07 03:30</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss" target="_blank">Iran war live: Trump warns of attacks as Hormuz deal deadline nears</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg" alt="LIVE:  Artemis II crew enters planned communications blackout: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Artemis II crew enters planned communications blackout: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-06 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cfd/live/2d2f4af0-3207-11f1-9133-73493e5df2a1.jpg" alt="Clock ticks on Trump&#x27;s Iran ultimatum with little sign of breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss" target="_blank">Clock ticks on Trump&#x27;s Iran ultimatum with little sign of breakthrough</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-06 23:04</span>
             </div>
         </div>
 </div>
@@ -163,6 +175,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/" target="_blank">He designed C++ to solve your code problems</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-07 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/franckpachot/mongodb-query-planner-io2" target="_blank">MongoDB Query Planner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 06:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anildash.com/2026/04/06/people-love-to-work-hard/" target="_blank">People Love to Work Hard</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-07 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sai_raghavendra_c7535ddf3/why-your-langgraph-agents-fail-in-production-and-the-architecture-that-fixes-it-5fca" target="_blank">Why Your LangGraph Agents Fail in Production — And the Architecture That Fixes It</a></span>
                 <span class="feed">DEV Community</span>
@@ -185,33 +224,6 @@
                 <span class="title"><a href="https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm" target="_blank">After 20 years I turned off Google Adsense for my websites</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-06 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Two-Gen-AI-Policies" target="_blank">Mesa Developers Decide On Two Gen AI Policies For Development Moving Forward</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-06 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/butterflycss/xenon-script-v001-26hm" target="_blank">xenon script v0.0.1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-06 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-vpn-1.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s free VPN rollout finally reached me – is it any good?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-free-vpn-enabled" target="_blank">Firefox’s free VPN rollout finally reached me – is it any good?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-06 21:58</span>
             </div>
         </div>
 </div>
@@ -333,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 06:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
