@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 18:14:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-07 19:22:35 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/7/french-nationals-return-home-following-iran-prison-release?traffic_source=rss" target="_blank">French nationals return home following Iran prison release</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 19:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/2d589b10-329a-11f1-934f-036468834728.png" alt="Tracking recent US-Israeli strikes on Iranian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,21 +86,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775583468956_now_daily_a_trump_threat_iran_260407_S3_1920x1080-b21p1s.jpg" alt="&#x27;A whole civilization will die tonight&#x27;: Trump threatens Iran ahead of ceasefire deadline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5775907/high-gas-prices-save-money-iran-war" target="_blank">Drive slower, go electric, don&#x27;t drive at all? Americans weigh options for saving gas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-threatens-iran-a-whole-civilisation-will-die?traffic_source=rss" target="_blank">Trump threatens Iran: ‘A whole civilisation will die tonight’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 15:23</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-threatens-a-whole-civilization-will-die-ahead-of-ceasefire-deadline-260833349874" target="_blank">&#x27;A whole civilization will die tonight&#x27;: Trump threatens Iran ahead of ceasefire deadline</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-07 16:12</span>
             </div>
         </div>
 </div>
@@ -109,6 +99,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d" target="_blank">You can now turn 2D apps into 3D while using the Galaxy XR headset</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-07 19:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d54132a4ccef95d80996d7/master/pass/Our-Favorite-Video-Doorbell-Is-$40-Off.jpg" alt="Our Favorite Video Doorbell Is $40 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +153,20 @@
                 <span class="time">2026-04-07 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/" target="_blank">A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-07 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/felixortizdev/security-is-a-delivery-accelerator-not-a-gate-eel" target="_blank">Security Is a Delivery Accelerator, Not a Gate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 19:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3682677%2F9b8360fc-5929-4e5a-b9c5-33aec677771f.jpeg" alt="Master Array Flattening in JS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,20 +212,20 @@
                 <span class="time">2026-04-07 16:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pixotter/can-you-actually-fix-a-blurry-photo-11mj" target="_blank">Can You Actually Fix a Blurry Photo?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 16:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html" target="_blank">Cybersecurity in the Age of Instant Software</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-07 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -245,26 +244,35 @@
                 <span class="time">2026-04-07 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html" target="_blank">New Mexico’s Meta Ruling and Encryption</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-06 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/leaves.jpg?fit=1200%2C685&amp;quality=60&amp;ssl=1" alt="Artist hand-stitched a dress entirely from preserved autumn leaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/07/artist-hand-stitched-a-dress-entirely-from-preserved-autumn-leaves.html" target="_blank">Artist hand-stitched a dress entirely from preserved autumn leaves</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-07 18:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Exit-8-review-1280x853.jpg" alt="‘Exit 8’ Is a Satisfying, Scary Twitch Stream Come to Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/exit-8-is-a-satisfying-scary-twitch-stream-come-to-life-2000732500" target="_blank">‘Exit 8’ Is a Satisfying, Scary Twitch Stream Come to Life</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J8TFD5CTJTG1R3D89CFP1P72/hero-image.png" alt="The LTE Version of This Fitbit for Kids Just Dropped to $100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/fitbit-google-ace-lte-sale-april-2026?utm_medium=RSS" target="_blank">The LTE Version of This Fitbit for Kids Just Dropped to $100</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-07 18:00</span>
             </div>
         </div>
@@ -295,24 +303,6 @@
                 <span class="time">2026-04-07 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNMBTJFE9336WGKDZNG7Y07D/hero-image.png" alt="This Portable, Waterproof JBL Speaker Is $200 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-xtreme-3-speaker-sale-april-2026?utm_medium=RSS" target="_blank">This Portable, Waterproof JBL Speaker Is $200 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-07 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Polaroid-Hi-Print-3x3-3Q-Front-View-Composite-1280x853.jpg" alt="Polaroid’s New Hi-Print for Phone Photos Doubles as a Freestanding Frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/polaroids-new-hi-print-for-phone-photos-doubles-as-a-freestanding-frame-2000743417" target="_blank">Polaroid’s New Hi-Print for Phone Photos Doubles as a Freestanding Frame</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
