@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 08:21:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 09:21:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 08:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 09:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5775867/montana-federal-medicaid-cuts-doula-birth" target="_blank">Bracing for federal cuts, some states are already paring back Medicaid services</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-07 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iranrailway-DB260407_1775544091863_hpMain_4x3t_384.jpg" alt="Iran live updates: IDF tells Iranians to avoid railways until Tuesday night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: IDF tells Iranians to avoid railways until Tuesday night</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-07 08:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,29 @@
                 <span class="time">2026-04-07 04:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-34-ht-gmh-260406_1775522452639_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Trump calls crew after lunar flyby: &#x27;You&#x27;ve made history&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Trump calls crew after lunar flyby: &#x27;You&#x27;ve made history&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-07 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss" target="_blank">Artemis II astronauts break record for farthest human travel from Earth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-500x500.jpg" alt="Intel is going all-in on advanced chip packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/" target="_blank">Intel is going all-in on advanced chip packaging</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-07 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d3f53296de4781bbc4d1b7/master/pass/biz_taxes_GettyImages-1394303654.jpg" alt="Nobody Knows How to File Taxes on Prediction Market Wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/" target="_blank">Nobody Knows How to File Taxes on Prediction Market Wins</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d03888fc14fed237317611/master/pass/2250212893" alt="Europe Gets Serious About Age Verification Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +160,29 @@
                 <span class="time">2026-04-06 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/kalshi-death-markets-500x500-1775509438.jpg" alt="Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/" target="_blank">Sports bets on prediction markets ruled to be &quot;swaps,&quot; exempt from state laws</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-06 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/" target="_blank">OpenAI alums have been quietly investing from a new, potentially $100M fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-06 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1gz9qodhi6qemcia2lb.png" alt="Publish a Power BI Report and Embed It into a Website." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ericmwaimiri/publish-a-power-bi-report-and-embed-it-into-a-website-20pm" target="_blank">Publish a Power BI Report and Embed It into a Website.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/bloom-filters-practice-go-recommender/en/headerimage/bloom-filters-practice-go-recommender-header-1774946606518.jpg" alt="Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/bloom-filters-practice-go-recommender/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Bloom Filters: Theory, Engineering Trade‑offs, and Implementation in Go</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-07 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +219,6 @@
                 <span class="time">2026-04-07 06:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anildash.com/2026/04/06/people-love-to-work-hard/" target="_blank">People Love to Work Hard</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-07 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sai_raghavendra_c7535ddf3/why-your-langgraph-agents-fail-in-production-and-the-architecture-that-fixes-it-5fca" target="_blank">Why Your LangGraph Agents Fail in Production — And the Architecture That Fixes It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 02:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1280x853.jpg" alt="Crypto Investment Scams Were the Most Costly Type of Fraud in the U.S. in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/crypto-investment-scams-were-the-most-costly-type-of-fraud-in-the-u-s-in-2025-2000743099" target="_blank">Crypto Investment Scams Were the Most Costly Type of Fraud in the U.S. in 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/iphone-moon-1280x701.jpeg" alt="Someone Finally Took a Good iPhone Photo of the Moon. Good Luck Copying Their Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +301,6 @@
                 <span class="time">2026-04-06 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNJ929H4Q3S9PNX1K30KNHHV/hero-image.jpg" alt="The FBI Is Warning Users About &#x27;Foreign-Developed&#x27; Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/fbi-warning-foreign-developed-mobile-apps?utm_medium=RSS" target="_blank">The FBI Is Warning Users About &#x27;Foreign-Developed&#x27; Apps</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-06 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
