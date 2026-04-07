@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 13:28:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-07 14:30:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +52,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens &#x27;a whole civilization will die tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump threatens &#x27;a whole civilization will die tonight&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-07 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/doha-debates/2026/4/7/free-will-can-we-really-shape-our-destiny?traffic_source=rss" target="_blank">Free will: can we really shape our destiny?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 13:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/4/7/iranians-reject-idea-that-us-will-bring?traffic_source=rss" target="_blank">‘Iranians reject idea that US will bring stability’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116644/australia-charges-ex-soldier-with-5-war-crime-murders-in-afghanistan" target="_blank">Australia charges ex‑soldier with 5 war‑crime murders in Afghanistan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-07 12:46</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +105,29 @@
                 <span class="time">2026-04-07 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss" target="_blank">US-Israeli strikes destroy buildings in northern Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: As Trump&#x27;s deadline for deal looms, strikes continue across Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: As Trump&#x27;s deadline for deal looms, strikes continue across Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-07 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5775867/montana-federal-medicaid-cuts-doula-birth" target="_blank">Bracing for federal cuts, some states are already paring back Medicaid services</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo" target="_blank">First photos of solar eclipse from Artemis II crew look almost too good to be real</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-07 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/" target="_blank">A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-07 14:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d446d19190f3b9514cbfba/master/pass/The-11-Best-Electric-Bikes-for-Every-Kind-of-Ride.jpg" alt="Best Electric Bikes (2026): Commuting, Cargo Bikes, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +164,29 @@
                 <span class="time">2026-04-07 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d3f53296de4781bbc4d1b7/master/pass/biz_taxes_GettyImages-1394303654.jpg" alt="Nobody Knows How to File Taxes on Prediction Market Wins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/" target="_blank">Nobody Knows How to File Taxes on Prediction Market Wins</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d03888fc14fed237317611/master/pass/2250212893" alt="Europe Gets Serious About Age Verification Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/europe-gets-serious-about-age-verification-online/" target="_blank">Europe Gets Serious About Age Verification Online</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-07 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Greg-KH-Clanker-Linux-Bugs" target="_blank">Linux&#x27;s Second-In-Command Turns To New Fuzzing Tools For Uncovering Kernel Bugs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-07 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/hashtable-modern-hardware/en/mediumimage/Madelyn-Olson-medium-1775046180324.jpeg" alt="Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-07 13:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +223,6 @@
                 <span class="time">2026-04-07 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/solido/why-every-ai-coding-agent-has-an-achilles-heel-and-how-to-fix-it-1125" target="_blank">Why Every AI Coding Agent Has an Achilles Heel (And How to Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rintaromatsumoto/04-on-the-dissecting-table-3nab" target="_blank">#04 On the Dissecting Table</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Anran-1280x720.jpg" alt="The Overwatch Anran Redesign Saga Is Over And Some Fans Are Underwhelmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-anran-new-face-comparison-cinematic-comic-2000685381" target="_blank">The Overwatch Anran Redesign Saga Is Over And Some Fans Are Underwhelmed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-07 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNK539P8QS8A2TW33QBAR8H9/hero-image.png" alt="These Bose QuietComfort Ultra Headphones Are Nearly $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +305,6 @@
                 <span class="time">2026-04-07 02:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/cattle-baron.jpg?fit=1200%2C1174&amp;quality=60&amp;ssl=1" alt="How a naked steakhouse ad became a feminist protest poster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/06/how-a-naked-steakhouse-ad-became-a-feminist-protest-poster.html" target="_blank">How a naked steakhouse ad became a feminist protest poster</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-07 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
