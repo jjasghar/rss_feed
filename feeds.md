@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 16:19:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 17:19:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 16:20 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +104,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/" target="_blank">Russian government hackers broke into thousands of home routers to steal passwords</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-07 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-500x500.png" alt="Testing suggests Google&#x27;s AI Overviews tells millions of lies per hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/" target="_blank">Testing suggests Google&#x27;s AI Overviews tells millions of lies per hour</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-07 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo" target="_blank">First photos of solar eclipse from Artemis II crew look almost too good to be real</a></span>
                 <span class="feed">The Verge</span>
@@ -133,29 +155,20 @@
                 <span class="time">2026-04-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update" target="_blank">Gemini is making it faster for distressed users to reach mental health resources</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-500x500.jpg" alt="Intel is going all-in on advanced chip packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/" target="_blank">Intel is going all-in on advanced chip packaging</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-07 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!6D40!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe801e0ca-cd70-4ed7-9d94-9ca1e44509a1_1594x1452.png" alt="Cycles of disruption in the tech industry: with software pioneers Kent Beck &amp; Martin Fowler" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech" target="_blank">Cycles of disruption in the tech industry: with software pioneers Kent Beck &amp; Martin Fowler</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-07 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/mortylen/why-simple-architecture-wins-2dnp" target="_blank">Why Simple Architecture Wins</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-ryzen-ai-max" target="_blank">Ubuntu 26.04 Provides More Performance For AMD Ryzen AI Max &quot;Strix Halo&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-07 15:15</span>
             </div>
         </div>
 <div class="story">
@@ -192,29 +214,20 @@
                 <span class="time">2026-04-07 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/hashtable-modern-hardware/en/mediumimage/Madelyn-Olson-medium-1775046180324.jpeg" alt="Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/hashtable-modern-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: When Every Bit Counts: How Valkey Rebuilt Its Hashtable for Modern Hardware</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-07 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/commonlayer/i-turned-notion-into-a-shared-brain-for-ai-agents-and-it-actually-made-sense-26ha" target="_blank">I Turned Notion Into a Shared Brain for AI Agents (and it actually made sense)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 13:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/" target="_blank">Russia Hacked Routers to Steal Microsoft Office Tokens</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-04-07 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +251,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/11/starship-prelaunch-testing-1280x853.jpeg" alt="SpaceX Starship V3 Engine Goes Up in Flames at Texas Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spacex-starship-v3-engine-goes-up-in-flames-at-texas-site-2000743390" target="_blank">SpaceX Starship V3 Engine Goes Up in Flames at Texas Site</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/peru.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Ancient Peruvian textile features a feline spirit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/07/ancient-peruvian-textile-features-a-feline-spirit.html" target="_blank">Ancient Peruvian textile features a feline spirit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-07 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNMBTJFE9336WGKDZNG7Y07D/hero-image.png" alt="This Portable, Waterproof JBL Speaker Is $200 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-xtreme-3-speaker-sale-april-2026?utm_medium=RSS" target="_blank">This Portable, Waterproof JBL Speaker Is $200 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-07 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Polaroid-Hi-Print-3x3-3Q-Front-View-Composite-1280x853.jpg" alt="Polaroid’s New Hi-Print for Phone Photos Doubles as a Freestanding Frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/meta-hopes-a-hide-and-seek-app-will-convince-you-to-buy-its-smart-glasses-2000743397" target="_blank">Meta Hopes a Hide-and-Seek App Will Convince You to Buy Its Smart Glasses</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-07 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Twilight-1280x720.jpg" alt="A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/zelda-twilight-princess-pc-60fps-mod-port-2000685391" target="_blank">A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-07 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNM283XHEEPZJAF9XR11KDBR/hero-image.jpg" alt="Your Google Pixel Comes With a Secret Diagnostic Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-secret-diagnostic-mode?utm_medium=RSS" target="_blank">Your Google Pixel Comes With a Secret Diagnostic Mode</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-07 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Anran-1280x720.jpg" alt="The Overwatch Anran Redesign Saga Is Over And Some Fans Are Underwhelmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-anran-new-face-comparison-cinematic-comic-2000685381" target="_blank">The Overwatch Anran Redesign Saga Is Over And Some Fans Are Underwhelmed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-07 13:50</span>
             </div>
         </div>
 </div>
@@ -320,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
