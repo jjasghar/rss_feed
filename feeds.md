@@ -1,32 +1,46 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 10:19:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 11:17:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 10:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +116,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69d42b4fd56dd374cb779310/master/pass/gear_dnd_GettyImages-2198206856.jpg" alt="My Blissful Week as a ‘Do Not Disturb’ Maximalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/" target="_blank">My Blissful Week as a ‘Do Not Disturb’ Maximalist</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +169,20 @@
                 <span class="time">2026-04-07 05:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55191470911_9eff6d82ad_5k-500x500.jpg" alt="Astronauts set distance record, revealing the Moon as a place to be explored" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/" target="_blank">Astronauts set distance record, revealing the Moon as a place to be explored</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-07 03:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/solido/why-every-ai-coding-agent-has-an-achilles-heel-and-how-to-fix-it-1125" target="_blank">Why Every AI Coding Agent Has an Achilles Heel (And How to Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +228,6 @@
                 <span class="time">2026-04-07 08:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/whoffagents/docker-compose-for-full-stack-development-nextjs-postgres-redis-and-production-builds-57m8" target="_blank">Docker Compose for Full-Stack Development: Next.js, Postgres, Redis, and Production Builds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 08:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +242,20 @@
                 <span class="time">2026-04-06 19:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html" target="_blank">Google Wants to Transition to Post-Quantum Cryptography by 2029</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-06 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Daleks-1280x853.jpg" alt="Why There Is Still Hope to Find Even More Missing ‘Doctor Who’ Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/why-there-is-still-hope-to-find-even-more-missing-doctor-who-episodes-2000743155" target="_blank">Why There Is Still Hope to Find Even More Missing ‘Doctor Who’ Episodes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/kim-il-sung-square-north-korea-crypto-1280x853.jpg" alt="Crypto Project Details Alleged 6-Month North Korean Intel Op Behind $285 Million Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +301,6 @@
                 <span class="time">2026-04-06 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/wowreaction-1280x720.jpg" alt="World Of Warcraft Pro Players Surprised After Dead Raid Boss Comes Back To Life For Secret Phase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/world-of-warcraft-pro-players-celebrate-early-raid-boss-midnight-return-life-liquid-wow-2000685269" target="_blank">World Of Warcraft Pro Players Surprised After Dead Raid Boss Comes Back To Life For Secret Phase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-06 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
