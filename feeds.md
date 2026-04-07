@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 19:22:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 20:09:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/7/fifa-opens-disciplinary-probe-against-spanish-fa-after-islamaphobic-chants?traffic_source=rss" target="_blank">FIFA opens disciplinary probe against Spanish FA after Islamaphobic chants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/271e4090-32a6-11f1-b4da-a3b95db80b81.jpg" alt="Wireless Festival cancelled after Kanye West blocked from coming to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss" target="_blank">Wireless Festival cancelled after Kanye West blocked from coming to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-07 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +102,20 @@
                 <span class="time">2026-04-07 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini" target="_blank">‘We still deserve due process,’ says Cambodian man deported by US to Eswatini</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-07 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775583468956_now_daily_a_trump_threat_iran_260407_S3_1920x1080-b21p1s.jpg" alt="&#x27;A whole civilization will die tonight&#x27;: Trump threatens Iran ahead of ceasefire deadline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-threatens-a-whole-civilization-will-die-ahead-of-ceasefire-deadline-260833349874" target="_blank">&#x27;A whole civilization will die tonight&#x27;: Trump threatens Iran ahead of ceasefire deadline</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-07 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-500x500.jpg" alt="What the heck is wrong with our AI overlords?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/" target="_blank">What the heck is wrong with our AI overlords?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-07 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -106,6 +123,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d" target="_blank">You can now turn 2D apps into 3D while using the Galaxy XR headset</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-07 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/master/pass/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg" alt="Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/" target="_blank">Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 18:49</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +161,29 @@
                 <span class="time">2026-04-07 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/Gemini-chat-500x500.png" alt="Testing suggests Google&#x27;s AI Overviews tells millions of lies per hour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/" target="_blank">Testing suggests Google&#x27;s AI Overviews tells millions of lies per hour</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-07 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo" target="_blank">First photos of solar eclipse from Artemis II crew look almost too good to be real</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taner_tuna/ai-workshop-platform-for-real-human-questions-3gkp" target="_blank">AI workshop platform for real human questions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18905308&w=600" alt="Beyond Accuracy: Measuring Divergence Between Actual and Predicted Distributions in Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/divergence-between-actual-and-predicted-distributions" target="_blank">Beyond Accuracy: Measuring Divergence Between Actual and Predicted Distributions in Machine Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-07 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,39 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/glasswing" target="_blank">Project Glasswing: Securing critical software for the AI era</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-07 18:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18927544&w=600" alt="Build a Smart AI Financial Advisor Using Google ADK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/build-a-smart-ai-financial-advisor" target="_blank">Build a Smart AI Financial Advisor Using Google ADK</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://z.ai/blog/glm-5.1" target="_blank">GLM-5.1: Towards Long-Horizon Tasks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-07 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!6D40!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe801e0ca-cd70-4ed7-9d94-9ca1e44509a1_1594x1452.png" alt="Cycles of disruption in the tech industry: with software pioneers Kent Beck &amp; Martin Fowler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech" target="_blank">Cycles of disruption in the tech industry: with software pioneers Kent Beck &amp; Martin Fowler</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-07 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical" target="_blank">RISC-V 101 &amp;#8211; what is it and what does it mean for Canonical?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-07 16:26</span>
             </div>
         </div>
 </div>
@@ -249,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/TheTestaments_AnnDowd_interview-1280x853.jpg" alt="Aunt Lydia Survived ‘The Handmaid’s Tale’ to Bring New Complexity to ‘The Testaments’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/aunt-lydia-survived-the-handmaids-tale-to-bring-new-complexity-to-the-testaments-2000740579" target="_blank">Aunt Lydia Survived ‘The Handmaid’s Tale’ to Bring New Complexity to ‘The Testaments’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/leaves.jpg?fit=1200%2C685&amp;quality=60&amp;ssl=1" alt="Artist hand-stitched a dress entirely from preserved autumn leaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +311,6 @@
                 <span class="time">2026-04-07 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/peru.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Ancient Peruvian textile features a feline spirit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/07/ancient-peruvian-textile-features-a-feline-spirit.html" target="_blank">Ancient Peruvian textile features a feline spirit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-07 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
