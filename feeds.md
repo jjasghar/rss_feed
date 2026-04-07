@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 09:21:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-07 10:19:12 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 09:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 10:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/us-israeli-strikes-destroy-buildings-in-northern-iran?traffic_source=rss" target="_blank">US-Israeli strikes destroy buildings in northern Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: As Trump&#x27;s deadline for deal looms, strikes continue across Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: As Trump&#x27;s deadline for deal looms, strikes continue across Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-07 09:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,20 @@
                 <span class="time">2026-04-07 06:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss" target="_blank">Trump’s threat to strike Iran’s power plants looms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 04:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116620/michigan-ncaa-national-title" target="_blank">Michigan muscles its way to program&#x27;s 2nd NCAA basketball title, beating UConn</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-07 04:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update" target="_blank">Gemini is making it faster for distressed users to reach mental health resources</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-07 10:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/intelfab-500x500.jpg" alt="Intel is going all-in on advanced chip packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,29 @@
                 <span class="time">2026-04-07 03:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg" alt="After court loss, RFK Jr. gives himself more power over CDC vaccine panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/" target="_blank">After court loss, RFK Jr. gives himself more power over CDC vaccine panel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-06 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rintaromatsumoto/04-on-the-dissecting-table-3nab" target="_blank">#04 On the Dissecting Table</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Updates-Exception-Fedora" target="_blank">Mesa Granted Permanent Updates Exception For Fedora Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-07 10:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1gz9qodhi6qemcia2lb.png" alt="Publish a Power BI Report and Embed It into a Website." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,37 +199,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sheets.works/data-viz/every-gpu" target="_blank">Every GPU That Mattered</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-07 08:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/whoffagents/docker-compose-for-full-stack-development-nextjs-postgres-redis-and-production-builds-57m8" target="_blank">Docker Compose for Full-Stack Development: Next.js, Postgres, Redis, and Production Builds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 08:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/" target="_blank">He designed C++ to solve your code problems</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-07 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rupesh24/i-analyzed-26-ml-libraries-and-found-a-gap-nobody-fills-so-i-built-it-kad" target="_blank">I Analyzed 26 ML Libraries and Found a Gap Nobody Fills - So I Built It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/franckpachot/mongodb-query-planner-io2" target="_blank">MongoDB Query Planner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 06:23</span>
             </div>
         </div>
 </div>
@@ -247,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/kim-il-sung-square-north-korea-crypto-1280x853.jpg" alt="Crypto Project Details Alleged 6-Month North Korean Intel Op Behind $285 Million Hack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/crypto-project-details-alleged-6-month-north-korean-intel-op-behind-285-million-hack-2000741330" target="_blank">Crypto Project Details Alleged 6-Month North Korean Intel Op Behind $285 Million Hack</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-07 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1280x853.jpg" alt="Crypto Investment Scams Were the Most Costly Type of Fraud in the U.S. in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +296,6 @@
                 <span class="time">2026-04-06 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-1.jpg?fit=1200%2C741&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s plan for Iran is: ¯_(ツ)_/¯" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/06/trumps-plan-for-iran-is-%c2%af_%e3%83%84_-%c2%af.html" target="_blank">Trump&#x27;s plan for Iran is: ¯_(ツ)_/¯</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-06 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
