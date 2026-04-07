@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 04:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-07 05:31:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 04:02 UTC</div>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 05:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss" target="_blank">Trump’s threat to strike Iran’s power plants looms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 04:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/07/g-s1-116620/michigan-ncaa-national-title" target="_blank">Michigan muscles its way to program&#x27;s 2nd NCAA basketball title, beating UConn</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-07 04:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c10/live/32d94e60-2eb0-11f1-b61b-b75b7cb9c2c8.jpg" alt="Disruption expected as six-day doctors&#x27; strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cfd/live/2d2f4af0-3207-11f1-9133-73493e5df2a1.jpg" alt="Clock ticks on Trump&#x27;s Iran ultimatum with little sign of breakthrough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss" target="_blank">Disruption expected as six-day doctors&#x27; strike begins</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss" target="_blank">Clock ticks on Trump&#x27;s Iran ultimatum with little sign of breakthrough</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-04-06 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775515614391_nn_gha_Iran_attacks_260406_S3_1920x1080-icbo0q.jpg" alt="Trump threatens Iran with attacks on infrastructure unless deal is struck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-threatens-iran-with-attacks-on-infrastructure-unless-deal-is-struck-260790853774" target="_blank">Trump threatens Iran with attacks on infrastructure unless deal is struck</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-06 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b3/live/286983f0-31a3-11f1-b238-cf10fe15ebcf.jpg" alt="Wireless Festival boss defends Kanye West appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss" target="_blank">Wireless Festival boss defends Kanye West appearance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-06 21:31</span>
+                <span class="time">2026-04-06 23:04</span>
             </div>
         </div>
 </div>
@@ -100,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/" target="_blank">AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-07 05:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-500x500.jpg" alt="After court loss, RFK Jr. gives himself more power over CDC vaccine panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names" target="_blank">Artemis II astronauts break a record, name a crater</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-06 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d3cedfd1ed3fbe37496db8/master/pass/Water_leadoptipnal%202.jpeg" alt="A Single Strike Won’t Shut Off the Gulf’s Desalination System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/" target="_blank">A Single Strike Won’t Shut Off the Gulf’s Desalination System</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-06 20:23</span>
             </div>
         </div>
 </div>
@@ -332,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 05:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
