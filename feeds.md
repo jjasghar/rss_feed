@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 20:09:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-04-07 21:13:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss" target="_blank">Iranians brace for possible devastation as Trump’s deadline looms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: Pakistan asks Trump for deadline extension on Iran threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Pakistan asks Trump for deadline extension on Iran threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-07 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/2d589b10-329a-11f1-934f-036468834728.png" alt="Tracking recent US-Israeli strikes on Iranian infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/03/1920x1080/image_7188046.jpg?20260310163710" alt="HMS Dragon suffers &#x27;technical issue&#x27; as Iran war escalates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss" target="_blank">Tracking recent US-Israeli strikes on Iranian infrastructure</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-07 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-ap-gmh-260407_1775567985539_hpMain_4x3t_384.jpg" alt="Trump, hours until deadline, threatens Iran&#x27;s &#x27;whole civilization will die tonight&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-hours-deadline-threatens-irans-civilization-die-tonight/story?id=131797915" target="_blank">Trump, hours until deadline, threatens Iran&#x27;s &#x27;whole civilization will die tonight&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-07 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5776440/artemis-moon-crater-carroll-wiseman" target="_blank">Astronauts suggest naming a moon crater &#x27;Carroll&#x27; after their commander&#x27;s late wife</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-07 17:09</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hms-dragon-docks-with-minor-technical-issue-in-eastern-mediterranean-as-iran-war-escalates-13529035" target="_blank">HMS Dragon suffers &#x27;technical issue&#x27; as Iran war escalates</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-07 18:13</span>
             </div>
         </div>
 </div>
@@ -108,12 +110,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts" target="_blank">Spotify&amp;#8217;s Prompted Playlists can help you find new podcasts to listen to</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-07 20:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-500x500.jpg" alt="What the heck is wrong with our AI overlords?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/" target="_blank">What the heck is wrong with our AI overlords?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-07 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/" target="_blank">Iranian hackers are targeting American critical infrastructure, US agencies warn</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-07 19:59</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/nest-doorbell-deal-426/" target="_blank">Our Favorite Video Doorbell Is $40 Off</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-07 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity" target="_blank">A new Anthropic model found security problems &amp;#8216;in every major operating system and web browser&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/" target="_blank">Russian government hackers broke into thousands of home routers to steal passwords</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-07 17:01</span>
             </div>
         </div>
 </div>
@@ -258,6 +260,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNMNCE7GYE03F0KMZWCBHP56/hero-image.jpg" alt="I Tried Google&#x27;s New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-googles-new-ai-transcription-app?utm_medium=RSS" target="_blank">I Tried Google&#x27;s New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-07 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/cyber-1280x720.jpg" alt="A PS5 Pro Patch Is About To Cyberpunk 2077 To Another Level On Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-ps5-pro-patch-60fps-ray-tracing-2000685483" target="_blank">A PS5 Pro Patch Is About To Cyberpunk 2077 To Another Level On Console</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-07 20:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/TheTestaments_AnnDowd_interview-1280x853.jpg" alt="Aunt Lydia Survived ‘The Handmaid’s Tale’ to Bring New Complexity to ‘The Testaments’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -293,24 +313,6 @@
                 <span class="time">2026-04-07 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/starfox-1280x720.jpg" alt="The Coolest Part Of The Super Mario Galaxy Movie Had Nothing To Do With Mario" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/super-mario-galaxy-movie-fox-anime-intro-animators-2000685433" target="_blank">The Coolest Part Of The Super Mario Galaxy Movie Had Nothing To Do With Mario</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-07 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/11/starship-prelaunch-testing-1280x853.jpeg" alt="SpaceX Starship V3 Engine Goes Up in Flames at Texas Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacex-starship-v3-engine-goes-up-in-flames-at-texas-site-2000743390" target="_blank">SpaceX Starship V3 Engine Goes Up in Flames at Texas Site</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
