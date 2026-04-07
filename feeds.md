@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 07:28:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-07 08:21:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 07:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, April 07, 2026 - 08:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war?traffic_source=rss" target="_blank">What is driving the Houthis’ decision-making on joining the Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 08:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-04-07 02:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss" target="_blank">Iran war live: Trump warns of attacks as Hormuz deal deadline nears</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d03888fc14fed237317611/master/pass/2250212893" alt="Europe Gets Serious About Age Verification Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/europe-gets-serious-about-age-verification-online/" target="_blank">Europe Gets Serious About Age Verification Online</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-07 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -108,6 +121,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/" target="_blank">AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-07 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55191470911_9eff6d82ad_5k-500x500.jpg" alt="Astronauts set distance record, revealing the Moon as a place to be explored" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/" target="_blank">Astronauts set distance record, revealing the Moon as a place to be explored</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-07 03:50</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +159,20 @@
                 <span class="time">2026-04-06 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed" target="_blank">Wisconsin governor says ‘no’ to age checks for porn</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-06 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names" target="_blank">Artemis II astronauts break a record, name a crater</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-06 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/whoffagents/docker-compose-for-full-stack-development-nextjs-postgres-redis-and-production-builds-57m8" target="_blank">Docker Compose for Full-Stack Development: Next.js, Postgres, Redis, and Production Builds</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-07 08:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/sai_raghavendra_c7535ddf3/why-your-langgraph-agents-fail-in-production-and-the-architecture-that-fixes-it-5fca" target="_blank">Why Your LangGraph Agents Fail in Production — And the Architecture That Fixes It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/someb1oody/rust-guide-34-functions-and-comments-43hc" target="_blank">[Rust Guide] 3.4. Functions and Comments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 01:29</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 07:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
