@@ -1,24 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 13:29:25 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-08 14:30:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 16 feeds processed -->
+<!-- Generated 14 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 14:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -34,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/caine-3-gty-gmh-260408_1775652014594_hpMain_4x3t_384.jpg" alt="Iran live updates: US achieved 3 military objectives assigned by Trump, Caine says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US achieved 3 military objectives assigned by Trump, Caine says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire" target="_blank">Oil prices plunge and stocks soar after U.S. and Iran agree on ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-08 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump suggests &#x27;joint venture&#x27; in Strait of Hormuz, no enrichment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,29 +104,29 @@
                 <span class="time">2026-04-08 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/us-third-country-deportees-deal-sparks-backlash-in-drc?traffic_source=rss" target="_blank">US ‘third-country’ deportees deal sparks backlash in DRC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-08 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US to help with Strait of Hormuz after ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump says US to help with Strait of Hormuz after ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-08 09:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/lunar-lander-500x500.jpg" alt="With Orion still flying, NASA is nearing key decisions about Artemis III" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/" target="_blank">With Orion still flying, NASA is nearing key decisions about Artemis III</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai" target="_blank">The vibes are off at OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-08 13:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d4482369e358e539effd5e/master/pass/KAJPLATS_0_aee62cf345.jpg" alt="Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,29 +163,56 @@
                 <span class="time">2026-04-08 12:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent" target="_blank">GoPro is cutting 23 percent of its workforce</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-08 11:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-500x500.jpeg" alt="Thousands of consumer routers hacked by Russia&#x27;s military" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/" target="_blank">Thousands of consumer routers hacked by Russia&#x27;s military</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/en/headerimage/aicrawler-1775341603564.jpeg" alt="Cloudflare and ETH Zurich Outline Approaches for AI-Driven Cache Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare and ETH Zurich Outline Approaches for AI-Driven Cache Optimization</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-08 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdic3gj3w0c3v9h2botac.png" alt="Learn ASCII with Easy Examples in Python and JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harini_magesh_fa40041cf8d/learn-ascii-with-easy-examples-in-python-and-javascript-47jd" target="_blank">Learn ASCII with Easy Examples in Python and JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18929448&w=600" alt="Content Security Policy Drift in Salesforce Lightning: Engineering Stable Embedded Integration Boundaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/csp-drift-salesforce-lightning" target="_blank">Content Security Policy Drift in Salesforce Lightning: Engineering Stable Embedded Integration Boundaries</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Lenovo-Yogafan-Driver" target="_blank">Lenovo Laptops To Enjoy Better Fan Speed Monitoring With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-08 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-pro-on-nutanix-bare-metal-kubernetes" target="_blank">Ubuntu Pro comes to Nutanix bare-metal Kubernetes</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-04-08 12:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,51 +220,6 @@
                 <span class="title"><a href="https://dev.to/hoon6653/7-bybit-api-python-errors-and-how-to-fix-them-521o" target="_blank">7 Bybit API Python Errors and How to Fix Them</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50274%2F427ea12d-13dd-4a0e-8955-dddfbf0a39ea.png" alt="Dates and periods in PHP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xwero/dates-and-periods-in-php-46o1" target="_blank">Dates and periods in PHP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenVINO-2026.1-Released" target="_blank">Intel Releases OpenVINO 2026.1 With Backend For Llama.cpp, New Hardware Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-08 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Chrome-147-Stable-Released" target="_blank">Chrome 147 Stable Released With New Restrictions, Web Printing API</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-08 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17315737/pytorch-foundation-expands-with-helion-safetensors" target="_blank">PyTorch Foundation Expands Its Open Source AI Portfolio With Helion and Safetensors</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-08 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nareshcn2/how-i-cut-python-json-memory-overhead-from-19gb-to-0mb-11x-speedup-3o8c" target="_blank">How I cut Python JSON memory overhead from 1.9GB to ~0MB (11x Speedup)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 09:10</span>
             </div>
         </div>
 </div>
@@ -243,6 +259,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="James Bond Is The Latest Major Switch 2 Port To Get Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/james-bond-switch-2-007-first-light-delay-2000685745" target="_blank">James Bond Is The Latest Major Switch 2 Port To Get Delayed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-08 14:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="ICE Reportedly Acknowledges Its Use of Notorious Graphite Spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +313,6 @@
                 <span class="time">2026-04-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/cyber-1280x720.jpg" alt="A PS5 Pro Patch Is About To Cyberpunk 2077 To Another Level On Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-ps5-pro-patch-60fps-ray-tracing-2000685483" target="_blank">A PS5 Pro Patch Is About To Cyberpunk 2077 To Another Level On Console</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-07 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
