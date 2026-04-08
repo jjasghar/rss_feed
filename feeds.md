@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 18:20:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 19:28:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,11 +47,29 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley" target="_blank">Why OpenAI bought &#x27;SportsCenter for Silicon Valley&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-08 19:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-5-ap-gmh-260408_1775655741152_hpMain_4x3t_384.jpg" alt="Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon</a></span>
                 <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775672234522_now_brk_hormuz_closed_alba_260408_S3_1920x1080-p6vawp.jpg" alt="Iran says Strait of Hormuz is closed due to Israeli strikes on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-says-strait-of-hormuz-is-closed-due-to-israeli-strikes-on-lebanon-260923973762" target="_blank">Iran says Strait of Hormuz is closed due to Israeli strikes on Lebanon</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-08 18:17</span>
             </div>
         </div>
@@ -88,29 +100,38 @@
                 <span class="time">2026-04-08 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump" target="_blank">Democrats keep doing better in elections since Trump returned to office</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8195/live/1e35df00-3360-11f1-879d-1b2f5c3919b8.jpg" alt="Starmer says a lot of work remains to make US-Iran ceasefire hold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says a lot of work remains to make US-Iran ceasefire hold</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-08 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/" target="_blank">Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d69875661a1966c2be199c/master/pass/Meta-Abandons-OpenSource-Models-Business-2243527585.jpg" alt="Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/muse-spark-meta-open-source-closed-source/" target="_blank">Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods" target="_blank">The Neo Effect: How Apple&amp;#8217;s cheapest Mac is changing the PC game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-08 18:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d585fca17189a9bfdc3917/master/pass/AI-Lab-Victor-Army-LLM-Business.jpg" alt="The US Army Is Building Its Own Chatbot for Combat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,38 +159,29 @@
                 <span class="time">2026-04-08 17:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d58724a4ccef95d80999c9/master/pass/Five-Key-Questions-About-Elon-Terafab-Deal-with-Intel-Business.jpg" alt="5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/" target="_blank">5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation" target="_blank">Microsoft’s executive shake-up continues as developer division chief resigns</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-08 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout" target="_blank">Meta is reentering the AI race with a new model called Muse Spark</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-08 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samwitadhikary/how-i-built-a-full-stack-community-platform-from-scratch-and-what-i-learned-3ljh" target="_blank">How I Built a Full Stack Community Platform from Scratch - And What I Learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/little-snitch-linux" target="_blank">Little Snitch, the macOS network tool, is now available on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-08 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ryzen-9-9950X3D2-Price" target="_blank">AMD Ryzen 9 9950X3D2 To Be Priced At $899 USD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-08 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/piiiico/the-two-layers-of-agent-identity-4943" target="_blank">The Two Layers of Agent Identity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html" target="_blank">I Ported Mac OS X to the Nintendo Wii</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-08 15:40</span>
             </div>
         </div>
 </div>
@@ -334,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
