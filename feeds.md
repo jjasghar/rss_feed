@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 09:21:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 10:19:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 09:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 10:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +55,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5771648/sarcasm-origin-history-etymology" target="_blank">Your sarcasm is showing — and its history is surprisingly violent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/200115d0-3323-11f1-b297-95b0a0a8331e.jpg" alt="Starmer to visit Middle East after US and Iran reach ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to visit Middle East after US and Iran reach ceasefire deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-08 07:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Trump&#x27;s surprise claim in his call with Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-speaks-to-trump100160-13529152" target="_blank">Trump&#x27;s surprise claim in his call with Sky News</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-08 05:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Listen: Full analysis from Sky&#x27;s Mark Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -66,33 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/has-trump-capitulated-13529128" target="_blank">Trump steps back from the brink</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-08 04:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260407-donald-trump-mn-1105-53fdaa.jpg" alt="Dozens of Democrats call for Trump&#x27;s removal after his Iran threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/democrats-trump-removal-iran-threats-impeachment-25th-amendment-rcna267194" target="_blank">Dozens of Democrats call for Trump&#x27;s removal after his Iran threats</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-08 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3413/live/5fa7f430-330d-11f1-a79a-77e93010d956.jpg" alt="Iran ceasefire deal gives Trump a way out of war - but at a high cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss" target="_blank">Iran ceasefire deal gives Trump a way out of war - but at a high cost</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-08 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-vietnam-ha-giang-loop_7213725.jpg?20260408042304" alt="British teen dies in Vietnam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-teen-dies-in-vietnam-13529126" target="_blank">British teen dies in Vietnam</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-08 03:06</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Chrome-147-Stable-Released" target="_blank">Chrome 147 Stable Released With New Restrictions, Web Printing API</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-08 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17315737/pytorch-foundation-expands-with-helion-safetensors" target="_blank">PyTorch Foundation Expands Its Open Source AI Portfolio With Helion and Safetensors</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-08 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nareshcn2/how-i-cut-python-json-memory-overhead-from-19gb-to-0mb-11x-speedup-3o8c" target="_blank">How I cut Python JSON memory overhead from 1.9GB to ~0MB (11x Speedup)</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +217,6 @@
                 <span class="time">2026-04-08 06:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/indiehacker_9527/how-to-write-a-pr-description-that-sounds-native-2n72" target="_blank">How to Write a PR Description That Sounds Native</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 05:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9ltdn0gw1ada6qx9yfb.png" alt="Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sysk32/your-ai-agent-is-reading-poisoned-web-pages-heres-how-to-stop-it-4l61" target="_blank">Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 02:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +240,20 @@
                 <span class="time">2026-04-07 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html" target="_blank">Hong Kong Police Can Force You to Reveal Your Encryption Keys</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-07 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="ICE Reportedly Acknowledges Its Use of Notorious Graphite Spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ice-reportedly-acknowledges-its-use-of-notorious-graphite-spyware-2000743784" target="_blank">ICE Reportedly Acknowledges Its Use of Notorious Graphite Spyware</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-08 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/dario-amodei-legal-brief-1280x865.jpg" alt="Anthropic’s New Model Is So Scarily Powerful It Won’t Be Released, Anthropic Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +299,6 @@
                 <span class="time">2026-04-07 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/TheTestaments_AnnDowd_interview-1280x853.jpg" alt="Aunt Lydia Survived ‘The Handmaid’s Tale’ to Bring New Complexity to ‘The Testaments’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/aunt-lydia-survived-the-handmaids-tale-to-bring-new-complexity-to-the-testaments-2000740579" target="_blank">Aunt Lydia Survived ‘The Handmaid’s Tale’ to Bring New Complexity to ‘The Testaments’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-07 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
