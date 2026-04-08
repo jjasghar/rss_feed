@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 00:12:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 01:31:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775608861831_nn_ggucku_trump_iran_ceasefire_260407_S3_1920x1080-fyuar2.jpg" alt="U.S. and Iran agree to two-week ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/us-and-iran-agree-to-two-week-ceasefire-260864581738" target="_blank">U.S. and Iran agree to two-week ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-08 00:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260407_1775568532869_hpMain_16x9_384.jpg" alt="Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss" target="_blank">Iranians brace for possible devastation as Trump’s deadline looms</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Iran-flag-DB-260407_1775548263831_hpMain_4x3t_384.jpg" alt="Iran live updates: Pakistan asks Trump for deadline extension on Iran threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Pakistan asks Trump for deadline extension on Iran threat</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-07 20:29</span>
             </div>
         </div>
 </div>
@@ -176,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g" target="_blank">Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/archrad_architect/your-architecture-drifts-before-you-write-a-single-line-of-code-1cmj" target="_blank">Your architecture drifts before you write a single line of code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 00:02</span>
@@ -215,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/taner_tuna/ai-workshop-platform-for-real-human-questions-3gkp" target="_blank">AI workshop platform for real human questions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18905308&w=600" alt="Beyond Accuracy: Measuring Divergence Between Actual and Predicted Distributions in Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/divergence-between-actual-and-predicted-distributions" target="_blank">Beyond Accuracy: Measuring Divergence Between Actual and Predicted Distributions in Machine Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-07 20:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
