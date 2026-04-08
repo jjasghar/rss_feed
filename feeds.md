@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 11:18:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 12:12:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 11:18 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 12:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon briefing amid ceasefire deal with Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Pentagon briefing amid ceasefire deal with Iran: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump suggests &#x27;joint venture&#x27; with Iran in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="time">2026-04-08 07:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Trump&#x27;s surprise claim in his call with Sky News" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-speaks-to-trump100160-13529152" target="_blank">Trump&#x27;s surprise claim in his call with Sky News</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-08 05:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,10 +104,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/" target="_blank">X is rolling out automatic translation and photo editing powered by Grok</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent" target="_blank">GoPro is cutting 23 percent of its workforce</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-08 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-500x500.jpeg" alt="Thousands of consumer routers hacked by Russia&#x27;s military" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/" target="_blank">Thousands of consumer routers hacked by Russia&#x27;s military</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -137,29 +155,20 @@
                 <span class="time">2026-04-08 05:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-500x500.jpeg" alt="Valve brings native Steam Link app to Apple&#x27;s Vision Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/" target="_blank">Valve brings native Steam Link app to Apple&#x27;s Vision Pro</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-07 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale" target="_blank">Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hoon6653/7-bybit-api-python-errors-and-how-to-fix-them-521o" target="_blank">7 Bybit API Python Errors and How to Fix Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 12:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50274%2F427ea12d-13dd-4a0e-8955-dddfbf0a39ea.png" alt="Dates and periods in PHP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/xwero/dates-and-periods-in-php-46o1" target="_blank">Dates and periods in PHP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenVINO-2026.1-Released" target="_blank">Intel Releases OpenVINO 2026.1 With Backend For Llama.cpp, New Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-08 10:29</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/nareshcn2/how-i-cut-python-json-memory-overhead-from-19gb-to-0mb-11x-speedup-3o8c" target="_blank">How I cut Python JSON memory overhead from 1.9GB to ~0MB (11x Speedup)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://piechowski.io/post/git-commands-before-reading-code/" target="_blank">The Git Commands I Run Before Reading Any Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-08 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaelforceucd/introducing-gaelforceucd-vex-u-robotics-team-4h24" target="_blank">Introducing GaelforceUCD VEX U Robotics Team</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 08:10</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
