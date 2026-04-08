@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 07:28:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-08 08:21:12 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 07:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 08:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Listen: Full analysis from Sky&#x27;s Mark Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-speaks-to-trump100160-13529152" target="_blank">Listen: Full analysis from Sky&#x27;s Mark Stone</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-08 05:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Trump steps back from the brink" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/has-trump-capitulated-13529128" target="_blank">Trump steps back from the brink</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-08 04:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260407-donald-trump-mn-1105-53fdaa.jpg" alt="Dozens of Democrats call for Trump&#x27;s removal after his Iran threats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/democrats-trump-removal-iran-threats-impeachment-25th-amendment-rcna267194" target="_blank">Dozens of Democrats call for Trump&#x27;s removal after his Iran threats</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-08 03:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3413/live/5fa7f430-330d-11f1-a79a-77e93010d956.jpg" alt="Iran ceasefire deal gives Trump a way out of war - but at a high cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss" target="_blank">Iran ceasefire deal gives Trump a way out of war - but at a high cost</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-08 03:30</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +100,20 @@
                 <span class="time">2026-04-08 01:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss" target="_blank">Iraqis celebrates US-Iran ceasefire as two-week halt in war begins</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-08 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone" target="_blank">Telehealth abortion will remain available for now, after a federal judge&#x27;s ruling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775608861831_nn_ggucku_trump_iran_ceasefire_260407_S3_1920x1080-fyuar2.jpg" alt="U.S. and Iran agree to two-week ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/us-and-iran-agree-to-two-week-ceasefire-260864581738" target="_blank">U.S. and Iran agree to two-week ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-08 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d5582f2f6731ca306d1bb2/master/pass/Security_MenAreBuyingHackingTools.jpg" alt="Men Are Buying Hacking Tools to Use Against Their Wives and Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/" target="_blank">Men Are Buying Hacking Tools to Use Against Their Wives and Friends</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,29 @@
                 <span class="time">2026-04-07 20:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts" target="_blank">Spotify&amp;#8217;s Prompted Playlists can help you find new podcasts to listen to</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-07 20:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gaelforceucd/introducing-gaelforceucd-vex-u-robotics-team-4h24" target="_blank">Introducing GaelforceUCD VEX U Robotics Team</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 08:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/spotify-wrapped-privacy/en/headerimage/generatedHeaderImage-1775585324225.jpg" alt="Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-08 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g" target="_blank">Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/archrad_architect/your-architecture-drifts-before-you-write-a-single-line-of-code-1cmj" target="_blank">Your architecture drifts before you write a single line of code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lvazmecheng/journal-log-no-2-moving-from-linux-unhatched-to-essentials-my-devsecops-journey-58oh" target="_blank">📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 23:07</span>
             </div>
         </div>
 </div>
@@ -309,6 +315,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/08/hidden-mechanics" target="_blank">Hidden Mechanics</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1775512256-20260407.png" alt="Saturday Morning Breakfast Cereal - Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -322,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 08:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
