@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 08:21:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 09:21:11 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 08:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 09:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US to help with Strait of Hormuz after ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump says US to help with Strait of Hormuz after ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 09:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Listen: Full analysis from Sky&#x27;s Mark Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/british-teen-dies-in-vietnam-13529126" target="_blank">British teen dies in Vietnam</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-08 03:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0299/live/cbbe3760-32e0-11f1-b297-95b0a0a8331e.jpg" alt="Iran ceasefire deal a partial win for Trump - but at a high cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss" target="_blank">Iran ceasefire deal a partial win for Trump - but at a high cost</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-08 01:58</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nareshcn2/how-i-cut-python-json-memory-overhead-from-19gb-to-0mb-11x-speedup-3o8c" target="_blank">How I cut Python JSON memory overhead from 1.9GB to ~0MB (11x Speedup)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gaelforceucd/introducing-gaelforceucd-vex-u-robotics-team-4h24" target="_blank">Introducing GaelforceUCD VEX U Robotics Team</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 08:10</span>
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/sysk32/your-ai-agent-is-reading-poisoned-web-pages-heres-how-to-stop-it-4l61" target="_blank">Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g" target="_blank">Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 01:27</span>
             </div>
         </div>
 </div>
@@ -337,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
