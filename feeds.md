@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 19:28:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-08 20:09:53 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 20:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss" target="_blank">World reacts to ‘brutal’ Israeli attacks on Lebanon amid US-Iran ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 19:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +104,20 @@
                 <span class="time">2026-04-08 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/lebanon-13-gty-gmh-260408_1775667786874_hpMain_4x3t_384.jpg" alt="Iran live updates: Lebanon not included in ceasefire deal, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Lebanon not included in ceasefire deal, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-08 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg" alt="Meta&#x27;s Superintelligence Lab unveils its first public model, Muse Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/" target="_blank">Meta&#x27;s Superintelligence Lab unveils its first public model, Muse Spark</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +161,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/" target="_blank">To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-08 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/" target="_blank">Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 17:19</span>
             </div>
         </div>
 </div>
@@ -238,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-19.jpg" alt="The Drip In Pokémon Champions Is Sauceless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-champions-clothes-accessories-store-buy-vp-2000685834" target="_blank">The Drip In Pokémon Champions Is Sauceless</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-08 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/shutterstock_2649710799-1280x853.jpg" alt="Trump’s Botched Iran ‘Ceasefire’ Puts Polymarket Bettors in a Bind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-botched-iran-ceasefire-puts-polymarket-bettors-in-a-bind-2000744091" target="_blank">Trump’s Botched Iran ‘Ceasefire’ Puts Polymarket Bettors in a Bind</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-08 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNMMJSDX7TNQZ8M2SXZCJCD5/hero-image.png" alt="Not All Sleep Scores Are Created Equal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-your-sleep-score-is-actually-calculated?utm_medium=RSS" target="_blank">Not All Sleep Scores Are Created Equal</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Iran-Bitcoin-Straight-of-Hormuz-1280x853.jpg" alt="Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,38 +295,20 @@
                 <span class="time">2026-04-08 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNN3JS9X05WEQPS4K1TC58JH/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/top-10-movies-streaming-this-month-march-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-08 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-08-at-12.26.48-PM-1280x720.jpg" alt="Overwatch’s Next Hero Isn’t Who Fans Thought She Was" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-hero-51-season-2-frankie-sierra-trailer-reveal-2000685793" target="_blank">Overwatch’s Next Hero Isn’t Who Fans Thought She Was</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-08 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/raw-shrimp-1280x853.jpg" alt="Mysterious Seafood Virus May Be Behind Emerging Eye Disease, Scientists Warn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mysterious-seafood-virus-may-be-behind-emerging-eye-disease-scientists-warn-2000743991" target="_blank">Mysterious Seafood Virus May Be Behind Emerging Eye Disease, Scientists Warn</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-08 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/08/hidden-mechanics" target="_blank">Hidden Mechanics</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-08 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1775512299-20260408.png" alt="Saturday Morning Breakfast Cereal - Mary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
