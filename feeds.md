@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 10:19:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-08 11:18:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 10:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump suggests &#x27;joint venture&#x27; with Iran in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump suggests &#x27;joint venture&#x27; with Iran in Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/us-third-country-deportees-deal-sparks-backlash-in-drc?traffic_source=rss" target="_blank">US ‘third-country’ deportees deal sparks backlash in DRC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 10:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US to help with Strait of Hormuz after ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +96,29 @@
                 <span class="time">2026-04-08 05:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Listen: Full analysis from Sky&#x27;s Mark Stone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-speaks-to-trump100160-13529152" target="_blank">Listen: Full analysis from Sky&#x27;s Mark Stone</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-08 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Trump steps back from the brink" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/has-trump-capitulated-13529128" target="_blank">Trump steps back from the brink</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-08 04:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent" target="_blank">GoPro is cutting 23 percent of its workforce</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-08 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d5aea4a860ee8f2e2ce903/master/pass/Review--Dyson-Spot+Scrub-Ai-Robot-Vacuum.jpg" alt="Dyson Spot+Scrub Ai Robot Vacuum Review (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/dyson-spot-scrub-ai/" target="_blank">Dyson Spot+Scrub Ai Robot Vacuum Review (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d5582f2f6731ca306d1bb2/master/pass/Security_MenAreBuyingHackingTools.jpg" alt="Men Are Buying Hacking Tools to Use Against Their Wives and Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +155,20 @@
                 <span class="time">2026-04-07 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/" target="_blank">I can’t help rooting for tiny open source AI model maker Arcee</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-07 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d535126bd1aa95a55f1073/master/pass/Gear_AppleiPhoneEarnsaD-.jpg" alt="The iPhone Gets a D– for Repairability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/" target="_blank">The iPhone Gets a D– for Repairability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-07 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F50274%2F427ea12d-13dd-4a0e-8955-dddfbf0a39ea.png" alt="Dates and periods in PHP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xwero/dates-and-periods-in-php-46o1" target="_blank">Dates and periods in PHP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,28 +199,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaelforceucd/introducing-gaelforceucd-vex-u-robotics-team-4h24" target="_blank">Introducing GaelforceUCD VEX U Robotics Team</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/spotify-wrapped-privacy/en/headerimage/generatedHeaderImage-1775585324225.jpg" alt="Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Inside Spotify’s 2025 Wrapped Archive: AI Narratives at Scale and the Privacy Trade‑Off</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-08 07:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://piechowski.io/post/git-commands-before-reading-code/" target="_blank">The Git Commands I Run Before Reading Any Code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-08 08:53</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4" target="_blank">Extract Audio from Video in Zapier</a></span>
+                <span class="title"><a href="https://dev.to/gaelforceucd/introducing-gaelforceucd-vex-u-robotics-team-4h24" target="_blank">Introducing GaelforceUCD VEX U Robotics Team</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 06:13</span>
+                <span class="time">2026-04-08 08:10</span>
             </div>
         </div>
 </div>
@@ -222,6 +219,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html" target="_blank">Python Supply-Chain Compromise</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-08 10:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
