@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 17:21:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-08 18:20:40 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 17:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-5-ap-gmh-260408_1775655741152_hpMain_4x3t_384.jpg" alt="Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss" target="_blank">‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe" target="_blank">Greetings from downtown Cairo, where unpretentious cafés are part of centuries-old charm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-08 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/lebanon-13-gty-gmh-260408_1775667786874_hpMain_4x3t_384.jpg" alt="Iran live updates: Lebanon not included in ceasefire deal, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,39 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8195/live/1e35df00-3360-11f1-879d-1b2f5c3919b8.jpg" alt="Starmer says a lot of work remains to make US-Iran ceasefire hold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5777417/a-humorist-faces-life-with-stage-4-lung-cancer-the-future-disappeared-for-me" target="_blank">A humorist faces life with Stage 4 lung cancer: &#x27;The future disappeared for me&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says a lot of work remains to make US-Iran ceasefire hold</a></span>
+                <span class="feed">BBC News</span>
                 <span class="time">2026-04-08 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/hegseth-iran-begged-for-ceasefire-claims-historic?traffic_source=rss" target="_blank">Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-08 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/caine-3-gty-gmh-260408_1775652014594_hpMain_4x3t_384.jpg" alt="Iran live updates: US achieved 3 military objectives assigned by Trump, Caine says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US achieved 3 military objectives assigned by Trump, Caine says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-08 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire" target="_blank">Oil prices plunge and stocks soar after U.S. and Iran agree on ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 13:33</span>
             </div>
         </div>
 </div>
@@ -107,6 +111,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d585fca17189a9bfdc3917/master/pass/AI-Lab-Victor-Army-LLM-Business.jpg" alt="The US Army Is Building Its Own Chatbot for Combat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/" target="_blank">The US Army Is Building Its Own Chatbot for Combat</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/musk-altman-beef-500x500.jpg" alt="To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/" target="_blank">To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/" target="_blank">Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d58724a4ccef95d80999c9/master/pass/Five-Key-Questions-About-Elon-Terafab-Deal-with-Intel-Business.jpg" alt="5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +165,20 @@
                 <span class="time">2026-04-08 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/steam-stats-500x360.jpeg" alt="Steam client files point to &quot;framerate estimator&quot; feature in the works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/" target="_blank">Steam client files point to &quot;framerate estimator&quot; feature in the works</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-08 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/" target="_blank">OpenAI releases a new safety blueprint to address the rise in child sexual exploitation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1414665828-500x500-1775659706.jpg" alt="No F-150 in France? US automakers complain the EU blocks big trucks." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/" target="_blank">No F-150 in France? US automakers complain the EU blocks big trucks.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-08 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/silambarasan_a_bd1d4d0a29/what-is-a-constructor-in-javascript-25oa" target="_blank">What is a Constructor ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +224,6 @@
                 <span class="time">2026-04-08 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b70-linux" target="_blank">Intel Arc Pro B70 Benchmarks With LLM / AI, OpenCL, OpenGL &amp; Vulkan</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-08 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +244,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Iran-Bitcoin-Straight-of-Hormuz-1280x853.jpg" alt="Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iran-demands-bitcoin-and-crypto-for-strait-of-hormuz-toll-payments-2000744120" target="_blank">Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-08 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Resident-Evil-The-Final-Chapter-official-poster-2-1280x720.jpg" alt="Resident Evil Movie Star Promotes Crypto Bro’s AI-Coded ‘MemPalace’ Accused Of Being Snake Oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-jovovich-mempalace-ai-github-2000685786" target="_blank">Resident Evil Movie Star Promotes Crypto Bro’s AI-Coded ‘MemPalace’ Accused Of Being Snake Oil</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/Gn9eVBTXQAAilBg-scaled-e1775670448386.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Once again Israel ignores &quot;ceasefire&quot; part of &quot;ceasefire&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/08/once-again-israel-ignores-ceasefire-part-of-ceasefire.html" target="_blank">Once again Israel ignores &quot;ceasefire&quot; part of &quot;ceasefire&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-08 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNN3JS9X05WEQPS4K1TC58JH/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/top-10-movies-streaming-this-month-march-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-08 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-08-at-12.26.48-PM-1280x720.jpg" alt="Overwatch’s Next Hero Isn’t Who Fans Thought She Was" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,42 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/mysterious-seafood-virus-may-be-behind-emerging-eye-disease-scientists-warn-2000743991" target="_blank">Mysterious Seafood Virus May Be Behind Emerging Eye Disease, Scientists Warn</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-08 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2753-1280x720.jpg" alt="Pokémon Champions Has A Built-In Way To Basically Cheat Out Of Losing Rank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-champions-time-out-draw-rules-ranked-casual-2000685780" target="_blank">Pokémon Champions Has A Built-In Way To Basically Cheat Out Of Losing Rank</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-08 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNPTPKT7E0Z7QJ7S82W99C8Q/hero-image.png" alt="You Could Get Up to $100 From This $135 Million Android Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/claim-your-payout-from-the-android-data-transfer-settlement?utm_medium=RSS" target="_blank">You Could Get Up to $100 From This $135 Million Android Settlement</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-08 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/corpseabuse.jpg?fit=1300%2C883&amp;quality=60&amp;ssl=1" alt="Bones in a bag: half of Sheriff&#x27;s office charged with crimes including corpse abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/08/bones-in-a-bag-sheriff-and-deputy-indicted-with-crimes-including-corpse-abuse.html" target="_blank">Bones in a bag: half of Sheriff&#x27;s office charged with crimes including corpse abuse</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-08 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/bfb725166a99ccabb7cd25ed810a4e8e-1280x720.jpg" alt="James Bond Is The Latest Major Switch 2 Port To Get Delayed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/james-bond-switch-2-007-first-light-delay-2000685745" target="_blank">James Bond Is The Latest Major Switch 2 Port To Get Delayed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-08 14:24</span>
             </div>
         </div>
 </div>
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
