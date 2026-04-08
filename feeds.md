@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 01:31:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 02:59:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0299/live/cbbe3760-32e0-11f1-b297-95b0a0a8331e.jpg" alt="Iran ceasefire deal a partial win for Trump - but at a high cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss" target="_blank">Iran ceasefire deal a partial win for Trump - but at a high cost</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-08 01:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss" target="_blank">Iraqis celebrates US-Iran ceasefire as two-week halt in war begins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone" target="_blank">Telehealth abortion will remain available for now, after a federal judge&#x27;s ruling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-08 01:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775608861831_nn_ggucku_trump_iran_ceasefire_260407_S3_1920x1080-fyuar2.jpg" alt="U.S. and Iran agree to two-week ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss" target="_blank">Trump agrees to pause attacks on Iran if Strait of Hormuz opens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-07 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss" target="_blank">Billionaire investor Ackman makes $64bn bid for Universal Music Group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation" target="_blank">US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-07 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss" target="_blank">Iranians brace for possible devastation as Trump’s deadline looms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 21:08</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9ltdn0gw1ada6qx9yfb.png" alt="Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sysk32/your-ai-agent-is-reading-poisoned-web-pages-heres-how-to-stop-it-4l61" target="_blank">Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 02:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.16.4-Released" target="_blank">Flatpak 1.16.4 Brings Important Security Fixes For Sandbox Escape &amp; Deleting Host Files</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-07 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taner_tuna/ai-workshop-platform-for-real-human-questions-3gkp" target="_blank">AI workshop platform for real human questions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 20:04</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
