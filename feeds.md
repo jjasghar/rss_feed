@@ -1,32 +1,24 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 12:12:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-08 13:29:25 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 16 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 12:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +34,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump suggests &#x27;joint venture&#x27; in Strait of Hormuz, no enrichment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump suggests &#x27;joint venture&#x27; in Strait of Hormuz, no enrichment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/8/world-athletics-postpones-doha-diamond-league-amid-us-israel-war-on-iran?traffic_source=rss" target="_blank">World Athletics postpones Doha Diamond League amid US-Israel war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 12:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon briefing amid ceasefire deal with Iran: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +88,38 @@
                 <span class="time">2026-04-08 09:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5771648/sarcasm-origin-history-etymology" target="_blank">Your sarcasm is showing — and its history is surprisingly violent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/200115d0-3323-11f1-b297-95b0a0a8331e.jpg" alt="Starmer to visit Middle East after US and Iran reach ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to visit Middle East after US and Iran reach ceasefire deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-08 07:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d4482369e358e539effd5e/master/pass/KAJPLATS_0_aee62cf345.jpg" alt="Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ikea-matter-smart-home-hands-on/" target="_blank">Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location" target="_blank">Tractive’s new dog and cat trackers provide more health insights for your pets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/" target="_blank">Atlassian launches visual AI tools and third-party agents in Confluence</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +145,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/" target="_blank">Thousands of consumer routers hacked by Russia&#x27;s military</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d5aea4a860ee8f2e2ce903/master/pass/Review--Dyson-Spot+Scrub-Ai-Robot-Vacuum.jpg" alt="Dyson Spot+Scrub Ai Robot Vacuum Review (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dyson-spot-scrub-ai/" target="_blank">Dyson Spot+Scrub Ai Robot Vacuum Review (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d5582f2f6731ca306d1bb2/master/pass/Security_MenAreBuyingHackingTools.jpg" alt="Men Are Buying Hacking Tools to Use Against Their Wives and Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/" target="_blank">Men Are Buying Hacking Tools to Use Against Their Wives and Friends</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly launched an AI dictation app that works offline</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 05:40</span>
             </div>
         </div>
 </div>
@@ -333,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 12:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
