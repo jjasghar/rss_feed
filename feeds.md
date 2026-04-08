@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 20:09:53 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-08 21:13:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss" target="_blank">‘Heinous crime’: Al Jazeera condemns Israeli killing of journalist</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-08 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +104,29 @@
                 <span class="time">2026-04-08 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/g-s1-116552/cairo-wust-el-balad-sheesha-cafe" target="_blank">Greetings from downtown Cairo, where unpretentious cafés are part of centuries-old charm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 17:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/" target="_blank">Poke makes AI agents as easy as sending a text</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them" target="_blank">OpenAI made economic proposals — here’s what DC thinks of them</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-08 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-500x500.jpg" alt="Meta&#x27;s Superintelligence Lab unveils its first public model, Muse Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -116,6 +134,15 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/" target="_blank">Meta&#x27;s Superintelligence Lab unveils its first public model, Muse Spark</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-08 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d6a5839dad1bfe79e89f12/master/pass/Strait-of-Hormuz-Reopens-Global-Shipping-Will-Take-Months-to-Recover-Gear-2269814320.jpg" alt="As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/" target="_blank">As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 19:33</span>
             </div>
         </div>
 <div class="story">
@@ -134,33 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/muse-spark-meta-open-source-closed-source/" target="_blank">Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-08 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods" target="_blank">The Neo Effect: How Apple&amp;#8217;s cheapest Mac is changing the PC game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-08 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d585fca17189a9bfdc3917/master/pass/AI-Lab-Victor-Army-LLM-Business.jpg" alt="The US Army Is Building Its Own Chatbot for Combat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/" target="_blank">The US Army Is Building Its Own Chatbot for Combat</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/musk-altman-beef-500x500.jpg" alt="To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/" target="_blank">To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-08 17:37</span>
             </div>
         </div>
 </div>
@@ -242,6 +242,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/a84cb7a9225144ba1d510f6007a132f2-1280x720.jpg" alt="Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gunzilla-nft-battle-royale-game-accused-of-not-paying-staff-for-months-game-informer-2000685847" target="_blank">Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-08 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_2242338637-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="500+ brain scans reveal what LSD, psilocybin, DMT have in common" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/08/500-brain-scans-reveal-what-lsd-psilocybin-dmt-have-in-common.html" target="_blank">500+ brain scans reveal what LSD, psilocybin, DMT have in common</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-08 20:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-19.jpg" alt="The Drip In Pokémon Champions Is Sauceless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -275,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/iran-demands-bitcoin-and-crypto-for-strait-of-hormuz-toll-payments-2000744120" target="_blank">Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-08 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Resident-Evil-The-Final-Chapter-official-poster-2-1280x720.jpg" alt="Resident Evil Movie Star Promotes Crypto Bro’s AI-Coded ‘MemPalace’ Accused Of Being Snake Oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-jovovich-mempalace-ai-github-2000685786" target="_blank">Resident Evil Movie Star Promotes Crypto Bro’s AI-Coded ‘MemPalace’ Accused Of Being Snake Oil</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/Gn9eVBTXQAAilBg-scaled-e1775670448386.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Once again Israel ignores &quot;ceasefire&quot; part of &quot;ceasefire&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/08/once-again-israel-ignores-ceasefire-part-of-ceasefire.html" target="_blank">Once again Israel ignores &quot;ceasefire&quot; part of &quot;ceasefire&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-08 17:47</span>
             </div>
         </div>
 </div>
@@ -336,13 +336,22 @@
                 <span class="time">2026-04-08 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/overton.png" alt="Overton" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3230/" target="_blank">Overton</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-08 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
