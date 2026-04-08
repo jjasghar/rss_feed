@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 04:03:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-08 05:32:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 04:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 05:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump100-iran_7213735.jpg?20260408054052" alt="Trump steps back from the brink" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/has-trump-capitulated-13529128" target="_blank">Trump steps back from the brink</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-08 04:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-vietnam-ha-giang-loop_7213725.jpg?20260408042304" alt="British teen dies in Vietnam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/us-and-iran-agree-to-two-week-ceasefire-260864581738" target="_blank">U.S. and Iran agree to two-week ceasefire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-08 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260407_1775568532869_hpMain_16x9_384.jpg" alt="Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-08 00:03</span>
             </div>
         </div>
 </div>
@@ -164,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/indiehacker_9527/how-to-write-a-pr-description-that-sounds-native-2n72" target="_blank">How to Write a PR Description That Sounds Native</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 05:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9ltdn0gw1ada6qx9yfb.png" alt="Your AI Agent is Reading Poisoned Web Pages.. Here&#x27;s How to Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/pooyagolchian/reasoning-models-emergence-how-chain-of-thought-unlocks-complex-problem-solving-53bf" target="_blank">Reasoning Models Emergence: How Chain-of-Thought Unlocks Complex Problem Solving</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.16.4-Released" target="_blank">Flatpak 1.16.4 Brings Important Security Fixes For Sandbox Escape &amp; Deleting Host Files</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-07 21:47</span>
             </div>
         </div>
 </div>
@@ -327,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
