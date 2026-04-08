@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 21:13:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-08 22:10:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 22:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-March-2026" target="_blank">Redox OS Establishes AI Policy To Forbid Contributions Made Using LLMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-08 21:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samwitadhikary/how-i-built-a-full-stack-community-platform-from-scratch-and-what-i-learned-3ljh" target="_blank">How I Built a Full Stack Community Platform from Scratch - And What I Learned</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +212,6 @@
                 <span class="time">2026-04-08 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ryzen-9-9950X3D2-Price" target="_blank">AMD Ryzen 9 9950X3D2 To Be Priced At $899 USD</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-08 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/samson-1280x720.jpg" alt="Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874" target="_blank">Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-08 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNQ9FXSX62T71NZR9B3J7GCT/hero-image.jpg" alt="Android 17 Will Finally Let You Remap Your Gaming Controllers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-17-will-let-you-remap-your-controllers?utm_medium=RSS" target="_blank">Android 17 Will Finally Let You Remap Your Gaming Controllers</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-08 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/a84cb7a9225144ba1d510f6007a132f2-1280x720.jpg" alt="Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/trumps-botched-iran-ceasefire-puts-polymarket-bettors-in-a-bind-2000744091" target="_blank">Trump’s Botched Iran ‘Ceasefire’ Puts Polymarket Bettors in a Bind</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-08 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNMMJSDX7TNQZ8M2SXZCJCD5/hero-image.png" alt="Not All Sleep Scores Are Created Equal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-your-sleep-score-is-actually-calculated?utm_medium=RSS" target="_blank">Not All Sleep Scores Are Created Equal</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Iran-Bitcoin-Straight-of-Hormuz-1280x853.jpg" alt="Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iran-demands-bitcoin-and-crypto-for-strait-of-hormuz-toll-payments-2000744120" target="_blank">Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-08 18:10</span>
             </div>
         </div>
 </div>
@@ -350,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
