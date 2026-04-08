@@ -1,43 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-04-07 23:10:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 00:12:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 07, 2026 - 23:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260407_1775568532869_hpMain_16x9_384.jpg" alt="Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US, Iran agree to 2-week ceasefire tied to strait reopening</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-08 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss" target="_blank">Trump agrees to pause attacks on Iran if Strait of Hormuz opens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-07 23:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +106,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Pakistan asks Trump for deadline extension on Iran threat</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-07 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/7/fifa-opens-disciplinary-probe-against-spanish-fa-after-islamaphobic-chants?traffic_source=rss" target="_blank">FIFA opens disciplinary probe against Spanish FA after Islamaphobic chants</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-07 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/271e4090-32a6-11f1-b4da-a3b95db80b81.jpg" alt="Wireless Festival cancelled after Kanye West blocked from coming to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss" target="_blank">Wireless Festival cancelled after Kanye West blocked from coming to UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-07 19:40</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/archrad_architect/your-architecture-drifts-before-you-write-a-single-line-of-code-1cmj" target="_blank">Your architecture drifts before you write a single line of code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 00:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,6 +202,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flatpak-1.16.4-Released" target="_blank">Flatpak 1.16.4 Brings Important Security Fixes For Sandbox Escape &amp; Deleting Host Files</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-07 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/taner_tuna/ai-workshop-platform-for-real-human-questions-3gkp" target="_blank">AI workshop platform for real human questions</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,24 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/divergence-between-actual-and-predicted-distributions" target="_blank">Beyond Accuracy: Measuring Divergence Between Actual and Predicted Distributions in Machine Learning</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/felixortizdev/security-is-a-delivery-accelerator-not-a-gate-eel" target="_blank">Security Is a Delivery Accelerator, Not a Gate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3682677%2F9b8360fc-5929-4e5a-b9c5-33aec677771f.jpeg" alt="Master Array Flattening in JS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kunal_dev/master-array-flattening-in-js-16f" target="_blank">Master Array Flattening in JS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 18:12</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
