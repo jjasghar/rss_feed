@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 05:32:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 06:26:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 05:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 06:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank">Google quietly launched an AI dictation app that works offline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 05:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-500x500.jpeg" alt="Valve brings native Steam Link app to Apple&#x27;s Vision Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -147,20 +151,20 @@
                 <span class="time">2026-04-07 20:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-500x500.jpg" alt="What the heck is wrong with our AI overlords?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/" target="_blank">What the heck is wrong with our AI overlords?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-07 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4" target="_blank">Extract Audio from Video in Zapier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 06:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/lvazmecheng/journal-log-no-2-moving-from-linux-unhatched-to-essentials-my-devsecops-journey-58oh" target="_blank">📙 Journal Log no. 2 Moving from Linux Unhatched to Essentials ;My DevSecOps Journey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-07 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pooyagolchian/reasoning-models-emergence-how-chain-of-thought-unlocks-complex-problem-solving-53bf" target="_blank">Reasoning Models Emergence: How Chain-of-Thought Unlocks Complex Problem Solving</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-07 22:07</span>
             </div>
         </div>
 </div>
@@ -325,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 06:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
