@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-08 14:30:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-08 15:26:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, April 08, 2026 - 14:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, April 08, 2026 - 15:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +105,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/" target="_blank">OpenAI releases a new safety blueprint to address the rise in child sexual exploitation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-08 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1414665828-500x500-1775659706.jpg" alt="No F-150 in France? US automakers complain the EU blocks big trucks." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/" target="_blank">No F-150 in France? US automakers complain the EU blocks big trucks.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d5729e948761f395b6963a/master/pass/politics_trump_attorney_general.jpg" alt="The Next Attorney General Will Probably Be an Election Denier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/" target="_blank">The Next Attorney General Will Probably Be an Election Denier</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/lunar-lander-500x500.jpg" alt="With Orion still flying, NASA is nearing key decisions about Artemis III" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -136,38 +158,47 @@
                 <span class="time">2026-04-08 13:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location" target="_blank">Tractive’s new dog and cat trackers provide more health insights for your pets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/" target="_blank">Atlassian launches visual AI tools and third-party agents in Confluence</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/" target="_blank">X is rolling out automatic translation and photo editing powered by Grok</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyjshnxznt5h931jlbsm.webp" alt="TOP 25 ALGORITMOS | Knuth-Morris-Pratt (KMP) Array" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sdrariane/top-25-algoritmos-knuth-morris-pratt-kmp-array-48m8" target="_blank">TOP 25 ALGORITMOS | Knuth-Morris-Pratt (KMP) Array</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-08 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/tailwind-css-4-2-webpack/en/headerimage/generatedHeaderImage-1775645510087.jpg" alt="Tailwind CSS 4.2 Ships Webpack Plugin, New Palettes and Logical Property Utilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Tailwind CSS 4.2 Ships Webpack Plugin, New Palettes and Logical Property Utilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-08 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17315870/anthropic-apache-software-foundation-donation" target="_blank">Anthropic Just Handed Apache $1.5M to Secure the Open Source Stack AI Depends On</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-08 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18974359&w=600" alt="MCP + AWS AgentCore: Give Your AI Agent Real Tools in 60 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-aws-agentcore" target="_blank">MCP + AWS AgentCore: Give Your AI Agent Real Tools in 60 Minutes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-08 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/en/headerimage/aicrawler-1775341603564.jpeg" alt="Cloudflare and ETH Zurich Outline Approaches for AI-Driven Cache Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,42 +215,6 @@
                 <span class="title"><a href="https://dev.to/harini_magesh_fa40041cf8d/learn-ascii-with-easy-examples-in-python-and-javascript-47jd" target="_blank">Learn ASCII with Easy Examples in Python and JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-08 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18929448&w=600" alt="Content Security Policy Drift in Salesforce Lightning: Engineering Stable Embedded Integration Boundaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/csp-drift-salesforce-lightning" target="_blank">Content Security Policy Drift in Salesforce Lightning: Engineering Stable Embedded Integration Boundaries</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Lenovo-Yogafan-Driver" target="_blank">Lenovo Laptops To Enjoy Better Fan Speed Monitoring With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-08 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-pro-on-nutanix-bare-metal-kubernetes" target="_blank">Ubuntu Pro comes to Nutanix bare-metal Kubernetes</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-08 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hoon6653/7-bybit-api-python-errors-and-how-to-fix-them-521o" target="_blank">7 Bybit API Python Errors and How to Fix Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 12:10</span>
             </div>
         </div>
 </div>
@@ -269,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5669BNQA7E8KW4VMYZABARW/hero-image.png" alt="This Samsung Dolby Atmos Soundbar Is Over $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-q-series-dolby-atmos-soundbar-sale-april-2026?utm_medium=RSS" target="_blank">This Samsung Dolby Atmos Soundbar Is Over $250 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2700484955-1280x853.jpg" alt="ICE Reportedly Acknowledges Its Use of Notorious Graphite Spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -304,15 +308,6 @@
                 <span class="time">2026-04-07 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNMNCE7GYE03F0KMZWCBHP56/hero-image.jpg" alt="I Tried Google&#x27;s New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-to-know-about-googles-new-ai-transcription-app?utm_medium=RSS" target="_blank">I Tried Google&#x27;s New On-Device AI Transcription App for iPhone, and It Was Surprisingly Accurate</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-07 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +322,13 @@
                 <span class="time">2026-04-08 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775512256-20260407.png" alt="Saturday Morning Breakfast Cereal - Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/will-2" target="_blank">Saturday Morning Breakfast Cereal - Will</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
