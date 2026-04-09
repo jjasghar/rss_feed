@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 11:18:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 12:13:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 11:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 12:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/USS-Ford-DB-260409_1775719040067_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-09 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss" target="_blank">Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention" target="_blank">A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +97,20 @@
                 <span class="time">2026-04-09 09:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss" target="_blank">Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies" target="_blank">Jim Whittaker, the first American to summit Mount Everest, dies at 97</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-09 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss" target="_blank">13-year-old girl captures terrifying moment Israel bombed Beirut</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 03:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/908328/macbook-neo-windows-laptop-competitors-asus-lenovo-acer-review-comparison" target="_blank">I tested three Windows laptops in the MacBook Neo’s price range — there’s no contest</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d6da478ee8335d7cc2a9c1/master/pass/Fi-Smart-Collar-Review-.jpg" alt="Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +156,29 @@
                 <span class="time">2026-04-09 03:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm" target="_blank">Gemini gets notebooks to help you organize projects</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 00:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykwzu6t2ivtn3mkd4vyt.png" alt="We Let AI Write Our Terraform. Then We Gave It a Security Conscience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/baremetal-dev/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-480e" target="_blank">We Let AI Write Our Terraform. Then We Gave It a Security Conscience</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17316349/apt-3-2-release" target="_blank">I Tried Apt Command&amp;#x27;s New Rollback Feature — Here’s How It Went</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-09 10:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +215,6 @@
                 <span class="time">2026-04-09 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hister/firefox-extension-ids-the-bad-and-the-ugly-2dgi" target="_blank">Firefox Extension IDs: The Bad and the Ugly</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ks22ss/patterns-of-inefficiency-in-enterprise-and-a-lean-alternatives-part-1-1a8c" target="_blank">Patterns of Inefficiency in Enterprise and a Lean Alternatives - Part 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/James-Ortiz-Rocky-Project-Hail-Mary-1280x853.jpg" alt="How the Hands Behind Rocky Got Hired for ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-the-hands-behind-rocky-got-hired-for-project-hail-mary-2000744296" target="_blank">How the Hands Behind Rocky Got Hired for ‘Project Hail Mary’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="As Sam Altman pushes for IPO, the wheels are coming off OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2026-04-08 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/a84cb7a9225144ba1d510f6007a132f2-1280x720.jpg" alt="Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gunzilla-nft-battle-royale-game-accused-of-not-paying-staff-for-months-game-informer-2000685847" target="_blank">Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-08 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
