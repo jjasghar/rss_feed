@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 17:22:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-09 18:17:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 17:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/9/zohran-mamdani-on-his-first-100-days?traffic_source=rss" target="_blank">Zohran Mamdani on his first 100 days</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,38 @@
                 <span class="time">2026-04-09 13:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/USS-Ford-DB-260409_1775719040067_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-09 12:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/" target="_blank">How to make the Startup Battlefield Top 20 — and what every company gets regardless</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-09 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d56806948761f395b6962c/master/pass/Model-Behavior-Black-Forest-Labs-Business-2193762181.jpg" alt="The 70-Person AI Image Startup Taking on Silicon Valley&#x27;s Giants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-forest-labs-ai-image-generation/" target="_blank">The 70-Person AI Image Startup Taking on Silicon Valley&#x27;s Giants</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations" target="_blank">Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2203118091-500x500.jpg" alt="First man convicted under Take It Down Act kept making AI nudes after arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +156,20 @@
                 <span class="time">2026-04-09 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/" target="_blank">Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-09 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1311107789-500x500.jpg" alt="First, Tesla canceled the Model 2—now it&#x27;s working on a new small EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/first-tesla-canceled-the-model-2-now-its-working-on-a-new-small-ev/" target="_blank">First, Tesla canceled the Model 2—now it&#x27;s working on a new small EV</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d5747914cc7e3430d8e8cc/master/pass/pol_Trump_GettyImages-2267897516.jpg" alt="MAGA Media Seems to Have Hit Its Breaking Point Over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/" target="_blank">MAGA Media Seems to Have Hit Its Breaking Point Over Iran</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnohhh1/how-i-repackaged-the-official-windows-codex-msix-into-a-working-linux-deb-48ch" target="_blank">How I repackaged the official Windows Codex MSIX into a working Linux .deb</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930088&w=600" alt="Intent-Driven AI Frontends: AI Assistance to Enterprise Angular Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ASUS-Armoury-More-Linux-7.0-HW" target="_blank">ASUS Armoury Driver Supports A Few More Laptops With Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-09 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/" target="_blank">Gen Z needs a knowledge base (and so do you)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry" target="_blank">Vercel Claude Code plugin wants to read your prompt</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-09 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amedinat/token-prices-are-dropping-so-why-is-my-ai-bill-going-up-6mm" target="_blank">Token Prices Are Dropping, So Why Is My AI Bill Going Up?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SiFive-400M-Data-Center" target="_blank">SiFive Raises $400M To Double Down On High Performance RISC-V For Data Centers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-09 14:14</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/yellowstone-1280x853.jpg" alt="Yellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/yellowstones-dreaded-supervolcano-has-an-unexpected-power-source-study-says-2000744448" target="_blank">Yellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-54-1280x726.jpg" alt="Amazon Punches Digital Book Lovers In The Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-kindle-brick-update-download-books-2000686328" target="_blank">Amazon Punches Digital Book Lovers In The Face</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/GzcPJNUWcAAaD3C-1280x720.jpg" alt="Pokémon Champions Turned One Mega Evolution Into An Instant Win Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,36 +288,18 @@
                 <span class="time">2026-04-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/zeldasss.jpg" alt="Link Shouldn’t Speak In The Legend Of Zelda Movie But He Definitely Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/link-shouldnt-speak-in-the-legend-of-zelda-movie-but-he-definitely-will-2000686255" target="_blank">Link Shouldn’t Speak In The Legend Of Zelda Movie But He Definitely Will</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/MS0409-maxima-man-of-tomorrow-1280x853.jpg" alt="‘Man of Tomorrow’ Is On the Hunt For Maxima" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/man-of-tomorrow-maxima-casting-rumors-james-gunn-2000744177" target="_blank">‘Man of Tomorrow’ Is On the Hunt For Maxima</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1775692056-Part5-site.png" alt="Saturday Morning Breakfast Cereal - Spheres Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/08/hidden-mechanics" target="_blank">Hidden Mechanics</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-08 17:55</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/spheres-part-5" target="_blank">Saturday Morning Breakfast Cereal - Spheres Part 5</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-09 15:20</span>
             </div>
         </div>
 </div>
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
