@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 14:33:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 15:28:11 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 14:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 15:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-500x500.jpg" alt="CDC study shows COVID shot benefits; Trump official blocks release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/cdc-study-shows-covid-shot-benefits-trump-official-blocks-release/" target="_blank">CDC study shows COVID shot benefits; Trump official blocks release</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2" target="_blank">Tesla is un-canceling its plan to build a smaller, cheaper EV: report</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -147,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments" target="_blank">A jury is about to decide the fate of Ticketmaster</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-09 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d68350b5c8c69555ab85ac/master/pass/Review--The-Ridge-Wallet.jpg" alt="I Tested the Instagram-Famous Ridge Wallet and I’m a Convert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/ridge-wallet/" target="_blank">I Tested the Instagram-Famous Ridge Wallet and I’m a Convert</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi" target="_blank">Waymo is offering to help cities fix their potholes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 13:00</span>
             </div>
         </div>
 </div>
@@ -246,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNQ6X96SCKDRVM6M3H5WP54D/hero-image.png" alt="Why You Should Start &#x27;Vertical Training&#x27; Outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-you-should-try-vertical-training-workouts?utm_medium=RSS" target="_blank">Why You Should Start &#x27;Vertical Training&#x27; Outside</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Resident Evil Requiem Includes A Surprising Homage To The Lord Of The Rings Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,15 +290,6 @@
                 <span class="time">2026-04-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/James-Ortiz-Rocky-Project-Hail-Mary-1280x853.jpg" alt="How the Hands Behind Rocky Got Hired for ‘Project Hail Mary’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-the-hands-behind-rocky-got-hired-for-project-hail-mary-2000744296" target="_blank">How the Hands Behind Rocky Got Hired for ‘Project Hail Mary’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-09 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,31 +304,13 @@
                 <span class="time">2026-04-08 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775512299-20260408.png" alt="Saturday Morning Breakfast Cereal - Mary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/mary" target="_blank">Saturday Morning Breakfast Cereal - Mary</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-08 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/seagulls/" target="_blank">Seagulls</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-04-08 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
