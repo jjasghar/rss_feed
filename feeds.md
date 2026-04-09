@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 21:13:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-09 22:11:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 22:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +55,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein" target="_blank">Melania Trump denies close ties to Jeffrey Epstein in rare public statement</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-09 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg" alt="Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 20:47</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +102,29 @@
                 <span class="time">2026-04-09 18:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/9/zohran-mamdani-on-his-first-100-days?traffic_source=rss" target="_blank">Zohran Mamdani on his first 100 days</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter" target="_blank">The EFF is quitting X</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1397973635-500x500.jpg" alt="AI on the couch: Anthropic gives Claude 20 hours of psychiatry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/" target="_blank">AI on the couch: Anthropic gives Claude 20 hours of psychiatry</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,20 @@
                 <span class="time">2026-04-09 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-500x500.jpg" alt="Ugandan chimps split into two factions, then killed rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/" target="_blank">Ugandan chimps split into two factions, then killed rivals</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909455/instagram-edit-comments" target="_blank">Instagram now lets you edit your own comments</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmog60g4spbh71m9ajdq.png" alt="Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iampavel/notes-on-my-first-factorio-mod-why-i-stopped-trusting-the-shift-click-dance-2eob" target="_blank">Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Linux-Limit-Frequency" target="_blank">Intel NPU Linux Driver To Allow Limiting Frequency For Power &amp; Thermal Management</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-09 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1" target="_blank">tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions</a></span>
                 <span class="feed">DEV Community</span>
@@ -191,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930133&w=600" alt="Applying Oracle 19c Release Update (RU): A Practical Guide from My DBA Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers" target="_blank">Maine Is About to Become the First State to Ban Major New Data Centers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-09 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Rust API and a new plugin system added to Miracle-WM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/miracle-wm-rust-plugins" target="_blank">Rust API and a new plugin system added to Miracle-WM</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-09 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnohhh1/how-i-repackaged-the-official-windows-codex-msix-into-a-working-linux-deb-48ch" target="_blank">How I repackaged the official Windows Codex MSIX into a working Linux .deb</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 18:13</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/applying-oracle-19c-release-update-ru" target="_blank">Applying Oracle 19c Release Update (RU): A Practical Guide from My DBA Experience</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-09 20:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/zuckerberg.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Meta is pulling ads that recruit plaintiffs suing Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/09/meta-is-pulling-ads-that-recruit-plaintiffs-suing-meta.html" target="_blank">Meta is pulling ads that recruit plaintiffs suing Meta</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-09 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2147939055-1280x853.jpg" alt="Volkswagen Shuts Down Tennessee Plant’s EV Production at the Worst Possible Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/volkswagen-shuts-down-tennessee-plants-ev-production-at-the-worst-possible-time-2000744723" target="_blank">Volkswagen Shuts Down Tennessee Plant’s EV Production at the Worst Possible Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-09 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Emoji-Workplace-Texts-Psychology--1280x827.jpeg" alt="Using Emojis at Work? You’re Not Going to Like This Study 😮" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +293,6 @@
                 <span class="time">2026-04-09 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/ed5e1409a45adcaa8b969d30b843e4e0-1280x720.jpg" alt="YouTuber Receives Copyright Strikes For Silent Hill 2 Playthrough From Makers Of Two AI-Generated Silent Hill 2 Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silent-hill-2-music-ai-songs-youtube-nubzombie-streamer-copyright-strikes-2000686293" target="_blank">YouTuber Receives Copyright Strikes For Silent Hill 2 Playthrough From Makers Of Two AI-Generated Silent Hill 2 Songs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/BigWhoop.jpg?fit=776%2C1200&amp;quality=60&amp;ssl=1" alt="May 3rd in Los Angeles: Catch indie comedy &quot;The Big Whoop&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/09/may-3rd-in-los-angeles-catch-indie-comedy-the-big-whoop.html" target="_blank">May 3rd in Los Angeles: Catch indie comedy &quot;The Big Whoop&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-09 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
