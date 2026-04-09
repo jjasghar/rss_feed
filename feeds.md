@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 00:09:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 01:31:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 00:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775689747444_nn_ggu_ceasefire_strikes_260408_S3_1920x1080-v9phto.jpg" alt="Ceasefire between Iran and the U.S. fragile amid continued strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/ceasefire-between-iran-and-the-u-s-fragile-amid-continued-strikes-260950597635" target="_blank">Ceasefire between Iran and the U.S. fragile amid continued strikes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-08 23:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +91,6 @@
                 <span class="time">2026-04-08 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-5-ap-gmh-260408_1775655741152_hpMain_4x3t_384.jpg" alt="Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Oil tankers halted in Hormuz after Israeli strikes on Lebanon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-08 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +103,24 @@
                 <span class="title"><a href="https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm" target="_blank">Gemini gets notebooks to help you organize projects</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-09 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cea9a12b790324f16d5a40/master/pass/Anthropic-Supply-Chain-Risk-Business.jpg" alt="Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-appeals-court-ruling/" target="_blank">Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-08 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-92959399-500x500.jpg" alt="Trump admin makes sweeping request for medical records of federal workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/" target="_blank">Trump admin makes sweeping request for medical records of federal workers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-08 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +150,29 @@
                 <span class="time">2026-04-08 19:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d6a5839dad1bfe79e89f12/master/pass/Strait-of-Hormuz-Reopens-Global-Shipping-Will-Take-Months-to-Recover-Gear-2269814320.jpg" alt="As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/" target="_blank">As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/" target="_blank">Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-08 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2" target="_blank">74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://obdev.at/products/littlesnitch-linux/index.html" target="_blank">LittleSnitch for Linux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-09 00:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh1cuur7r2vxx7j1vcire.png" alt="MongoDB Internals: Inside the Storage Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +209,6 @@
                 <span class="time">2026-04-08 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/little-snitch-linux" target="_blank">Little Snitch, the macOS network tool, is now available on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-08 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/silambarasan_a_bd1d4d0a29/what-is-a-constructor-in-javascript-25oa" target="_blank">What is a Constructor ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="As Sam Altman pushes for IPO, the wheels are coming off OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/08/as-sam-altman-pushes-for-ipo-the-wheels-are-coming-off-openai.html" target="_blank">As Sam Altman pushes for IPO, the wheels are coming off OpenAI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-09 00:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/GoodOmens_S2_Tennant_and_Sheen-1280x853.jpg" alt="‘Good Omens’ Season 3 Is Still Just One Episode, Despite Being Called That" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +280,6 @@
                 <span class="title"><a href="https://kotaku.com/gunzilla-nft-battle-royale-game-accused-of-not-paying-staff-for-months-game-informer-2000685847" target="_blank">Studio Behind NFT Battle Royale Game Accused Of Not Paying Staff For Months</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-08 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_2242338637-scaled.jpg?fit=2560%2C1706&amp;quality=60&amp;ssl=1" alt="500+ brain scans reveal what LSD, psilocybin, DMT have in common" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/08/500-brain-scans-reveal-what-lsd-psilocybin-dmt-have-in-common.html" target="_blank">500+ brain scans reveal what LSD, psilocybin, DMT have in common</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-08 20:49</span>
             </div>
         </div>
 </div>
@@ -345,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
