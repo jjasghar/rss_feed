@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 15:28:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 16:25:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 15:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 16:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg" alt="&#x27;Endless fears&#x27;: Even if fighting stops, the damage to Iran&#x27;s children will endure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Endless fears&#x27;: Even if fighting stops, the damage to Iran&#x27;s children will endure</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 16:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-4-gty-gmh-260409_1775738290947_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Hormuz is open to all ships that coordinate with Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +102,20 @@
                 <span class="time">2026-04-09 11:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/d3282f30-33fb-11f1-9d5c-8ba507d7dbde.jpg" alt="Israeli strikes in Lebanon &#x27;grave violation&#x27; of ceasefire, Iran minister tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli strikes in Lebanon &#x27;grave violation&#x27; of ceasefire, Iran minister tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2203118091-500x500.jpg" alt="First man convicted under Take It Down Act kept making AI nudes after arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/" target="_blank">First man convicted under Take It Down Act kept making AI nudes after arrest</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-500x500.jpg" alt="CDC study shows COVID shot benefits; Trump official blocks release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +161,6 @@
                 <span class="time">2026-04-09 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments" target="_blank">A jury is about to decide the fate of Ticketmaster</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +173,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/" target="_blank">Gen Z needs a knowledge base (and so do you)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-04-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry" target="_blank">Vercel Claude Code plugin wants to read your prompt</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-09 15:17</span>
             </div>
         </div>
 <div class="story">
@@ -191,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15" target="_blank">FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-09 14:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930180&w=600" alt="Tracking Dependencies Beyond the Build Stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/tracking-dependencies-beyond-build-stage" target="_blank">Tracking Dependencies Beyond the Build Stage</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davidsirota/the-end-of-checkbox-accessibility-3nfa" target="_blank">The End of Checkbox Accessibility</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Valve-Better-Gaming-Low-vRAM" target="_blank">Valve Developer Improves The Linux Gaming Experience For Limited vRAM Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-09 13:15</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/GzcPJNUWcAAaD3C-1280x720.jpg" alt="Pokémon Champions Turned One Mega Evolution Into An Instant Win Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-champions-mega-hawlucha-no-guard-ohko-doubles-2000686303" target="_blank">Pokémon Champions Turned One Mega Evolution Into An Instant Win Button</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 15:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNQ6X96SCKDRVM6M3H5WP54D/hero-image.png" alt="Why You Should Start &#x27;Vertical Training&#x27; Outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +293,6 @@
                 <span class="time">2026-04-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNRF02Q1XK47TVXHNHN08CER/hero-image.png" alt="This High-End Asus Gaming Monitor Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-rog-swift-gaming-monitor-sale-april-2026?utm_medium=RSS" target="_blank">This High-End Asus Gaming Monitor Is $400 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
