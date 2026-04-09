@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 13:29:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-09 14:33:11 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 16 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 14:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +55,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-4-gty-gmh-260409_1775738290947_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Hormuz is open to all ships that coordinate with Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Iran says Hormuz is open to all ships that coordinate with Tehran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-09 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss" target="_blank">Is the world economy heading towards stagflation?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 13:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/USS-Ford-DB-260409_1775719040067_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-09 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/g-s1-116863/up-first-newsletter-iran-us-israel-ceasefire-nato-teen-birth-rates-bill-gates" target="_blank">Iran-U.S. ceasefire off to a shaky start. And, Bill Gates to testify in Epstein probe</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 12:02</span>
             </div>
         </div>
 <div class="story">
@@ -64,39 +100,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775733371629_tdy_news_7a_bradley_israel_new_strikes_260409_S3_1920x1080-8ltk16.jpg" alt="New Strikes in Middle East Threaten Fragile US-Iran Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/d3282f30-33fb-11f1-9d5c-8ba507d7dbde.jpg" alt="Israeli strikes in Lebanon &#x27;grave violation&#x27; of ceasefire, Iran minister tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/new-strikes-in-middle-east-threaten-fragile-us-iran-ceasefire-260991557534" target="_blank">New Strikes in Middle East Threaten Fragile US-Iran Ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-09 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention" target="_blank">A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss" target="_blank">Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss" target="_blank">Several people reported killed in fresh Israeli attacks on Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 09:29</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli strikes in Lebanon &#x27;grave violation&#x27; of ceasefire, Iran minister tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 11:46</span>
             </div>
         </div>
 </div>
@@ -104,6 +113,42 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/" target="_blank">Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-09 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1311107789-500x500.jpg" alt="First, Tesla canceled the Model 2—now it&#x27;s working on a new small EV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/first-tesla-canceled-the-model-2-now-its-working-on-a-new-small-ev/" target="_blank">First, Tesla canceled the Model 2—now it&#x27;s working on a new small EV</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d5747914cc7e3430d8e8cc/master/pass/pol_Trump_GettyImages-2267897516.jpg" alt="MAGA Media Seems to Have Hit Its Breaking Point Over Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/" target="_blank">MAGA Media Seems to Have Hit Its Breaking Point Over Iran</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-09 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments" target="_blank">A jury is about to decide the fate of Ticketmaster</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d68350b5c8c69555ab85ac/master/pass/Review--The-Ridge-Wallet.jpg" alt="I Tested the Instagram-Famous Ridge Wallet and I’m a Convert" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,47 +167,47 @@
                 <span class="time">2026-04-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/908328/macbook-neo-windows-laptop-competitors-asus-lenovo-acer-review-comparison" target="_blank">I tested three Windows laptops in the MacBook Neo’s price range — there’s no contest</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d6da478ee8335d7cc2a9c1/master/pass/Fi-Smart-Collar-Review-.jpg" alt="Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/fi-mini-for-cats/" target="_blank">Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d54188e378a93eb5dc3dea/master/pass/art002e009289~large.jpg" alt="Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/" target="_blank">Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/909060/amflows-latest-e-bikes-raise-the-bar-again" target="_blank">Amflow’s latest e-bikes raise the bar again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/" target="_blank">Gen Z needs a knowledge base (and so do you)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amedinat/token-prices-are-dropping-so-why-is-my-ai-bill-going-up-6mm" target="_blank">Token Prices Are Dropping, So Why Is My AI Bill Going Up?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SiFive-400M-Data-Center" target="_blank">SiFive Raises $400M To Double Down On High Performance RISC-V For Data Centers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-09 14:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930180&w=600" alt="Tracking Dependencies Beyond the Build Stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tracking-dependencies-beyond-build-stage" target="_blank">Tracking Dependencies Beyond the Build Stage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +224,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Valve-Better-Gaming-Low-vRAM" target="_blank">Valve Developer Improves The Linux Gaming Experience For Limited vRAM Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-09 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18973508&w=600" alt="Governing Identity Under Uncertainty: Experimentation and Incrementality in Modern Programmatic Advertising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/governing-identity-under-uncertainty-experimentation" target="_blank">Governing Identity Under Uncertainty: Experimentation and Incrementality in Modern Programmatic Advertising</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/intentional-leadership-at-canonical" target="_blank">Intentional leadership at Canonical</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-09 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykwzu6t2ivtn3mkd4vyt.png" alt="We Let AI Write Our Terraform. Then We Gave It a Security Conscience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/baremetal-dev/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-480e" target="_blank">We Let AI Write Our Terraform. Then We Gave It a Security Conscience</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17316349/apt-3-2-release" target="_blank">I Tried Apt Command&amp;#x27;s New Rollback Feature — Here’s How It Went</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-09 10:22</span>
             </div>
         </div>
 </div>
@@ -236,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Resident Evil Requiem Includes A Surprising Homage To The Lord Of The Rings Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-lord-of-the-rings-spider-scene-2000686292" target="_blank">Resident Evil Requiem Includes A Surprising Homage To The Lord Of The Rings Movies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNQSY5G3RVW35NFMPRYVKVJK/hero-image.png" alt="The Top 10 TV Series Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-streaming-tv-series-march-2026?utm_medium=RSS" target="_blank">The Top 10 TV Series Right Now, According to Streaming Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/zeldasss.jpg" alt="Link Shouldn’t Speak In The Legend Of Zelda Movie But He Definitely Will" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/how-the-hands-behind-rocky-got-hired-for-project-hail-mary-2000744296" target="_blank">How the Hands Behind Rocky Got Hired for ‘Project Hail Mary’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="As Sam Altman pushes for IPO, the wheels are coming off OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/08/as-sam-altman-pushes-for-ipo-the-wheels-are-coming-off-openai.html" target="_blank">As Sam Altman pushes for IPO, the wheels are coming off OpenAI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-09 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/GoodOmens_S2_Tennant_and_Sheen-1280x853.jpg" alt="‘Good Omens’ Season 3 Is Still Just One Episode, Despite Being Called That" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/good-omens-season-3-length-amazon-2000744186" target="_blank">‘Good Omens’ Season 3 Is Still Just One Episode, Despite Being Called That</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-08 22:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
