@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 22:11:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 23:12:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 22:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 23:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg" alt="&#x27;We should not be at the mercy of events abroad&#x27; - Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We should not be at the mercy of events abroad&#x27; - Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss" target="_blank">Police in Venezuela block protesters calling for higher wages, pensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/melania-trump-3-gty-gmh-260409_1775760278037_hpMain_4x3t_384.jpg" alt="Melania Trump declares &#x27;I am not Epstein&#x27;s victim&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/melania-trump-declares-epsteins-victim/story?id=131891150" target="_blank">Melania Trump declares &#x27;I am not Epstein&#x27;s victim&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-09 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +100,38 @@
                 <span class="time">2026-04-09 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg" alt="Israel to hold direct talks with Lebanon, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Israel to hold direct talks with Lebanon, Netanyahu says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779627/birthrate-united-states-babies-immigration" target="_blank">710,000 fewer babies were born last year in U.S. compared with two decades ago</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-09 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260409-Strait-of-Hormuz-2-rs-1ae3de.jpg" alt="Strait of Hormuz shipping traffic is effectively at a standstill despite Iran ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/strait-hormuz-shipping-traffic-effectively-standstill-iran-ceasefire-rcna267391" target="_blank">Strait of Hormuz shipping traffic is effectively at a standstill despite Iran ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-09 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new" target="_blank">ChatGPT has a new $100 per month Pro subscription</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr. rewrites CDC panel&#x27;s charter, opening door to anti-vaccine quacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/" target="_blank">RFK Jr. rewrites CDC panel&#x27;s charter, opening door to anti-vaccine quacks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/" target="_blank">Florida AG to probe OpenAI, alleging possible connection to FSU shooting</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-09 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +159,20 @@
                 <span class="time">2026-04-09 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/" target="_blank">Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-09 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing" target="_blank">NASA’s Artemis II mission to fly around the far side of the Moon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg" alt="“Negative” views of Broadcom driving thousands of VMware migrations, rival says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/" target="_blank">“Negative” views of Broadcom driving thousands of VMware migrations, rival says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095" target="_blank">I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmog60g4spbh71m9ajdq.png" alt="Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-04-09 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930133&w=600" alt="Applying Oracle 19c Release Update (RU): A Practical Guide from My DBA Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/applying-oracle-19c-release-update-ru" target="_blank">Applying Oracle 19c Release Update (RU): A Practical Guide from My DBA Experience</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431" target="_blank">Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/zuckerberg.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Meta is pulling ads that recruit plaintiffs suing Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +291,6 @@
                 <span class="time">2026-04-09 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNSTYR0DRS5XANE1CFED9E07/hero-image.png" alt="The Best Deals in Home Depot&#x27;s &#x27;Spring Black Friday&#x27; Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-deals-home-depot-spring-black-friday-sale-april-2026?utm_medium=RSS" target="_blank">The Best Deals in Home Depot&#x27;s &#x27;Spring Black Friday&#x27; Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-09 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
