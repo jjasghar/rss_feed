@@ -1,45 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 20:14:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-09 21:13:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 36 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 20:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein" target="_blank">Melania Trump denies close ties to Jeffrey Epstein in rare public statement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss" target="_blank">Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 20:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg" alt="Israel to hold direct talks with Lebanon, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,29 +99,20 @@
                 <span class="time">2026-04-09 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe" target="_blank">Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8200/live/9a0ba670-340d-11f1-8be7-8b0656c72753.jpg" alt="UK says Russia ran submarine operation over cables and pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss" target="_blank">UK says Russia ran submarine operation over cables and pipelines</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/" target="_blank">Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-09 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,20 +158,29 @@
                 <span class="time">2026-04-09 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d6f6552ce2d8ce963cfb39/master/pass/Made-In-China-Inside-Chinas-Selective-War-on-the-Scam-Economy-Business-2256479172.jpg" alt="China Is Cracking Down on Scams. Just Not the Ones Hitting Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/" target="_blank">China Is Cracking Down on Scams. Just Not the Ones Hitting Americans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8" target="_blank">You’re a Real Software Developer Only If…</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cloudflare-emdash-wordpress/en/headerimage/generatedHeaderImage-1775658833509.jpg" alt="Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-09 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,24 +217,6 @@
                 <span class="time">2026-04-09 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930088&w=600" alt="Intent-Driven AI Frontends: AI Assistance to Enterprise Angular Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/intent-driven-ai-frontends-to-enterprise-angular" target="_blank">Intent-Driven AI Frontends: AI Assistance to Enterprise Angular Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo" target="_blank">The Pentagon Threatened Pope Leo XIV&#x27;s Ambassador with the Avignon Papacy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-09 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Emoji-Workplace-Texts-Psychology--1280x827.jpeg" alt="Using Emojis at Work? You’re Not Going to Like This Study 😮" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/using-emojis-at-work-youre-not-going-to-like-this-study-%f0%9f%98%ae-2000744745" target="_blank">Using Emojis at Work? You’re Not Going to Like This Study 😮</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-09 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-09 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/pauseeee-1280x720.jpg" alt="Video Game Devs Explain How Pausing Works And Sometimes It Gets Weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +290,6 @@
                 <span class="time">2026-04-09 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/yellowstone-1280x853.jpg" alt="Yellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/yellowstones-dreaded-supervolcano-has-an-unexpected-power-source-study-says-2000744448" target="_blank">Yellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-54-1280x726.jpg" alt="Amazon Punches Digital Book Lovers In The Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-kindle-brick-update-download-books-2000686328" target="_blank">Amazon Punches Digital Book Lovers In The Face</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
