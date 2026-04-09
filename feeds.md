@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 10:22:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-09 11:18:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 10:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire?traffic_source=rss" target="_blank">Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2026-04-09 03:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg" alt="Trump criticises Nato as alliance chief describes meeting as &#x27;very frank&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises Nato as alliance chief describes meeting as &#x27;very frank&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 01:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d6da478ee8335d7cc2a9c1/master/pass/Fi-Smart-Collar-Review-.jpg" alt="Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/fi-mini-for-cats/" target="_blank">Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d54188e378a93eb5dc3dea/master/pass/art002e009289~large.jpg" alt="Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +155,20 @@
                 <span class="time">2026-04-09 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cea9a12b790324f16d5a40/master/pass/Anthropic-Supply-Chain-Risk-Business.jpg" alt="Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-appeals-court-ruling/" target="_blank">Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-08 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lemonade-SDK-10.2-Released" target="_blank">AMD Making It Easier To Embed Lemonade AI Capabilities Into Other Apps</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-09 10:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +214,6 @@
                 <span class="time">2026-04-09 07:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmla75gj6xobi0was3209.png" alt="AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flamehaven01/ai-slop-detector-v31-three-formula-refinements-and-the-adversarial-tester-that-found-them-5e2n" target="_blank">AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 05:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -223,9 +223,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html" target="_blank">Python Supply-Chain Compromise</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html" target="_blank">On Microsoft’s Lousy Cloud Security</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-08 10:25</span>
+                <span class="time">2026-04-09 10:51</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
