@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 18:17:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-09 19:24:32 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 19:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779627/birthrate-united-states-babies-immigration" target="_blank">710,000 fewer babies were born last year in U.S. compared with two decades ago</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260409-Strait-of-Hormuz-2-rs-1ae3de.jpg" alt="Strait of Hormuz shipping traffic is effectively at a standstill despite Iran ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/strait-hormuz-shipping-traffic-effectively-standstill-iran-ceasefire-rcna267391" target="_blank">Strait of Hormuz shipping traffic is effectively at a standstill despite Iran ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-09 18:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +96,38 @@
                 <span class="time">2026-04-09 16:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-4-gty-gmh-260409_1775738290947_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran says Hormuz is open to all ships that coordinate with Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Iran says Hormuz is open to all ships that coordinate with Tehran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-09 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/4/9/is-the-world-economy-heading-towards-stagflation?traffic_source=rss" target="_blank">Is the world economy heading towards stagflation?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-500x500.jpg" alt="Ugandan chimps split into two factions, then killed rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/" target="_blank">Ugandan chimps split into two factions, then killed rivals</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909455/instagram-edit-comments" target="_blank">Instagram now lets you edit your own comments</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d6f6552ce2d8ce963cfb39/master/pass/Made-In-China-Inside-Chinas-Selective-War-on-the-Scam-Economy-Business-2256479172.jpg" alt="China Is Cracking Down on Scams. Just Not the Ones Hitting Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/" target="_blank">China Is Cracking Down on Scams. Just Not the Ones Hitting Americans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-09 19:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations" target="_blank">Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-09 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2203118091-500x500.jpg" alt="First man convicted under Take It Down Act kept making AI nudes after arrest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/" target="_blank">First man convicted under Take It Down Act kept making AI nudes after arrest</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-500x500.jpg" alt="CDC study shows COVID shot benefits; Trump official blocks release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/cdc-study-shows-covid-shot-benefits-trump-official-blocks-release/" target="_blank">CDC study shows COVID shot benefits; Trump official blocks release</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2" target="_blank">Tesla is un-canceling its plan to build a smaller, cheaper EV: report</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 15:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +234,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/10/ed5e1409a45adcaa8b969d30b843e4e0-1280x720.jpg" alt="YouTuber Receives Copyright Strikes For Silent Hill 2 Playthrough From Makers Of Two AI-Generated Silent Hill 2 Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silent-hill-2-music-ai-songs-youtube-nubzombie-streamer-copyright-strikes-2000686293" target="_blank">YouTuber Receives Copyright Strikes For Silent Hill 2 Playthrough From Makers Of Two AI-Generated Silent Hill 2 Songs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/BigWhoop.jpg?fit=776%2C1200&amp;quality=60&amp;ssl=1" alt="May 3rd in Los Angeles: Catch indie comedy &quot;The Big Whoop&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/09/may-3rd-in-los-angeles-catch-indie-comedy-the-big-whoop.html" target="_blank">May 3rd in Los Angeles: Catch indie comedy &quot;The Big Whoop&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-09 18:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/yellowstone-1280x853.jpg" alt="Yellowstone’s Dreaded Supervolcano Has an Unexpected Power Source, Study Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,24 +287,6 @@
                 <span class="time">2026-04-09 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Resident Evil Requiem Includes A Surprising Homage To The Lord Of The Rings Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-lord-of-the-rings-spider-scene-2000686292" target="_blank">Resident Evil Requiem Includes A Surprising Homage To The Lord Of The Rings Movies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNQSY5G3RVW35NFMPRYVKVJK/hero-image.png" alt="The Top 10 TV Series Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-streaming-tv-series-march-2026?utm_medium=RSS" target="_blank">The Top 10 TV Series Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
