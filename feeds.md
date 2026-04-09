@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 16:25:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 17:22:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 16:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 17:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics" target="_blank">This doctor turned a 31-foot RV into one of the country&#x27;s only mobile OB-GYN clinics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss" target="_blank">Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg" alt="&#x27;Endless fears&#x27;: Even if fighting stops, the damage to Iran&#x27;s children will endure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump vows &#x27;bigger, and better&#x27; Iran attacks if deal not reached</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-09 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/09/g-s1-116863/up-first-newsletter-iran-us-israel-ceasefire-nato-teen-birth-rates-bill-gates" target="_blank">Iran-U.S. ceasefire off to a shaky start. And, Bill Gates to testify in Epstein probe</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-09 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss" target="_blank">Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 11:57</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930088&w=600" alt="Intent-Driven AI Frontends: AI Assistance to Enterprise Angular Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/intent-driven-ai-frontends-to-enterprise-angular" target="_blank">Intent-Driven AI Frontends: AI Assistance to Enterprise Angular Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-09 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo" target="_blank">The Pentagon Threatened Pope Leo XIV&#x27;s Ambassador with the Avignon Papacy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-09 16:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/SiFive-400M-Data-Center" target="_blank">SiFive Raises $400M To Double Down On High Performance RISC-V For Data Centers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-09 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17316448/foss-weekly-26-15" target="_blank">FOSS Weekly #26.15: Rollback in apt, bad USB detection, Glass UI in KDE, Linux Kernel dropping older processor support and more</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-09 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930180&w=600" alt="Tracking Dependencies Beyond the Build Stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tracking-dependencies-beyond-build-stage" target="_blank">Tracking Dependencies Beyond the Build Stage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-09 14:00</span>
             </div>
         </div>
 </div>
@@ -312,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:26 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
