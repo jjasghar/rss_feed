@@ -1,44 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 04:01:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-09 05:32:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 04:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 05:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/g-s1-116847/mountaineer-jim-whittaker-dies" target="_blank">Jim Whittaker, the first American to summit Mount Everest, dies at 97</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 05:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/ceasefire-between-iran-and-the-u-s-fragile-amid-continued-strikes-260950597635" target="_blank">Ceasefire between Iran and the U.S. fragile amid continued strikes</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-08 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5776855/once-seen-as-a-war-hero-australian-ex-soldier-will-stand-trial-for-alleged-war-crimes" target="_blank">Once seen as a war hero, Australian ex-soldier will stand trial for alleged war crimes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 22:59</span>
             </div>
         </div>
 </div>
@@ -173,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmla75gj6xobi0was3209.png" alt="AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flamehaven01/ai-slop-detector-v31-three-formula-refinements-and-the-adversarial-tester-that-found-them-5e2n" target="_blank">AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 05:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-04.31.48.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill brings lyrics to your GNOME desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -215,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/priteshsurana/mongodb-internals-inside-the-storage-engine-2c9b" target="_blank">MongoDB Internals: Inside the Storage Engine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-09 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18929684&w=600" alt="Why Queues Don’t Fix Scaling Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/queues-dont-absorb-load-they-delay-bankruptcy-1" target="_blank">Why Queues Don’t Fix Scaling Problems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-08 23:01</span>
             </div>
         </div>
 </div>
@@ -346,7 +335,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:01 UTC
+        🔄 Last Updated: 05:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
