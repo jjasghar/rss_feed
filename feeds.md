@@ -1,32 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 19:24:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-09 20:14:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 13 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 19:24 UTC</div>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 20:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg" alt="Israel to hold direct talks with Lebanon, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Israel to hold direct talks with Lebanon, Netanyahu says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,28 +94,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5775761/this-doctor-turned-a-31-foot-rv-into-one-of-the-countrys-only-mobile-ob-gyn-clinics" target="_blank">This doctor turned a 31-foot RV into one of the country&#x27;s only mobile OB-GYN clinics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-09 16:27</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe" target="_blank">Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-09 18:00</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8200/live/9a0ba670-340d-11f1-8be7-8b0656c72753.jpg" alt="UK says Russia ran submarine operation over cables and pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss" target="_blank">Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg" alt="&#x27;Endless fears&#x27;: Even if fighting stops, the damage to Iran&#x27;s children will endure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Endless fears&#x27;: Even if fighting stops, the damage to Iran&#x27;s children will endure</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss" target="_blank">UK says Russia ran submarine operation over cables and pipelines</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 16:06</span>
+                <span class="time">2026-04-09 17:09</span>
             </div>
         </div>
 </div>
@@ -101,6 +114,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/" target="_blank">Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-09 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing" target="_blank">NASA’s Artemis II mission to fly around the far side of the Moon</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-09 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg" alt="“Negative” views of Broadcom driving thousands of VMware migrations, rival says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/" target="_blank">“Negative” views of Broadcom driving thousands of VMware migrations, rival says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-09 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-500x500.jpg" alt="Ugandan chimps split into two factions, then killed rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +168,38 @@
                 <span class="time">2026-04-09 19:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/" target="_blank">How to make the Startup Battlefield Top 20 — and what every company gets regardless</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-09 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d56806948761f395b6962c/master/pass/Model-Behavior-Black-Forest-Labs-Business-2193762181.jpg" alt="The 70-Person AI Image Startup Taking on Silicon Valley&#x27;s Giants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-forest-labs-ai-image-generation/" target="_blank">The 70-Person AI Image Startup Taking on Silicon Valley&#x27;s Giants</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations" target="_blank">Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1" target="_blank">tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers" target="_blank">Maine Is About to Become the First State to Ban Major New Data Centers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-09 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Rust API and a new plugin system added to Miracle-WM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/miracle-wm-rust-plugins" target="_blank">Rust API and a new plugin system added to Miracle-WM</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-09 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +227,6 @@
                 <span class="time">2026-04-09 16:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ASUS-Armoury-More-Linux-7.0-HW" target="_blank">ASUS Armoury Driver Supports A Few More Laptops With Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-09 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/" target="_blank">Gen Z needs a knowledge base (and so do you)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry" target="_blank">Vercel Claude Code plugin wants to read your prompt</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-09 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/pauseeee-1280x720.jpg" alt="Video Game Devs Explain How Pausing Works And Sometimes It Gets Weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339" target="_blank">Video Game Devs Explain How Pausing Works And Sometimes It Gets Weird</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNSTYR0DRS5XANE1CFED9E07/hero-image.png" alt="The Best Deals in Home Depot&#x27;s &#x27;Spring Black Friday&#x27; Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-deals-home-depot-spring-black-friday-sale-april-2026?utm_medium=RSS" target="_blank">The Best Deals in Home Depot&#x27;s &#x27;Spring Black Friday&#x27; Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-09 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/10/ed5e1409a45adcaa8b969d30b843e4e0-1280x720.jpg" alt="YouTuber Receives Copyright Strikes For Silent Hill 2 Playthrough From Makers Of Two AI-Generated Silent Hill 2 Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +300,6 @@
                 <span class="time">2026-04-09 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/GzcPJNUWcAAaD3C-1280x720.jpg" alt="Pokémon Champions Turned One Mega Evolution Into An Instant Win Button" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-champions-mega-hawlucha-no-guard-ohko-doubles-2000686303" target="_blank">Pokémon Champions Turned One Mega Evolution Into An Instant Win Button</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNQ6X96SCKDRVM6M3H5WP54D/hero-image.png" alt="Why You Should Start &#x27;Vertical Training&#x27; Outside" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-you-should-try-vertical-training-workouts?utm_medium=RSS" target="_blank">Why You Should Start &#x27;Vertical Training&#x27; Outside</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-09 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
