@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 01:31:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-09 02:58:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg" alt="Trump criticises Nato as alliance chief describes meeting as &#x27;very frank&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises Nato as alliance chief describes meeting as &#x27;very frank&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 01:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775689747444_nn_ggu_ceasefire_strikes_260408_S3_1920x1080-v9phto.jpg" alt="Ceasefire between Iran and the U.S. fragile amid continued strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss" target="_blank">World reacts to ‘brutal’ Israeli attacks on Lebanon amid US-Iran ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-08 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley" target="_blank">Why OpenAI bought &#x27;SportsCenter for Silicon Valley&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-08 19:17</span>
             </div>
         </div>
 </div>
@@ -158,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-march-2026/" target="_blank">GitHub availability report: March 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-09 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2" target="_blank">74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.</a></span>
                 <span class="feed">DEV Community</span>
@@ -183,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18929684&w=600" alt="Why Queues Don’t Fix Scaling Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/queues-dont-absorb-load-they-delay-bankruptcy-1" target="_blank">Why Queues Don’t Fix Scaling Problems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-08 23:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-March-2026" target="_blank">Redox OS Establishes AI Policy To Forbid Contributions Made Using LLMs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-08 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samwitadhikary/how-i-built-a-full-stack-community-platform-from-scratch-and-what-i-learned-3ljh" target="_blank">How I Built a Full Stack Community Platform from Scratch - And What I Learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-08 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/Screenshot-from-2026-04-08-20-18-03.webp?resize=406%2C232&amp;ssl=1" alt="macOS app Little Snitch is now available on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/little-snitch-linux" target="_blank">macOS app Little Snitch is now available on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-08 18:59</span>
             </div>
         </div>
 </div>
@@ -337,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
