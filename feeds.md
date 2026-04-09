@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 09:24:30 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-04-09 10:22:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 09:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, April 09, 2026 - 10:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss" target="_blank">Several people reported killed in fresh Israeli attacks on Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-09 09:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779000/iran-war-updates" target="_blank">Trump warns strikes will resume if Iran doesn&#x27;t agree to his peace terms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-09 09:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss" target="_blank">Trump criticises Nato as alliance chief describes meeting as &#x27;very frank&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-09 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-mark-rutte-donald-trump_7058996.jpg?20251022235928" alt="Trump hits out at NATO after meeting alliance chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-hits-out-at-nato-after-meeting-alliance-chief-13529515" target="_blank">Trump hits out at NATO after meeting alliance chief</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-09 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d4b/live/8c4eeee0-2e84-11f1-98e7-6b639170d418.jpg" alt="22,000 students told to pay back &#x27;mis-sold&#x27; maintenance loans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss" target="_blank">22,000 students told to pay back &#x27;mis-sold&#x27; maintenance loans</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 00:01</span>
             </div>
         </div>
 </div>
@@ -161,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kalvin-moss/state-of-forest-products-vision-and-strategies-for-2030-131d" target="_blank">State of Forest Products: Vision and Strategies for 2030</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-09 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-Primitive-Restart-Index" target="_blank">RADV Lands Support For Vulkan&#x27;s New Primitive Restart Index Extension</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-09 09:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/building-hierarchical-agentic-rag-systems/en/headerimage/building-hierarchical-agentic-rag-systems-header-1775040657142.jpg" alt="Article: Building Hierarchical Agentic RAG Systems: Multi-Modal Reasoning with Autonomous Error Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/flamehaven01/ai-slop-detector-v31-three-formula-refinements-and-the-adversarial-tester-that-found-them-5e2n" target="_blank">AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-09 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-04.31.48.webp?resize=406%2C232&amp;ssl=1" alt="Dynamic Music Pill brings lyrics to your GNOME desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/lyrics-feature-dynamic-music-pill-extension" target="_blank">Dynamic Music Pill brings lyrics to your GNOME desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-09 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-march-2026/" target="_blank">GitHub availability report: March 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-09 02:21</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
