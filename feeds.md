@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 08:27:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 09:24:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 08:27 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 09:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss" target="_blank">Torpedo-like object discovered by Indonesian fisherman</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss" target="_blank">Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 07:54</span>
@@ -66,6 +68,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5780575/hip-hop-pioneer-afrika-bambaataa-dies-obituary" target="_blank">Hip-hop pioneer Afrika Bambaataa dies at age 68</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-10 07:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-ukraine-easter-orthodox_7215761.jpg?20260410084938" alt="Russia and Ukraine to hold 32-hour ceasefire for Orthodox Easter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russia-and-ukraine-to-hold-32-hour-ceasefire-for-orthodox-easter-13529916" target="_blank">Russia and Ukraine to hold 32-hour ceasefire for Orthodox Easter</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-10 07:13</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss" target="_blank">Palestinian journalist describes losing prosthetic eye in Israeli prison</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss" target="_blank">UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss" target="_blank">Riot police push back protesters demanding higher wages in Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 02:21</span>
             </div>
         </div>
 </div>
@@ -169,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mighty840/i-built-a-container-orchestrator-in-rust-because-kubernetes-was-too-much-and-coolify-wasnt-enough-4hj7" target="_blank">I Built a Container Orchestrator in Rust Because Kubernetes Was Too Much and Coolify Wasn&#x27;t Enough</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 09:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="Hyperparameter Optimization: Grid vs Random vs Bayesian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/piiiico/googles-ai-watermark-was-cracked-heres-what-that-tells-us-about-ai-trust-38mm" target="_blank">Google&#x27;s AI Watermark Was Cracked. Here&#x27;s What That Tells Us About AI Trust.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-10 01:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-2604-Released" target="_blank">FEX 2604 Released With Better Memory Savings For Running x86_64 Apps/Games On ARM64</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-10 00:19</span>
             </div>
         </div>
 </div>
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
