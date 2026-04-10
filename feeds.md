@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 21:08:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 22:08:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -180,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Jay-Compiler-Merged-Mesa" target="_blank">Intel&#x27;s New Shader Compiler &quot;Jay&quot; Merged For Mesa 26.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-10 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l" target="_blank">rclap a new configuration management for rust, is now on crates.io</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +210,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-driven-automated-trading-system" target="_blank">AI-Driven Automated Trading System</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17317115/session-call-for-donations" target="_blank">Privacy Messenger Session Is Staring Down a 90-Day Countdown to Obscurity</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-10 18:24</span>
             </div>
         </div>
 </div>
@@ -368,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
