@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-09 23:12:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 00:12:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 09, 2026 - 23:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg" alt="Ceasefire or no ceasefire, the Middle East&#x27;s reshuffling is not yet done" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss" target="_blank">Ceasefire or no ceasefire, the Middle East&#x27;s reshuffling is not yet done</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-09 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg" alt="&#x27;We should not be at the mercy of events abroad&#x27; - Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-09 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel?traffic_source=rss" target="_blank">Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 20:41</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raju_dandigam/docker-for-typescript-developers-building-ai-agents-in-2026-1k3l" target="_blank">Docker for TypeScript Developers Building AI Agents in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095" target="_blank">I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-09 23:01</span>
@@ -209,15 +216,6 @@
                 <span class="time">2026-04-09 20:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1" target="_blank">tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +236,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431" target="_blank">Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-09 22:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431" target="_blank">Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-09 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/ozempicpen-1280x853.jpg" alt="Ozempic Shreds Bones? How a Small Study Turned Into a Big Health Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ozempic-misinformation-is-spreading-again-this-time-about-bones-2000744610" target="_blank">Ozempic Shreds Bones? How a Small Study Turned Into a Big Health Myth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-09 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +289,6 @@
                 <span class="time">2026-04-09 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KME936P2J3GKT4X4MR5Y166T/hero-image.png" alt="Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-big-spring-sale-live-blog?utm_medium=RSS" target="_blank">Amazon Big Spring Sale 2026 Live Blog: All the Best Deals From Apple, Kindle, Garmin, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-09 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/pauseeee-1280x720.jpg" alt="Video Game Devs Explain How Pausing Works And Sometimes It Gets Weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339" target="_blank">Video Game Devs Explain How Pausing Works And Sometimes It Gets Weird</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
