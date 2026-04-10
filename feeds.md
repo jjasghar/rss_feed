@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 14:21:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 15:14:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 15:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss" target="_blank">Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 14:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +108,29 @@
                 <span class="time">2026-04-10 11:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775820307284_tdy_news_7a_gosk_israel_hezbollah_strikes_260410_S3_1920x1080-sdv6ow.jpg" alt="Israel and Hezbollah Trade Strikes Further Threatening Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-and-hezbollah-trade-strikes-further-threatening-ceasefire-261081157667" target="_blank">Israel and Hezbollah Trade Strikes Further Threatening Ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-10 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909846/trump-mobile-phone-47-plan-trademark-registration" target="_blank">Trump Mobile isn’t giving up just yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-10 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/" target="_blank">France to ditch Windows for Linux to reduce reliance on US tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-10 14:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/legotrump-500x500.jpg" alt="Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +167,38 @@
                 <span class="time">2026-04-10 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d81aa2a596735619649f69/master/pass/The-Best-Smart-Shades,-Blinds,-and-Curtains.jpg" alt="Best Smart Shades, Blinds, and Curtains (2026): Motorized, Tailor-Made, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-shades-blinds-curtains/" target="_blank">Best Smart Shades, Blinds, and Curtains (2026): Motorized, Tailor-Made, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55186765716_feed099d47_k-500x500.jpg" alt="Rocket Report: Chinese version of Falcon 9 fails; Artemis depends on rapid heavy lift" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/" target="_blank">Rocket Report: Chinese version of Falcon 9 fails; Artemis depends on rapid heavy lift</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932559&w=600" alt="Building End-to-End Payroll Integrations in Workday Using PECI and PICOF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/end-to-end-payroll-integrations-in-workday" target="_blank">Building End-to-End Payroll Integrations in Workday Using PECI and PICOF</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/latency-techniques/en/mediumimage/amir-langer-medium-1774444318217.jpg" alt="Presentation: Latency: The Race to Zero...Are We There Yet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Latency: The Race to Zero...Are We There Yet?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-10 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/firefox-chrome-2026" target="_blank">Firefox 149 vs. Chrome 147 Web Browser Performance On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-10 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917992&w=600" alt="Schema Evolution in Delta Lake: Designing Pipelines That Never Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +226,6 @@
                 <span class="time">2026-04-10 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920194&w=600" alt="Swift Concurrency, Part 2: Parent/Child Relationship, Automatic Cancellation, Task Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/swift-concurrency-parent-child-cancellation-task-groups" target="_blank">Swift Concurrency, Part 2: Parent/Child Relationship, Automatic Cancellation, Task Groups</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alexcarteruk/incident-response-on-call-hardening-best-practices-cho-secret-rotation-trieu-chung-nguyen-44kg" target="_blank">Incident response / On-call: hardening &amp; best practices cho secret rotation (triệu chứng nguyên nhân cách fix)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cncf-kusari-security/en/headerimage/generatedHeaderImage-1775306473905.jpg" alt="CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cncf-kusari-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/amazon-luna-1280x720.jpg" alt="Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazons-luna-service-removing-access-to-purchased-games-and-is-offering-no-refunds-2000686688" target="_blank">Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-10 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNME7EEKGF206JDAH1S8T2B9/hero-image.jpg" alt="10 Hacks Every Threads User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-threads-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Threads User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/MS0410-x-men-97-1280x853.jpg" alt="It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/hisense-85qd7qf-mini-led-tv-sale-april-2026?utm_medium=RSS" target="_blank">This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-maul-shadow-lord-lightsaber-1280x853.jpg" alt="Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/maul-shadow-lord-lightsabers-sam-witwer-screams-2000744761" target="_blank">Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/ProjectHailMary-VRgame-1280x853.jpg" alt="Andy Weir Wrote a New ‘Project Hail Mary’ Adventure, Just Not in the Way You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/project-hail-mary-new-story-vr-game-andy-weir-2000744758" target="_blank">Andy Weir Wrote a New ‘Project Hail Mary’ Adventure, Just Not in the Way You’d Expect</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 11:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
