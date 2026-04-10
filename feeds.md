@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 22:08:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-10 23:09:00 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 22:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 23:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss" target="_blank">Hezbollah rocket attack damages 1,500-year-old Israeli church</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-18-ht-gmh-260410_1775860456155_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew suited up, preparing for reentry in historic mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew suited up, preparing for reentry in historic mission</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-10 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/f3457360-34c6-11f1-879d-1b2f5c3919b8.jpg" alt="Lebanon and Israel officials to meet in US on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon and Israel officials to meet in US on Tuesday</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-10 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-diego-garcia-chagos_7140211.jpg?20260120071907" alt="Chagos Islands deal pulled by government after Trump brands it &#x27;act of great stupidity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/chagos-islands-deal-pulled-by-government-after-trump-brands-it-act-of-great-stupidity-13530280" target="_blank">Chagos Islands deal pulled by government after Trump brands it &#x27;act of great stupidity&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-10 20:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-13-ht-gmh-260410_1775852640129_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew preparing for reentry on last day in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -58,47 +98,20 @@
                 <span class="time">2026-04-10 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss" target="_blank">UK police arrest man after four die during Channel crossing attempt</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale" target="_blank">Prince Harry sued for defamation by charity he co-founded</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-10 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss" target="_blank">US federal court hears new case against Trump tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/10/g-s1-116860/oscar-homebound-india-pandemic-hindu-dalit-muslim" target="_blank">Shortlisted for an Oscar, &#x27;Homebound&#x27; is a daring movie about two dear friends</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-10 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/" target="_blank">How to watch NASA’s Artemis II splash back down to Earth</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-10 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -115,6 +128,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/" target="_blank">New paper argues history, not mantle plume, powers Yellowstone</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-10 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d91baa5a9f1b2ae13f1b89/master/pass/Courtesy-of-Weber.jpg" alt="Home Depot Spring Black Friday (2026): Best Tool and Grill Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/" target="_blank">Home Depot Spring Black Friday (2026): Best Tool and Grill Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-10 19:31</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +157,20 @@
                 <span class="time">2026-04-10 18:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-500x500.jpeg" alt="Microsoft makes it easier for Windows Insider testers to get new features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/" target="_blank">Microsoft makes it easier for Windows Insider testers to get new features</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/youtube-money-500x500.jpg" alt="YouTube increases Premium price again, says 90-second unskippable ads are a bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/" target="_blank">YouTube increases Premium price again, says 90-second unskippable ads are a bug</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng" target="_blank">Aethir Adapter Exploit. 500k. Complete Operational security Mess.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="time">2026-04-10 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932126&w=600" alt="AI-Driven Automated Trading System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-automated-trading-system" target="_blank">AI-Driven Automated Trading System</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNHTFEV45VVQZ1EQNR17QXWE/hero-image.jpg" alt="10 Hacks Every Google Pixel Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-pixel-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Pixel Owner Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/microsoft-pete-hines.jpg" alt="Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/tales-from-the-crypt-streaming-shudder-2000745039" target="_blank">‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-10 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_7672.jpg" alt="Pokémon Champions May Have The Hardest Shiny Hunting In The Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-champions-shiny-hunting-recruit-quick-coupons-2000686716" target="_blank">Pokémon Champions May Have The Hardest Shiny Hunting In The Series</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-10 16:30</span>
             </div>
         </div>
 </div>
@@ -358,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:08 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
