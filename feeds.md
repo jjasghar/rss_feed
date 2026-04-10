@@ -1,9 +1,9 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 18:12:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 19:16:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -11,31 +11,22 @@
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 18:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 19:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss" target="_blank">UK police arrest man after four die during Channel crossing attempt</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +96,20 @@
                 <span class="time">2026-04-10 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/4/10/in-perus-presidential-race-a-pro-trump-frontrunner-sinks-in-final-stretch?traffic_source=rss" target="_blank">In Peru’s presidential race, a pro-Trump frontrunner sinks in final stretch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d92ac7d7f2e496da19531f/master/pass/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg" alt="Motorola’s Souped-Up Folding Phone Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/motorola-razr-ultra-deal-426/" target="_blank">Motorola’s Souped-Up Folding Phone Is Almost Half Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-10 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d9224e67ec9ebaea2e242b/master/pass/silver-entry-0.jpeg" alt="The Future of the Artemis Program Is Riding on Reentry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +155,29 @@
                 <span class="time">2026-04-10 15:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/" target="_blank">France to ditch Windows for Linux to reduce reliance on US tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-10 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990" target="_blank">I Built a Tool That Turns Any Website Into Full Documentation in Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17317115/session-call-for-donations" target="_blank">Privacy Messenger Session Is Staring Down a 90-Day Countdown to Obscurity</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-10 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe97kbtca8dlmbpuxe61s.png" alt="What two hackathons taught me about agent architecture — and how it&#x27;s reshaping Atlarix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +214,6 @@
                 <span class="time">2026-04-10 16:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Changes" target="_blank">Linux 7.0 Ready For Release With Many Exciting Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-10 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/" target="_blank">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Resident-Evil-Requiem-1280x853.jpg" alt="I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/i-cant-decide-which-resident-evil-requiem-perspective-i-liked-more-2000745076" target="_blank">I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/warner-bros-speed-racer-1280x853.jpg" alt="I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +287,6 @@
                 <span class="time">2026-04-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/amazon-luna-1280x720.jpg" alt="Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazons-luna-service-removing-access-to-purchased-games-and-is-offering-no-refunds-2000686688" target="_blank">Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-10 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
