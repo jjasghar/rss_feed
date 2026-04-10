@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 17:14:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 18:12:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 17:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 18:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss" target="_blank">US federal court hears new case against Trump tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/10/g-s1-116860/oscar-homebound-india-pandemic-hindu-dalit-muslim" target="_blank">Shortlisted for an Oscar, &#x27;Homebound&#x27; is a daring movie about two dear friends</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-10 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +105,29 @@
                 <span class="time">2026-04-10 15:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss" target="_blank">Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea68/live/138bba10-34e7-11f1-bce2-613d63bea84f.jpg" alt="Man arrested after baby girl dies from dog bite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested after baby girl dies from dog bite</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-10 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d9224e67ec9ebaea2e242b/master/pass/silver-entry-0.jpeg" alt="The Future of the Artemis Program Is Riding on Reentry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/" target="_blank">The Future of the Artemis Program Is Riding on Reentry</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-10 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/win11-dark-wallpaper-500x500.jpeg" alt="Microsoft makes it easier for Windows Insider testers to get new features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/" target="_blank">Microsoft makes it easier for Windows Insider testers to get new features</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/youtube-money-500x500.jpg" alt="YouTube increases Premium price again, says 90-second unskippable ads are a bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +164,38 @@
                 <span class="time">2026-04-10 14:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/legotrump-500x500.jpg" alt="Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/04/pro-iran-explosive-media-trolls-trump-with-ai-generated-lego-cartoons/" target="_blank">Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/" target="_blank">Snap gets closer to releasing new AI glasses after years-long hiatus</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe97kbtca8dlmbpuxe61s.png" alt="What two hackathons taught me about agent architecture — and how it&#x27;s reshaping Atlarix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amariahak/what-two-hackathons-taught-me-about-agent-architecture-and-how-its-reshaping-atlarix-36ch" target="_blank">What two hackathons taught me about agent architecture — and how it&#x27;s reshaping Atlarix</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930144&w=600" alt="Enhancing SQL Server Performance with Query Store and Intelligent Query Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/enhancing-sql-server-performance" target="_blank">Enhancing SQL Server Performance with Query Store and Intelligent Query Processing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-VMUFAT-2026" target="_blank">VMUFAT File-System Driver Proposed For The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-10 16:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvidxk0tykybbu9ttkub1.gif" alt="The Standup Chaos Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +223,6 @@
                 <span class="time">2026-04-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18830196&w=600" alt="Quality Crisis in Robotics and How Video Annotation Fixes It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/quality-crisis-in-robotics-and-how-video-annotatio" target="_blank">Quality Crisis in Robotics and How Video Annotation Fixes It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty terminal is now available in the Ubuntu repos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ghostty-terminal-ubuntu-26-04-apt-install" target="_blank">Ghostty terminal is now available in the Ubuntu repos</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-10 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/" target="_blank">You can&#x27;t trust macOS Privacy and Security settings</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-10 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/warner-bros-speed-racer-1280x853.jpg" alt="I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/i-rewatched-the-live-action-speed-racer-to-feel-something-again-2000745043" target="_blank">I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-10 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/gamersatc-1280x720.jpg" alt="Trump And The FAA Targeting Gamers To Help Solve Air Traffic Controller Shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/trump-and-the-faa-targeting-gamers-to-help-solve-air-traffic-controller-shortage-2000686722" target="_blank">Trump And The FAA Targeting Gamers To Help Solve Air Traffic Controller Shortage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-10 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/TalesFromtheCrypt-1280x853.jpg" alt="‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/amazons-luna-service-removing-access-to-purchased-games-and-is-offering-no-refunds-2000686688" target="_blank">Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-10 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNME7EEKGF206JDAH1S8T2B9/hero-image.jpg" alt="10 Hacks Every Threads User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-threads-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Threads User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/MS0410-x-men-97-1280x853.jpg" alt="It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-x-men-movie-casting-rumors-rogue-beast-2000744825" target="_blank">It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 14:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
