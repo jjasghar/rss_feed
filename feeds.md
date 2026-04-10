@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 01:31:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 02:59:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss" target="_blank">Riot police push back protesters demanding higher wages in Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg" alt="Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Iran&#x27;s handling of Strait of Hormuz is &#x27;not the agreement we have&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-10 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss" target="_blank">Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 00:00</span>
@@ -65,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-4-gty-gmh-260409_1775738290947_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran &#x27;better not&#x27; collect Strait of Hormuz toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Trump says Iran &#x27;better not&#x27; collect Strait of Hormuz toll</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-09 23:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg" alt="&#x27;We should not be at the mercy of events abroad&#x27; - Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -73,38 +97,20 @@
                 <span class="time">2026-04-09 22:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss" target="_blank">Police in Venezuela block protesters calling for higher wages, pensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-09 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/melania-trump-3-gty-gmh-260409_1775760278037_hpMain_4x3t_384.jpg" alt="Melania Trump declares &#x27;I am not Epstein&#x27;s victim&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/melania-trump-declares-epsteins-victim/story?id=131891150" target="_blank">Melania Trump declares &#x27;I am not Epstein&#x27;s victim&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-09 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein" target="_blank">Melania Trump denies close ties to Jeffrey Epstein in rare public statement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-09 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-500x500.jpg" alt="Orion helium leak no threat to Artemis II reentry, but will require redesign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/" target="_blank">Orion helium leak no threat to Artemis II reentry, but will require redesign</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-10 00:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d81fc99011397f817a1986/master/pass/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg" alt="OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter" target="_blank">The EFF is quitting X</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-09 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1397973635-500x500.jpg" alt="AI on the couch: Anthropic gives Claude 20 hours of psychiatry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/" target="_blank">AI on the couch: Anthropic gives Claude 20 hours of psychiatry</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-09 21:20</span>
             </div>
         </div>
 </div>
@@ -238,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="Sure, Jan: Melania pops up with a very convenient Epstein denial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/09/sure-jan-melania-pops-up-with-a-very-convenient-epstein-denial.html" target="_blank">Sure, Jan: Melania pops up with a very convenient Epstein denial</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-10 00:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,20 +288,20 @@
                 <span class="time">2026-04-09 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Emoji-Workplace-Texts-Psychology--1280x827.jpeg" alt="Using Emojis at Work? You’re Not Going to Like This Study 😮" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/using-emojis-at-work-youre-not-going-to-like-this-study-%f0%9f%98%ae-2000744745" target="_blank">Using Emojis at Work? You’re Not Going to Like This Study 😮</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-09 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5802.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5802" target="_blank">Comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-10 00:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1775692056-Part5-site.png" alt="Saturday Morning Breakfast Cereal - Spheres Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
