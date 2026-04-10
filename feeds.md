@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 20:08:09 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-10 21:08:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 20:08 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 21:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-13-ht-gmh-260410_1775852640129_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew preparing for reentry on last day in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew preparing for reentry on last day in space</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-10 20:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +104,29 @@
                 <span class="time">2026-04-10 17:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss" target="_blank">Netanyahu removes Spain from Gaza coordination centre over ‘hostility’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage" target="_blank">Now the FAA says gamers are the answer to its air traffic controller shortage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-10 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1187698526-500x500.jpg" alt="New paper argues history, not mantle plume, powers Yellowstone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/" target="_blank">New paper argues history, not mantle plume, powers Yellowstone</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-10 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d92ac7d7f2e496da19531f/master/pass/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg" alt="Motorola’s Souped-Up Folding Phone Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +163,6 @@
                 <span class="time">2026-04-10 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909975/little-snitch-linux-launch" target="_blank">Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-10 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909846/trump-mobile-phone-47-plan-trademark-registration" target="_blank">Trump Mobile isn’t giving up just yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-10 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,9 +172,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/12-best-code-audit-tools-in-2026-quality-and-security-eeb" target="_blank">12 Best Code Audit Tools in 2026 - Quality and Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l" target="_blank">rclap a new configuration management for rust, is now on crates.io</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-10 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932136&w=600" alt="Apache Spark 3 to Apache Spark 4 Migration: What Breaks, What Improves, What&#x27;s Mandatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apache-spark-3-to-apache-spark-4-migration" target="_blank">Apache Spark 3 to Apache Spark 4 Migration: What Breaks, What Improves, What&#x27;s Mandatory</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +222,20 @@
                 <span class="time">2026-04-10 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe97kbtca8dlmbpuxe61s.png" alt="What two hackathons taught me about agent architecture — and how it&#x27;s reshaping Atlarix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amariahak/what-two-hackathons-taught-me-about-agent-architecture-and-how-its-reshaping-atlarix-36ch" target="_blank">What two hackathons taught me about agent architecture — and how it&#x27;s reshaping Atlarix</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18930144&w=600" alt="Enhancing SQL Server Performance with Query Store and Intelligent Query Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/enhancing-sql-server-performance" target="_blank">Enhancing SQL Server Performance with Query Store and Intelligent Query Processing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Squid Overfishing in the South Pacific</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-10 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/microsoft-pete-hines.jpg" alt="Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743" target="_blank">Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-10 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Resident-Evil-Requiem-1280x853.jpg" alt="I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +304,29 @@
                 <span class="time">2026-04-10 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNW0WB4AKDVMGPZ2PYJHB4SN/hero-image.jpg" alt="You Can Finally Edit Your Instagram Comments, but There’s a Time Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-edit-your-instagram-comments?utm_medium=RSS" target="_blank">You Can Finally Edit Your Instagram Comments, but There’s a Time Limit</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/10/sweating-to-the-oldies" target="_blank">Sweating To The Oldies</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-10 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/little-dude/" target="_blank">Little Dude</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-04-10 15:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1775692319-20260410.png" alt="Saturday Morning Breakfast Cereal - Log" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,6 +346,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/lightning.png" alt="Lightning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3231/" target="_blank">Lightning</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-10 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5802.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +368,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:08 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
