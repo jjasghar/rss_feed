@@ -1,11 +1,6 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 15:14:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-10 16:14:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
@@ -13,32 +8,28 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 35 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 15:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/4/10/in-perus-presidential-race-a-pro-trump-frontrunner-sinks-in-final-stretch?traffic_source=rss" target="_blank">In Peru’s presidential race, a pro-Trump frontrunner sinks in final stretch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss" target="_blank">Pakistan sets modest goal for US-Iran summit: A deal to keep talks going</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea68/live/138bba10-34e7-11f1-bce2-613d63bea84f.jpg" alt="Man arrested after baby girl dies from dog bite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss" target="_blank">Man arrested after baby girl dies from dog bite</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-10 14:20</span>
             </div>
         </div>
 <div class="story">
@@ -88,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss" target="_blank">Gaza father searches for his children’s remains in the rubble for years</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/10/g-s1-117023/up-first-newsletter-iran-us-israel-jd-vance-artemis-two-melania-trump-fema-funds" target="_blank">VP Vance to lead U.S. team in Iran peace talks. And, Artemis II to return to Earth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-10 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss" target="_blank">‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 11:44</span>
             </div>
         </div>
 </div>
@@ -173,6 +164,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvidxk0tykybbu9ttkub1.gif" alt="The Standup Chaos Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javz/the-standup-chaos-simulator-1ch8" target="_blank">The Standup Chaos Simulator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 16:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Changes" target="_blank">Linux 7.0 Ready For Release With Many Exciting Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-10 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18830196&w=600" alt="Quality Crisis in Robotics and How Video Annotation Fixes It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/quality-crisis-in-robotics-and-how-video-annotatio" target="_blank">Quality Crisis in Robotics and How Video Annotation Fixes It</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty terminal is now available in the Ubuntu repos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ghostty-terminal-ubuntu-26-04-apt-install" target="_blank">Ghostty terminal is now available in the Ubuntu repos</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-10 15:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932559&w=600" alt="Building End-to-End Payroll Integrations in Workday Using PECI and PICOF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -182,48 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/latency-techniques/en/mediumimage/amir-langer-medium-1774444318217.jpg" alt="Presentation: Latency: The Race to Zero...Are We There Yet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Latency: The Race to Zero...Are We There Yet?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-10 14:28</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/firefox-chrome-2026" target="_blank">Firefox 149 vs. Chrome 147 Web Browser Performance On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-10 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917992&w=600" alt="Schema Evolution in Delta Lake: Designing Pipelines That Never Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/schema-evolution-in-delta-lake-designing-pipelines" target="_blank">Schema Evolution in Delta Lake: Designing Pipelines That Never Break</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://aleyan.com/blog/2026-why-arent-we-uv-yet" target="_blank">Why Aren&#x27;t We uv Yet?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-10 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vfwimg7ws2h19zcrirj.png" alt="Publishing and Embedding Power BI Reports on the Web with IFrames" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosemutai/publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-3nd5" target="_blank">Publishing and Embedding Power BI Reports on the Web with IFrames</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 13:25</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-26-04-lts-security-updates" target="_blank">What’s new in security for Ubuntu 26.04 LTS?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-04-10 14:44</span>
             </div>
         </div>
 </div>
@@ -305,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1775692319-20260410.png" alt="Saturday Morning Breakfast Cereal - Log" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/log" target="_blank">Saturday Morning Breakfast Cereal - Log</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,22 +322,13 @@
                 <span class="time">2026-04-10 00:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775692056-Part5-site.png" alt="Saturday Morning Breakfast Cereal - Spheres Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/spheres-part-5" target="_blank">Saturday Morning Breakfast Cereal - Spheres Part 5</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
