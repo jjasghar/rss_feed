@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 16:14:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 17:14:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 17:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss" target="_blank">Netanyahu removes Spain from Gaza coordination centre over ‘hostility’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule" target="_blank">Four men deported by US to Eswatini have right to see lawyer, court rules</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-10 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/vance-2-gty-gmh-260410_1775825958713_hpMain_4x3t_384.jpg" alt="Iran live updates: Vance heads to Islamabad for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Vance heads to Islamabad for Iran talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-10 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +99,29 @@
                 <span class="time">2026-04-10 14:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger" target="_blank">Five things to know about Hungary&#x27;s election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-10 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b409/live/64bc2b30-34e3-11f1-bce2-613d63bea84f.png" alt="Drug dealer busted after sending picture of new &#x27;Turkey teeth&#x27; to friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp9vkezmxy0o?at_medium=RSS&at_campaign=rss" target="_blank">Drug dealer busted after sending picture of new &#x27;Turkey teeth&#x27; to friend</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-10 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss" target="_blank">Gaza father searches for his children’s remains in the rubble for years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/10/youtube-money-500x500.jpg" alt="YouTube increases Premium price again, says 90-second unskippable ads are a bug" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/" target="_blank">YouTube increases Premium price again, says 90-second unskippable ads are a bug</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-10 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909975/little-snitch-linux-launch" target="_blank">Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-10 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="time">2026-04-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses" target="_blank">Snap is sticking with Qualcomm for its next AR glasses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d86fcfd53d31b9b5b5c6ff/master/pass/Review--Aventon-Current-ADV-Electric-Mountain-Bike.jpg" alt="Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/" target="_blank">Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +182,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/" target="_blank">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18830196&w=600" alt="Quality Crisis in Robotics and How Video Annotation Fixes It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -200,21 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932559&w=600" alt="Building End-to-End Payroll Integrations in Workday Using PECI and PICOF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/end-to-end-payroll-integrations-in-workday" target="_blank">Building End-to-End Payroll Integrations in Workday Using PECI and PICOF</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-26-04-lts-security-updates" target="_blank">What’s new in security for Ubuntu 26.04 LTS?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-10 14:44</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/" target="_blank">You can&#x27;t trust macOS Privacy and Security settings</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-10 15:28</span>
             </div>
         </div>
 </div>
@@ -236,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/TalesFromtheCrypt-1280x853.jpg" alt="‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tales-from-the-crypt-streaming-shudder-2000745039" target="_blank">‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/IMG_7672.jpg" alt="Pokémon Champions May Have The Hardest Shiny Hunting In The Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-champions-shiny-hunting-recruit-quick-coupons-2000686716" target="_blank">Pokémon Champions May Have The Hardest Shiny Hunting In The Series</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-10 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNW0WB4AKDVMGPZ2PYJHB4SN/hero-image.jpg" alt="You Can Finally Edit Your Instagram Comments, but There’s a Time Limit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-edit-your-instagram-comments?utm_medium=RSS" target="_blank">You Can Finally Edit Your Instagram Comments, but There’s a Time Limit</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/amazon-luna-1280x720.jpg" alt="Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/marvel-x-men-movie-casting-rumors-rogue-beast-2000744825" target="_blank">It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNVJ9ESTA5NERTBFHE7CZEE5/hero-image.jpg" alt="You Should Be Using Reddit on Your RSS Reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/rss-reader-on-reddit?utm_medium=RSS" target="_blank">You Should Be Using Reddit on Your RSS Reader</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Official-Starsand-Island-artwork-Seed-Sparkle-Lab-1280x720.jpg" alt="New Cozy RPG Suddenly Disappears From Steam And It Might Have Something To Do With Ripping Off Tetris" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cozy-rpg-starsand-island-steam-tetris-2000686677" target="_blank">New Cozy RPG Suddenly Disappears From Steam And It Might Have Something To Do With Ripping Off Tetris</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-10 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNTREE20WJ0FZBDZ9BNNTGYD/hero-image.png" alt="This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-85qd7qf-mini-led-tv-sale-april-2026?utm_medium=RSS" target="_blank">This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 13:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
