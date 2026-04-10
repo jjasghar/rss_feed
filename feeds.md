@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 00:12:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 01:31:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss" target="_blank">Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg" alt="Ceasefire or no ceasefire, the Middle East&#x27;s reshuffling is not yet done" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +100,20 @@
                 <span class="time">2026-04-09 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg" alt="Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss" target="_blank">Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-09 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d81fc99011397f817a1986/master/pass/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg" alt="OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/" target="_blank">OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-10 00:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2026-04-09 21:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/" target="_blank">Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-09 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/piiiico/googles-ai-watermark-was-cracked-heres-what-that-tells-us-about-ai-trust-38mm" target="_blank">Google&#x27;s AI Watermark Was Cracked. Here&#x27;s What That Tells Us About AI Trust.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 01:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,10 +185,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-april-10-2026-red-hat" target="_blank">Friday Five — April 10, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-04-10 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095" target="_blank">I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-09 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/old-kindles.webp?resize=406%2C232&amp;ssl=1" alt="Your old Kindle won’t stop working on 20 May – but it could" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/older-kindles-amazon-support" target="_blank">Your old Kindle won’t stop working on 20 May – but it could</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-09 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/iampavel/notes-on-my-first-factorio-mod-why-i-stopped-trusting-the-shift-click-dance-2eob" target="_blank">Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-09 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8" target="_blank">You’re a Real Software Developer Only If…</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-09 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cloudflare-emdash-wordpress/en/headerimage/generatedHeaderImage-1775658833509.jpg" alt="Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces EmDash: TypeScript CMS Positioned as WordPress Successor</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-09 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Linux-Limit-Frequency" target="_blank">Intel NPU Linux Driver To Allow Limiting Frequency For Power &amp; Thermal Management</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-09 20:20</span>
             </div>
         </div>
 </div>
@@ -308,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
