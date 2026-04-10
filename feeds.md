@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 12:11:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 13:28:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 12:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/gaza-father-searches-for-his-childrens-remains-in-the-rubble-for-years?traffic_source=rss" target="_blank">Gaza father searches for his children’s remains in the rubble for years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2026-04-10 10:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss" target="_blank">Senegal PM labels Trump ‘agent of global destabilisation’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/legotrump-500x500.jpg" alt="Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/04/pro-iran-explosive-media-trolls-trump-with-ai-generated-lego-cartoons/" target="_blank">Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-10 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/" target="_blank">Snap gets closer to releasing new AI glasses after years-long hiatus</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +159,29 @@
                 <span class="time">2026-04-10 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/55194459003_3bae619a73_o-500x500.jpg" alt="Orion helium leak no threat to Artemis II reentry, but will require redesign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/" target="_blank">Orion helium leak no threat to Artemis II reentry, but will require redesign</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d81fc99011397f817a1986/master/pass/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg" alt="OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/" target="_blank">OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vfwimg7ws2h19zcrirj.png" alt="Publishing and Embedding Power BI Reports on the Web with IFrames" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosemutai/publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-3nd5" target="_blank">Publishing and Embedding Power BI Reports on the Web with IFrames</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18920194&w=600" alt="Swift Concurrency, Part 2: Parent/Child Relationship, Automatic Cancellation, Task Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/swift-concurrency-parent-child-cancellation-task-groups" target="_blank">Swift Concurrency, Part 2: Parent/Child Relationship, Automatic Cancellation, Task Groups</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,22 +218,18 @@
                 <span class="time">2026-04-10 10:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/google-cloud-postgresql/en/headerimage/generatedHeaderImage-1775811962259.jpg" alt="Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/google-cloud-postgresql/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Highlights Ongoing Work on PostgreSQL Core Capabilities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-10 09:30</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mighty840/i-built-a-container-orchestrator-in-rust-because-kubernetes-was-too-much-and-coolify-wasnt-enough-4hj7" target="_blank">I Built a Container Orchestrator in Rust Because Kubernetes Was Too Much and Coolify Wasn&#x27;t Enough</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 09:21</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html" target="_blank">Sen. Sanders Talks to Claude About AI and Privacy</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-10 10:41</span>
             </div>
         </div>
 </div>
@@ -222,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNTREE20WJ0FZBDZ9BNNTGYD/hero-image.png" alt="This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-85qd7qf-mini-led-tv-sale-april-2026?utm_medium=RSS" target="_blank">This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-maul-shadow-lord-lightsaber-1280x853.jpg" alt="Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +291,6 @@
                 <span class="time">2026-04-09 22:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/12/ozempicpen-1280x853.jpg" alt="Ozempic Shreds Bones? How a Small Study Turned Into a Big Health Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ozempic-misinformation-is-spreading-again-this-time-about-bones-2000744610" target="_blank">Ozempic Shreds Bones? How a Small Study Turned Into a Big Health Myth</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-09 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
