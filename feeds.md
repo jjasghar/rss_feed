@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 13:28:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 14:21:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 14:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5779931/hungary-election-orban-challenger" target="_blank">Five things to know about Hungary&#x27;s election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-10 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b409/live/64bc2b30-34e3-11f1-bce2-613d63bea84f.png" alt="Drug dealer busted after sending picture of new &#x27;Turkey teeth&#x27; to friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp9vkezmxy0o?at_medium=RSS&at_campaign=rss" target="_blank">Drug dealer busted after sending picture of new &#x27;Turkey teeth&#x27; to friend</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-10 13:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +100,6 @@
                 <span class="time">2026-04-10 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss" target="_blank">Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/55a47520-0cf8-11f1-b7e1-afb6d0884c18.jpg" alt="Man jailed for killing abused wife who jumped from bridge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss" target="_blank">Man jailed for killing abused wife who jumped from bridge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-10 10:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -133,6 +133,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69d86fcfd53d31b9b5b5c6ff/master/pass/Review--Aventon-Current-ADV-Electric-Mountain-Bike.jpg" alt="Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/" target="_blank">Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-10 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69d81aa2a596735619649f69/master/pass/The-Best-Smart-Shades,-Blinds,-and-Curtains.jpg" alt="Best Smart Shades, Blinds, and Curtains (2026): Motorized, Tailor-Made, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +159,29 @@
                 <span class="time">2026-04-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18917992&w=600" alt="Schema Evolution in Delta Lake: Designing Pipelines That Never Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/schema-evolution-in-delta-lake-designing-pipelines" target="_blank">Schema Evolution in Delta Lake: Designing Pipelines That Never Break</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://aleyan.com/blog/2026-why-arent-we-uv-yet" target="_blank">Why Aren&#x27;t We uv Yet?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-10 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vfwimg7ws2h19zcrirj.png" alt="Publishing and Embedding Power BI Reports on the Web with IFrames" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2026-04-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij" target="_blank">PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/" target="_blank">France Launches Government Linux Desktop Plan as Windows Exit Begins</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-10 10:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/MS0410-x-men-97-1280x853.jpg" alt="It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvel-x-men-movie-casting-rumors-rogue-beast-2000744825" target="_blank">It’s Already Time to Start the Casting Rumors for Marvel’s ‘X-Men’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNVJ9ESTA5NERTBFHE7CZEE5/hero-image.jpg" alt="You Should Be Using Reddit on Your RSS Reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/rss-reader-on-reddit?utm_medium=RSS" target="_blank">You Should Be Using Reddit on Your RSS Reader</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Official-Starsand-Island-artwork-Seed-Sparkle-Lab-1280x720.jpg" alt="New Cozy RPG Suddenly Disappears From Steam And It Might Have Something To Do With Ripping Off Tetris" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cozy-rpg-starsand-island-steam-tetris-2000686677" target="_blank">New Cozy RPG Suddenly Disappears From Steam And It Might Have Something To Do With Ripping Off Tetris</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-10 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNTREE20WJ0FZBDZ9BNNTGYD/hero-image.png" alt="This Massive Hisense Mini-LED TV Is Almost 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/project-hail-mary-new-story-vr-game-andy-weir-2000744758" target="_blank">Andy Weir Wrote a New ‘Project Hail Mary’ Adventure, Just Not in the Way You’d Expect</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/11/melania-beschizza.jpg?fit=1786%2C1195&amp;quality=60&amp;ssl=1" alt="Sure, Jan: Melania pops up with a very convenient Epstein denial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/09/sure-jan-melania-pops-up-with-a-very-convenient-epstein-denial.html" target="_blank">Sure, Jan: Melania pops up with a very convenient Epstein denial</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-10 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431" target="_blank">Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/googles.jpg" alt="Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431" target="_blank">Cult-Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-09 22:44</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
