@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 11:15:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-10 12:11:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 11:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 12:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/10/g-s1-117023/up-first-newsletter-iran-us-israel-jd-vance-artemis-two-melania-trump-fema-funds" target="_blank">VP Vance to lead U.S. team in Iran peace talks. And, Artemis II to return to Earth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-10 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss" target="_blank">‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775820307284_tdy_news_7a_gosk_israel_hezbollah_strikes_260410_S3_1920x1080-sdv6ow.jpg" alt="Israel and Hezbollah Trade Strikes Further Threatening Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-and-hezbollah-trade-strikes-further-threatening-ceasefire-261081157667" target="_blank">Israel and Hezbollah Trade Strikes Further Threatening Ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-10 11:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +99,20 @@
                 <span class="time">2026-04-10 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss" target="_blank">Torpedo-like object discovered by Indonesian fisherman</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 09:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss" target="_blank">Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5780575/hip-hop-pioneer-afrika-bambaataa-dies-obituary" target="_blank">Hip-hop pioneer Afrika Bambaataa dies at age 68</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-10 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses" target="_blank">Snap is sticking with Qualcomm for its next AR glasses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d81aa2a596735619649f69/master/pass/The-Best-Smart-Shades,-Blinds,-and-Curtains.jpg" alt="Best Smart Shades, Blinds, and Curtains (2026): Motorized, Tailor-Made, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2026-04-10 00:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new" target="_blank">ChatGPT has a new $100 per month Pro subscription</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-09 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +167,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexcarteruk/incident-response-on-call-hardening-best-practices-cho-secret-rotation-trieu-chung-nguyen-44kg" target="_blank">Incident response / On-call: hardening &amp; best practices cho secret rotation (triệu chứng nguyên nhân cách fix)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cncf-kusari-security/en/headerimage/generatedHeaderImage-1775306473905.jpg" alt="CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cncf-kusari-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF and Kusari Partner to Strengthen Software Supply Chain Security Across Cloud-Native Projects</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij" target="_blank">PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-10 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/" target="_blank">France Launches Government Linux Desktop Plan as Windows Exit Begins</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-10 10:37</span>
             </div>
         </div>
 <div class="story">
@@ -190,38 +217,20 @@
                 <span class="time">2026-04-10 09:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="Hyperparameter Optimization: Grid vs Random vs Bayesian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/berkan_sesen/hyperparameter-optimization-grid-vs-random-vs-bayesian-gik" target="_blank">Hyperparameter Optimization: Grid vs Random vs Bayesian</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F25rpa1fduhuh4xe6vmpc.jpg" alt="Run Leetcode locally - Javascript test case for practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rickvian/run-leetcode-locally-javascript-test-case-for-practices-1ffn" target="_blank">Run Leetcode locally - Javascript test case for practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17316816/microsoft-locks-out-open-source-developers" target="_blank">Microsoft Locked Out VeraCrypt, WireGuard, and Windscribe from Pushing Windows Updates</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-10 04:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-maul-shadow-lord-lightsaber-1280x853.jpg" alt="Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/maul-shadow-lord-lightsabers-sam-witwer-screams-2000744761" target="_blank">Maul’s Lightsabers in ‘Shadow Lord’ Are Powered by Sam Witwer’s Screams</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/ProjectHailMary-VRgame-1280x853.jpg" alt="Andy Weir Wrote a New ‘Project Hail Mary’ Adventure, Just Not in the Way You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +276,6 @@
                 <span class="time">2026-04-09 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/zuckerberg.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Meta is pulling ads that recruit plaintiffs suing Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/09/meta-is-pulling-ads-that-recruit-plaintiffs-suing-meta.html" target="_blank">Meta is pulling ads that recruit plaintiffs suing Meta</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-09 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
