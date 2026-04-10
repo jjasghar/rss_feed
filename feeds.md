@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 19:16:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-10 20:08:09 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 19:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, April 10, 2026 - 20:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +44,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5775847/alex-pretti-renee-good-ice-shootings-federal-investigations" target="_blank">Months after the ICE shootings in Minnesota, a federal probe remains elusive</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-10 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss" target="_blank">UK police arrest man after four die during Channel crossing attempt</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale" target="_blank">Prince Harry sued for defamation by charity he co-founded</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-10 17:41</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss" target="_blank">Netanyahu removes Spain from Gaza coordination centre over ‘hostility’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-10 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule" target="_blank">Four men deported by US to Eswatini have right to see lawyer, court rules</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-10 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-2-gty-gmh-260410_1775825958713_hpMain_4x3t_384.jpg" alt="Iran live updates: Vance heads to Islamabad for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Vance heads to Islamabad for Iran talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-10 16:24</span>
             </div>
         </div>
 </div>
@@ -164,9 +163,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l" target="_blank">rclap a new configuration management for rust, is now on crates.io</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990" target="_blank">I Built a Tool That Turns Any Website Into Full Documentation in Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-10 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932126&w=600" alt="AI-Driven Automated Trading System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-automated-trading-system" target="_blank">AI-Driven Automated Trading System</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-10 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/enhancing-sql-server-performance" target="_blank">Enhancing SQL Server Performance with Query Store and Intelligent Query Processing</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-10 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-VMUFAT-2026" target="_blank">VMUFAT File-System Driver Proposed For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-10 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvidxk0tykybbu9ttkub1.gif" alt="The Standup Chaos Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javz/the-standup-chaos-simulator-1ch8" target="_blank">The Standup Chaos Simulator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 16:12</span>
             </div>
         </div>
 </div>
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
