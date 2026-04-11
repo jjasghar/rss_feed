@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 14:09:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-11 15:07:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 14:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 15:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss" target="_blank">US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/vance-rt-jt-260411_1775914025629_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran peace talks in Islamabad have started, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US-Iran peace talks in Islamabad have started, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-11 14:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/vance-2-gty-gmh-260410_1775825958713_hpMain_4x3t_384.jpg" alt="Iran live updates: Vance and Pakistani PM hold bilateral meeting in Islamabad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +104,20 @@
                 <span class="time">2026-04-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2e/live/4823be50-3594-11f1-9d5c-8ba507d7dbde.jpg" alt="Murder arrest over Primrose Hill stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss" target="_blank">Murder arrest over Primrose Hill stabbing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-11 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss" target="_blank">Israel in row with South Korea leader over Palestinian abuse concerns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers" target="_blank">Pokémon Champions is off to a rough start</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +137,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69d91ec24fbd3a67c34041ad/master/pass/Crimson-Desert-Review-Gear-07.jpg" alt="‘Crimson Desert’ Is a Cat Dad Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/" target="_blank">‘Crimson Desert’ Is a Cat Dad Simulator</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-11 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-500x500.jpg" alt="AI models are terrible at betting on soccer—especially xAI Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -133,24 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-electric-cargo-bikes/" target="_blank">Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china" target="_blank">Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d96f59b8bdc021bdac9cf7/master/pass/Why-Mosquitos-Target-Humans-Science-1139949311.jpg" alt="Flight Path Data Shows How Mosquitoes Target Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/" target="_blank">Flight Path Data Shows How Mosquitoes Target Humans</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-11 10:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 15:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
