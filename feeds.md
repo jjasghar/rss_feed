@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 11:07:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-11 12:05:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 11:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 12:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5773903/opinion-a-well-deserved-statue-for-a-hero-rat" target="_blank">Opinion: A well-deserved statue for a hero rat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2e/live/4823be50-3594-11f1-9d5c-8ba507d7dbde.jpg" alt="Murder arrest over Primrose Hill stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +103,20 @@
                 <span class="time">2026-04-11 08:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss" target="_blank">Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 07:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-500x500.jpg" alt="AI models are terrible at betting on soccer—especially xAI Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/" target="_blank">AI models are terrible at betting on soccer—especially xAI Grok</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-11 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d91d304fbd3a67c34041a7/master/pass/The-Best-Electric-Cargo-Bikes-for-Hauling-Your-Life-Around.jpg" alt="Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +162,29 @@
                 <span class="time">2026-04-11 01:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/" target="_blank">NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-11 00:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/davidballester/i-built-a-reminder-app-to-keep-my-brag-document-up-to-date-29gk" target="_blank">I built a reminder app to keep my Brag Document up to date</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-BeagleV-Ahead-HDMI" target="_blank">RISC-V BeagleV Ahead Single Board Computer To See Working HDMI With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-11 11:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0lu1tjfb1gpstvhesgu.png" alt="How to Build a Waitlist Page for Your Startup in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +221,6 @@
                 <span class="time">2026-04-11 08:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/etsy-vitess-sharding-migration/en/headerimage/generatedHeaderImage-1774855136721.jpg" alt="Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-11 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adioof/the-pantheon-of-tokens-why-developers-rank-ai-models-like-greek-gods-and-how-its-quietly-51ee" target="_blank">The Pantheon of Tokens: Why Developers Rank AI Models Like Greek Gods and How It&#x27;s Quietly Sabotaging Their Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Soundboks-Party-Speaker-review-01-1280x853.jpg" alt="This Loud-Ass Party Speaker Almost Got Me High AF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-loud-ass-party-speaker-almost-got-me-high-af-2000744709" target="_blank">This Loud-Ass Party Speaker Almost Got Me High AF</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/giz-asks-quantum-encryption-1280x853.jpg" alt="How Should We Prepare for the Looming Quantum Encryption Apocalypse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +294,6 @@
                 <span class="time">2026-04-10 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNHTFEV45VVQZ1EQNR17QXWE/hero-image.jpg" alt="10 Hacks Every Google Pixel Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-pixel-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Pixel Owner Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
