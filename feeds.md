@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 15:07:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-11 16:05:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 15:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 16:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss" target="_blank">Peru holds presidential election amid a decade of political tumult</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/11/video-jd-vance-meets-with-pakistani-pm-ahead-of-iran-talks?traffic_source=rss" target="_blank">Video: JD Vance meets with Pakistani PM ahead of Iran talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-11 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5773903/opinion-a-well-deserved-statue-for-a-hero-rat" target="_blank">Opinion: A well-deserved statue for a hero rat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-11 12:00</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-min-1mjf" target="_blank">From Feeling to Firmware: Build Your First Haptic Feedback Device (10 Min)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7" target="_blank">Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 14:08</span>
@@ -213,15 +217,6 @@
                 <span class="time">2026-04-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cage-0.3-Released" target="_blank">Cage 0.3 Released With New Wayland Protocol Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-11 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/world-liberty-trump-eric-don-jr-1280x823.jpg" alt="Trump’s World Liberty Financial Makes FTX-esque Move, Borrows Against Its Own Crypto Token" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-world-liberty-financial-makes-ftx-esque-move-borrows-against-its-own-crypto-token-2000745326" target="_blank">Trump’s World Liberty Financial Makes FTX-esque Move, Borrows Against Its Own Crypto Token</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 14:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Soundboks-Party-Speaker-review-01-1280x853.jpg" alt="This Loud-Ass Party Speaker Almost Got Me High AF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +290,6 @@
                 <span class="time">2026-04-10 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/quacky.jpg?fit=1200%2C978&amp;quality=60&amp;ssl=1" alt="Jim Woodring&#x27;s Frank finally speaks in a 3.5-inch Big Little Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/10/jim-woodrings-frank-finally-speaks-in-a-3-5-inch-big-little-book.html" target="_blank">Jim Woodring&#x27;s Frank finally speaks in a 3.5-inch Big Little Book</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-10 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,31 +304,13 @@
                 <span class="time">2026-04-10 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/little-dude/" target="_blank">Little Dude</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-04-10 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775692319-20260410.png" alt="Saturday Morning Breakfast Cereal - Log" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/log" target="_blank">Saturday Morning Breakfast Cereal - Log</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
