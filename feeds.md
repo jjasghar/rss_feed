@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-10 23:09:00 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-11 00:10:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, April 10, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 00:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss" target="_blank">Israeli strike on government building kills Lebanese officers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-10 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew preparing for reentry on last day in space</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-10 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/10/nx-s1-5775847/alex-pretti-renee-good-ice-shootings-federal-investigations" target="_blank">Months after the ICE shootings in Minnesota, a federal probe remains elusive</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-10 20:01</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-10 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/quacky.jpg?fit=1200%2C978&amp;quality=60&amp;ssl=1" alt="Jim Woodring&#x27;s Frank finally speaks in a 3.5-inch Big Little Book" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/10/jim-woodrings-frank-finally-speaks-in-a-3-5-inch-big-little-book.html" target="_blank">Jim Woodring&#x27;s Frank finally speaks in a 3.5-inch Big Little Book</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-10 22:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNHTFEV45VVQZ1EQNR17QXWE/hero-image.jpg" alt="10 Hacks Every Google Pixel Owner Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/i-rewatched-the-live-action-speed-racer-to-feel-something-again-2000745043" target="_blank">I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-10 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/gamersatc-1280x720.jpg" alt="Trump And The FAA Targeting Gamers To Help Solve Air Traffic Controller Shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/trump-and-the-faa-targeting-gamers-to-help-solve-air-traffic-controller-shortage-2000686722" target="_blank">Trump And The FAA Targeting Gamers To Help Solve Air Traffic Controller Shortage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-10 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/TalesFromtheCrypt-1280x853.jpg" alt="‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tales-from-the-crypt-streaming-shudder-2000745039" target="_blank">‘Tales From the Crypt’ Is Creeping Onto Streaming for the Very First Time</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 17:00</span>
             </div>
         </div>
 </div>
@@ -362,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:09 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
