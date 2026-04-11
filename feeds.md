@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 01:30:49 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-11 02:57:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +42,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/artemis-10-abc-gmh-260409_1775764047138_hpMain_4x3t_384.jpg" alt="LIVE:  NASA holds news conference after Artemis splashdown: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  NASA holds news conference after Artemis splashdown: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-11 02:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/artemis-34-ht-gmh-260417_1775868987937_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew splashes down in Pacific Ocean after historic mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew splashes down in Pacific Ocean after historic mission</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-11 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss" target="_blank">Moment Artemis II splashes down after moon mission</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 01:04</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +95,6 @@
                 <span class="time">2026-04-10 22:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/f3457360-34c6-11f1-879d-1b2f5c3919b8.jpg" alt="Lebanon and Israel officials to meet in US on Tuesday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon and Israel officials to meet in US on Tuesday</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-10 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg" alt="UK shelves Chagos deal after Trump opposition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss" target="_blank">UK shelves Chagos deal after Trump opposition</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-10 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +107,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/" target="_blank">Four astronauts are back home after a daring ride around the Moon</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-11 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/" target="_blank">NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-11 00:44</span>
             </div>
         </div>
 <div class="story">
@@ -147,20 +154,20 @@
                 <span class="time">2026-04-10 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d91baa5a9f1b2ae13f1b89/master/pass/Courtesy-of-Weber.jpg" alt="Home Depot Spring Black Friday (2026): Best Tool and Grill Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/" target="_blank">Home Depot Spring Black Friday (2026): Best Tool and Grill Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ji_ai/why-your-pip-install-output-doesnt-belong-in-claudes-context-2f5p" target="_blank">Why Your pip Install Output Doesn&#x27;t Belong in Claude&#x27;s Context</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 02:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk9mex9yw7463f643ts49.png" alt="Why Chunking Is the Biggest Mistake in RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Jay-Compiler-Merged-Mesa" target="_blank">Intel&#x27;s New Shader Compiler &quot;Jay&quot; Merged For Mesa 26.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-10 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l" target="_blank">rclap a new configuration management for rust, is now on crates.io</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 20:05</span>
             </div>
         </div>
 </div>
@@ -352,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
