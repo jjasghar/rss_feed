@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 10:08:19 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-11 11:07:25 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 10:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 11:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2e/live/4823be50-3594-11f1-9d5c-8ba507d7dbde.jpg" alt="Murder arrest over Primrose Hill stabbing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss" target="_blank">Murder arrest over Primrose Hill stabbing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-11 10:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss" target="_blank">Israel in row with South Korea leader over Palestinian abuse concerns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +93,29 @@
                 <span class="time">2026-04-11 07:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss" target="_blank">Djibouti’s President Guelleh wins sixth straight term in office</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss" target="_blank">Iran war: What is happening on day 43 of the US-Iran conflict?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 04:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d91d304fbd3a67c34041a7/master/pass/The-Best-Electric-Cargo-Bikes-for-Hauling-Your-Life-Around.jpg" alt="Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-electric-cargo-bikes/" target="_blank">Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china" target="_blank">Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d96f59b8bdc021bdac9cf7/master/pass/Why-Mosquitos-Target-Humans-Science-1139949311.jpg" alt="Flight Path Data Shows How Mosquitoes Target Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +152,29 @@
                 <span class="time">2026-04-11 00:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d68fcf1b98acd2337c8732/master/pass/science_Artemis_GettyImages-2269645595.jpg" alt="Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/" target="_blank">Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-11 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d68fcf1b98acd2337c8732/master/pass/science_Artemis_GettyImages-2269645595.jpg" alt="Artemis II Returns From Historic Flight Around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/" target="_blank">Artemis II Returns From Historic Flight Around the Moon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-11 00:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0lu1tjfb1gpstvhesgu.png" alt="How to Build a Waitlist Page for Your Startup in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/allenarduino/how-to-build-a-waitlist-page-for-your-startup-in-2026-21ag" target="_blank">How to Build a Waitlist Page for Your Startup in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cage-0.3-Released" target="_blank">Cage 0.3 Released With New Wayland Protocol Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-11 10:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20z827cy5qyeoyp8iecz.png" alt="ConfDroid Puppet Modules - Selinux" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +211,6 @@
                 <span class="time">2026-04-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ji_ai/why-your-pip-install-output-doesnt-belong-in-claudes-context-2f5p" target="_blank">Why Your pip Install Output Doesn&#x27;t Belong in Claude&#x27;s Context</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk9mex9yw7463f643ts49.png" alt="Why Chunking Is the Biggest Mistake in RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm" target="_blank">Why Chunking Is the Biggest Mistake in RAG Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 01:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +225,20 @@
                 <span class="time">2026-04-10 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html" target="_blank">Sen. Sanders Talks to Claude About AI and Privacy</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-10 10:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/giz-asks-quantum-encryption-1280x853.jpg" alt="How Should We Prepare for the Looming Quantum Encryption Apocalypse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-should-we-prepare-for-the-looming-quantum-encryption-apocalypse-2000744543" target="_blank">How Should We Prepare for the Looming Quantum Encryption Apocalypse?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemis.png?fit=960%2C540&amp;quality=55&amp;ssl=1" alt="Artemis crew safely splashes down off California coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +284,6 @@
                 <span class="time">2026-04-10 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/microsoft-pete-hines.jpg" alt="Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743" target="_blank">Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-10 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
