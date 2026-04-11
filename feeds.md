@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 03:53:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-11 04:35:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 03:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 04:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss" target="_blank">Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 04:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-43-ht-gmh-260417_1775873358348_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew successfully completes 10-day mission around the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew successfully completes 10-day mission around the moon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-11 03:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/artemis-10-abc-gmh-260409_1775764047138_hpMain_4x3t_384.jpg" alt="LIVE:  NASA holds news conference after Artemis splashdown: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775866302016_nbc_spec_splashdown_safe_260410_S3_1920x1080-rwmie6.jpg" alt="Artemis II splashes down in Pacific Ocean after 10-day mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss" target="_blank">Israeli strike on government building kills Lebanese officers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss" target="_blank">Hezbollah rocket attack damages 1,500-year-old Israeli church</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-10 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-18-ht-gmh-260410_1775860456155_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew suited up, preparing for reentry in historic mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew suited up, preparing for reentry in historic mission</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-10 22:54</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/artemis-ii-splashes-down-in-pacific-ocean-after-10-day-mission-261149253716" target="_blank">Artemis II splashes down in Pacific Ocean after 10-day mission</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-11 00:11</span>
             </div>
         </div>
 </div>
@@ -98,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-500x500.jpg" alt="The Artemis II mission has ended. Where does NASA go from here?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/" target="_blank">The Artemis II mission has ended. Where does NASA go from here?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-11 03:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/a2splash1-500x500.jpg" alt="Four astronauts are back home after a daring ride around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -117,6 +137,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69d68fcf1b98acd2337c8732/master/pass/science_Artemis_GettyImages-2269645595.jpg" alt="Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/" target="_blank">Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-11 00:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69d68fcf1b98acd2337c8732/master/pass/science_Artemis_GettyImages-2269645595.jpg" alt="Artemis II Returns From Historic Flight Around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -132,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/" target="_blank">How to watch NASA’s Artemis II splash back down to Earth</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-10 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage" target="_blank">Now the FAA says gamers are the answer to its air traffic controller shortage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-10 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1187698526-500x500.jpg" alt="New paper argues history, not mantle plume, powers Yellowstone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/" target="_blank">New paper argues history, not mantle plume, powers Yellowstone</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-10 20:06</span>
             </div>
         </div>
 </div>
@@ -196,19 +207,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahulxsingh/12-best-code-audit-tools-in-2026-quality-and-security-eeb" target="_blank">12 Best Code Audit Tools in 2026 - Quality and Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 21:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kentwalters.com/posts/corners/" target="_blank">Filing the corners off my MacBooks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-10 22:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Jay-Compiler-Merged-Mesa" target="_blank">Intel&#x27;s New Shader Compiler &quot;Jay&quot; Merged For Mesa 26.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-10 20:11</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rahulxsingh/12-best-code-audit-tools-in-2026-quality-and-security-eeb" target="_blank">12 Best Code Audit Tools in 2026 - Quality and Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-10 21:00</span>
             </div>
         </div>
 </div>
@@ -334,22 +345,13 @@
                 <span class="time">2026-04-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/lightning.png" alt="Lightning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3231/" target="_blank">Lightning</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-04-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 03:53 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
