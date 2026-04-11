@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 09:11:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-11 10:08:19 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 09:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 10:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5767032/in-syria-instability-allowed-isis-fighters-to-flee-camps-but-many-of-their-families-still-detained" target="_blank">In Syria, instability allowed ISIS fighters to flee camps, but many of their families still detained</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-11 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +104,20 @@
                 <span class="time">2026-04-11 04:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/2270225488-7rd508.jpg" alt="Watch highlights of Artemis II’s return to Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/watch-highlights-of-artemis-ii-s-return-to-earth-261158981820" target="_blank">Watch highlights of Artemis II’s return to Earth</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-11 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d96f59b8bdc021bdac9cf7/master/pass/Why-Mosquitos-Target-Humans-Science-1139949311.jpg" alt="Flight Path Data Shows How Mosquitoes Target Humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/" target="_blank">Flight Path Data Shows How Mosquitoes Target Humans</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-11 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-500x500.jpg" alt="The Artemis II mission has ended. Where does NASA go from here?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +163,20 @@
                 <span class="time">2026-04-11 00:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/" target="_blank">How to watch NASA’s Artemis II splash back down to Earth</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-10 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20z827cy5qyeoyp8iecz.png" alt="ConfDroid Puppet Modules - Selinux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3" target="_blank">ConfDroid Puppet Modules - Selinux</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm" target="_blank">Why Chunking Is the Biggest Mistake in RAG Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA-4m-Mesa-Patches" target="_blank">Support For AMD GFX11.7 &quot;RDNA 4m&quot; Pending For RADV &amp; RadeonSI Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-11 00:36</span>
             </div>
         </div>
 </div>
@@ -334,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
