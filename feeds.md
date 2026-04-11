@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 19:12:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-04-11 20:03:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 19:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 20:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App" target="_blank">AMD&#x27;s GAIA Now Allows Building Custom AI Agents Via Chat, Becomes &quot;True Desktop App&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-11 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zeromathai/cnn-layer-composition-a-practical-developer-guide-to-activation-pooling-and-fully-connected-288b" target="_blank">CNN Layer Composition — A Practical Developer Guide to Activation, Pooling, and Fully Connected Layers</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +215,6 @@
                 <span class="time">2026-04-11 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7" target="_blank">Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/matrix-praying-1280x883.jpg" alt="‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-do-we-make-sure-that-claude-behaves-itself-anthropic-invited-15-christians-for-a-summit-2000743766" target="_blank">‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Red-Dead-Redemption-2-John-Marston-2-1280x720.jpg" alt="Karl Urban Wants To Play John Marston In A Red Dead Redemption Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/karl-urban-wants-to-play-john-marston-in-a-red-dead-redemption-film-2000686877" target="_blank">Karl Urban Wants To Play John Marston In A Red Dead Redemption Film</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-11 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/inquisiton.jpg" alt="Dragon Age: Inquisition Servers Going Offline Later This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +288,6 @@
                 <span class="time">2026-04-11 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Soundboks-Party-Speaker-review-01-1280x853.jpg" alt="This Loud-Ass Party Speaker Almost Got Me High AF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-loud-ass-party-speaker-almost-got-me-high-af-2000744709" target="_blank">This Loud-Ass Party Speaker Almost Got Me High AF</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/giz-asks-quantum-encryption-1280x853.jpg" alt="How Should We Prepare for the Looming Quantum Encryption Apocalypse?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-should-we-prepare-for-the-looming-quantum-encryption-apocalypse-2000744543" target="_blank">How Should We Prepare for the Looming Quantum Encryption Apocalypse?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 20:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
