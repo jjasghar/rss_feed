@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 20:03:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-11 21:06:09 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 20:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 21:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss" target="_blank">Pope Leo urges world leaders to reject war and negotiate peace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/vance-rt-jt-260411_1775914025629_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran-Pakistan trilateral talks ongoing, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss" target="_blank">US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-11 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-israel-lebanon-beirut_7217111.png?20260411161017" alt="Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/i-was-so-scared-teenage-girl-whose-snapchat-video-captured-chaos-in-beirut-as-israeli-strikes-hit-13530533" target="_blank">Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-11 14:27</span>
             </div>
         </div>
 </div>
@@ -217,20 +212,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Squid Overfishing in the South Pacific</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-10 21:03</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -280,12 +261,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/world-liberty-trump-eric-don-jr-1280x823.jpg" alt="Trump’s World Liberty Financial Makes FTX-esque Move, Borrows Against Its Own Crypto Token" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Nibble-All-Around-Knowledge-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Unrot your brain with 88% off this interactive learning app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-world-liberty-financial-makes-ftx-esque-move-borrows-against-its-own-crypto-token-2000745326" target="_blank">Trump’s World Liberty Financial Makes FTX-esque Move, Borrows Against Its Own Crypto Token</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 14:47</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/11/unrot-your-brain-with-88-off-this-interactive-learning-app.html" target="_blank">Unrot your brain with 88% off this interactive learning app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-11 15:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 20:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
