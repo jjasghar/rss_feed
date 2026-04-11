@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 16:05:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-11 17:07:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 16:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 17:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss" target="_blank">Russia-Ukraine Orthodox Easter ceasefire begins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult?traffic_source=rss" target="_blank">Peru holds presidential election amid a decade of political tumult</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-11 15:22</span>
@@ -61,6 +75,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss" target="_blank">US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-11 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-israel-lebanon-beirut_7217111.png?20260411161017" alt="Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/i-was-so-scared-teenage-girl-whose-snapchat-video-captured-chaos-in-beirut-as-israeli-strikes-hit-13530533" target="_blank">Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-11 14:27</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +104,20 @@
                 <span class="time">2026-04-11 12:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775911414221_tdy_sat_keir_peace_talks_us_iran_260411_S3_1920x1080-g1g5r7.jpg" alt="US and Iranian Negotiators Arrive in Pakistan for Peace Talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/vp-vance-arrives-in-pakistan-for-peace-talks-between-us-and-iran-261168710001" target="_blank">US and Iranian Negotiators Arrive in Pakistan for Peace Talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-11 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/11/video-jd-vance-meets-with-pakistani-pm-ahead-of-iran-talks?traffic_source=rss" target="_blank">Video: JD Vance meets with Pakistani PM ahead of Iran talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/910691/google-news-polymarket-bets-error" target="_blank">Google says Polymarket bets showing up in News was an ‘error’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-11 15:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +163,20 @@
                 <span class="time">2026-04-11 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d91d304fbd3a67c34041a7/master/pass/The-Best-Electric-Cargo-Bikes-for-Hauling-Your-Life-Around.jpg" alt="Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-electric-cargo-bikes/" target="_blank">Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7" target="_blank">Your Job shouldn&#x27;t give you meaning, Your meaning should give you a job.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.7-Released" target="_blank">D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-11 13:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F80jz3d260u4orh6677g3.png" alt="I Couldn’t Afford Earth, So I Built Something Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/davidballester/i-built-a-reminder-app-to-keep-my-brag-document-up-to-date-29gk" target="_blank">I built a reminder app to keep my Brag Document up to date</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-BeagleV-Ahead-HDMI" target="_blank">RISC-V BeagleV Ahead Single Board Computer To See Working HDMI With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-11 11:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0lu1tjfb1gpstvhesgu.png" alt="How to Build a Waitlist Page for Your Startup in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/allenarduino/how-to-build-a-waitlist-page-for-your-startup-in-2026-21ag" target="_blank">How to Build a Waitlist Page for Your Startup in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 11:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/knights-guinevere2-1280x853.jpg" alt="Indie Animation Is Having a Moment on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/indie-animation-is-having-a-moment-on-youtube-2000745081" target="_blank">Indie Animation Is Having a Moment on YouTube</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Faces-of-Death-2026-movie-still-2-1024x576-1.jpg" alt="New Faces Of Death A Fun Stab At Grisly State Of Social Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-faces-of-death-a-fun-stab-at-grisly-state-of-social-media-mondo-tiktok-2000686793" target="_blank">New Faces Of Death A Fun Stab At Grisly State Of Social Media</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-11 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/world-liberty-trump-eric-don-jr-1280x823.jpg" alt="Trump’s World Liberty Financial Makes FTX-esque Move, Borrows Against Its Own Crypto Token" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,36 +295,18 @@
                 <span class="time">2026-04-11 00:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/orion-artemis-2-splashdown-1280x853.jpg" alt="Picture Perfect: Artemis 2 Returns Home After a Stellar 10 Days in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/picture-perfect-artemis-2-returns-home-after-a-stellar-10-days-in-space-2000745069" target="_blank">Picture Perfect: Artemis 2 Returns Home After a Stellar 10 Days in Space</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-10 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1775692363-20260411.png" alt="Saturday Morning Breakfast Cereal - Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/10/sweating-to-the-oldies" target="_blank">Sweating To The Oldies</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-10 16:40</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/peace-3" target="_blank">Saturday Morning Breakfast Cereal - Peace</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-11 15:20</span>
             </div>
         </div>
 </div>
@@ -309,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
