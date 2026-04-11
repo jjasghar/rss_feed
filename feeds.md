@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 00:10:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-11 01:30:49 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 00:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-34-ht-gmh-260417_1775868987937_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew splashes down in Pacific Ocean after historic mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew splashes down in Pacific Ocean after historic mission</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-11 01:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/01/1920x1080/skynews-diego-garcia-chagos_7140211.jpg?20260120071907" alt="Chagos Islands deal pulled by government after Trump brands it &#x27;act of great stupidity&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg" alt="UK shelves Chagos deal after Trump opposition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/chagos-islands-deal-pulled-by-government-after-trump-brands-it-act-of-great-stupidity-13530280" target="_blank">Chagos Islands deal pulled by government after Trump brands it &#x27;act of great stupidity&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-10 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-13-ht-gmh-260410_1775852640129_hpMain_4x3t_384.jpg" alt="Artemis II live updates: Crew preparing for reentry on last day in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew preparing for reentry on last day in space</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-10 20:31</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss" target="_blank">UK shelves Chagos deal after Trump opposition</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-10 22:17</span>
             </div>
         </div>
 </div>
@@ -107,6 +102,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/a2splash1-500x500.jpg" alt="Four astronauts are back home after a daring ride around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/" target="_blank">Four astronauts are back home after a daring ride around the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-11 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d68fcf1b98acd2337c8732/master/pass/science_Artemis_GettyImages-2269645595.jpg" alt="Artemis II Returns From Historic Flight Around the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/" target="_blank">Artemis II Returns From Historic Flight Around the Moon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-11 00:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,29 @@
                 <span class="time">2026-04-10 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d92ac7d7f2e496da19531f/master/pass/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg" alt="Motorola’s Souped-Up Folding Phone Is Almost Half Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/motorola-razr-ultra-deal-426/" target="_blank">Motorola’s Souped-Up Folding Phone Is Almost Half Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d9224e67ec9ebaea2e242b/master/pass/silver-entry-0.jpeg" alt="The Future of the Artemis Program Is Riding on Reentry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/" target="_blank">The Future of the Artemis Program Is Riding on Reentry</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-10 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk9mex9yw7463f643ts49.png" alt="Why Chunking Is the Biggest Mistake in RAG Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm" target="_blank">Why Chunking Is the Biggest Mistake in RAG Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA-4m-Mesa-Patches" target="_blank">Support For AMD GFX11.7 &quot;RDNA 4m&quot; Pending For RADV &amp; RadeonSI Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-11 00:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2026-04-10 20:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932136&w=600" alt="Apache Spark 3 to Apache Spark 4 Migration: What Breaks, What Improves, What&#x27;s Mandatory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apache-spark-3-to-apache-spark-4-migration" target="_blank">Apache Spark 3 to Apache Spark 4 Migration: What Breaks, What Improves, What&#x27;s Mandatory</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990" target="_blank">I Built a Tool That Turns Any Website Into Full Documentation in Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemis.png?fit=960%2C540&amp;quality=55&amp;ssl=1" alt="Artemis crew safely splashes down off California coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/10/artemis-crew-safely-splashes-down-off-california-coast.html" target="_blank">Artemis crew safely splashes down off California coast</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-11 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/orion-artemis-2-splashdown-1280x853.jpg" alt="Picture Perfect: Artemis 2 Returns Home After a Stellar 10 Days in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/picture-perfect-artemis-2-returns-home-after-a-stellar-10-days-in-space-2000745069" target="_blank">Picture Perfect: Artemis 2 Returns Home After a Stellar 10 Days in Space</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-11 00:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743" target="_blank">Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn’t Part Of Something ‘Genuine’ Or ‘Authentic’ At Microsoft</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-10 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Resident-Evil-Requiem-1280x853.jpg" alt="I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-cant-decide-which-resident-evil-requiem-perspective-i-liked-more-2000745076" target="_blank">I Can’t Decide Which ‘Resident Evil Requiem’ Perspective I Liked More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/warner-bros-speed-racer-1280x853.jpg" alt="I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/i-rewatched-the-live-action-speed-racer-to-feel-something-again-2000745043" target="_blank">I Rewatched the Live-Action ‘Speed Racer’ to Feel Something Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-10 18:10</span>
             </div>
         </div>
 </div>
@@ -352,22 +347,13 @@
                 <span class="time">2026-04-10 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5802.png" alt="Comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5802" target="_blank">Comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-10 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:10 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
