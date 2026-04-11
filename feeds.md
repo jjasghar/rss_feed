@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 07:19:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-11 08:08:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 07:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 08:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss" target="_blank">Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-11 07:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306" target="_blank">Artemis II live updates: Crew successfully completes 10-day mission around the moon</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-11 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/artemis-10-abc-gmh-260409_1775764047138_hpMain_4x3t_384.jpg" alt="LIVE:  NASA holds news conference after Artemis splashdown: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  NASA holds news conference after Artemis splashdown: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-11 02:43</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mgobea/great-at-gaming-us-air-traffic-control-wants-you-to-apply-3nh7" target="_blank">Great at gaming? US air traffic control wants you to apply!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 08:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/etsy-vitess-sharding-migration/en/headerimage/generatedHeaderImage-1774855136721.jpg" alt="Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Etsy Migrates 1000-Shard, 425 TB MySQL Sharding Architecture to Vitess</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-11 07:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adioof/the-pantheon-of-tokens-why-developers-rank-ai-models-like-greek-gods-and-how-its-quietly-51ee" target="_blank">The Pantheon of Tokens: Why Developers Rank AI Models Like Greek Gods and How It&#x27;s Quietly Sabotaging Their Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 07:01</span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA-4m-Mesa-Patches" target="_blank">Support For AMD GFX11.7 &quot;RDNA 4m&quot; Pending For RADV &amp; RadeonSI Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-11 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng" target="_blank">Aethir Adapter Exploit. 500k. Complete Operational security Mess.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-10 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kentwalters.com/posts/corners/" target="_blank">Filing the corners off my MacBooks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-10 22:16</span>
             </div>
         </div>
 </div>
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 08:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
