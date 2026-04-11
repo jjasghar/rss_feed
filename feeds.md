@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 18:05:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-11 19:12:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 18:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 19:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/vance-rt-jt-260411_1775914025629_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran-Pakistan trilateral talks ongoing, White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US-Iran-Pakistan trilateral talks ongoing, White House says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-11 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/i-was-so-scared-teenage-girl-whose-snapchat-video-captured-chaos-in-beirut-as-israeli-strikes-hit-13530533" target="_blank">Teenage girl whose Snapchat video captured chaos in Beirut as Israeli strikes hit</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-11 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/vance-rt-jt-260411_1775914025629_hpMain_4x3t_384.jpg" alt="Iran live updates: US-Iran peace talks in Islamabad have started, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: US-Iran peace talks in Islamabad have started, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-11 14:21</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zeromathai/cnn-layer-composition-a-practical-developer-guide-to-activation-pooling-and-fully-connected-288b" target="_blank">CNN Layer Composition — A Practical Developer Guide to Activation, Pooling, and Fully Connected Layers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 18:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91tw7e90zkmv5n1khftv.png" alt="Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7" target="_blank">Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.7-Released" target="_blank">D7VK 1.7 Brings More Improvements For Legacy Direct3D On Vulkan</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-11 13:31</span>
             </div>
         </div>
 </div>
@@ -311,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
