@@ -1,27 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 13:22:22 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-11 14:09:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 13:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 14:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Vance and Pakistani PM hold bilateral meeting in Islamabad</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-11 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775911414221_tdy_sat_keir_peace_talks_us_iran_260411_S3_1920x1080-g1g5r7.jpg" alt="US and Iranian Negotiators Arrive in Pakistan for Peace Talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/vp-vance-arrives-in-pakistan-for-peace-talks-between-us-and-iran-261168710001" target="_blank">US and Iranian Negotiators Arrive in Pakistan for Peace Talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-11 12:43</span>
             </div>
         </div>
 <div class="story">
@@ -82,20 +94,20 @@
                 <span class="time">2026-04-11 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5767032/in-syria-instability-allowed-isis-fighters-to-flee-camps-but-many-of-their-families-still-detained" target="_blank">In Syria, instability allowed ISIS fighters to flee camps, but many of their families still detained</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-11 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion" target="_blank">My baby deer plushie told me that Mitski&amp;#8217;s dad was a CIA operative</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +153,20 @@
                 <span class="time">2026-04-11 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large-500x500.jpg" alt="The Artemis II mission has ended. Where does NASA go from here?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/" target="_blank">The Artemis II mission has ended. Where does NASA go from here?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-11 03:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arnostorg/incident-triage-without-context-switching-bash-zoxide-powershell-and-win-cli-53g7" target="_blank">Incident Triage Without Context Switching: Bash, zoxide, PowerShell, and Win-CLI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 14:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F80jz3d260u4orh6677g3.png" alt="I Couldn’t Afford Earth, So I Built Something Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,15 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Cage-0.3-Released" target="_blank">Cage 0.3 Released With New Wayland Protocol Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-11 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20z827cy5qyeoyp8iecz.png" alt="ConfDroid Puppet Modules - Selinux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3" target="_blank">ConfDroid Puppet Modules - Selinux</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 10:04</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 13:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
