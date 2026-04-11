@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-11 17:07:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-11 18:05:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, April 11, 2026 - 17:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, April 11, 2026 - 18:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention" target="_blank">Artemis II splashdown captures nationwide attention</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-11 16:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +101,20 @@
                 <span class="time">2026-04-11 14:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/vance-2-gty-gmh-260410_1775825958713_hpMain_4x3t_384.jpg" alt="Iran live updates: Vance and Pakistani PM hold bilateral meeting in Islamabad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: Vance and Pakistani PM hold bilateral meeting in Islamabad</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-11 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/" target="_blank">Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-11 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +160,20 @@
                 <span class="time">2026-04-11 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-500x500.jpg" alt="AI models are terrible at betting on soccer—especially xAI Grok" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/" target="_blank">AI models are terrible at betting on soccer—especially xAI Grok</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-11 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91tw7e90zkmv5n1khftv.png" alt="Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shubhamkcloud/upgrading-an-amazon-eks-cluster-a-practical-step-by-step-guide-from-real-world-experience-47gl" target="_blank">Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-11 18:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7" target="_blank">Your Job shouldn&#x27;t give you meaning, Your meaning should give you a job.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier" target="_blank">Small models also found the vulnerabilities that Mythos found</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-11 16:47</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +219,6 @@
                 <span class="time">2026-04-11 13:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F80jz3d260u4orh6677g3.png" alt="I Couldn’t Afford Earth, So I Built Something Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506" target="_blank">I Couldn’t Afford Earth, So I Built Something Better</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davidballester/i-built-a-reminder-app-to-keep-my-brag-document-up-to-date-29gk" target="_blank">I built a reminder app to keep my Brag Document up to date</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/inquisiton.jpg" alt="Dragon Age: Inquisition Servers Going Offline Later This Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dragon-age-inquisition-servers-going-offline-later-this-month-2000686871" target="_blank">Dragon Age: Inquisition Servers Going Offline Later This Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-11 17:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/knights-guinevere2-1280x853.jpg" alt="Indie Animation Is Having a Moment on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +292,6 @@
                 <span class="time">2026-04-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemis.png?fit=960%2C540&amp;quality=55&amp;ssl=1" alt="Artemis crew safely splashes down off California coast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/10/artemis-crew-safely-splashes-down-off-california-coast.html" target="_blank">Artemis crew safely splashes down off California coast</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-11 00:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
