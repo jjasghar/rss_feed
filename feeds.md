@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 20:05:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 21:07:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 20:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 21:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/" target="_blank">The peril of laziness lost</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-12 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toolbox_starnomina/dmarc-report-analyzer-how-to-read-and-act-on-aggregate-reports-bn1" target="_blank">DMARC Report Analyzer: How to Read and Act on Aggregate Reports</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +213,6 @@
                 <span class="title"><a href="https://eualternative.eu/guides/building-saas-eu-stack/" target="_blank">Building a SaaS in 2026 Using Only EU Infrastructure</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-12 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="SteeplyOpinionated: A PR Review Tool for Tea Recipes (Returns 418, Obviously)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k" target="_blank">SteeplyOpinionated: A PR Review Tool for Tea Recipes (Returns 418, Obviously)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 16:02</span>
             </div>
         </div>
 </div>
@@ -263,15 +265,6 @@
                 <span class="time">2026-04-12 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/marvel-rivals-white-fox-1280x853.jpg" alt="‘Marvel Rivals’ Wants to Start Being More Than Just a Hero Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-rivals-wants-to-start-being-more-than-just-a-hero-shooter-2000745230" target="_blank">‘Marvel Rivals’ Wants to Start Being More Than Just a Hero Shooter</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:06 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
