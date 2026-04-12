@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 18:08:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 19:14:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 18:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg" alt="Trump&#x27;s Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa" target="_blank">A country-by-country glance at Pope Leo XIV&#x27;s trip to Africa</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-12 17:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/at-least-30-dead-in-stampede-at-haitis-historic-citadelle-laferriere?traffic_source=rss" target="_blank">At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-12 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260410_1775822953907_hpMain_4x3t_384.jpg" alt="Iran live updates: President Trump says US Navy will blockade Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: President Trump says US Navy will blockade Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-12 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss" target="_blank">Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 13:42</span>
             </div>
         </div>
 </div>
@@ -167,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toolbox_starnomina/dmarc-report-analyzer-how-to-read-and-act-on-aggregate-reports-bn1" target="_blank">DMARC Report Analyzer: How to Read and Act on Aggregate Reports</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-OOB-Special-Certificate" target="_blank">Linux Out-Of-Bounds Access Fixed For Unprivileged Users With Specially Crafted Certs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-12 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fih47x86v6tbfzoc8h01r.png" alt="Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j" target="_blank">Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://boringbar.app/" target="_blank">Show HN: boringBar – a taskbar-style dock replacement for macOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-12 17:25</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k" target="_blank">SteeplyOpinionated: A PR Review Tool for Tea Recipes (Returns 418, Obviously)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8" target="_blank">I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#x27;s the Open-Source Scanner I Built</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Features-Early-Look" target="_blank">Many Wonderful Improvements Expected For Linux 7.1, Especially For AMD &amp; Intel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://essays.johnloeber.com/p/4-bring-back-idiomatic-design" target="_blank">Bring Back Idiomatic Design</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 12:21</span>
             </div>
         </div>
 </div>
@@ -298,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
