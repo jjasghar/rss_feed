@@ -1,9 +1,9 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 07:27:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-12 08:13:29 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
@@ -11,28 +11,27 @@
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 07:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 08:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss" target="_blank">What happened in 40 days of war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41c/live/a048e7f0-3642-11f1-9e53-c1f9d2562c19.jpg" alt="Hungarians vote on whether to end 16 years of Orbán rule and elect rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss" target="_blank">Hungarians vote on whether to end 16 years of Orbán rule and elect rival</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 07:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/vance-came-to-peace-talks-with-a-naive-assumption-but-the-iranians-didnt-cave-13530847" target="_blank">Talks break down as both sides play hardball - what happens next?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-12 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3a/live/552fe3d0-35e9-11f1-ba3f-938a430be8f6.jpg" alt="Hungarians decide whether to end 16 years of Orbán rule and elect rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss" target="_blank">Hungarians decide whether to end 16 years of Orbán rule and elect rival</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-12 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/PakistanUSIranVance_1775959834047_hpMain_4x3t_384.jpg" alt="Iran live updates: No deal with Iran after 21 hours of negotiations, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: No deal with Iran after 21 hours of negotiations, Vance says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-12 03:08</span>
             </div>
         </div>
 </div>
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 07:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 08:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
