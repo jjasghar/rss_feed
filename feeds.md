@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 22:05:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 23:07:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 23:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg" alt="Trump&#x27;s blockade threat raises risks and leaves predicaments unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s blockade threat raises risks and leaves predicaments unchanged</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss" target="_blank">These are people Israel killed in Lebanon on a single day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 21:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss" target="_blank">Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-12 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260412-Peter-Magyar-vl-1108a-62ae08.jpg" alt="Viktor Orbán concedes election defeat in a blow to Hungary&#x27;s far right" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661" target="_blank">Viktor Orbán concedes election defeat in a blow to Hungary&#x27;s far right</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-12 19:08</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +102,20 @@
                 <span class="time">2026-04-12 18:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa" target="_blank">A country-by-country glance at Pope Leo XIV&#x27;s trip to Africa</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-12 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram" target="_blank">Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-12 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover" target="_blank">Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-12 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/" target="_blank">Trump officials may be encouraging banks to test Anthropic’s Mythos model</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-12 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,20 @@
                 <span class="time">2026-04-12 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/" target="_blank">Slate Auto: Everything you need to know about the Bezos-backed EV startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F29621dle73xl2tqxdq9f.png" alt="Cost-Aware Serverless Architecture Reviews: A Practical Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl" target="_blank">Cost-Aware Serverless Architecture Reviews: A Practical Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,20 +220,20 @@
                 <span class="time">2026-04-12 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eualternative.eu/guides/building-saas-eu-stack/" target="_blank">Building a SaaS in 2026 Using Only EU Infrastructure</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/portable-battery-1280x853.jpg" alt="Southwest Is About to Limit Power Banks on Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/southwest-is-about-to-limit-power-banks-on-flights-2000745471" target="_blank">Southwest Is About to Limit Power Banks on Flights</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-12 20:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/one-piece-tony-tony-chopper-netflix-1280x640.jpg" alt="The Live-Action ‘One Piece’ Team Wants to Go the Distance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
