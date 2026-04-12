@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 10:11:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 11:10:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 10:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 11:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss" target="_blank">Union Berlin’s Marie-Louise Eta becomes first woman manager of men’s team</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 10:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +101,20 @@
                 <span class="time">2026-04-12 07:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss" target="_blank">Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review" target="_blank">Allow me to explain why I love this camera that can’t shoot color</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d9972862d263b30905d524/master/pass/Review--Mammotion-Spino-E1-Pool-Robot.jpg" alt="Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +160,20 @@
                 <span class="time">2026-04-11 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/910691/google-news-polymarket-bets-error" target="_blank">Google says Polymarket bets showing up in News was an ‘error’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-11 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevin_menesesgonzlez/the-7-best-mcp-servers-for-stock-market-data-2026-389l" target="_blank">The 7 Best MCP Servers for Stock Market Data (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +219,20 @@
                 <span class="time">2026-04-12 02:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://brennan.day/the-end-of-eleventy/" target="_blank">The End of Eleventy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 01:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-laughing-1280x897.jpeg" alt="OpenAI Says Elon Musk Is ‘Injecting Chaos’ with Recent Legal Maneuver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-says-elon-musk-is-injecting-chaos-with-recent-legal-maneuver-2000745384" target="_blank">OpenAI Says Elon Musk Is ‘Injecting Chaos’ with Recent Legal Maneuver</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-12 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/marvel-rivals-white-fox-1280x853.jpg" alt="‘Marvel Rivals’ Wants to Start Being More Than Just a Hero Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +278,6 @@
                 <span class="time">2026-04-11 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Faces-of-Death-2026-movie-still-2-1024x576-1.jpg" alt="New Faces Of Death A Fun Stab At Grisly State Of Social Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-faces-of-death-a-fun-stab-at-grisly-state-of-social-media-mondo-tiktok-2000686793" target="_blank">New Faces Of Death A Fun Stab At Grisly State Of Social Media</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-11 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
