@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 19:14:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 20:05:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 20:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss" target="_blank">Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260412-Peter-Magyar-vl-1108a-62ae08.jpg" alt="Viktor Orbán concedes defeat as Hungary&#x27;s Tisza Party heads for election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661" target="_blank">Viktor Orbán concedes defeat as Hungary&#x27;s Tisza Party heads for election win</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-12 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg" alt="Trump&#x27;s Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +95,20 @@
                 <span class="time">2026-04-12 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade?traffic_source=rss" target="_blank">Peru votes for ninth president in less than decade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/at-least-30-dead-in-stampede-at-haitis-historic-citadelle-laferriere?traffic_source=rss" target="_blank">At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/" target="_blank">Apple reportedly testing four designs for upcoming smart glasses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-12 19:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review" target="_blank">The Hisense UR9 is a great first shot against OLED’s bow</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-12 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d81789888d9a8169226f55/master/pass/Audacity-Media-Finally-Reckons-With-the-Broligarchy-Culture-103_EA_0603_0688-RT.jpg" alt="‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/" target="_blank">‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-12 12:00</span>
             </div>
         </div>
 </div>
@@ -223,6 +219,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/one-piece-tony-tony-chopper-netflix-1280x640.jpg" alt="The Live-Action ‘One Piece’ Team Wants to Go the Distance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-live-action-one-piece-team-wants-to-go-the-distance-2000745407" target="_blank">The Live-Action ‘One Piece’ Team Wants to Go the Distance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-12 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/helixpals.jpg" alt="Next Gen Xbox Swag Has Already Begun Circulating With Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,15 +272,6 @@
                 <span class="time">2026-04-11 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/matrix-praying-1280x883.jpg" alt="‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-do-we-make-sure-that-claude-behaves-itself-anthropic-invited-15-christians-for-a-summit-2000743766" target="_blank">‘How Do We Make Sure That Claude Behaves Itself?’: Anthropic Invited 15 Christians for a Summit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-11 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
