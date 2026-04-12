@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 09:13:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 10:11:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel" target="_blank">A Hezbollah commander describes battling Israel in Lebanon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-12 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44dd/live/ee5bf930-364e-11f1-837e-77d669b4895f.jpg" alt="US-Iran talks ending without deal disappointing, Streeting says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss" target="_blank">US-Iran talks ending without deal disappointing, Streeting says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 09:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +95,20 @@
                 <span class="time">2026-04-12 06:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss" target="_blank">Pakistan urges US and Iran to uphold ceasefire after talks end</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775968231345_now_brk_vance_iran_no_deal_260411_S3_1920x1080-6rzdfu.jpg" alt="Vance says there was &#x27;no deal&#x27; with Iran during peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/vance-says-there-was-no-deal-with-iran-during-peace-talks-261191237978" target="_blank">Vance says there was &#x27;no deal&#x27; with Iran during peace talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-12 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d9972862d263b30905d524/master/pass/Review--Mammotion-Spino-E1-Pool-Robot.jpg" alt="Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/mammotion-spino-e1-pool-robot/" target="_blank">Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-12 10:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +154,20 @@
                 <span class="time">2026-04-11 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers" target="_blank">Pokémon Champions is off to a rough start</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dividebyzerogt/ai-agents-are-your-enterprises-newest-security-blind-spot-1od3" target="_blank">AI Agents Are Your Enterprise&#x27;s Newest Security Blind Spot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/04/github-copilot-cli-ga/en/headerimage/header-1775595985599.jpeg" alt="GitHub Copilot CLI Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://brennan.day/the-end-of-eleventy/" target="_blank">The End of Eleventy</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-12 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1naxysev43rfh9ttf7q.png" alt="The International Career Layer: What Cross-Border Communities Actually Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/d3one/the-international-career-layer-what-cross-border-communities-actually-change-4k10" target="_blank">The International Career Layer: What Cross-Border Communities Actually Change</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 22:00</span>
             </div>
         </div>
 </div>
@@ -295,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
