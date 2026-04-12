@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 05:37:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 06:27:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 05:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 06:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-jd-vance-in-pakistan_7217713.jpg?20260412054143" alt="Talks break down as both sides play hardball - what happens next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/vance-came-to-peace-talks-with-a-naive-assumption-but-the-iranians-didnt-cave-13530847" target="_blank">Talks break down as both sides play hardball - what happens next?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-12 04:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3a/live/552fe3d0-35e9-11f1-ba3f-938a430be8f6.jpg" alt="Hungarians decide whether to end 16 years of Orbán rule and elect rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker" target="_blank">White House ballroom construction can continue for now, appeals court says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-12 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss" target="_blank">Netanyahu next to Middle East map: ‘We strangled them and have more to do’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 02:09</span>
             </div>
         </div>
 </div>
@@ -298,7 +293,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 05:38 UTC
+        🔄 Last Updated: 06:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
