@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 13:23:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 14:11:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 14:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260410_1775822953907_hpMain_4x3t_384.jpg" alt="Iran live updates: President Trump says US Navy will blockade Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: President Trump says US Navy will blockade Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-12 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss" target="_blank">Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3267/live/66bfd960-3662-11f1-abac-374b30aeab76.jpg" alt="Starmer urges US and Iran to &#x27;find way through&#x27; after peace talks falter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +100,38 @@
                 <span class="time">2026-04-12 09:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science" target="_blank">The real space science behind &#x27;Project Hail Mary&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-12 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss" target="_blank">What happened in 40 days of war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/" target="_blank">Slate Auto: Everything you need to know about the Bezos-backed EV startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review" target="_blank">The Hisense UR9 is a great first shot against OLED’s bow</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-12 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d81789888d9a8169226f55/master/pass/Audacity-Media-Finally-Reckons-With-the-Broligarchy-Culture-103_EA_0603_0688-RT.jpg" alt="‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/" target="_blank">‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/dieselprices-500x500.jpg" alt="Shock from Iran war has Trump&#x27;s vision for US energy dominance flailing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +159,20 @@
                 <span class="time">2026-04-12 10:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/" target="_blank">Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-12 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving" target="_blank">The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-11 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/" target="_blank">Kalshi wins temporary pause in Arizona criminal case</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-11 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8" target="_blank">I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#x27;s the Open-Source Scanner I Built</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/dividebyzerogt/ai-agents-are-your-enterprises-newest-security-blind-spot-1od3" target="_blank">AI Agents Are Your Enterprise&#x27;s Newest Security Blind Spot</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 10:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/github-copilot-cli-ga/en/headerimage/header-1775595985599.jpeg" alt="GitHub Copilot CLI Reaches General Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-copilot-cli-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot CLI Reaches General Availability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-12 09:00</span>
             </div>
         </div>
 </div>
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
