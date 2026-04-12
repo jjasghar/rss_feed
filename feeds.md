@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 15:10:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 16:07:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 15:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 16:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade?traffic_source=rss" target="_blank">Peru votes for ninth president in less than decade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-04-12 12:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3267/live/66bfd960-3662-11f1-abac-374b30aeab76.jpg" alt="Starmer urges US and Iran to &#x27;find way through&#x27; after peace talks falter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer urges US and Iran to &#x27;find way through&#x27; after peace talks falter</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-12 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/" target="_blank">TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-12 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-04-12 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d9972862d263b30905d524/master/pass/Review--Mammotion-Spino-E1-Pool-Robot.jpg" alt="Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/mammotion-spino-e1-pool-robot/" target="_blank">Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-12 10:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="SteeplyOpinionated: A PR Review Tool for Tea Recipes (Returns 418, Obviously)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k" target="_blank">SteeplyOpinionated: A PR Review Tool for Tea Recipes (Returns 418, Obviously)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 16:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8" target="_blank">I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#x27;s the Open-Source Scanner I Built</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://essays.johnloeber.com/p/4-bring-back-idiomatic-design" target="_blank">Bring Back Idiomatic Design</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-12 12:21</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/CMake-Tighter-Package-Integrate" target="_blank">CMake Pursuing Tighter Integration With Package Managers, Other Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chriswhocodes.com/vm-options-explorer.html" target="_blank">JVM Options Explorer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dividebyzerogt/ai-agents-are-your-enterprises-newest-security-blind-spot-1od3" target="_blank">AI Agents Are Your Enterprise&#x27;s Newest Security Blind Spot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 10:05</span>
             </div>
         </div>
 </div>
@@ -283,12 +283,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775692363-20260411.png" alt="Saturday Morning Breakfast Cereal - Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1775866759-20260412.png" alt="Saturday Morning Breakfast Cereal - Stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/peace-3" target="_blank">Saturday Morning Breakfast Cereal - Peace</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/stage" target="_blank">Saturday Morning Breakfast Cereal - Stage</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-11 15:20</span>
+                <span class="time">2026-04-12 15:20</span>
             </div>
         </div>
 </div>
@@ -296,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
