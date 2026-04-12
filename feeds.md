@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 04:07:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-12 05:37:54 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 05:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss" target="_blank">Pakistan urges US and Iran to uphold ceasefire after talks end</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-12 05:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775968231345_now_brk_vance_iran_no_deal_260411_S3_1920x1080-6rzdfu.jpg" alt="Vance says there was &#x27;no deal&#x27; with Iran during peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/vance-says-there-was-no-deal-with-iran-during-peace-talks-261191237978" target="_blank">Vance says there was &#x27;no deal&#x27; with Iran during peace talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-12 04:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3a/live/552fe3d0-35e9-11f1-ba3f-938a430be8f6.jpg" alt="Hungarians decide whether to end 16 years of Orbán rule and elect rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss" target="_blank">Hungarians decide whether to end 16 years of Orbán rule and elect rival</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 04:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/PakistanUSIranVance_1775959834047_hpMain_4x3t_384.jpg" alt="Iran live updates: No deal with Iran after 21 hours of negotiations, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss" target="_blank">Netanyahu next to Middle East map: ‘We strangled them and have more to do’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-12 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-haiti-citadelle-laferriere_7217705.jpg?20260412022508" alt="At least 30 killed in Haiti stampede" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-killed-in-haiti-stampede-13530845" target="_blank">At least 30 killed in Haiti stampede</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-12 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80e/live/312fbcb0-35b9-11f1-879d-1b2f5c3919b8.jpg" alt="More than 500 arrests at Palestine Action protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss" target="_blank">More than 500 arrests at Palestine Action protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-11 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua?traffic_source=rss" target="_blank">Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-11 22:28</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ljkunal/the-wrong-guid-how-a-single-constant-broke-websocket-in-every-browser-but-not-python-1ojd" target="_blank">The Wrong GUID: How a Single Constant Broke WebSocket in Every Browser But Not Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 05:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/npayyappilly/stop-letting-your-ai-forget-mempalace-is-a-wake-up-call-18f0" target="_blank">🧠 Stop Letting Your AI Forget: MemPalace is a Wake-Up Call</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 04:01</span>
@@ -178,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/misterlsj/i-built-a-fire-calculator-in-a-single-html-file-heres-the-math-dca" target="_blank">I built a FIRE calculator in a single HTML file. Here&#x27;s the math.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://brennan.day/the-end-of-eleventy/" target="_blank">The End of Eleventy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-12 01:55</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App" target="_blank">AMD&#x27;s GAIA Now Allows Building Custom AI Agents Via Chat, Becomes &quot;True Desktop App&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-11 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zeromathai/cnn-layer-composition-a-practical-developer-guide-to-activation-pooling-and-fully-connected-288b" target="_blank">CNN Layer Composition — A Practical Developer Guide to Activation, Pooling, and Fully Connected Layers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91tw7e90zkmv5n1khftv.png" alt="Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shubhamkcloud/upgrading-an-amazon-eks-cluster-a-practical-step-by-step-guide-from-real-world-experience-47gl" target="_blank">Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 18:04</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 05:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
