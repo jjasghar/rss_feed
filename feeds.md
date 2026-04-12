@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 11:10:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 12:06:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 11:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/dieselprices-500x500.jpg" alt="Shock from Iran war has Trump&#x27;s vision for US energy dominance flailing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/" target="_blank">Shock from Iran war has Trump&#x27;s vision for US energy dominance flailing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-12 11:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -151,15 +152,6 @@
                 <span class="time">2026-04-11 21:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/" target="_blank">Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-11 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +160,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17317876/take-screenshots-linux-mint" target="_blank">How to Take Screenshots in Linux Mint [Beginner&amp;#x27;s Tip]</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-12 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kevin_menesesgonzlez/the-7-best-mcp-servers-for-stock-market-data-2026-389l" target="_blank">The 7 Best MCP Servers for Stock Market Data (2026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CMake-Tighter-Package-Integrate" target="_blank">CMake Pursuing Tighter Integration With Package Managers, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-12 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/ljkunal/the-wrong-guid-how-a-single-constant-broke-websocket-in-every-browser-but-not-python-1ojd" target="_blank">The Wrong GUID: How a Single Constant Broke WebSocket in Every Browser But Not Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/npayyappilly/stop-letting-your-ai-forget-mempalace-is-a-wake-up-call-18f0" target="_blank">🧠 Stop Letting Your AI Forget: MemPalace is a Wake-Up Call</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/misterlsj/i-built-a-fire-calculator-in-a-single-html-file-heres-the-math-dca" target="_blank">I built a FIRE calculator in a single HTML file. Here&#x27;s the math.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 02:46</span>
             </div>
         </div>
 </div>
@@ -297,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
