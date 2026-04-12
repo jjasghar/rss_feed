@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 12:06:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-12 13:23:58 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3267/live/66bfd960-3662-11f1-abac-374b30aeab76.jpg" alt="Starmer urges US and Iran to &#x27;find way through&#x27; after peace talks falter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer urges US and Iran to &#x27;find way through&#x27; after peace talks falter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-12 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss" target="_blank">What happened in 40 days of war on Iran</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-12 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41c/live/a048e7f0-3642-11f1-9e53-c1f9d2562c19.jpg" alt="Hungarians vote on whether to end 16 years of Orbán rule and elect rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss" target="_blank">Hungarians vote on whether to end 16 years of Orbán rule and elect rival</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-12 07:44</span>
             </div>
         </div>
 </div>
@@ -187,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chriswhocodes.com/vm-options-explorer.html" target="_blank">JVM Options Explorer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-12 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dividebyzerogt/ai-agents-are-your-enterprises-newest-security-blind-spot-1od3" target="_blank">AI Agents Are Your Enterprise&#x27;s Newest Security Blind Spot</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/github-copilot-cli-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Copilot CLI Reaches General Availability</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-12 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ljkunal/the-wrong-guid-how-a-single-constant-broke-websocket-in-every-browser-but-not-python-1ojd" target="_blank">The Wrong GUID: How a Single Constant Broke WebSocket in Every Browser But Not Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 05:24</span>
             </div>
         </div>
 </div>
@@ -289,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
