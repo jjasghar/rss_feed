@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 02:59:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-12 04:07:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 12, 2026 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/PakistanUSIranVance_1775959834047_hpMain_4x3t_384.jpg" alt="Iran live updates: No deal with Iran after 21 hours of negotiations, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074" target="_blank">Iran live updates: No deal with Iran after 21 hours of negotiations, Vance says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-12 03:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2026-04-11 22:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/11/nx-s1-5782027/trump-triumphal-arch-plans-architecture" target="_blank">Trump touts newly released plans for D.C. triumphal arch</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-11 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/" target="_blank">Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-12 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2026-04-11 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion" target="_blank">My baby deer plushie told me that Mitski&amp;#8217;s dad was a CIA operative</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-11 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/npayyappilly/stop-letting-your-ai-forget-mempalace-is-a-wake-up-call-18f0" target="_blank">🧠 Stop Letting Your AI Forget: MemPalace is a Wake-Up Call</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-12 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/shubhamkcloud/upgrading-an-amazon-eks-cluster-a-practical-step-by-step-guide-from-real-world-experience-47gl" target="_blank">Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-11 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7" target="_blank">Your Job shouldn&#x27;t give you meaning, Your meaning should give you a job.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-11 17:00</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
