@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 14:30:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-13 15:26:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 14:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 15:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/" target="_blank">Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-13 15:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Blank-Slate-Profile-500x500.jpg" alt="Slate Auto raises $650 million as production gets closer and closer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/" target="_blank">Slate Auto raises $650 million as production gets closer and closer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-13 14:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69d92f4d4201306cf06bd0fc/master/pass/Shingles-Series-Why-Shingles-Is-Bigger-Deal-Than-You-Think-Science.jpg" alt="You Should Be More Freaked Out by Shingles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -138,29 +160,29 @@
                 <span class="time">2026-04-13 11:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/910834/neuralink-bcis-bet" target="_blank">Did Neuralink make the wrong bet?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds" target="_blank">Microsoft&amp;#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-13 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/" target="_blank">GitHub for Beginners: Getting started with GitHub Pages</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Rust" target="_blank">Rust For Linux 7.1 Bringing Experimental Option That Can Help Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +219,6 @@
                 <span class="time">2026-04-13 12:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/" target="_blank">Android now stops you sharing your location in photos</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-13 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-Embed-Crates-LTS" target="_blank">Servo Browser Engine Making It Easier For Embedded Use</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-56.jpg" alt="Xbox Tries To Shut Down Rumors Of A GTA 6-Fueled Fable Delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-tries-to-shut-down-rumors-of-a-gta-6-fueled-fable-delay-2000687103" target="_blank">Xbox Tries To Shut Down Rumors Of A GTA 6-Fueled Fable Delay</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot_From_2026-03-13_10-49-00-1773409581.webp?fit=1036%2C740&amp;quality=55&amp;ssl=1" alt="Fog Panther is a new image editor for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/13/fog-panther-is-a-new-image-editor-for-linux.html" target="_blank">Fog Panther is a new image editor for Linux</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-13 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/the-boroughs-netflix-1280x853.jpg" alt="The First Trailer for ‘The Boroughs’ Gives Seniors Their Own ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +292,20 @@
                 <span class="time">2026-04-13 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/daemons-shadow-realmhed-1280x853.jpg" alt="‘Daemons of the Shadow Realm’ Has Four Banger Songs For the Price of Two" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/daemons-of-the-shadow-realm-has-four-banger-songs-for-the-price-of-two-2000745519" target="_blank">‘Daemons of the Shadow Realm’ Has Four Banger Songs For the Price of Two</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/portable-battery-1280x853.jpg" alt="Southwest Is About to Limit Power Banks on Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/southwest-is-about-to-limit-power-banks-on-flights-2000745471" target="_blank">Southwest Is About to Limit Power Banks on Flights</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-12 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776037091-20260413.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/witch-2" target="_blank">Saturday Morning Breakfast Cereal - Witch</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -311,22 +324,13 @@
                 <span class="time">2026-04-13 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1775866759-20260412.png" alt="Saturday Morning Breakfast Cereal - Stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/stage" target="_blank">Saturday Morning Breakfast Cereal - Stage</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
