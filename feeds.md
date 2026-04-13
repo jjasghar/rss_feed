@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 08:37:17 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-13 09:31:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 08:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 09:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5775899/faa-flight-cuts-chicago-ohare-airport" target="_blank">The FAA takes a rare step to head off a traffic jam at Chicago&#x27;s O&#x27;Hare Airport</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US blockade of Iran&#x27;s Strait of Hormuz ports to begin Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +94,20 @@
                 <span class="time">2026-04-13 05:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7d/live/6ce58d70-36e5-11f1-9232-4b9563be44e7.jpg" alt="UK could adopt EU single market rules under new legislation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss" target="_blank">UK could adopt EU single market rules under new legislation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-13 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting" target="_blank">Sam Altman reportedly targeted in second attack</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-13 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +150,6 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/" target="_blank">X says it’s reducing payments to clickbait accounts</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-12 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact" target="_blank">Rockstar Games says hack will have ‘no impact’</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2026-04-12 17:02</span>
             </div>
         </div>
@@ -318,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 08:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
