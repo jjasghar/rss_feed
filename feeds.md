@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 01:31:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 03:00:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss" target="_blank">Rory McIlroy wins Masters to become fourth back-to-back champion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 02:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b758/live/7cb49b90-36ce-11f1-8f70-07c0b2585c38.jpg" alt="UK will not join Trump&#x27;s blockade of Iran&#x27;s ports in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss" target="_blank">Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-12 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260412-Peter-Magyar-vl-1108a-62ae08.jpg" alt="Viktor Orbán concedes election defeat in a blow to Hungary&#x27;s far right" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661" target="_blank">Viktor Orbán concedes election defeat in a blow to Hungary&#x27;s far right</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-12 19:08</span>
             </div>
         </div>
 </div>
@@ -166,6 +172,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9" target="_blank">Karpathy&#x27;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#x27;s what I learned</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/java-news-roundup-apr06-2026/en/headerimage/java-news-roundup-image-1776028062977.jpg" alt="Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-13 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/lofi-gnome-extension.webp?resize=406%2C232&amp;ssl=1" alt="Quick Lofi – a GNOME extension for chill beats to study to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/quick-lofi-beats-gnome-extension" target="_blank">Quick Lofi – a GNOME extension for chill beats to study to</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-13 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fluxelle/im-not-a-community-person-im-starting-a-community-project-anyway-5b72" target="_blank">I&#x27;m Not a Community Person. I&#x27;m Starting a Community Project Anyway.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 00:00</span>
@@ -181,39 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/linux-kernel-7.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.0: faster swap, Intel TSX &amp; Rock Band 4 controller support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-7-0-kernel-features" target="_blank">Linux 7.0: faster swap, Intel TSX &amp; Rock Band 4 controller support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-12 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Released" target="_blank">Linux 7.0 Released With New Hardware Support, Optimizations &amp; Self-Healing XFS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-12 21:07</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/" target="_blank">The peril of laziness lost</a></span>
+                <span class="title"><a href="https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/" target="_blank">Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toolbox_starnomina/dmarc-report-analyzer-how-to-read-and-act-on-aggregate-reports-bn1" target="_blank">DMARC Report Analyzer: How to Read and Act on Aggregate Reports</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 19:12</span>
+                <span class="time">2026-04-12 22:38</span>
             </div>
         </div>
 </div>
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
