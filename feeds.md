@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-12 23:07:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 00:12:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 12, 2026 - 23:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 00:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fluxelle/im-not-a-community-person-im-starting-a-community-project-anyway-5b72" target="_blank">I&#x27;m Not a Community Person. I&#x27;m Starting a Community Project Anyway.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F29621dle73xl2tqxdq9f.png" alt="Cost-Aware Serverless Architecture Reviews: A Practical Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl" target="_blank">Cost-Aware Serverless Architecture Reviews: A Practical Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-12 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/linux-kernel-7.webp?resize=406%2C232&amp;ssl=1" alt="Linux 7.0: faster swap, Intel TSX &amp; Rock Band 4 controller support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-7-0-kernel-features" target="_blank">Linux 7.0: faster swap, Intel TSX &amp; Rock Band 4 controller support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-12 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.0-Released" target="_blank">Linux 7.0 Released With New Hardware Support, Optimizations &amp; Self-Healing XFS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-12 21:07</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +217,6 @@
                 <span class="time">2026-04-12 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-OOB-Special-Certificate" target="_blank">Linux Out-Of-Bounds Access Fixed For Unprivileged Users With Specially Crafted Certs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-12 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fih47x86v6tbfzoc8h01r.png" alt="Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j" target="_blank">Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://boringbar.app/" target="_blank">Show HN: boringBar – a taskbar-style dock replacement for macOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-12 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -232,6 +229,15 @@
                 <span class="title"><a href="https://gizmodo.com/southwest-is-about-to-limit-power-banks-on-flights-2000745471" target="_blank">Southwest Is About to Limit Power Banks on Flights</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-12 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/mvc3.jpg" alt="Streamer Promises $10,000 Bounty For Fixing Marvel Vs. Capcom 3‘s Online Multiplayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/maximilian-dood-puts-10-grand-incentive-on-marvel-vs-capcom-3-rollback-netcode-2000686991" target="_blank">Streamer Promises $10,000 Bounty For Fixing Marvel Vs. Capcom 3‘s Online Multiplayer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-12 19:29</span>
             </div>
         </div>
 <div class="story">
@@ -270,15 +276,6 @@
                 <span class="time">2026-04-12 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-laughing-1280x897.jpeg" alt="OpenAI Says Elon Musk Is ‘Injecting Chaos’ with Recent Legal Maneuver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-says-elon-musk-is-injecting-chaos-with-recent-legal-maneuver-2000745384" target="_blank">OpenAI Says Elon Musk Is ‘Injecting Chaos’ with Recent Legal Maneuver</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-12 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:07 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
