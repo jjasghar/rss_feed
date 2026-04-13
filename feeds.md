@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 07:32:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 08:37:17 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 07:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 08:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +57,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: US blockade of Iran&#x27;s Strait of Hormuz ports to begin Monday</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-13 07:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/1fd03d50-36fe-11f1-8606-05fe34b06e1b.jpg" alt="Orbán era swept away by Péter Magyar&#x27;s Hungary election landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss" target="_blank">Orbán era swept away by Péter Magyar&#x27;s Hungary election landslide</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 06:25</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss" target="_blank">UK could adopt EU single market rules under new legislation</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-13 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss" target="_blank">Rory McIlroy wins Masters to become fourth back-to-back champion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 02:29</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="Gaussian Process Regression: The Bayesian Approach to Curve Fitting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/berkan_sesen/gaussian-process-regression-the-bayesian-approach-to-curve-fitting-k7d" target="_blank">Gaussian Process Regression: The Bayesian Approach to Curve Fitting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 08:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-13 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/yashksaini/dev-log-4-a-week-of-deep-integrations-4b27" target="_blank">Dev Log #4 A Week of Deep Integrations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 05:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17318135/linux-kernel-7-0-release" target="_blank">Linux Kernel 7.0 is Out With Improvements Across the Board for Intel, AMD, and Storage</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-13 04:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9" target="_blank">Karpathy&#x27;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#x27;s what I learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 02:48</span>
             </div>
         </div>
 </div>
@@ -285,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/13/kink-and-shame" target="_blank">Kink And Shame</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-13 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5806.png" alt="Heavy Metals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -307,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
