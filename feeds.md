@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 18:20:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-13 19:26:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/13/orban-was-defeated-in-hungary-but-orbanism-lives-on?traffic_source=rss" target="_blank">Orban was defeated in Hungary, but Orbanism lives on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 18:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +104,6 @@
                 <span class="time">2026-04-13 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776089635821_now_brk_bradley_strait_block_begin_260413_S3_1920x1080-b3wpp7.jpg" alt="U.S. naval blockade of Iranian ports goes into effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-naval-blockade-of-iranian-ports-goes-into-effect-261231685671" target="_blank">U.S. naval blockade of Iranian ports goes into effect</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-13 14:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/" target="_blank">Sunrise on the Reaping teaser brings us a Second Quarter Quell</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-13 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d83e91a6b1cf7dff37c069/master/pass/politics_trump_antichrist_2_getty.jpg" alt="Staunch Trump Supporters Are Now Asking if He’s the Antichrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/" target="_blank">Staunch Trump Supporters Are Now Asking if He’s the Antichrist</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 17:17</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +163,20 @@
                 <span class="time">2026-04-13 15:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Blank-Slate-Profile-500x500.jpg" alt="Slate Auto raises $650 million as production gets closer and closer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/" target="_blank">Slate Auto raises $650 million as production gets closer and closer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-13 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdibpplicb6n7jns0qv2i.png" alt="Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1" target="_blank">Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 19:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/therealgabry/how-i-built-flashfx-with-almost-no-budget-4g36" target="_blank">How I Built FlashFX With (Almost) No Budget</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/" target="_blank">Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-13 17:54</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LLVM-Generated-Spack-Packages" target="_blank">The Good &amp; The Bad When Using LLMs To Write Spack Packages</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-13 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932594&w=600" alt="Respecting robots.txt in Web Scraping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/respecting-robotstxt-in-web-scraping-1" target="_blank">Respecting robots.txt in Web Scraping</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-13 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/sterlingcrispin/nothing-ever-happens" target="_blank">Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-13 15:31</span>
             </div>
         </div>
 </div>
@@ -276,6 +278,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP3VSK9048BVVV10S8ZAG71C/hero-image.jpg" alt="Elon Musk&#x27;s XChat Claims to Offer &#x27;Private&#x27; Messaging (but Is Reserving the Right to Collect Your Data)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/xchat-claims-to-offer-private-messaging-while-reserving-the-right-to-collect?utm_medium=RSS" target="_blank">Elon Musk&#x27;s XChat Claims to Offer &#x27;Private&#x27; Messaging (but Is Reserving the Right to Collect Your Data)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 17:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/0696b01ca39c66e003c84790a03f6abb-1280x721.jpg" alt="Clips Of The New Avatar Movie Leak All Over The Internet Six Months Before It’s Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -291,15 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/cursed-island-movies-apple-tv-widows-bay-2000745161" target="_blank">10 Cursed Islands to Visit Ahead of ‘Widow’s Bay’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-13 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/gunman.jpg?fit=2000%2C1273&amp;quality=60&amp;ssl=1" alt="Masked gunman who menaced students at anti-ICE school protest was a cop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/13/masked-gunman-who-menaced-students-at-anti-ice-school-protest-was-a-cop.html" target="_blank">Masked gunman who menaced students at anti-ICE school protest was a cop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-13 15:26</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
