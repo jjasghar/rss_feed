@@ -1,30 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 22:12:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 23:13:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
@@ -32,13 +24,14 @@
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 23:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -91,21 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4448/live/68e90900-3775-11f1-b023-c3d1c5398968.jpg" alt="Hungary&#x27;s next PM would pick up if Putin calls and tell him to stop Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss" target="_blank">Hungary&#x27;s next PM would pick up if Putin calls and tell him to stop Ukraine war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 21:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament" target="_blank">Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-13 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/13/orban-was-defeated-in-hungary-but-orbanism-lives-on?traffic_source=rss" target="_blank">Orban was defeated in Hungary, but Orbanism lives on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 18:56</span>
             </div>
         </div>
 </div>
@@ -141,6 +134,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69dc6dd765e539beec73c026/master/pass/Starter-Pack-VERS-2.jpg" alt="What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hasan-pikers-starter-pack/" target="_blank">What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 20:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-500x500.jpg" alt="Sunrise on the Reaping teaser brings us a Second Quarter Quell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -156,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/" target="_blank">Staunch Trump Supporters Are Now Asking if He’s the Antichrist</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-13 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor" target="_blank">You can make a multicolor MacBook Neo out of Apple&amp;#8217;s spare parts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-13 17:08</span>
             </div>
         </div>
 </div>
@@ -255,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/helium.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Thanks, Trump! — here&#x27;s what happens when the world runs low on helium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/13/thanks-trump-heres-what-happens-when-the-world-runs-low-on-helium.html" target="_blank">Thanks, Trump! — here&#x27;s what happens when the world runs low on helium</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-13 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/grandmagaming-1280x720.jpg" alt="A 91-Year-Old Woman Who Received A Wellness Check From Police Was Just Busy Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gaming-grandma-granny-police-check-wellness-2000687218" target="_blank">A 91-Year-Old Woman Who Received A Wellness Check From Police Was Just Busy Gaming</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNMG7YNRJG67HWDM138GQ3NF/hero-image.jpg" alt="10 Hacks Every Spotify User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -290,24 +301,6 @@
                 <span class="time">2026-04-13 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/gta6hack-1280x720.jpg" alt="Rockstar Hackers Release Data Early After GTA 6 Maker Refuses To Pay Ransom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rockstar-hackers-release-data-early-after-gta-6-maker-refuses-to-pay-ransom-2000687189" target="_blank">Rockstar Hackers Release Data Early After GTA 6 Maker Refuses To Pay Ransom</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="The Newest Apple Watch Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-april-2026?utm_medium=RSS" target="_blank">The Newest Apple Watch Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-13 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/countdown_standard.png" alt="Countdown Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3232/" target="_blank">Countdown Standard</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-13 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5806.png" alt="Heavy Metals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
