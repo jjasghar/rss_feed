@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 13:29:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 14:30:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana" target="_blank">Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-13 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss" target="_blank">Israel is trying to change Jerusalem’s religious identity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-13 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/g-s1-117236/trump-says-u-s-will-blockade-iranian-ports-and-orban-loses-hungarian-election" target="_blank">Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 11:56</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +97,20 @@
                 <span class="time">2026-04-13 08:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US blockade of Iran&#x27;s Strait of Hormuz ports to begin Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: US blockade of Iran&#x27;s Strait of Hormuz ports to begin Monday</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-13 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/1fd03d50-36fe-11f1-8606-05fe34b06e1b.jpg" alt="Orbán era swept away by Péter Magyar&#x27;s Hungary election landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss" target="_blank">Orbán era swept away by Péter Magyar&#x27;s Hungary election landslide</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-13 06:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d92f4d4201306cf06bd0fc/master/pass/Shingles-Series-Why-Shingles-Is-Bigger-Deal-Than-You-Think-Science.jpg" alt="You Should Be More Freaked Out by Shingles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/" target="_blank">You Should Be More Freaked Out by Shingles</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +156,38 @@
                 <span class="time">2026-04-13 10:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cd210dfdbcdf48a7c7710a/master/pass/Business_CananAIAgentDateOnYourBehalf_2400x1350.gif" alt="AI Agents Are Coming for Your Dating Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/" target="_blank">AI Agents Are Coming for Your Dating Life</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fai_0e4beef557fe0f42b1a0b/semantic-seo-for-wordpress-rank-higher-without-keyword-stuffing-3h18" target="_blank">Semantic SEO for WordPress: Rank Higher Without Keyword Stuffing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FTRFS-Linux-File-System" target="_blank">FTRFS: New Fault-Tolerant File-System Proposed For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://servo.org/blog/2026/04/13/servo-0.1.0-release/" target="_blank">Servo is now available on crates.io</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-13 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +215,6 @@
                 <span class="time">2026-04-13 11:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-RadeonSI-Rusticl-APUs" target="_blank">Mesa 26.1 RadeonSI Driver Lands Improvement For AMD APUs With Rusticl</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyd0aGVtZSc6ICdiYXNlJywgJ3RoZW1lVmFyaWFibGVzJzogeyAncHJpbWFyeUNvbG9yJzogJyNmZjlmMWMnLCAnc2Vjb25kYXJ5Q29sb3InOiAnIzJlYzRiNicsICd0ZXJ0aWFyeUNvbG9yJzogJyNlNzFkMzYnLCAncHJpbWFyeUJvcmRlckNvbG9yJzogJyMwMTE2MjcnLCAnbGluZUNvbG9yJzogJyMwMTE2MjcnLCAnZm9udEZhbWlseSc6ICdJbnRlciwgc2Fucy1zZXJpZid9fX0lJQpncmFwaCBUQgogICAgVXNlcltVc2VyOiBOYXR1cmFsIExhbmd1YWdlIFByb21wdF0gLS0-IEFnZW50W0NvcnRleCBDb2RlIEFnZW50XQogICAgc3ViZ3JhcGggRGF0YUNsb3VkIFtBSSBEYXRhIENsb3VkXQogICAgICAgIEFnZW50IC0tPiBQbGFubmVyW1JlYXNvbmluZyAmIFBsYW5uaW5nIEVuZ2luZV0KICAgICAgICBQbGFubmVyIC0tPiBTa2lsbHNbTUwgU2tpbGwgTGlicmFyeTogRmVhdHVyZSBFbmcsIFR1bmluZywgVHJhaW5pbmddCiAgICAgICAgU2tpbGxzIC0tPiBDb21wdXRlW1VuaWZpZWQgQ29tcHV0ZTogQ1BVL0dQVSBDbHVzdGVyc10KICAgICAgICBDb21wdXRlIC0tPiBEYXRhW0dvdmVybmVkIERhdGEgTGFrZS9XYXJlaG91c2VdCiAgICAgICAgRGF0YSAtLT4gQ29tcHV0ZQogICAgZW5kCiAgICBDb21wdXRlIC0tPiBFdmFsW1BlcmZvcm1hbmNlIEV2YWx1YXRpb25dCiAgICBFdmFsIC0tPiBBZ2VudA%3D%3D%3FbgColor%3D%21white" alt="Agentic ML: Moving from Manual Pipelines to Autonomous AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karan_kumar_f09865ff0efe9/agentic-ml-moving-from-manual-pipelines-to-autonomous-ai-e32" target="_blank">Agentic ML: Moving from Manual Pipelines to Autonomous AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="Gaussian Process Regression: The Bayesian Approach to Curve Fitting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/berkan_sesen/gaussian-process-regression-the-bayesian-approach-to-curve-fitting-k7d" target="_blank">Gaussian Process Regression: The Bayesian Approach to Curve Fitting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 08:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/the-boroughs-netflix-1280x853.jpg" alt="The First Trailer for ‘The Boroughs’ Gives Seniors Their Own ‘Stranger Things’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-boroughs-trailer-netflix-stranger-things-duffer-brothers-2000745653" target="_blank">The First Trailer for ‘The Boroughs’ Gives Seniors Their Own ‘Stranger Things’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP3ETVWQKFRRRW0S6HER9T0Y/hero-image.png" alt="The Ray-Ban Meta Wayfarer Smart Glasses Are 25% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ray-ban-meta-wayfarer-smart-glasses-sale-april-2026?utm_medium=RSS" target="_blank">The Ray-Ban Meta Wayfarer Smart Glasses Are 25% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2017/11/wwpnd9ami11k4x7bp4ds.jpg" alt="Pokémon Player Stripped Of His Win For Celebrating Too Much Calls Ruling A ‘Clear Mistake’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/southwest-is-about-to-limit-power-banks-on-flights-2000745471" target="_blank">Southwest Is About to Limit Power Banks on Flights</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-12 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/mvc3.jpg" alt="Streamer Promises $10,000 Bounty For Fixing Marvel Vs. Capcom 3‘s Online Multiplayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/maximilian-dood-puts-10-grand-incentive-on-marvel-vs-capcom-3-rollback-netcode-2000686991" target="_blank">Streamer Promises $10,000 Bounty For Fixing Marvel Vs. Capcom 3‘s Online Multiplayer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-12 19:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/one-piece-tony-tony-chopper-netflix-1280x640.jpg" alt="The Live-Action ‘One Piece’ Team Wants to Go the Distance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-live-action-one-piece-team-wants-to-go-the-distance-2000745407" target="_blank">The Live-Action ‘One Piece’ Team Wants to Go the Distance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-12 18:50</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
