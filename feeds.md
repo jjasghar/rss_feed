@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 19:26:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-13 20:16:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 20:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament" target="_blank">Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-13 19:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church" target="_blank">Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-13 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss" target="_blank">Hungary’s Peter Magyar calls for early convening of parliament</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 16:05</span>
             </div>
         </div>
 </div>
@@ -251,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/gta6hack-1280x720.jpg" alt="Rockstar Hackers Release Data Early After GTA 6 Maker Refuses To Pay Ransom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rockstar-hackers-release-data-early-after-gta-6-maker-refuses-to-pay-ransom-2000687189" target="_blank">Rockstar Hackers Release Data Early After GTA 6 Maker Refuses To Pay Ransom</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KBJJ2VKRQHCS8NTPXFEPW31G/hero-image.png" alt="The Newest Apple Watch Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-series-11-april-2026?utm_medium=RSS" target="_blank">The Newest Apple Watch Is $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,24 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/xchat-claims-to-offer-private-messaging-while-reserving-the-right-to-collect?utm_medium=RSS" target="_blank">Elon Musk&#x27;s XChat Claims to Offer &#x27;Private&#x27; Messaging (but Is Reserving the Right to Collect Your Data)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-13 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/0696b01ca39c66e003c84790a03f6abb-1280x721.jpg" alt="Clips Of The New Avatar Movie Leak All Over The Internet Six Months Before It’s Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avatar-aang-last-airbender-paramount-leak-clip-trailer-2000687163" target="_blank">Clips Of The New Avatar Movie Leak All Over The Internet Six Months Before It’s Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/CursedIslandtopart-1280x853.jpg" alt="10 Cursed Islands to Visit Ahead of ‘Widow’s Bay’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cursed-island-movies-apple-tv-widows-bay-2000745161" target="_blank">10 Cursed Islands to Visit Ahead of ‘Widow’s Bay’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-13 16:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
