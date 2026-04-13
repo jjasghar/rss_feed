@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 04:12:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-13 05:51:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 04:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 05:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters" target="_blank">Rory McIlroy wins the Masters for second year in a row</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7d/live/6ce58d70-36e5-11f1-9232-4b9563be44e7.jpg" alt="UK could adopt EU single market rules under new legislation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss" target="_blank">UK could adopt EU single market rules under new legislation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s blockade threat raises risks and leaves predicaments unchanged</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-12 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss" target="_blank">These are people Israel killed in Lebanon on a single day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz?traffic_source=rss" target="_blank">Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-12 19:19</span>
             </div>
         </div>
 </div>
@@ -166,6 +163,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yashksaini/dev-log-4-a-week-of-deep-integrations-4b27" target="_blank">Dev Log #4 A Week of Deep Integrations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 05:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17318135/linux-kernel-7-0-release" target="_blank">Linux Kernel 7.0 is Out With Improvements Across the Board for Intel, AMD, and Storage</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-13 04:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9" target="_blank">Karpathy&#x27;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#x27;s what I learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 02:48</span>
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://arxiv.org/abs/2603.21852" target="_blank">All elementary functions from a single binary operator</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-13 01:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fluxelle/im-not-a-community-person-im-starting-a-community-project-anyway-5b72" target="_blank">I&#x27;m Not a Community Person. I&#x27;m Starting a Community Project Anyway.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F29621dle73xl2tqxdq9f.png" alt="Cost-Aware Serverless Architecture Reviews: A Practical Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl" target="_blank">Cost-Aware Serverless Architecture Reviews: A Practical Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-12 23:00</span>
             </div>
         </div>
 </div>
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
