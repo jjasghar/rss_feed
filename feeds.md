@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 17:20:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-13 18:20:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 17:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election" target="_blank">5 things to know about Péter Magyar, Hungary&#x27;s new prime minister</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-260413_1776098967404_hpMain_4x3t_384.jpg" alt="Trump takes down image from social media that depicted him as Jesus-like figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +78,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church" target="_blank">Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-13 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss" target="_blank">Hungary’s Peter Magyar calls for early convening of parliament</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -70,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg" alt="Southport killer&#x27;s parents failed in &#x27;moral duty&#x27; to report son" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776089635821_now_brk_bradley_strait_block_begin_260413_S3_1920x1080-b3wpp7.jpg" alt="U.S. naval blockade of Iranian ports goes into effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&at_campaign=rss" target="_blank">Southport killer&#x27;s parents failed in &#x27;moral duty&#x27; to report son</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-13 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana" target="_blank">Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-13 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss" target="_blank">Israel is trying to change Jerusalem’s religious identity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 12:02</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-naval-blockade-of-iranian-ports-goes-into-effect-261231685671" target="_blank">U.S. naval blockade of Iranian ports goes into effect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-13 14:14</span>
             </div>
         </div>
 </div>
@@ -101,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-500x500.jpg" alt="Sunrise on the Reaping teaser brings us a Second Quarter Quell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/" target="_blank">Sunrise on the Reaping teaser brings us a Second Quarter Quell</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-13 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +161,20 @@
                 <span class="time">2026-04-13 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d92f4d4201306cf06bd0fc/master/pass/Shingles-Series-Why-Shingles-Is-Bigger-Deal-Than-You-Think-Science.jpg" alt="You Should Be More Freaked Out by Shingles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/" target="_blank">You Should Be More Freaked Out by Shingles</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/therealgabry/how-i-built-flashfx-with-almost-no-budget-4g36" target="_blank">How I Built FlashFX With (Almost) No Budget</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932600&w=600" alt="Beyond Request-Response: Architecting Stateful Agentic Chatbots with the Command and State Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,19 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/" target="_blank">GitHub for Beginners: Getting started with GitHub Pages</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Rust" target="_blank">Rust For Linux 7.1 Bringing Experimental Option That Can Help Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 14:51</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/sterlingcrispin/nothing-ever-happens" target="_blank">Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-13 15:31</span>
             </div>
         </div>
 </div>
@@ -242,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-boss-thinks-game-pass-is-too-expensive-and-needs-to-evolve-2000687169" target="_blank">Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/shutterstock_1460201174-e1776103140503.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Two condors quietly attempt a comeback humans nearly erased" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/13/two-condors-quietly-attempt-a-comeback-humans-nearly-erased.html" target="_blank">Two condors quietly attempt a comeback humans nearly erased</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-13 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/rise-of-the-teenage-mutant-ninja-turtles-1280x853.jpg" alt="‘Rise of the TMNT’ Could’ve Introduced Even More Turtles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/13/masked-gunman-who-menaced-students-at-anti-ice-school-protest-was-a-cop.html" target="_blank">Masked gunman who menaced students at anti-ICE school protest was a cop</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-13 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-56.jpg" alt="Xbox Tries To Shut Down Rumors Of A GTA 6-Fueled Fable Delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-tries-to-shut-down-rumors-of-a-gta-6-fueled-fable-delay-2000687103" target="_blank">Xbox Tries To Shut Down Rumors Of A GTA 6-Fueled Fable Delay</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot_From_2026-03-13_10-49-00-1773409581.webp?fit=1036%2C740&amp;quality=55&amp;ssl=1" alt="Fog Panther is a new image editor for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/13/fog-panther-is-a-new-image-editor-for-linux.html" target="_blank">Fog Panther is a new image editor for Linux</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-13 14:45</span>
             </div>
         </div>
 </div>
@@ -333,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
