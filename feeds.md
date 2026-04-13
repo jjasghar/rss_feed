@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 00:12:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-13 01:31:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b758/live/7cb49b90-36ce-11f1-8f70-07c0b2585c38.jpg" alt="UK will not join Trump&#x27;s blockade of Iran&#x27;s ports in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss" target="_blank">UK will not join Trump&#x27;s blockade of Iran&#x27;s ports in the Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california" target="_blank">Fighting assault allegations, Eric Swalwell suspends his bid for California governor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 00:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg" alt="Trump&#x27;s blockade threat raises risks and leaves predicaments unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661" target="_blank">Viktor Orbán concedes election defeat in a blow to Hungary&#x27;s far right</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-12 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260412-Peter-Magyar-vl-1108a-62ae08.jpg" alt="Viktor Orbán concedes defeat as Hungary&#x27;s Tisza Party heads for election win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/hungary/hungary-parliamentary-election-results-rcna273661" target="_blank">Viktor Orbán concedes defeat as Hungary&#x27;s Tisza Party heads for election win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-12 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg" alt="Trump&#x27;s Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-12 18:48</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
