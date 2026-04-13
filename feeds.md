@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 15:26:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 16:23:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 15:26 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 16:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss" target="_blank">Hungary’s Peter Magyar calls for early convening of parliament</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg" alt="Southport killer&#x27;s parents failed in &#x27;moral duty&#x27; to report son" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&at_campaign=rss" target="_blank">Southport killer&#x27;s parents failed in &#x27;moral duty&#x27; to report son</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,20 @@
                 <span class="time">2026-04-13 11:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5775899/faa-flight-cuts-chicago-ohare-airport" target="_blank">The FAA takes a rare step to head off a traffic jam at Chicago&#x27;s O&#x27;Hare Airport</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-peter-magyar-hungary_7213117.jpg?20260407113333" alt="Calling out sex tape blackmail and cosying up to Europe: This is Hungary&#x27;s new prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/who-is-peter-magyar-hungarys-next-prime-minister-13531234" target="_blank">Calling out sex tape blackmail and cosying up to Europe: This is Hungary&#x27;s new prime minister</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-13 08:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69dd120fd5415cb89341a838/master/pass/GettyImages-2265766888.jpg" alt="Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/" target="_blank">Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,38 @@
                 <span class="time">2026-04-13 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d98a89b8bdc021bdac9dec/master/pass/The-Best-Water-Filter-Pitchers-for-PFAS--and-Lead-Free-Living.jpg" alt="The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-water-filter-pitchers/" target="_blank">The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ombaq79ho65mgbtjqyg.png" alt="It Gets Smarter Every Scan: AI-SLOP Detector v3.5.0 and the Self-Calibration Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flamehaven01/it-gets-smarter-every-scan-ai-slop-detector-v350-and-the-self-calibration-loop-3fia" target="_blank">It Gets Smarter Every Scan: AI-SLOP Detector v3.5.0 and the Self-Calibration Loop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Generated-Spack-Packages" target="_blank">The Good &amp; The Bad When Using LLMs To Write Spack Packages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932594&w=600" alt="Respecting robots.txt in Web Scraping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/respecting-robotstxt-in-web-scraping-1" target="_blank">Respecting robots.txt in Web Scraping</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-13 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,37 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fai_0e4beef557fe0f42b1a0b/semantic-seo-for-wordpress-rank-higher-without-keyword-stuffing-3h18" target="_blank">Semantic SEO for WordPress: Rank Higher Without Keyword Stuffing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FTRFS-Linux-File-System" target="_blank">FTRFS: New Fault-Tolerant File-System Proposed For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://servo.org/blog/2026/04/13/servo-0.1.0-release/" target="_blank">Servo is now available on crates.io</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-13 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/opmr0/i-built-a-cli-snippet-manager-in-rust-because-i-was-tired-of-googling-the-same-things-4j4g" target="_blank">I built a CLI snippet manager in Rust because I was tired of googling the same things</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 12:11</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17318424/linux-amd-gpu-vram-fix" target="_blank">An Open Source Dev Has Put Together a Fix for AMD GPU&amp;#x27;s VRAM Mismanagement on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-13 14:24</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/CursedIslandtopart-1280x853.jpg" alt="10 Cursed Islands to Visit Ahead of ‘Widow’s Bay’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cursed-island-movies-apple-tv-widows-bay-2000745161" target="_blank">10 Cursed Islands to Visit Ahead of ‘Widow’s Bay’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-13 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-56.jpg" alt="Xbox Tries To Shut Down Rumors Of A GTA 6-Fueled Fable Delay" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2026-04-13 13:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNWW11JSSASPPKYVX0VFY03H/hero-image.jpg" alt="The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;You the Birthday&#x27; Mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-you-the-birthday-meaning?utm_medium=RSS" target="_blank">The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;You the Birthday&#x27; Mean?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-13 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
