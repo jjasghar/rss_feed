@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 12:16:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 13:29:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 12:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-peter-magyar-hungary_7213117.jpg?20260407113333" alt="Calling out sex tape blackmail and cosying up to Europe: This is Hungary&#x27;s new prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/who-is-peter-magyar-hungarys-next-prime-minister-13531234" target="_blank">Calling out sex tape blackmail and cosying up to Europe: This is Hungary&#x27;s new prime minister</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-13 08:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US blockade of Iran&#x27;s Strait of Hormuz ports to begin Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -85,15 +93,6 @@
                 <span class="time">2026-04-13 06:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture" target="_blank">‘This scene is alive’: Abidjan art week showcases city as growing cultural hub</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-13 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,9 +102,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/" target="_blank">Slate Auto raises $650M to fund its affordable EV truck plans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-13 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/" target="_blank">Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-13 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d98a89b8bdc021bdac9dec/master/pass/The-Best-Water-Filter-Pitchers-for-PFAS--and-Lead-Free-Living.jpg" alt="The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-water-filter-pitchers/" target="_blank">The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 11:37</span>
             </div>
         </div>
 <div class="story">
@@ -135,24 +152,6 @@
                 <span class="time">2026-04-13 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting" target="_blank">Sam Altman reportedly targeted in second attack</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-13 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/" target="_blank">The largest orbital compute cluster is open for business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-13 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +164,15 @@
                 <span class="title"><a href="https://dev.to/opmr0/i-built-a-cli-snippet-manager-in-rust-because-i-was-tired-of-googling-the-same-things-4j4g" target="_blank">I built a CLI snippet manager in Rust because I was tired of googling the same things</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/" target="_blank">Android now stops you sharing your location in photos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-13 11:48</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +211,6 @@
                 <span class="time">2026-04-13 08:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/aws-sustainability-console/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Sustainability Console with API Access and Scope 1-3 Emissions Reporting</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-13 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2017/11/wwpnd9ami11k4x7bp4ds.jpg" alt="Pokémon Player Stripped Of His Win For Celebrating Too Much Calls Ruling A ‘Clear Mistake’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-go-firestar73-orlando-unsportsmanlike-statement-2000687114" target="_blank">Pokémon Player Stripped Of His Win For Celebrating Too Much Calls Ruling A ‘Clear Mistake’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNWW11JSSASPPKYVX0VFY03H/hero-image.jpg" alt="The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;You the Birthday&#x27; Mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-you-the-birthday-meaning?utm_medium=RSS" target="_blank">The Out of Touch Adults&#x27; Guide to Kid Culture: What Does &#x27;You the Birthday&#x27; Mean?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/daemons-shadow-realmhed-1280x853.jpg" alt="‘Daemons of the Shadow Realm’ Has Four Banger Songs For the Price of Two" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-live-action-one-piece-team-wants-to-go-the-distance-2000745407" target="_blank">The Live-Action ‘One Piece’ Team Wants to Go the Distance</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-12 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/helixpals.jpg" alt="Next Gen Xbox Swag Has Already Begun Circulating With Influencers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/next-gen-xbox-swag-has-already-begun-circulating-with-influencers-project-helix-2000686887" target="_blank">Next Gen Xbox Swag Has Already Begun Circulating With Influencers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-12 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Lee-Cronin-Mummy-NATALIE-GRACE-1280x853.jpg" alt="‘Lee Cronin’s The Mummy’ Will Please Gross Horror Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lee-cronins-the-mummy-will-please-gross-horror-fans-2000745387" target="_blank">‘Lee Cronin’s The Mummy’ Will Please Gross Horror Fans</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-12 16:25</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
