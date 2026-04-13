@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 21:13:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-13 22:12:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/swalwell-ap-jt-260410_1775858342260_hpMain_4x3t_384.jpg" alt="Swalwell says he plans to resign from Congress amid sexual assault allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/swalwell-plans-resign-congress-amid-sexual-assault-allegations/story?id=132009300" target="_blank">Swalwell says he plans to resign from Congress amid sexual assault allegations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-13 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million?traffic_source=rss" target="_blank">New White House report has plans to fix US housing shortage of 10 million</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress" target="_blank">Eric Swalwell will resign from Congress as he faces backlash over assault allegations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-13 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776116380183_now_hallie_swalwell_resign_260413_S3_1920x1080-rpjvtp.jpg" alt="Rep. Swalwell says he will resign following sexual misconduct allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/rep-swalwell-says-he-will-resign-following-sexual-misconduct-allegations-261270085865" target="_blank">Rep. Swalwell says he will resign following sexual misconduct allegations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-13 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,47 +108,38 @@
                 <span class="time">2026-04-13 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election" target="_blank">5 things to know about Péter Magyar, Hungary&#x27;s new prime minister</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-13 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-rt-gmh-260413_1776098967404_hpMain_4x3t_384.jpg" alt="Trump takes down image from social media that depicted him as Jesus-like figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-takes-image-social-media-platform-depicted-jesus/story?id=131998889" target="_blank">Trump takes down image from social media that depicted him as Jesus-like figure</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-13 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss" target="_blank">PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church" target="_blank">Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-13 16:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027" target="_blank">The Mercedes EQS returns with massive range and charging gains</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-13 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/20260413104210_1-500x500.jpg" alt="Retro Rewind re-creates the glorious drudgery of working a &#x27;90s video store" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/" target="_blank">Retro Rewind re-creates the glorious drudgery of working a &#x27;90s video store</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-13 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/" target="_blank">Uber and Nuro begin testing premium robotaxi service in San Francisco</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-13 21:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-500x500.jpg" alt="Sunrise on the Reaping teaser brings us a Second Quarter Quell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +167,20 @@
                 <span class="time">2026-04-13 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd200758ef52d6977d6dbc/master/pass/The-Best-Red-Light-Therapy-Devices-for-Hair-Growth-and-Skincare-Are-on-Sale.jpg" alt="Top iRestore Deals for Hair Growth and LED Therapy Devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/irestore-anniversary-sale-2026/" target="_blank">Top iRestore Deals for Hair Growth and LED Therapy Devices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd120fd5415cb89341a838/master/pass/GettyImages-2265766888.jpg" alt="Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/" target="_blank">Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/" target="_blank">Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-13 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193" target="_blank">Giving AI Agents Eyes (Part 1): 6 Tricks for Reading Web Pages Without Vision Models</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,39 +200,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932803&w=600" alt="Boost Your Spark Jobs: How Photon Accelerates Apache Spark Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-photon-accelerates-apache-spark-performance" target="_blank">Boost Your Spark Jobs: How Photon Accelerates Apache Spark Performance</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-13 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM" target="_blank">GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdibpplicb6n7jns0qv2i.png" alt="Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1" target="_blank">Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/therealgabry/how-i-built-flashfx-with-almost-no-budget-4g36" target="_blank">How I Built FlashFX With (Almost) No Budget</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/" target="_blank">Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-13 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932600&w=600" alt="Beyond Request-Response: Architecting Stateful Agentic Chatbots with the Command and State Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-request-response-architecting-agentic" target="_blank">Beyond Request-Response: Architecting Stateful Agentic Chatbots with the Command and State Patterns</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-13 17:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNMG7YNRJG67HWDM138GQ3NF/hero-image.jpg" alt="10 Hacks Every Spotify User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-spotify-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Spotify User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Hurricane-Milton-1280x853.jpg" alt="Some Good News About the Upcoming Atlantic Hurricane Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +308,6 @@
                 <span class="time">2026-04-13 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-boss-thinks-game-pass-is-too-expensive-and-needs-to-evolve-2000687169" target="_blank">Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
