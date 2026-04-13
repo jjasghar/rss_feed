@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 11:26:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-13 12:16:38 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 11:26 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 12:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity?traffic_source=rss" target="_blank">Israel is trying to change Jerusalem’s religious identity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +94,20 @@
                 <span class="time">2026-04-13 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/13/g-s1-117217/strikes-alleged-drug-boats-kill-5" target="_blank">Strikes on alleged drug boats kill 5 in eastern Pacific, U.S. military says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-13 05:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/" target="_blank">Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-13 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +153,29 @@
                 <span class="time">2026-04-13 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/" target="_blank">Trump officials may be encouraging banks to test Anthropic’s Mythos model</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-12 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/opmr0/i-built-a-cli-snippet-manager-in-rust-because-i-was-tired-of-googling-the-same-things-4j4g" target="_blank">I built a CLI snippet manager in Rust because I was tired of googling the same things</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-Embed-Crates-LTS" target="_blank">Servo Browser Engine Making It Easier For Embedded Use</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,22 +212,18 @@
                 <span class="time">2026-04-13 08:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devkoan/your-ios-app-needs-a-privacy-policy-heres-how-to-get-one-in-60-seconds-hhg" target="_blank">Your iOS App Needs a Privacy Policy. Here&#x27;s How to Get One in 60 Seconds.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 07:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/anthropic-claude-mythos/en/headerimage/generatedHeaderImage-1775828239509.jpg" alt="Anthropic Releases Claude Mythos Preview with Cybersecurity Capabilities but Withholds Public Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/anthropic-claude-mythos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Releases Claude Mythos Preview with Cybersecurity Capabilities but Withholds Public Access</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-13 06:35</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html" target="_blank">AI Chatbots and Trust</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-13 10:10</span>
             </div>
         </div>
 </div>
@@ -223,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/daemons-shadow-realmhed-1280x853.jpg" alt="‘Daemons of the Shadow Realm’ Has Four Banger Songs For the Price of Two" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/daemons-of-the-shadow-realm-has-four-banger-songs-for-the-price-of-two-2000745519" target="_blank">‘Daemons of the Shadow Realm’ Has Four Banger Songs For the Price of Two</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/portable-battery-1280x853.jpg" alt="Southwest Is About to Limit Power Banks on Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +285,6 @@
                 <span class="time">2026-04-12 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Lenovo-300.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $80 Chromebook is built for low-stakes computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/12/this-80-chromebook-is-built-for-low-stakes-computing.html" target="_blank">This $80 Chromebook is built for low-stakes computing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
