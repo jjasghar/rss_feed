@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 20:16:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-13 21:13:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 20:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, April 13, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/njoylab/i-built-a-json-fixer-because-i-was-tired-of-counting-characters-4ikb" target="_blank">I Built a JSON Fixer Because I Was Tired of Counting Characters</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-13 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/gemma-4-android-ai-inference/en/headerimage/gemma-4-android-inference-1776112478269.jpeg" alt="Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdibpplicb6n7jns0qv2i.png" alt="Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +215,6 @@
                 <span class="time">2026-04-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ombaq79ho65mgbtjqyg.png" alt="It Gets Smarter Every Scan: AI-SLOP Detector v3.5.0 and the Self-Calibration Loop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flamehaven01/it-gets-smarter-every-scan-ai-slop-detector-v350-and-the-self-calibration-loop-3fia" target="_blank">It Gets Smarter Every Scan: AI-SLOP Detector v3.5.0 and the Self-Calibration Loop</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Generated-Spack-Packages" target="_blank">The Good &amp; The Bad When Using LLMs To Write Spack Packages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 16:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +244,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Hurricane-Milton-1280x853.jpg" alt="Some Good News About the Upcoming Atlantic Hurricane Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/some-good-news-about-the-upcoming-atlantic-hurricane-season-2000745867" target="_blank">Some Good News About the Upcoming Atlantic Hurricane Season</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-13 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Never delete a file again with this 10TB lifetime cloud storage deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/13/never-delete-a-file-again-with-this-10tb-lifetime-cloud-storage-deal.html" target="_blank">Never delete a file again with this 10TB lifetime cloud storage deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/LV5houHniU8eox8FuabjWQ-1280x720.jpg" alt="Hackers Reveal Rockstar Earns Over $1 Million A Day From GTA Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hackers-reveal-rockstar-earns-over-1-million-a-day-from-gta-online-2000687207" target="_blank">Hackers Reveal Rockstar Earns Over $1 Million A Day From GTA Online</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-13 20:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/gta6hack-1280x720.jpg" alt="Rockstar Hackers Release Data Early After GTA 6 Maker Refuses To Pay Ransom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,33 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-boss-thinks-game-pass-is-too-expensive-and-needs-to-evolve-2000687169" target="_blank">Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-13 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/shutterstock_1460201174-e1776103140503.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Two condors quietly attempt a comeback humans nearly erased" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/13/two-condors-quietly-attempt-a-comeback-humans-nearly-erased.html" target="_blank">Two condors quietly attempt a comeback humans nearly erased</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-13 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/rise-of-the-teenage-mutant-ninja-turtles-1280x853.jpg" alt="‘Rise of the TMNT’ Could’ve Introduced Even More Turtles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rise-of-the-teenage-mutant-ninja-turtles-art-book-new-turtles-idw-2000745737" target="_blank">‘Rise of the TMNT’ Could’ve Introduced Even More Turtles</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-13 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP3VSK9048BVVV10S8ZAG71C/hero-image.jpg" alt="Elon Musk&#x27;s XChat Claims to Offer &#x27;Private&#x27; Messaging (but Is Reserving the Right to Collect Your Data)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/xchat-claims-to-offer-private-messaging-while-reserving-the-right-to-collect?utm_medium=RSS" target="_blank">Elon Musk&#x27;s XChat Claims to Offer &#x27;Private&#x27; Messaging (but Is Reserving the Right to Collect Your Data)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-13 17:01</span>
             </div>
         </div>
 </div>
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
