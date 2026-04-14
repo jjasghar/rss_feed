@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 16:22:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 17:22:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 17:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine" target="_blank">Historic decline in U.S. overdose deaths threatened by changing street drug supply</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/14/lebanese-israeli-ambassadors-begin-direct-talks-in-us?traffic_source=rss" target="_blank">Lebanese, Israeli ambassadors begin direct talks in US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +91,20 @@
                 <span class="time">2026-04-14 14:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car?traffic_source=rss" target="_blank">Spain’s Guardemo still critical in ICU 2 weeks after cycling crash with car</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act" target="_blank">Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg" alt="Google introduces &quot;Skills&quot; in Chrome to make Gemini prompts instantly reusable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/" target="_blank">Google introduces &quot;Skills&quot; in Chrome to make Gemini prompts instantly reusable</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +150,20 @@
                 <span class="time">2026-04-14 14:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/" target="_blank">Lucid Motors names new CEO, lands more money from Uber and Saudis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 12:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="The Most Popular from Q1 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cranch42/the-most-popular-from-q1-2026-1k6i" target="_blank">The Most Popular from Q1 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux arrives on Flathub &amp; Snap store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,6 +186,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nginx-1.30-Released" target="_blank">Nginx 1.30 Released With Multipath TCP, ECH &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-50.1" target="_blank">GNOME Mutter 50.1 Fixes Performance Regression For Some NVIDIA Driver Versions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-14 15:02</span>
@@ -196,24 +207,6 @@
                 <span class="title"><a href="https://dzone.com/articles/high-performance-web-systems-edge-native-framework" target="_blank">Build High-Performance Web Systems Using Adaptive Edge-Native Performance Governance Framework</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/" target="_blank">How exposed is your code? Find out in minutes—for free</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/Tributary-music-player-linux.webp?resize=406%2C232&amp;ssl=1" alt="Tributary is a GTK4 reimagining of Rhythmbox music player" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/tributary-music-player-gtk4" target="_blank">Tributary is a GTK4 reimagining of Rhythmbox music player</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-14 14:41</span>
             </div>
         </div>
 </div>
@@ -230,20 +223,20 @@
                 <span class="time">2026-04-14 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html" target="_blank">On Anthropic’s Mythos Preview and Project Glasswing</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-13 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/godzilla-minus-one-godzilla-1280x853.jpg" alt="We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/godzilla-minus-zero-cinemacon-footage-description-2000746309" target="_blank">We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/01/Uber-Lucid-Nuro-Robotaxi-1280x853.jpg" alt="Lucid Finds Its New CEO, Expands Robotaxi Partnership With Uber" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +280,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/14/canadas-liberals-take-parliamentary-majority-after-latest-special-election.html" target="_blank">Canada&#x27;s Liberals take parliamentary majority after latest special election</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-14 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-27-1280x720.jpg" alt="Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-beyond-spider-verse-cinemacon-miles-morales-2000687489" target="_blank">Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-14 13:13</span>
             </div>
         </div>
 </div>
@@ -344,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
