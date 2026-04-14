@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 08:29:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 09:28:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 08:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss" target="_blank">World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 08:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda6/live/75735ab0-37d2-11f1-879d-1b2f5c3919b8.jpg" alt="Former Nato chief warns UK&#x27;s national security &#x27;in peril&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2026-04-14 02:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail" target="_blank">Man accused in Molotov cocktail attack of OpenAI CEO&#x27;s home charged with attempted murder</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d55685345c1e1f1ef327a5/master/pass/Culture_KidInfluencerBook-2.gif" alt="The Moms Who Sponcon Their Daughters’ First Periods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/" target="_blank">The Moms Who Sponcon Their Daughters’ First Periods</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/" target="_blank">Inertia moves to commercialize one of the world’s most elaborate science experiments</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2026-04-14 00:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack" target="_blank">Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&amp;#8217;s home and OpenAI’s HQ</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd62de5630ccde90450adb/master/pass/2200095767" alt="You Can Soon Buy a $4,370 Humanoid Robot on AliExpress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/" target="_blank">You Can Soon Buy a $4,370 Humanoid Robot on AliExpress</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nareshcn2/bypassing-the-pandas-ram-tax-building-a-zero-copy-csv-extractor-in-c-291l" target="_blank">Bypassing the &quot;Pandas RAM Tax&quot;: Building a Zero-Copy CSV Extractor in C</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tobru.ch/an-ai-vibe-coding-horror-story/" target="_blank">An AI Vibe Coding Horror Story</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-14 08:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv541o991xoavcuca8fr.png" alt="AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg" target="_blank">What Most Beginners Get Wrong About Building AI Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-14 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yiyaoai/how-i-route-claude-sonnet-4-6-to-gpt-5-codex-without-claude-code-knowing-the-difference-48n7" target="_blank">&quot;How I Route claude-sonnet-4-6 to GPT-5 Codex — Without Claude Code Knowing the Difference&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo" target="_blank">DaVinci Resolve releases Photo Editor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-14 02:25</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
