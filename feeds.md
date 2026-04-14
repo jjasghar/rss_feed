@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 13:29:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-14 14:31:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 14:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,54 +53,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act" target="_blank">Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book" target="_blank">After losing loved ones, an Israeli and a Palestinian work together for Middle East peace</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 11:27</span>
+                <span class="time">2026-04-14 14:09</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4bd/live/1a89dee0-37fe-11f1-8606-05fe34b06e1b.jpg" alt="Hamas rejects Gaza disarmament plan, Palestinian official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary" target="_blank">Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-14 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth" target="_blank">The labor economics of &#x27;Alien&#x27; — and its lessons for inequality on Earth</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-kristalina-georgieva_7219640.jpg?20260414104646" alt="Britain&#x27;s economic prospects downgraded more than any other major economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-fares-strikingly-badly-in-second-downgrade-to-economic-growth-13531595" target="_blank">Britain&#x27;s economic prospects downgraded more than any other major economy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-14 08:54</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss" target="_blank">Hamas rejects Gaza disarmament plan, Palestinian official says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-14 14:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss" target="_blank">World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car?traffic_source=rss" target="_blank">Spain’s Guardemo still critical in ICU 2 weeks after cycling crash with car</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 08:52</span>
+                <span class="time">2026-04-14 13:48</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda6/live/75735ab0-37d2-11f1-879d-1b2f5c3919b8.jpg" alt="Former Nato chief warns UK&#x27;s national security &#x27;in peril&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss" target="_blank">Former Nato chief warns UK&#x27;s national security &#x27;in peril&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-14 08:24</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act" target="_blank">Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776165756152_tdy_news_7a_engel_iran_headlines_260414_S3_1920x1080-r3kmxw.jpg" alt="US Blockade of Strait of Hormuz Begins Amid New Push for Talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-blockade-of-strait-of-hormuz-begins-amid-new-push-for-talks-261312581896" target="_blank">US Blockade of Strait of Hormuz Begins Amid New Push for Talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-14 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group" target="_blank">Survivors ask why busy market bombed in Nigerian anti-terror campaign</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-14 11:10</span>
             </div>
         </div>
 </div>
@@ -100,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/" target="_blank">Instacart acquires Instaleap to expand its enterprise platform internationally</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +162,38 @@
                 <span class="time">2026-04-14 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/" target="_blank">Inertia moves to commercialize one of the world’s most elaborate science experiments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alex_pestchanker/de-bitcoin-a-midnight-la-evolucion-real-de-la-usabilidad-en-blockchain-vista-por-y-para-37g4" target="_blank">🧠 De Bitcoin a Midnight: la evolución real de la usabilidad en blockchain (vista por y para developers) 🇪🇸</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925506&w=600" alt="Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-powered-sre-incident-response-aws-strands-agents" target="_blank">Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-21.1.22" target="_blank">X.Org Server 21.1.22 Released Due To Five New Security Vulnerabilities</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkoq0bpsnhesqbe5fnwsj.png" alt="Embedded Linux Development - Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,37 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Power-Management" target="_blank">AMD Ready With CPPC Performance Priority &amp; Dynamic/Raw EPP In Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nareshcn2/bypassing-the-pandas-ram-tax-building-a-zero-copy-csv-extractor-in-c-291l" target="_blank">Bypassing the &quot;Pandas RAM Tax&quot;: Building a Zero-Copy CSV Extractor in C</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/enterprise-grade-observability-extension-docker/en/headerimage/enterprise-grade-observability-extension-docker-header-1775560652994.jpg" alt="Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.tobru.ch/an-ai-vibe-coding-horror-story/" target="_blank">An AI Vibe Coding Horror Story</a></span>
+                <span class="title"><a href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html" target="_blank">What is jj and why should I care?</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-14 08:35</span>
+                <span class="time">2026-04-14 10:33</span>
             </div>
         </div>
 </div>
@@ -241,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tatoiana.jpg?fit=1600%2C1020&amp;quality=60&amp;ssl=1" alt="Canada&#x27;s Liberals take parliamentary majority after latest special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/canadas-liberals-take-parliamentary-majority-after-latest-special-election.html" target="_blank">Canada&#x27;s Liberals take parliamentary majority after latest special election</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-14 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-27-1280x720.jpg" alt="Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +303,6 @@
                 <span class="time">2026-04-14 03:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/openai-attack-1280x853.jpg" alt="Home of OpenAI CEO Allegedly Attacked for a Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/home-of-openai-ceo-allegedly-attacked-for-a-second-time-2000745953" target="_blank">Home of OpenAI CEO Allegedly Attacked for a Second Time</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
