@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 11:21:14 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-14 12:14:42 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 11:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117363/up-first-newsletter-eric-swalwell-strait-of-hormuz-pope-leo-trump-section-702-foreign-intelligence-surveillance-act" target="_blank">Eric Swalwell will resign from Congress. And, Trump feuds with Pope Leo over Iran War</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss" target="_blank">Asia’s stock markets surge, oil falls on hopes for US-Iran talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-14 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-escobar-hippos_7219497.jpg?20260414090159" alt="Pablo Escobar&#x27;s wild hippo herd facing a cull in Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/colombia-to-cull-dozens-of-wild-hippos-from-herd-started-by-pablo-escobar-13531565" target="_blank">Pablo Escobar&#x27;s wild hippo herd facing a cull in Colombia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-14 05:38</span>
             </div>
         </div>
 </div>
@@ -247,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/The-Northernlion-Supercruise-official-thumbnail-from-Library-of-Letourneau.jpg" alt="The Six-Day, $1,800 ‘Northernlion Supercruise’ Twitch Event Sounds So Absurd Fans Didn’t Believe It Could Be Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-six-day-1800-northernlion-supercruise-twitch-event-sounds-so-absurd-fans-didnt-believe-it-could-be-real-2000687243" target="_blank">The Six-Day, $1,800 ‘Northernlion Supercruise’ Twitch Event Sounds So Absurd Fans Didn’t Believe It Could Be Real</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-14 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Spider-Man-Beyond-Spider-Verse-Dad-1280x853.jpg" alt="New ‘Spider-Man: Beyond the Spider-Verse’ Footage Just Swung Into CinemaCon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-beyond-the-spider-verse-cinemacon-footage-description-2000745781" target="_blank">New ‘Spider-Man: Beyond the Spider-Verse’ Footage Just Swung Into CinemaCon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/warhammer-40k-chaos-gate-1280x853.jpg" alt="You Can Now Relive the Golden Age of ‘Warhammer’ PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,24 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-13 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/helium.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Thanks, Trump! — here&#x27;s what happens when the world runs low on helium" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/13/thanks-trump-heres-what-happens-when-the-world-runs-low-on-helium.html" target="_blank">Thanks, Trump! — here&#x27;s what happens when the world runs low on helium</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-13 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/usc-yang-et-al-memory-chip-optical-image-1280x854.jpg" alt="This Memory Chip Survives Temperatures Hotter Than Lava" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-memory-chip-survives-temperatures-hotter-than-lava-2000745819" target="_blank">This Memory Chip Survives Temperatures Hotter Than Lava</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-13 22:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
