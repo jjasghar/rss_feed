@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 10:25:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-04-14 11:21:14 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 10:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 11:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary" target="_blank">Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-14 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth" target="_blank">The labor economics of &#x27;Alien&#x27; — and its lessons for inequality on Earth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,29 +100,20 @@
                 <span class="time">2026-04-14 05:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-14 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific?traffic_source=rss" target="_blank">US military kills two men in new strike on vessel in eastern Pacific</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 02:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69dd427930b9026e2feee61b/master/pass/These-Are-The-3-Power-Tools-You-Need.jpg" alt="These Are the 3 Power Tools You Need (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/three-power-tools-you-need/" target="_blank">These Are the 3 Power Tools You Need (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/bremont-is-sending-a-watch-to-the-moon-surface/" target="_blank">Bremont Is Sending a Watch to the Moon’s Surface</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-14 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 05:00</span>
             </div>
         </div>
 </div>
@@ -217,6 +227,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html" target="_blank">How Hackers Are Thinking About AI</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-14 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html" target="_blank">On Anthropic’s Mythos Preview and Project Glasswing</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-04-13 16:52</span>
@@ -227,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/warhammer-40k-chaos-gate-1280x853.jpg" alt="You Can Now Relive the Golden Age of ‘Warhammer’ PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/warhammer-classic-games-steam-chaos-gate-fire-warrior-2000745926" target="_blank">You Can Now Relive the Golden Age of ‘Warhammer’ PC Games</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/spider-man-brand-new-day-party-scene-1280x853.jpg" alt="We Just Saw a Full Scene From ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +300,6 @@
                 <span class="time">2026-04-13 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/grandmagaming-1280x720.jpg" alt="A 91-Year-Old Woman Who Received A Wellness Check From Police Was Just Busy Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gaming-grandma-granny-police-check-wellness-2000687218" target="_blank">A 91-Year-Old Woman Who Received A Wellness Check From Police Was Just Busy Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
