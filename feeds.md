@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 05:39:29 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2026-04-14 06:31:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 05:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 06:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss" target="_blank">Asia’s stock markets surge, oil falls on hopes for US-Iran talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 05:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-14 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="time">2026-04-14 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg" alt="Lebanon enters talks with Israel but with no cards to play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon enters talks with Israel but with no cards to play</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-13 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776121580774_nn_rno_swalwell_resigns_260413_S3_1920x1080-5lhg7l.jpg" alt="Rep. Eric Swalwell resigns following sexual assault and misconduct allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/rep-eric-swalwell-resigns-following-sexual-assault-and-misconduct-allegations-261274693885" target="_blank">Rep. Eric Swalwell resigns following sexual assault and misconduct allegations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-13 23:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +111,15 @@
                 <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | April 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/" target="_blank">An Amazon warehouse worker died on the job at Oregon facility</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +158,6 @@
                 <span class="time">2026-04-13 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/" target="_blank">Uber and Nuro begin testing premium robotaxi service in San Francisco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-13 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +170,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/" target="_blank">Who needs VCs when you have friends like these?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-04-14 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zhukmax/stop-building-custom-auth-for-your-b2b-saas-meet-gate-identity-259m" target="_blank">Stop building custom auth for your B2B SaaS: Meet Gate Identity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 06:22</span>
             </div>
         </div>
 <div class="story">
@@ -197,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193" target="_blank">Giving AI Agents Eyes (Part 1): 6 Tricks for Reading Web Pages Without Vision Models</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/njoylab/i-built-a-json-fixer-because-i-was-tired-of-counting-characters-4ikb" target="_blank">I Built a JSON Fixer Because I Was Tired of Counting Characters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 21:05</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/jemalloc-5.3.1" target="_blank">jemalloc 5.3.1 Released With Many Improvements After Nearly Four Year Hiatus</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 00:22</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/spider-man-brand-new-day-party-scene-1280x853.jpg" alt="We Just Saw a Full Scene From ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-cinemacon-footage-description-2000745739" target="_blank">We Just Saw a Full Scene From ‘Spider-Man: Brand New Day’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 03:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/openai-attack-1280x853.jpg" alt="Home of OpenAI CEO Allegedly Attacked for a Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/gaming-grandma-granny-police-check-wellness-2000687218" target="_blank">A 91-Year-Old Woman Who Received A Wellness Check From Police Was Just Busy Gaming</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-13 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNMG7YNRJG67HWDM138GQ3NF/hero-image.jpg" alt="10 Hacks Every Spotify User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-spotify-hacks?utm_medium=RSS" target="_blank">10 Hacks Every Spotify User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-13 21:30</span>
             </div>
         </div>
 </div>
@@ -340,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:39 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
