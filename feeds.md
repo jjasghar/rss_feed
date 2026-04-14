@@ -1,27 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 17:22:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-14 18:20:05 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 17:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse" target="_blank">Law enforcement is trying to combat abusive AI. Experts say easier said than done</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss" target="_blank">No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,29 +105,29 @@
                 <span class="time">2026-04-14 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book" target="_blank">After losing loved ones, an Israeli and a Palestinian work together for Middle East peace</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4bd/live/1a89dee0-37fe-11f1-8606-05fe34b06e1b.jpg" alt="Hamas rejects Gaza disarmament plan, Palestinian official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss" target="_blank">Hamas rejects Gaza disarmament plan, Palestinian official says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-14 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home" target="_blank">The attacks on Sam Altman are a warning for the AI world</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d7e44cd4f6aa7fdabada6a/master/pass/Watched-Coachella-On-Vertical-Video-Culture-2212406823.jpg" alt="I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-watched-18-hours-of-coachella-on-vertical-video-and-it-was-not-good-for-my-fomo/" target="_blank">I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg" alt="Google introduces &quot;Skills&quot; in Chrome to make Gemini prompts instantly reusable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,29 +164,38 @@
                 <span class="time">2026-04-14 15:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale" target="_blank">Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally/" target="_blank">Instacart acquires Instaleap to expand its enterprise platform internationally</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/" target="_blank">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-14 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923645&w=600" alt="How Online Databases Replicate Public Records: A Look at Data Aggregation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-online-databases-replicate-public-records-data-aggregation" target="_blank">How Online Databases Replicate Public Records: A Look at Data Aggregation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-strix-point" target="_blank">Ubuntu 26.04 Delivers Great Performance Improvements For AMD Strix Point, Especially For RDNA 3.5 Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="The Most Popular from Q1 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -162,6 +203,15 @@
                 <span class="title"><a href="https://dev.to/cranch42/the-most-popular-from-q1-2026-1k6i" target="_blank">The Most Popular from Q1 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-14 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731" target="_blank">Spain to expand internet blocks to tennis, golf, movies broadcasting times</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-14 16:59</span>
             </div>
         </div>
 <div class="story">
@@ -173,47 +223,20 @@
                 <span class="time">2026-04-14 16:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!Ekej!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F174b9ab2-ef0b-4a40-ba4a-0de330620ff0_1324x758.png" alt="The impact of AI on software engineers in 2026: key trends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-impact-of-ai-on-software-engineers-2026" target="_blank">The impact of AI on software engineers in 2026: key trends</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-14 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nginx-1.30-Released" target="_blank">Nginx 1.30 Released With Multipath TCP, ECH &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-50.1" target="_blank">GNOME Mutter 50.1 Fixes Performance Regression For Some NVIDIA Driver Versions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934687&w=600" alt="Build High-Performance Web Systems Using Adaptive Edge-Native Performance Governance Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/high-performance-web-systems-edge-native-framework" target="_blank">Build High-Performance Web Systems Using Adaptive Edge-Native Performance Governance Framework</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-14 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -228,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Adria-Arjona-1280x853.jpg" alt="‘Andor’ Star Adria Arjona Is Joining ‘Man of Tomorrow’—But Maybe Not as Who You Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/adria-arjona-man-of-tomorrow-casting-rumors-maxima-wonder-woman-2000746386" target="_blank">‘Andor’ Star Adria Arjona Is Joining ‘Man of Tomorrow’—But Maybe Not as Who You Thought</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/04/virginia-flag.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Virginia joins slow-motion plan to sidestep Electoral College" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/virginia-joins-slow-motion-plan-to-sidestep-electoral-college.html" target="_blank">Virginia joins slow-motion plan to sidestep Electoral College</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-14 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/godzilla-minus-one-godzilla-1280x853.jpg" alt="We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/14/fbi-doc-says-epstein-introduced-melania-to-trump-but-ok-lets-go-with-chance-meeting.html" target="_blank">FBI doc says Epstein introduced Melania to Trump, but OK, let&#x27;s go with &quot;chance meeting&quot;</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-14 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/kotakureview-mouse-1280x720.jpg" alt="Mouse: PI For Hire: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mouse-pi-for-hire-classic-cartoon-black-white-steam-ps5-review-is-it-good-fps-2000687225" target="_blank">Mouse: PI For Hire: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tatoiana.jpg?fit=1600%2C1020&amp;quality=60&amp;ssl=1" alt="Canada&#x27;s Liberals take parliamentary majority after latest special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/canadas-liberals-take-parliamentary-majority-after-latest-special-election.html" target="_blank">Canada&#x27;s Liberals take parliamentary majority after latest special election</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-14 13:57</span>
             </div>
         </div>
 </div>
@@ -328,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
