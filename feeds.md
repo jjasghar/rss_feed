@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 15:23:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-14 16:22:02 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 15:24 UTC</div>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 16:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +104,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax" target="_blank">The world’s oldest art, now in 6K IMAX</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/" target="_blank">Financial risk management platform Pillar raises $20M seed in round led by a16z</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 16:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69d41f0bcfa71e0612962746/master/pass/security_brendancarr_GettyImages-2268143961.jpg" alt="The FCC Has a Fast Lane for Complaints About Trump’s Media Critics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,29 +157,29 @@
                 <span class="time">2026-04-14 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ce2fd1550f612a902e2a42/master/pass/iPhone%2017%20Cases%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/" target="_blank">The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd427930b9026e2feee61b/master/pass/These-Are-The-3-Power-Tools-You-Need.jpg" alt="These Are the 3 Power Tools You Need (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/three-power-tools-you-need/" target="_blank">These Are the 3 Power Tools You Need (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux arrives on Flathub &amp; Snap store" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/opera-gx-linux-snap-flathub" target="_blank">Opera GX for Linux arrives on Flathub &amp; Snap store</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-14 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!Ekej!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F174b9ab2-ef0b-4a40-ba4a-0de330620ff0_1324x758.png" alt="The impact of AI on software engineers in 2026: key trends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-impact-of-ai-on-software-engineers-2026" target="_blank">The impact of AI on software engineers in 2026: key trends</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-14 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +216,6 @@
                 <span class="time">2026-04-14 14:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_pestchanker/de-bitcoin-a-midnight-la-evolucion-real-de-la-usabilidad-en-blockchain-vista-por-y-para-37g4" target="_blank">🧠 De Bitcoin a Midnight: la evolución real de la usabilidad en blockchain (vista por y para developers) 🇪🇸</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18925506&w=600" alt="Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-powered-sre-incident-response-aws-strands-agents" target="_blank">Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-14 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +245,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/01/Uber-Lucid-Nuro-Robotaxi-1280x853.jpg" alt="Lucid Finds Its New CEO, Expands Robotaxi Partnership With Uber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lucid-finds-its-new-ceo-expands-robotaxi-partnership-with-uber-2000746269" target="_blank">Lucid Finds Its New CEO, Expands Robotaxi Partnership With Uber</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP3PMXG6V38BSW19GMB409Q1/hero-image.jpg" alt="10 Shows Like &#x27;Scarpetta&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-scarpetta?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Scarpetta&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="FBI doc says Epstein introduced Melania to Trump, but OK, let&#x27;s go with &quot;chance meeting&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/fbi-doc-says-epstein-introduced-melania-to-trump-but-ok-lets-go-with-chance-meeting.html" target="_blank">FBI doc says Epstein introduced Melania to Trump, but OK, let&#x27;s go with &quot;chance meeting&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-14 15:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/kotakureview-mouse-1280x720.jpg" alt="Mouse: PI For Hire: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,38 +298,20 @@
                 <span class="time">2026-04-14 13:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/The-Northernlion-Supercruise-official-thumbnail-from-Library-of-Letourneau.jpg" alt="The Six-Day, $1,800 ‘Northernlion Supercruise’ Twitch Event Sounds So Absurd Fans Didn’t Believe It Could Be Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-six-day-1800-northernlion-supercruise-twitch-event-sounds-so-absurd-fans-didnt-believe-it-could-be-real-2000687243" target="_blank">The Six-Day, $1,800 ‘Northernlion Supercruise’ Twitch Event Sounds So Absurd Fans Didn’t Believe It Could Be Real</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-14 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Spider-Man-Beyond-Spider-Verse-Dad-1280x853.jpg" alt="New ‘Spider-Man: Beyond the Spider-Verse’ Footage Just Swung Into CinemaCon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-beyond-the-spider-verse-cinemacon-footage-description-2000745781" target="_blank">New ‘Spider-Man: Beyond the Spider-Verse’ Footage Just Swung Into CinemaCon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/warhammer-40k-chaos-gate-1280x853.jpg" alt="You Can Now Relive the Golden Age of ‘Warhammer’ PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/warhammer-classic-games-steam-chaos-gate-fire-warrior-2000745926" target="_blank">You Can Now Relive the Golden Age of ‘Warhammer’ PC Games</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-masked-mouse/" target="_blank">The Masked Mouse</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-04-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1776037138-20260414.png" alt="Saturday Morning Breakfast Cereal - Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -341,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:24 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
