@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 09:28:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 10:25:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 09:28 UTC</div>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 10:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-escobar-hippos_7219497.jpg?20260414090159" alt="Pablo Escobar&#x27;s wild hippo herd facing a cull in Colombia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/colombia-to-cull-dozens-of-wild-hippos-from-herd-started-by-pablo-escobar-13531565" target="_blank">Pablo Escobar&#x27;s wild hippo herd facing a cull in Colombia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-14 05:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg" alt="Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -88,20 +90,20 @@
                 <span class="time">2026-04-14 02:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e7/live/e0975930-37a6-11f1-8bdb-5ddca92c62ab.jpg" alt="Former Nato chief to say UK&#x27;s national security &#x27;in peril&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss" target="_blank">Former Nato chief to say UK&#x27;s national security &#x27;in peril&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-14 02:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here" target="_blank">A sleek, wearable airbag for cyclists is nearly here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 09:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d55685345c1e1f1ef327a5/master/pass/Culture_KidInfluencerBook-2.gif" alt="The Moms Who Sponcon Their Daughters’ First Periods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +149,6 @@
                 <span class="time">2026-04-14 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/" target="_blank">An Amazon warehouse worker died on the job at Oregon facility</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,10 +157,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Power-Management" target="_blank">AMD Ready With CPPC Performance Priority &amp; Dynamic/Raw EPP In Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nareshcn2/bypassing-the-pandas-ram-tax-building-a-zero-copy-csv-extractor-in-c-291l" target="_blank">Bypassing the &quot;Pandas RAM Tax&quot;: Building a Zero-Copy CSV Extractor in C</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-14 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/enterprise-grade-observability-extension-docker/en/headerimage/enterprise-grade-observability-extension-docker-header-1775560652994.jpg" alt="Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/enterprise-grade-observability-extension-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond One-Click: Designing an Enterprise-Grade Observability Extension for Docker</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-14 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +208,6 @@
                 <span class="time">2026-04-14 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhukmax/stop-building-custom-auth-for-your-b2b-saas-meet-gate-identity-259m" target="_blank">Stop building custom auth for your B2B SaaS: Meet Gate Identity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 06:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg" target="_blank">What Most Beginners Get Wrong About Building AI Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 05:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,15 +220,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html" target="_blank">On Anthropic’s Mythos Preview and Project Glasswing</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-04-13 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html" target="_blank">AI Chatbots and Trust</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-13 10:10</span>
             </div>
         </div>
 </div>
@@ -334,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
