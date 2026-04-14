@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 12:14:42 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-14 13:29:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-kristalina-georgieva_7219640.jpg?20260414104646" alt="Britain&#x27;s economic prospects downgraded more than any other major economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-fares-strikingly-badly-in-second-downgrade-to-economic-growth-13531595" target="_blank">Britain&#x27;s economic prospects downgraded more than any other major economy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-14 08:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,20 +95,29 @@
                 <span class="time">2026-04-14 08:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss" target="_blank">Asia’s stock markets surge, oil falls on hopes for US-Iran talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 05:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/" target="_blank">Lucid Motors names new CEO, lands more money from Uber and Saudis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ce2fd1550f612a902e2a42/master/pass/iPhone%2017%20Cases%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/" target="_blank">The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69dd427930b9026e2feee61b/master/pass/These-Are-The-3-Power-Tools-You-Need.jpg" alt="These Are the 3 Power Tools You Need (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +154,29 @@
                 <span class="time">2026-04-14 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website" target="_blank">The new Trump Phone design is here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd15810d4515fda63e6849/master/pass/Bremont_Supernova_BR_TopDown%20Moon%20Texture.jpg" alt="Bremont Is Sending a Watch to the Moon’s Surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bremont-is-sending-a-watch-to-the-moon-surface/" target="_blank">Bremont Is Sending a Watch to the Moon’s Surface</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkoq0bpsnhesqbe5fnwsj.png" alt="Embedded Linux Development - Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cangulmez/embedded-linux-development-part-5-13d9" target="_blank">Embedded Linux Development - Part 5</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/rowhammer-attacks-nvidia/en/headerimage/generatedHeaderImage-1775830147456.jpg" alt="New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +213,6 @@
                 <span class="time">2026-04-14 08:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv541o991xoavcuca8fr.png" alt="AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aicplight/aoc-vs-dac-vs-acc-vs-aec-cables-in-ai-data-centers-and-large-scale-gpu-clusters-3iki" target="_blank">AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/" target="_blank">Who needs VCs when you have friends like these?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-14 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-27-1280x720.jpg" alt="Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-beyond-spider-verse-cinemacon-miles-morales-2000687489" target="_blank">Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-14 13:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/The-Northernlion-Supercruise-official-thumbnail-from-Library-of-Letourneau.jpg" alt="The Six-Day, $1,800 ‘Northernlion Supercruise’ Twitch Event Sounds So Absurd Fans Didn’t Believe It Could Be Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +295,6 @@
                 <span class="time">2026-04-14 00:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-13 23:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
