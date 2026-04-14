@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 07:30:04 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2026-04-14 08:29:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 08:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda6/live/75735ab0-37d2-11f1-879d-1b2f5c3919b8.jpg" alt="Former Nato chief warns UK&#x27;s national security &#x27;in peril&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss" target="_blank">Former Nato chief warns UK&#x27;s national security &#x27;in peril&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-14 08:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +98,29 @@
                 <span class="time">2026-04-14 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website" target="_blank">The new Trump Phone design is here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69dd15810d4515fda63e6849/master/pass/Bremont_Supernova_BR_TopDown%20Moon%20Texture.jpg" alt="Bremont Is Sending a Watch to the Moon’s Surface" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bremont-is-sending-a-watch-to-the-moon-surface/" target="_blank">Bremont Is Sending a Watch to the Moon’s Surface</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 07:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +157,20 @@
                 <span class="time">2026-04-13 23:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027" target="_blank">The Mercedes EQS returns with massive range and charging gains</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-13 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/20260413104210_1-500x500.jpg" alt="Retro Rewind re-creates the glorious drudgery of working a &#x27;90s video store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/" target="_blank">Retro Rewind re-creates the glorious drudgery of working a &#x27;90s video store</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-13 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcv541o991xoavcuca8fr.png" alt="AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aicplight/aoc-vs-dac-vs-acc-vs-aec-cables-in-ai-data-centers-and-large-scale-gpu-clusters-3iki" target="_blank">AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 08:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +214,6 @@
                 <span class="title"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo" target="_blank">DaVinci Resolve releases Photo Editor</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-14 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/jemalloc-5.3.1" target="_blank">jemalloc 5.3.1 Released With Many Improvements After Nearly Four Year Hiatus</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 00:22</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
