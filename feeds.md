@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 04:06:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-14 05:39:29 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 05:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" alt="50% Off DoorDash Promo Code | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/doordash-promo-code/" target="_blank">50% Off DoorDash Promo Code | April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,15 +153,6 @@
                 <span class="time">2026-04-13 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dc6dd765e539beec73c026/master/pass/Starter-Pack-VERS-2.jpg" alt="What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hasan-pikers-starter-pack/" target="_blank">What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +161,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/" target="_blank">Who needs VCs when you have friends like these?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-14 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg" target="_blank">What Most Beginners Get Wrong About Building AI Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yiyaoai/how-i-route-claude-sonnet-4-6-to-gpt-5-codex-without-claude-code-knowing-the-difference-48n7" target="_blank">&quot;How I Route claude-sonnet-4-6 to GPT-5 Codex — Without Claude Code Knowing the Difference&quot;</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-14 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.blackmagicdesign.com/products/davinciresolve/photo" target="_blank">DaVinci Resolve releases Photo Editor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-14 02:25</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/njoylab/i-built-a-json-fixer-because-i-was-tired-of-counting-characters-4ikb" target="_blank">I Built a JSON Fixer Because I Was Tired of Counting Characters</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/gemma-4-android-ai-inference/en/headerimage/gemma-4-android-inference-1776112478269.jpeg" alt="Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Released Gemma 4 with a Focus On Local-First, On-Device AI Inference</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18932803&w=600" alt="Boost Your Spark Jobs: How Photon Accelerates Apache Spark Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-photon-accelerates-apache-spark-performance" target="_blank">Boost Your Spark Jobs: How Photon Accelerates Apache Spark Performance</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/apr26-training-promo/" target="_blank">Open Source Powers the Planet — Get 35% Off Sitewide</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-04-13 19:36</span>
             </div>
         </div>
 </div>
@@ -345,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
