@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 14:31:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 15:23:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 14:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 15:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork" target="_blank">You can order your own bloodwork now. Interpreting the results is another story</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban?traffic_source=rss" target="_blank">Why are the US, Iran arguing over duration of uranium enrichment ban?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2026-04-14 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776165756152_tdy_news_7a_engel_iran_headlines_260414_S3_1920x1080-r3kmxw.jpg" alt="US Blockade of Strait of Hormuz Begins Amid New Push for Talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-blockade-of-strait-of-hormuz-begins-amid-new-push-for-talks-261312581896" target="_blank">US Blockade of Strait of Hormuz Begins Amid New Push for Talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-14 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group" target="_blank">Survivors ask why busy market bombed in Nigerian anti-terror campaign</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-14 11:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d41f0bcfa71e0612962746/master/pass/security_brendancarr_GettyImages-2268143961.jpg" alt="The FCC Has a Fast Lane for Complaints About Trump’s Media Critics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-fcc-has-a-fast-lane-for-complaints-about-trumps-media-critics/" target="_blank">The FCC Has a Fast Lane for Complaints About Trump’s Media Critics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale" target="_blank">Bose’s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,47 @@
                 <span class="time">2026-04-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here" target="_blank">A sleek, wearable airbag for cyclists is nearly here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d55685345c1e1f1ef327a5/master/pass/Culture_KidInfluencerBook-2.gif" alt="The Moms Who Sponcon Their Daughters’ First Periods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/" target="_blank">The Moms Who Sponcon Their Daughters’ First Periods</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Mutter-50.1" target="_blank">GNOME Mutter 50.1 Fixes Performance Regression For Some NVIDIA Driver Versions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934687&w=600" alt="Build High-Performance Web Systems Using Adaptive Edge-Native Performance Governance Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/high-performance-web-systems-edge-native-framework" target="_blank">Build High-Performance Web Systems Using Adaptive Edge-Native Performance Governance Framework</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/" target="_blank">How exposed is your code? Find out in minutes—for free</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/Tributary-music-player-linux.webp?resize=406%2C232&amp;ssl=1" alt="Tributary is a GTK4 reimagining of Rhythmbox music player" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/tributary-music-player-gtk4" target="_blank">Tributary is a GTK4 reimagining of Rhythmbox music player</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-14 14:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,42 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-powered-sre-incident-response-aws-strands-agents" target="_blank">Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/X.Org-Server-21.1.22" target="_blank">X.Org Server 21.1.22 Released Due To Five New Security Vulnerabilities</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkoq0bpsnhesqbe5fnwsj.png" alt="Embedded Linux Development - Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cangulmez/embedded-linux-development-part-5-13d9" target="_blank">Embedded Linux Development - Part 5</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/rowhammer-attacks-nvidia/en/headerimage/generatedHeaderImage-1775830147456.jpg" alt="New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Rowhammer Attacks on NVIDIA GPUs Enable Full System Takeover</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html" target="_blank">What is jj and why should I care?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-14 10:33</span>
             </div>
         </div>
 </div>
@@ -249,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/kotakureview-mouse-1280x720.jpg" alt="Mouse: PI For Hire: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mouse-pi-for-hire-classic-cartoon-black-white-steam-ps5-review-is-it-good-fps-2000687225" target="_blank">Mouse: PI For Hire: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-14 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tatoiana.jpg?fit=1600%2C1020&amp;quality=60&amp;ssl=1" alt="Canada&#x27;s Liberals take parliamentary majority after latest special election" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,20 +304,20 @@
                 <span class="time">2026-04-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/spider-man-brand-new-day-party-scene-1280x853.jpg" alt="We Just Saw a Full Scene From ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-cinemacon-footage-description-2000745739" target="_blank">We Just Saw a Full Scene From ‘Spider-Man: Brand New Day’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 03:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776037138-20260414.png" alt="Saturday Morning Breakfast Cereal - Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/easier" target="_blank">Saturday Morning Breakfast Cereal - Easier</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-14 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5807.png" alt="No Place Like Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -326,22 +336,13 @@
                 <span class="time">2026-04-13 23:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776037091-20260413.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/witch-2" target="_blank">Saturday Morning Breakfast Cereal - Witch</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 15:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
