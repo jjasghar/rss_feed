@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-13 23:13:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 00:15:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, April 13, 2026 - 23:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 00:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss" target="_blank">Hezbollah leader urges Lebanon’s government to pull out of Israel talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-13 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/swalwell-ap-jt-260410_1775858342260_hpMain_4x3t_384.jpg" alt="Swalwell says he plans to resign from Congress amid sexual assault allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +98,29 @@
                 <span class="time">2026-04-13 21:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament" target="_blank">Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-13 19:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack" target="_blank">Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&amp;#8217;s home and OpenAI’s HQ</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69dd62de5630ccde90450adb/master/pass/2200095767" alt="You Can Soon Buy a $4,370 Humanoid Robot on AliExpress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/" target="_blank">You Can Soon Buy a $4,370 Humanoid Robot on AliExpress</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-13 23:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/hasan-pikers-starter-pack/" target="_blank">What’s in Hasan Piker’s Starter Pack? Creatine, Zyns, Signal</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-13 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/hunger1-500x500.jpg" alt="Sunrise on the Reaping teaser brings us a Second Quarter Quell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/" target="_blank">Sunrise on the Reaping teaser brings us a Second Quarter Quell</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-13 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d83e91a6b1cf7dff37c069/master/pass/politics_trump_antichrist_2_getty.jpg" alt="Staunch Trump Supporters Are Now Asking if He’s the Antichrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/" target="_blank">Staunch Trump Supporters Are Now Asking if He’s the Antichrist</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-13 17:17</span>
             </div>
         </div>
 </div>
@@ -248,12 +245,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-13 23:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/helium.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Thanks, Trump! — here&#x27;s what happens when the world runs low on helium" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/04/13/thanks-trump-heres-what-happens-when-the-world-runs-low-on-helium.html" target="_blank">Thanks, Trump! — here&#x27;s what happens when the world runs low on helium</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-13 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/usc-yang-et-al-memory-chip-optical-image-1280x854.jpg" alt="This Memory Chip Survives Temperatures Hotter Than Lava" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-memory-chip-survives-temperatures-hotter-than-lava-2000745819" target="_blank">This Memory Chip Survives Temperatures Hotter Than Lava</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-13 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -281,24 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/some-good-news-about-the-upcoming-atlantic-hurricane-season-2000745867" target="_blank">Some Good News About the Upcoming Atlantic Hurricane Season</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-13 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Never delete a file again with this 10TB lifetime cloud storage deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/13/never-delete-a-file-again-with-this-10tb-lifetime-cloud-storage-deal.html" target="_blank">Never delete a file again with this 10TB lifetime cloud storage deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/LV5houHniU8eox8FuabjWQ-1280x720.jpg" alt="Hackers Reveal Rockstar Earns Over $1 Million A Day From GTA Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hackers-reveal-rockstar-earns-over-1-million-a-day-from-gta-online-2000687207" target="_blank">Hackers Reveal Rockstar Earns Over $1 Million A Day From GTA Online</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-13 20:51</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
