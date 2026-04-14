@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 19:28:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 20:17:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +113,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69de61accc421083636fbe9b/master/pass/GettyImages-2265991537.jpg" alt="In the Wake of Anthropic&#x27;s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/" target="_blank">In the Wake of Anthropic&#x27;s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -151,20 +166,38 @@
                 <span class="time">2026-04-14 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax" target="_blank">The world’s oldest art, now in 6K IMAX</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cverports/cve-2026-40310-cve-2026-40310-heap-based-out-of-bounds-write-in-imagemagick-jp2-encoder-34cf" target="_blank">CVE-2026-40310: CVE-2026-40310: Heap-Based Out-of-Bounds Write in ImageMagick JP2 Encoder</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933370&w=600" alt="The ID That Costs Millions: Why API Authorization Failures Keep Winning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/id-that-costs-millions-why-api-authorization" target="_blank">The ID That Costs Millions: Why API Authorization Failures Keep Winning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linus-Rejects-Linux-7.1" target="_blank">Linus Torvalds Rejects Performance Fix &quot;Hack&quot; &amp; Kconfig &quot;Terrible Things&quot; For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 19:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,37 +219,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-strix-point" target="_blank">Ubuntu 26.04 Delivers Great Performance Improvements For AMD Strix Point, Especially For RDNA 3.5 Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="The Most Popular from Q1 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cranch42/the-most-popular-from-q1-2026-1k6i" target="_blank">The Most Popular from Q1 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731" target="_blank">Spain to expand internet blocks to tennis, golf, movies broadcasting times</a></span>
+                <span class="title"><a href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html" target="_blank">I wrote to Flock&#x27;s privacy contact to opt out of their domestic spying program</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-14 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/opera-gx.jpg?resize=406%2C232&amp;ssl=1" alt="Opera GX for Linux arrives on Flathub &amp; Snap store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/opera-gx-linux-snap-flathub" target="_blank">Opera GX for Linux arrives on Flathub &amp; Snap store</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-14 16:15</span>
+                <span class="time">2026-04-14 17:47</span>
             </div>
         </div>
 </div>
@@ -248,6 +254,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/mercedes_EQS_lede-1280x853.jpg" alt="New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-mercedes-eqs-has-long-range-quick-charging-and-quicker-steering-2000746403" target="_blank">New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Disneyyy-steam-1280x720.jpg" alt="Disney Removes A Bunch More Games From Steam With No Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543" target="_blank">Disney Removes A Bunch More Games From Steam With No Warning</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-14 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6G08NJCQRH0A9ME5T3B01N1/hero-image.png" alt="You Can Get Microsoft Visual Studio Pro for Just $28 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/microsoft-visual-studio-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">You Can Get Microsoft Visual Studio Pro for Just $28 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-14 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-rivals-figures-luna-moon-knight-vemom-punisher-1280x853.jpg" alt="Marvel Legends Is Taking on ‘Marvel Rivals,’ and It Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,33 +305,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-april-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S25+ Is One of the Best Premium Android Phones, and It&#x27;s $250 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-14 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Adria-Arjona-1280x853.jpg" alt="‘Andor’ Star Adria Arjona Is Joining ‘Man of Tomorrow’—But Maybe Not as Who You Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adria-arjona-man-of-tomorrow-casting-rumors-maxima-wonder-woman-2000746386" target="_blank">‘Andor’ Star Adria Arjona Is Joining ‘Man of Tomorrow’—But Maybe Not as Who You Thought</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/04/virginia-flag.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Virginia joins slow-motion plan to sidestep Electoral College" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/virginia-joins-slow-motion-plan-to-sidestep-electoral-college.html" target="_blank">Virginia joins slow-motion plan to sidestep Electoral College</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-14 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/godzilla-minus-one-godzilla-1280x853.jpg" alt="We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/godzilla-minus-zero-cinemacon-footage-description-2000746309" target="_blank">We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 16:53</span>
             </div>
         </div>
 </div>
@@ -347,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
