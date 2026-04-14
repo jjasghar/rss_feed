@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 18:20:05 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-14 19:28:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report" target="_blank">Justice Department says Biden DOJ weaponized law to go after anti-abortion activists</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse" target="_blank">Law enforcement is trying to combat abusive AI. Experts say easier said than done</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-14 18:11</span>
@@ -67,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon?traffic_source=rss" target="_blank">No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-14 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0112/live/146c3df0-3777-11f1-b2f4-33029861d617.jpg" alt="UK faces biggest hit to growth from Iran war of major economies, IMF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss" target="_blank">UK faces biggest hit to growth from Iran war of major economies, IMF says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-14 17:18</span>
             </div>
         </div>
 <div class="story">
@@ -87,29 +101,29 @@
                 <span class="time">2026-04-14 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork" target="_blank">You can order your own bloodwork now. Interpreting the results is another story</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban?traffic_source=rss" target="_blank">Why are the US, Iran arguing over duration of uranium enrichment ban?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/" target="_blank">Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle" target="_blank">Prime Video is bundling Apple TV Plus and Peacock for a limited time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 18:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax" target="_blank">The world’s oldest art, now in 6K IMAX</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-14 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/" target="_blank">Financial risk management platform Pillar raises $20M seed in round led by a16z</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d41f0bcfa71e0612962746/master/pass/security_brendancarr_GettyImages-2268143961.jpg" alt="The FCC Has a Fast Lane for Complaints About Trump’s Media Critics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-fcc-has-a-fast-lane-for-complaints-about-trumps-media-critics/" target="_blank">The FCC Has a Fast Lane for Complaints About Trump’s Media Critics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 15:12</span>
             </div>
         </div>
 </div>
@@ -252,6 +248,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-rivals-figures-luna-moon-knight-vemom-punisher-1280x853.jpg" alt="Marvel Legends Is Taking on ‘Marvel Rivals,’ and It Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hasbro-marvel-legends-marvel-rivals-wave-release-date-2000746237" target="_blank">Marvel Legends Is Taking on ‘Marvel Rivals,’ and It Looks Great</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/image-15-e1776192476122.jpeg?fit=768%2C429&amp;quality=60&amp;ssl=1" alt="Starfield&#x27;s new expansion isn&#x27;t likely to change your mind on the game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/starfields-new-expansion-isnt-likely-to-change-your-mind-on-the-game.html" target="_blank">Starfield&#x27;s new expansion isn&#x27;t likely to change your mind on the game</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-14 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png" alt="The Samsung Galaxy S25+ Is One of the Best Premium Android Phones, and It&#x27;s $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-april-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S25+ Is One of the Best Premium Android Phones, and It&#x27;s $250 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-14 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Adria-Arjona-1280x853.jpg" alt="‘Andor’ Star Adria Arjona Is Joining ‘Man of Tomorrow’—But Maybe Not as Who You Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,33 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/godzilla-minus-zero-cinemacon-footage-description-2000746309" target="_blank">We Just Saw Behind the Scenes on ‘Godzilla Minus Zero,’ and It’s Bigger and Darker Than Ever</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-14 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/01/Uber-Lucid-Nuro-Robotaxi-1280x853.jpg" alt="Lucid Finds Its New CEO, Expands Robotaxi Partnership With Uber" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lucid-finds-its-new-ceo-expands-robotaxi-partnership-with-uber-2000746269" target="_blank">Lucid Finds Its New CEO, Expands Robotaxi Partnership With Uber</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP3PMXG6V38BSW19GMB409Q1/hero-image.jpg" alt="10 Shows Like &#x27;Scarpetta&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-scarpetta?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Scarpetta&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="FBI doc says Epstein introduced Melania to Trump, but OK, let&#x27;s go with &quot;chance meeting&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/fbi-doc-says-epstein-introduced-melania-to-trump-but-ok-lets-go-with-chance-meeting.html" target="_blank">FBI doc says Epstein introduced Melania to Trump, but OK, let&#x27;s go with &quot;chance meeting&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-14 15:58</span>
             </div>
         </div>
 </div>
@@ -351,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
