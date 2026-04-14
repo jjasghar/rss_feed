@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 22:13:02 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-14 23:13:57 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 22:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 23:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +115,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer" target="_blank">Godzilla Minus Zero stomps through New York in first teaser trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-14 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69cd64e418a74289dad2a58d/master/pass/hp-omnibook-5-14.JPG" alt="The Surprising MacBook Neo Competitor You&#x27;ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hp-omnibook-5-deal-0426-1/" target="_blank">The Surprising MacBook Neo Competitor You&#x27;ve Never Heard Of</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/" target="_blank">AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report</a></span>
                 <span class="feed">TechCrunch</span>
@@ -136,29 +166,20 @@
                 <span class="time">2026-04-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/" target="_blank">Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle" target="_blank">Prime Video is bundling Apple TV Plus and Peacock for a limited time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390" target="_blank">How to Deploy Spring Boot Apps on Fly.io</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 23:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +225,6 @@
                 <span class="time">2026-04-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linus-Rejects-Linux-7.1" target="_blank">Linus Torvalds Rejects Performance Fix &quot;Hack&quot; &amp; Kconfig &quot;Terrible Things&quot; For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,12 +254,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KKXQD8PAHJH04C0Q1115ZZGP/hero-image.png" alt="These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-tune-buds-2-earbuds-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-14 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KP3WGAVMX1GC1E1X26M9A2RY/hero-image.jpg" alt="10 Hacks Every Apple Music User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-music-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Music User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/halomartytrump-1280x720.jpg" alt="Trump Endorses Halo Composer For Congress Who Previously Called Him An Idiot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marty-odonnell-halo-trump-nevada-congress-endorsement-2000687591" target="_blank">Trump Endorses Halo Composer For Congress Who Previously Called Him An Idiot</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-14 21:54</span>
             </div>
         </div>
 <div class="story">
@@ -275,24 +305,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-mercedes-eqs-has-long-range-quick-charging-and-quicker-steering-2000746403" target="_blank">New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-14 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Disneyyy-steam-1280x720.jpg" alt="Disney Removes A Bunch More Games From Steam With No Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-delists-15-more-games-from-steam-with-no-warning-star-wars-pc-2000687543" target="_blank">Disney Removes A Bunch More Games From Steam With No Warning</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-14 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6G08NJCQRH0A9ME5T3B01N1/hero-image.png" alt="You Can Get Microsoft Visual Studio Pro for Just $28 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/microsoft-visual-studio-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">You Can Get Microsoft Visual Studio Pro for Just $28 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-14 19:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
