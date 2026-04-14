@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 20:17:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 21:13:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg" alt="Iran live updates: Nearly 400 US service members wounded in war, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Nearly 400 US service members wounded in war, official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-14 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss" target="_blank">Israeli attack kills several people in Gaza refugee camp</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 20:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +100,29 @@
                 <span class="time">2026-04-14 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine" target="_blank">Historic decline in U.S. overdose deaths threatened by changing street drug supply</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/14/lebanese-israeli-ambassadors-begin-direct-talks-in-us?traffic_source=rss" target="_blank">Lebanese, Israeli ambassadors begin direct talks in US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69d9286567ec9ebaea2e2438/master/pass/Show-Guide-Update-Gear-TCDSTWA_G5083.jpg" alt="The 10 Best TV Shows to Stream This Month (April 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-shows-to-stream-right-now/" target="_blank">The 10 Best TV Shows to Stream This Month (April 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-14 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-500x500.jpg" alt="Americans ask AI for health care. Hospitals think the answer is more chatbots." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/" target="_blank">Americans ask AI for health care. Hospitals think the answer is more chatbots.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-14 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69de61accc421083636fbe9b/master/pass/GettyImages-2265991537.jpg" alt="In the Wake of Anthropic&#x27;s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +159,20 @@
                 <span class="time">2026-04-14 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d7e44cd4f6aa7fdabada6a/master/pass/Watched-Coachella-On-Vertical-Video-Culture-2212406823.jpg" alt="I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-watched-18-hours-of-coachella-on-vertical-video-and-it-was-not-good-for-my-fomo/" target="_blank">I Watched 18 Hours of Coachella’s Vertical Livestream and All I Got Was This Lousy FOMO</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/google-automate-windups-500x500.jpg" alt="Google introduces &quot;Skills&quot; in Chrome to make Gemini prompts instantly reusable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/" target="_blank">Google introduces &quot;Skills&quot; in Chrome to make Gemini prompts instantly reusable</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-14 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-VFS-Kino-32-bit" target="_blank">LLM-Assisted Patches For Linux 7.1 May Have Negative Impact On 32-bit Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 20:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,15 +218,6 @@
                 <span class="time">2026-04-14 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html" target="_blank">I wrote to Flock&#x27;s privacy contact to opt out of their domestic spying program</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-14 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/New-Glenn-static-fire-test-april-14-1280x853.jpg" alt="As Starship V3 Lags Behind, Blue Origin Prepares Third Launch of New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-starship-v3-lags-behind-blue-origin-prepares-third-launch-of-new-glenn-2000746425" target="_blank">As Starship V3 Lags Behind, Blue Origin Prepares Third Launch of New Glenn</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/mercedes_EQS_lede-1280x853.jpg" alt="New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/14/starfields-new-expansion-isnt-likely-to-change-your-mind-on-the-game.html" target="_blank">Starfield&#x27;s new expansion isn&#x27;t likely to change your mind on the game</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-14 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYM4YHQJ9PH0D6TMHDD4CJ29/hero-image.png" alt="The Samsung Galaxy S25+ Is One of the Best Premium Android Phones, and It&#x27;s $250 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-plus-sale-april-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S25+ Is One of the Best Premium Android Phones, and It&#x27;s $250 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-14 18:30</span>
             </div>
         </div>
 </div>
@@ -353,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
