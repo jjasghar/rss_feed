@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 01:31:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-14 02:59:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail" target="_blank">Man accused in Molotov cocktail attack of OpenAI CEO&#x27;s home charged with attempted murder</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-14 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776121580774_nn_rno_swalwell_resigns_260413_S3_1920x1080-5lhg7l.jpg" alt="Rep. Eric Swalwell resigns following sexual assault and misconduct allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/rep-eric-swalwell-resigns-following-sexual-assault-and-misconduct-allegations-261274693885" target="_blank">Rep. Eric Swalwell resigns following sexual assault and misconduct allegations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-13 23:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -81,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/swalwell-plans-resign-congress-amid-sexual-assault-allegations/story?id=132009300" target="_blank">Swalwell says he plans to resign from Congress amid sexual assault allegations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-13 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million?traffic_source=rss" target="_blank">New White House report has plans to fix US housing shortage of 10 million</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-13 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress" target="_blank">Eric Swalwell will resign from Congress as he faces backlash over assault allegations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-13 21:49</span>
             </div>
         </div>
 </div>
@@ -169,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yiyaoai/how-i-route-claude-sonnet-4-6-to-gpt-5-codex-without-claude-code-knowing-the-difference-48n7" target="_blank">&quot;How I Route claude-sonnet-4-6 to GPT-5 Codex — Without Claude Code Knowing the Difference&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193" target="_blank">Giving AI Agents Eyes (Part 1): 6 Tricks for Reading Web Pages Without Vision Models</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-13 22:09</span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://www.linux.com/news/apr26-training-promo/" target="_blank">Open Source Powers the Planet — Get 35% Off Sitewide</a></span>
                 <span class="feed">Linux.com</span>
                 <span class="time">2026-04-13 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM" target="_blank">GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 19:30</span>
             </div>
         </div>
 </div>
@@ -316,6 +315,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/13/kink-and-shame" target="_blank">Kink And Shame</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-13 23:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1776037091-20260413.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -347,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
