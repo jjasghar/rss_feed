@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 00:15:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-14 01:31:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 00:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss" target="_blank">Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg" alt="Lebanon enters talks with Israel but with no cards to play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon enters talks with Israel but with no cards to play</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-13 23:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress" target="_blank">Eric Swalwell will resign from Congress as he faces backlash over assault allegations</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-13 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776116380183_now_hallie_swalwell_resign_260413_S3_1920x1080-rpjvtp.jpg" alt="Rep. Swalwell says he will resign following sexual misconduct allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/rep-swalwell-says-he-will-resign-following-sexual-misconduct-allegations-261270085865" target="_blank">Rep. Swalwell says he will resign following sexual misconduct allegations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-13 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4448/live/68e90900-3775-11f1-b023-c3d1c5398968.jpg" alt="Hungary&#x27;s next PM would pick up if Putin calls and tell him to stop Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss" target="_blank">Hungary&#x27;s next PM would pick up if Putin calls and tell him to stop Ukraine war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-13 21:28</span>
             </div>
         </div>
 </div>
@@ -202,18 +205,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM" target="_blank">GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-13 19:30</span>
+                <span class="title"><a href="https://www.linux.com/news/apr26-training-promo/" target="_blank">Open Source Powers the Planet — Get 35% Off Sitewide</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2026-04-13 19:36</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdibpplicb6n7jns0qv2i.png" alt="Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1" target="_blank">Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-13 19:17</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GreenBoost-Proton-NVIDIA-vRAM" target="_blank">GreenBoost Memory Orchestrator For NVIDIA GPUs Introduces GreenBoost-Proton For Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-13 19:30</span>
             </div>
         </div>
 </div>
@@ -244,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/openai-attack-1280x853.jpg" alt="Home of OpenAI CEO Allegedly Attacked for a Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/home-of-openai-ceo-allegedly-attacked-for-a-second-time-2000745953" target="_blank">Home of OpenAI CEO Allegedly Attacked for a Second Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-14 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,20 +301,20 @@
                 <span class="time">2026-04-13 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Hurricane-Milton-1280x853.jpg" alt="Some Good News About the Upcoming Atlantic Hurricane Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/some-good-news-about-the-upcoming-atlantic-hurricane-season-2000745867" target="_blank">Some Good News About the Upcoming Atlantic Hurricane Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-13 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5807.png" alt="No Place Like Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5807" target="_blank">No Place Like Home</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-14 01:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1776037091-20260413.png" alt="Saturday Morning Breakfast Cereal - Witch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -330,22 +342,13 @@
                 <span class="time">2026-04-13 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5806.png" alt="Heavy Metals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5806" target="_blank">Heavy Metals</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-13 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:15 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
