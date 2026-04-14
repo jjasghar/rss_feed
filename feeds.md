@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-14 21:13:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-14 22:13:02 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, April 14, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 14, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss" target="_blank">Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-14 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg" alt="Iran live updates: Nearly 400 US service members wounded in war, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +95,20 @@
                 <span class="time">2026-04-14 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0112/live/146c3df0-3777-11f1-b2f4-33029861d617.jpg" alt="UK faces biggest hit to growth from Iran war of major economies, IMF says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss" target="_blank">UK faces biggest hit to growth from Iran war of major economies, IMF says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-14 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/" target="_blank">AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-14 21:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d9286567ec9ebaea2e2438/master/pass/Show-Guide-Update-Gear-TCDSTWA_G5083.jpg" alt="The 10 Best TV Shows to Stream This Month (April 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +154,29 @@
                 <span class="time">2026-04-14 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home" target="_blank">The attacks on Sam Altman are a warning for the AI world</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-2i3n" target="_blank">Concurrent Video Processing with Go Goroutines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-VFS-Kino-32-bit" target="_blank">Patches For Linux 7.1 May Have Negative Impact On 32-bit Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-14 20:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="time">2026-04-14 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/" target="_blank">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-14 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18923645&w=600" alt="How Online Databases Replicate Public Records: A Look at Data Aggregation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-online-databases-replicate-public-records-data-aggregation" target="_blank">How Online Databases Replicate Public Records: A Look at Data Aggregation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-14 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP3WGAVMX1GC1E1X26M9A2RY/hero-image.jpg" alt="10 Hacks Every Apple Music User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-music-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Music User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/rock-robot-1.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Whimsical stone-like robot by Hisashi Nakagawa comes alive with glowing eyes and mechanical legs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/whimsical-stone-like-robot-by-hisashi-nakagawa-comes-alive-with-glowing-eyes-and-mechanical-legs.html" target="_blank">Whimsical stone-like robot by Hisashi Nakagawa comes alive with glowing eyes and mechanical legs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-14 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/New-Glenn-static-fire-test-april-14-1280x853.jpg" alt="As Starship V3 Lags Behind, Blue Origin Prepares Third Launch of New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/microsoft-visual-studio-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">You Can Get Microsoft Visual Studio Pro for Just $28 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-14 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/hasbro-marvel-rivals-figures-luna-moon-knight-vemom-punisher-1280x853.jpg" alt="Marvel Legends Is Taking on ‘Marvel Rivals,’ and It Looks Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hasbro-marvel-legends-marvel-rivals-wave-release-date-2000746237" target="_blank">Marvel Legends Is Taking on ‘Marvel Rivals,’ and It Looks Great</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/image-15-e1776192476122.jpeg?fit=768%2C429&amp;quality=60&amp;ssl=1" alt="Starfield&#x27;s new expansion isn&#x27;t likely to change your mind on the game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/starfields-new-expansion-isnt-likely-to-change-your-mind-on-the-game.html" target="_blank">Starfield&#x27;s new expansion isn&#x27;t likely to change your mind on the game</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-14 18:48</span>
             </div>
         </div>
 </div>
@@ -346,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
