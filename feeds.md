@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 12:14:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-15 13:29:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +60,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act" target="_blank">Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-15 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776252381747_tdy_news_7a_engel_iran_trump_260415_S3_1920x1080-6o7gwp.jpg" alt="Trump Says Iran War is &#x27;Close to Over&#x27; as Blockade Continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-block-of-iran-ports-in-strait-of-hormuz-is-fully-implemented-261408837771" target="_blank">Trump Says Iran War is &#x27;Close to Over&#x27; as Blockade Continues</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-15 11:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59c/live/f375bcf0-38bd-11f1-8606-05fe34b06e1b.png" alt="More than 200 Iranian sailors stranded after US torpedo attack return home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -84,29 +95,29 @@
                 <span class="time">2026-04-15 09:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon" target="_blank">Pope heads to Cameroon as separatists announce 3-day pause in fighting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-15 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea?traffic_source=rss" target="_blank">North Korea boosting ability to manufacture nuclear arms, IAEA chief warns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-500x500.jpg" alt="It&#x27;s Tax Day, and no one knows how to file for prediction market winnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/its-tax-day-and-no-one-knows-how-to-file-for-prediction-market-winnings/" target="_blank">It&#x27;s Tax Day, and no one knows how to file for prediction market winnings</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-15 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/" target="_blank">Reid Hoffman weighs in on the ‘tokenmaxxing’ debate</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 13:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png" alt="12 Best Standing Desks of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +154,29 @@
                 <span class="time">2026-04-15 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/" target="_blank">Anthropic’s rise is giving some OpenAI investors second thoughts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer" target="_blank">Godzilla Minus Zero stomps through New York in first teaser trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-14 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21k9vw1y0r04iygtcgbc.png" alt="Advanced Techniques for Hybrid Cloud Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eriklundstrom/advanced-techniques-for-hybrid-cloud-integration-4hed" target="_blank">Advanced Techniques for Hybrid Cloud Integration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/" target="_blank">Why AI hasn&#x27;t replaced human expertise—and what that means for your SaaS stack</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://prog21.dadgum.com/30.html" target="_blank">Want to Write a Compiler? Just Read These Two Papers (2008)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-15 09:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/claude-code-linux-vulnerability/en/headerimage/generatedHeaderImage-1775817662497.jpg" alt="Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-15 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stephanie_makori_845bb2c0/deploying-a-static-website-on-aws-s3-with-terraform-a-beginners-guide-koi" target="_blank">Deploying a Static Website on AWS S3 with Terraform: A Beginner’s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 09:23</span>
             </div>
         </div>
 </div>
@@ -257,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP7STS42VP0SYP9TEEDCXX8M/hero-image.png" alt="This Roborock Vacuum/Mop Combo Is 38% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/qrevo-qv-35a-vacuum-mop-sale-april-2026?utm_medium=RSS" target="_blank">This Roborock Vacuum/Mop Combo Is 38% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1280x851.jpg" alt="Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/first-statewide-data-center-ban-passed-by-maine-legislature-2000746599" target="_blank">First Statewide Data Center Ban Passed by Maine Legislature</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-15 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/netgear-1280x847.jpg" alt="FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fcc-exempts-netgear-from-foreign-made-router-ban-for-some-reason-2000746580" target="_blank">FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 01:37</span>
             </div>
         </div>
 </div>
@@ -357,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
