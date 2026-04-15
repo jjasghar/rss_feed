@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 09:28:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-15 10:25:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 10:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss" target="_blank">Iran citizen held in France over pro-Palestine comments returns home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 09:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117473/justice-department-toss-seditious-conspiracy" target="_blank">Justice Department moves to toss conspiracy convictions for Jan. 6 rioters</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-15 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss" target="_blank">Candidate calls for new election in Peru, claiming fraud without evidence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 05:24</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahdi_benrhouma_fe1c6005/fix-supabase-auth-session-not-persisting-after-refresh-354f" target="_blank">Fix Supabase Auth Session Not Persisting After Refresh</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-exFAT" target="_blank">exFAT For Linux 7.1 Helps Reduce File Fragmentation, Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-15 10:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://prog21.dadgum.com/30.html" target="_blank">Want to Write a Compiler? Just Read These Two Papers (2008)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-15 09:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stephanie_makori_845bb2c0/deploying-a-static-website-on-aws-s3-with-terraform-a-beginners-guide-koi" target="_blank">Deploying a Static Website on AWS S3 with Terraform: A Beginner’s Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 09:23</span>
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/godofgeeks/bloom-filters-and-their-applications-2mkg" target="_blank">Bloom Filters and their Applications</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/steipete/wacli" target="_blank">Peter Steinberger – WhatsApp CLI: sync, search, send</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-15 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://iczelia.net/posts/e16-20-year-old-bug/" target="_blank">Fixing a 20-year-old bug in Enlightenment E16</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-15 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m_saad_ahmad/day-72-of-100-days-of-code-static-files-media-files-and-environment-variables-in-django-14bk" target="_blank">Day 72 of 100 Days Of Code — Static Files, Media Files, and Environment Variables in Django</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 03:57</span>
             </div>
         </div>
 </div>
@@ -357,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
