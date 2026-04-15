@@ -1,37 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 10:25:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 11:19:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 10:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 11:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +96,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69d7ff7bb95420b1da80e5a6/master/pass/science_space_cave_getty.jpg" alt="The Caves That Could Help Us Find, or Become, Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/" target="_blank">The Caves That Could Help Us Find, or Become, Aliens</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,15 +149,6 @@
                 <span class="time">2026-04-14 23:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/DevDroid-military-robot-500x500.jpg" alt="Ukraine’s military robot surge aims to offset drone risks to humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/" target="_blank">Ukraine’s military robot surge aims to offset drone risks to humans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-14 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -193,6 +182,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/claude-code-linux-vulnerability/en/headerimage/generatedHeaderImage-1775817662497.jpg" alt="Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Used to Find Remotely Exploitable Linux Kernel Vulnerability Hidden for 23 Years</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-15 09:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,20 +208,20 @@
                 <span class="time">2026-04-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/godofgeeks/bloom-filters-and-their-applications-2mkg" target="_blank">Bloom Filters and their Applications</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html" target="_blank">Defense in Depth, Medieval Style</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-15 10:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,20 +240,20 @@
                 <span class="time">2026-04-14 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html" target="_blank">How Hackers Are Thinking About AI</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-14 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Chalamet-1280x853.jpg" alt="‘Dune: Part Three’ Begins Like a Sci-Fi ‘Saving Private Ryan’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dune-part-three-cinemacon-footage-description-trailer-2000746648" target="_blank">‘Dune: Part Three’ Begins Like a Sci-Fi ‘Saving Private Ryan’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2685684165-1280x853.jpg" alt="First Statewide Data Center Ban Passed by Maine Legislature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/jbl-tune-buds-2-earbuds-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-14 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP3WGAVMX1GC1E1X26M9A2RY/hero-image.jpg" alt="10 Hacks Every Apple Music User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-music-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Music User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-14 22:00</span>
             </div>
         </div>
 </div>
@@ -356,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:26 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
