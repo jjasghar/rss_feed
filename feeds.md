@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 01:31:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 02:59:00 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss" target="_blank">Israel and Lebanon hold direct talks for first time in decades</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 01:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae" target="_blank">UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-14 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss" target="_blank">Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 21:49</span>
             </div>
         </div>
 </div>
@@ -243,12 +247,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/netgear-1280x847.jpg" alt="FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fcc-exempts-netgear-from-foreign-made-router-ban-for-some-reason-2000746580" target="_blank">FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 01:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6FYVEMANX9P15WBZTTCNK4J/hero-image.jpg" alt="A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/babbel-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-15 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Screenshot-2025-03-27-122428.png?fit=1919%2C892&amp;quality=55&amp;ssl=1" alt="Nintendo spent almost a decade fine-tuning fart noises for Tomodachi Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/14/nintendo-spent-almost-a-decade-fine-tuning-fart-noises-for-tomodachi-life.html" target="_blank">Nintendo spent almost a decade fine-tuning fart noises for Tomodachi Life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-15 00:20</span>
             </div>
         </div>
 <div class="story">
@@ -276,24 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/marty-odonnell-halo-trump-nevada-congress-endorsement-2000687591" target="_blank">Trump Endorses Halo Composer For Congress Who Previously Called Him An Idiot</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-14 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/rock-robot-1.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Whimsical stone-like robot by Hisashi Nakagawa comes alive with glowing eyes and mechanical legs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/whimsical-stone-like-robot-by-hisashi-nakagawa-comes-alive-with-glowing-eyes-and-mechanical-legs.html" target="_blank">Whimsical stone-like robot by Hisashi Nakagawa comes alive with glowing eyes and mechanical legs</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-14 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/New-Glenn-static-fire-test-april-14-1280x853.jpg" alt="As Starship V3 Lags Behind, Blue Origin Prepares Third Launch of New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-starship-v3-lags-behind-blue-origin-prepares-third-launch-of-new-glenn-2000746425" target="_blank">As Starship V3 Lags Behind, Blue Origin Prepares Third Launch of New Glenn</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 21:04</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
