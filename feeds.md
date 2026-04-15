@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 00:16:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-04-15 01:31:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 00:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss" target="_blank">Haiti’s Culture Ministry fires workers over citadel stampede that killed 25</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss" target="_blank">Iran war live: Trump hints at talks; US blockade in Hormuz enters 2nd day</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-15 00:00</span>
@@ -64,39 +70,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776209978604_nn_ggu_iran_hormuz_tensions_260414_S3_1920x1080-08pixx.jpg" alt="Trump signals new talks with Iran to start soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-signals-new-talks-with-iran-to-start-soon-261367877560" target="_blank">Trump signals new talks with Iran to start soon</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-14 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae" target="_blank">UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-14 23:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss" target="_blank">Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-14 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg" alt="Iran live updates: Nearly 400 US service members wounded in war, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Nearly 400 US service members wounded in war, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-14 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss" target="_blank">Israeli attack kills several people in Gaza refugee camp</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-14 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report" target="_blank">Justice Department says Biden DOJ weaponized law to go after anti-abortion activists</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-14 19:13</span>
             </div>
         </div>
 </div>
@@ -132,6 +129,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/DevDroid-military-robot-500x500.jpg" alt="Ukraine’s military robot surge aims to offset drone risks to humans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/" target="_blank">Ukraine’s military robot surge aims to offset drone risks to humans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-14 22:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,20 +155,20 @@
                 <span class="time">2026-04-14 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-500x500.jpg" alt="Americans ask AI for health care. Hospitals think the answer is more chatbots." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/" target="_blank">Americans ask AI for health care. Hospitals think the answer is more chatbots.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-14 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486" target="_blank">Linus Torvalds Merged The Code Beginning To Remove Intel 486 CPU Support In Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-15 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2026-04-14 20:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cverports/cve-2026-40310-cve-2026-40310-heap-based-out-of-bounds-write-in-imagemagick-jp2-encoder-34cf" target="_blank">CVE-2026-40310: CVE-2026-40310: Heap-Based Out-of-Bounds Write in ImageMagick JP2 Encoder</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6FYVEMANX9P15WBZTTCNK4J/hero-image.jpg" alt="A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/babbel-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KKXQD8PAHJH04C0Q1115ZZGP/hero-image.png" alt="These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +296,6 @@
                 <span class="time">2026-04-14 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/mercedes_EQS_lede-1280x853.jpg" alt="New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-mercedes-eqs-has-long-range-quick-charging-and-quicker-steering-2000746403" target="_blank">New Mercedes EQS Has Long Range, Quick Charging, and Quicker Steering</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-14 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +319,13 @@
                 <span class="time">2026-04-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5807.png" alt="No Place Like Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5807" target="_blank">No Place Like Home</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-14 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
