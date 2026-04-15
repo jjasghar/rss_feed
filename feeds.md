@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 07:29:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-15 08:29:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 08:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss" target="_blank">Families across Sudan endure years of displacement, hunger, loss</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 08:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss" target="_blank">Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-15 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss" target="_blank">Israel and Lebanon hold direct talks for first time in decades</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 01:47</span>
             </div>
         </div>
 </div>
@@ -171,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/godofgeeks/bloom-filters-and-their-applications-2mkg" target="_blank">Bloom Filters and their Applications</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 08:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/steipete/wacli" target="_blank">Peter Steinberger – WhatsApp CLI: sync, search, send</a></span>
                 <span class="feed">Hacker News</span>
@@ -213,15 +219,6 @@
                 <span class="time">2026-04-14 23:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.2.2" target="_blank">AMD ROCm 7.2.2 Brings Optimization Guide For Ryzen AI / RDNA 3.5 Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -259,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2685684165-1280x853.jpg" alt="First Statewide Data Center Ban Passed by Maine Legislature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/first-statewide-data-center-ban-passed-by-maine-legislature-2000746599" target="_blank">First Statewide Data Center Ban Passed by Maine Legislature</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 03:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/netgear-1280x847.jpg" alt="FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,20 +310,20 @@
                 <span class="time">2026-04-14 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/halomartytrump-1280x720.jpg" alt="Trump Endorses Halo Composer For Congress Who Previously Called Him An Idiot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marty-odonnell-halo-trump-nevada-congress-endorsement-2000687591" target="_blank">Trump Endorses Halo Composer For Congress Who Previously Called Him An Idiot</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-14 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/15/preparatory-school" target="_blank">Preparatory School</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-15 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5808.png" alt="Pet Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -350,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 08:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
