@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 21:14:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 22:12:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss" target="_blank">Brazil’s police open a probe into presidential candidate Flavio Bolsonaro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c38/live/0539c300-3904-11f1-8479-370d2e0a1223.jpg" alt="Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +102,20 @@
                 <span class="time">2026-04-15 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens" target="_blank">More than £1bn pledged for Sudan as humanitarian crisis deepens</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-15 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/" target="_blank">Ford EV and tech chief leaving automaker</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2026-04-15 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dfb6527e53dbff73e9fde2/master/pass/GettyImages-2269650026.jpg" alt="NASA Wants to Put Nuclear Reactors on the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/" target="_blank">NASA Wants to Put Nuclear Reactors on the Moon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk" target="_blank">I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SDL-Says-No-To-AI-LLMs" target="_blank">SDL Adds Policy To Forbid LLM/AI Generated Code Contributions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-15 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="time">2026-04-15 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/zorin-os-18.1-release.webp?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18.1 released, new Lite edition available" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/zorin-os-18-1-released" target="_blank">Zorin OS 18.1 released, new Lite edition available</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-15 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b70" target="_blank">Intel Arc Pro B70 Open-Source Linux Performance Against NVIDIA RTX &amp; AMD Radeon AI PRO</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,20 +234,29 @@
                 <span class="time">2026-04-15 10:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/" target="_blank">Patch Tuesday, April 2026 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-04-14 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/02/clayface-hed-1280x853.jpg" alt="The First ‘Clayface’ Footage Was Wonderfully Disgusting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-clayface-footage-was-wonderfully-disgusting-2000747042" target="_blank">The First ‘Clayface’ Footage Was Wonderfully Disgusting</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP9F2KXDC5GPM2SRFDVZJ0F5/hero-image.png" alt="Google’s New Gemini App for Mac Comes With Two Key Benefits (and One Drawback)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/gemini-is-now-available-as-a-dedicated-mac-app?utm_medium=RSS" target="_blank">Google’s New Gemini App for Mac Comes With Two Key Benefits (and One Drawback)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KP9D8BB2A9P11K7MVW5QJSX2/hero-image.png" alt="This 55-Inch LG OLED TV Is Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +293,6 @@
                 <span class="time">2026-04-15 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-world-economic-forum-1280x853.jpg" alt="Elon Musk Scores a Victory Against Free Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-scores-a-victory-against-free-speech-2000746959" target="_blank">Elon Musk Scores a Victory Against Free Speech</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP8YXHBS8224YDPD70K18Y82/hero-image.jpg" alt="Spotify Just Partnered With One of Amazon&#x27;s Best Bookselling Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-buy-books-from-spotify?utm_medium=RSS" target="_blank">Spotify Just Partnered With One of Amazon&#x27;s Best Bookselling Rivals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,6 +326,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/make_it_myself.png" alt="Make It Myself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3233/" target="_blank">Make It Myself</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-15 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5808.png" alt="Pet Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -340,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
