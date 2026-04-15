@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 19:27:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-15 20:14:44 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 20:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss" target="_blank">Hungary’s Magyar urges president to quit, vows to overhaul state media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/live-nation-gty-jef-260410_1775835841334_hpMain_4x3t_384.jpg" alt="Live Nation illegally monopolized the market for tickets, jury finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,6 +73,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens" target="_blank">More than £1bn pledged for Sudan as humanitarian crisis deepens</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-15 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss" target="_blank">Israel’s High Court hears petitions to oust Ben-Gvir</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -76,24 +97,6 @@
                 <span class="time">2026-04-15 16:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/15/nx-s1-5786459/npr-kevin-klose-died-kroc-gift" target="_blank">Visionary NPR leader Kevin Klose, who led network to new heights, has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-15 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss" target="_blank">Trump escalates threats to fire US Federal Reserve Chair Powell</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,9 +106,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software" target="_blank">Ford’s EV and software chief Doug Field is leaving the company</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg" alt="Google releases new apps for Windows and MacOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" target="_blank">Google releases new apps for Windows and MacOS</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-15 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/" target="_blank">OpenAI updates its Agents SDK to help enterprises build safer, more capable agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict" target="_blank">Ticketmaster is an illegal monopoly, jury rules</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-15 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69dfb6527e53dbff73e9fde2/master/pass/GettyImages-2269650026.jpg" alt="NASA Wants to Put Nuclear Reactors on the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/" target="_blank">NASA Wants to Put Nuclear Reactors on the Moon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 18:55</span>
             </div>
         </div>
 <div class="story">
@@ -117,47 +156,20 @@
                 <span class="time">2026-04-15 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/912638/google-gemini-mac-app" target="_blank">Google launches a Gemini AI app on Mac</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/master/pass/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg" alt="AI Could Democratize One of Tech&#x27;s Most Valuable Resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank">AI Could Democratize One of Tech&#x27;s Most Valuable Resources</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/netgear-routers-500x500-1776273453.jpg" alt="FCC exempts Netgear from ban on foreign routers, doesn&#x27;t explain why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/" target="_blank">FCC exempts Netgear from ban on foreign routers, doesn&#x27;t explain why</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-15 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/" target="_blank">This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028" target="_blank">How to Compress SVG Files: Tools, Techniques, Config</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/zorin-os-18.1-release.webp?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18.1 released, new Lite edition available" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/zorin-os-18-1-released" target="_blank">Zorin OS 18.1 released, new Lite edition available</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-15 17:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/" target="_blank">Build a personal organization command center with GitHub Copilot CLI</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-04-15 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/turboquant-compression-kv-cache/en/headerimage/generatedHeaderImage-1776265077411.jpg" alt="Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-15 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926815&w=600" alt="Microsoft Fabric AI Functions: A Practical Overview for Data Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/microsoft-fabric-ai-functions-practical-overview-data-engineers" target="_blank">Microsoft Fabric AI Functions: A Practical Overview for Data Engineers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-15 16:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP99FN1B05FECD7HD7PD3G71/hero-image.jpg" alt="Google Is Finally Taking a Stand Against &#x27;Back Button Hijacking&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-is-taking-a-stand-against-back-button-hijacking?utm_medium=RSS" target="_blank">Google Is Finally Taking a Stand Against &#x27;Back Button Hijacking&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/GTAonline6-1280x720.jpg" alt="GTA Online’s Incredible Success Leaves GTA 6 With An Impossible Task" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-onlines-incredible-success-leaves-gta-6-with-an-impossible-task-2000687888" target="_blank">GTA Online’s Incredible Success Leaves GTA 6 With An Impossible Task</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-15 19:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-world-economic-forum-1280x853.jpg" alt="Elon Musk Scores a Victory Against Free Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/us-renewable-power-generation-beats-natural-gas-for-the-first-time-defying-trump-2000746918" target="_blank">US Renewable Power Generation Beats Natural Gas for the First Time, Defying Trump</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-15 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP92JPKGY56DJ9MK23WR44AG/hero-image.jpg" alt="Why Everyone Is Suddenly Into ‘Combat Training&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-everyone-is-trying-combat-training?utm_medium=RSS" target="_blank">Why Everyone Is Suddenly Into ‘Combat Training&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/hidden-depths-1280x720.jpg" alt="The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blue-prince-fez-outer-wilds-animal-well-tunic-bundle-steam-2000687887" target="_blank">The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-15 17:15</span>
             </div>
         </div>
 </div>
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 20:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
