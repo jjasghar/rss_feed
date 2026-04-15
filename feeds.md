@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 13:29:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 14:30:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d40e/live/a9433d10-38b8-11f1-9d5c-8ba507d7dbde.jpg" alt="Israel and Hezbollah continue attacks after Israel-Lebanon talks in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah continue attacks after Israel-Lebanon talks in US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-15 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court" target="_blank">Ant smuggler sentenced to a year in jail by Kenyan court</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-15 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran threatens Red Sea transits if US blockade continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Tehran threatens Red Sea transits if US blockade continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-15 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war &#x27;very close to over&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,38 +102,29 @@
                 <span class="time">2026-04-15 11:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776252381747_tdy_news_7a_engel_iran_trump_260415_S3_1920x1080-6o7gwp.jpg" alt="Trump Says Iran War is &#x27;Close to Over&#x27; as Blockade Continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-block-of-iran-ports-in-strait-of-hormuz-is-fully-implemented-261408837771" target="_blank">Trump Says Iran War is &#x27;Close to Over&#x27; as Blockade Continues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-15 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59c/live/f375bcf0-38bd-11f1-8606-05fe34b06e1b.png" alt="More than 200 Iranian sailors stranded after US torpedo attack return home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss" target="_blank">More than 200 Iranian sailors stranded after US torpedo attack return home</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-15 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss" target="_blank">Iran citizen held in France over pro-Palestine comments returns home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 09:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/" target="_blank">After sale of its shoe business, Allbirds pivots to AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus" target="_blank">The perfect successor to Lost has been hiding from me for years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-500x500.jpg" alt="It&#x27;s Tax Day, and no one knows how to file for prediction market winnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +161,20 @@
                 <span class="time">2026-04-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d7ff7bb95420b1da80e5a6/master/pass/science_space_cave_getty.jpg" alt="The Caves That Could Help Us Find, or Become, Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/" target="_blank">The Caves That Could Help Us Find, or Become, Aliens</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/omkar_speaks/my-notes-makemore-character-level-language-model-b42" target="_blank">My Notes: Makemore - Character Level Language Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 14:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21k9vw1y0r04iygtcgbc.png" alt="Advanced Techniques for Hybrid Cloud Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/open-source-dependencies/en/mediumimage/celine-pypaert-medium-1775047335370.jpeg" alt="Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/open-source-dependencies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-15 12:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/mahdi_benrhouma_fe1c6005/fix-supabase-auth-session-not-persisting-after-refresh-354f" target="_blank">Fix Supabase Auth Session Not Persisting After Refresh</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 10:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-exFAT" target="_blank">exFAT For Linux 7.1 Helps Reduce File Fragmentation, Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-15 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://prog21.dadgum.com/30.html" target="_blank">Want to Write a Compiler? Just Read These Two Papers (2008)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-15 09:41</span>
             </div>
         </div>
 </div>
@@ -251,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-1739395288-e1775661899240-1280x817.jpg" alt="Some Locals Are Using AI to Protest Against Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/some-locals-are-using-ai-to-protest-against-data-centers-2000744027" target="_blank">Some Locals Are Using AI to Protest Against Data Centers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNT2KJFH1J15QP683TBJ5CER/hero-image.png" alt="What People Are Getting Wrong This Week: Was the Artemis II Mission Fake?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-artemis-ii-mission-fake?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Was the Artemis II Mission Fake?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KP7STS42VP0SYP9TEEDCXX8M/hero-image.png" alt="This Roborock Vacuum/Mop Combo Is 38% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -284,24 +309,6 @@
                 <span class="title"><a href="https://kotaku.com/telltale-star-trek-game-delisted-steam-epic-resurgence-2000687802" target="_blank">Telltale-Like Star Trek Game Is Getting Pulled From Sale Forever</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-15 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Chalamet-1280x853.jpg" alt="‘Dune: Part Three’ Begins Like a Sci-Fi ‘Saving Private Ryan’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dune-part-three-cinemacon-footage-description-trailer-2000746648" target="_blank">‘Dune: Part Three’ Begins Like a Sci-Fi ‘Saving Private Ryan’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/shutterstock_2685684165-1280x853.jpg" alt="First Statewide Data Center Ban Passed by Maine Legislature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/first-statewide-data-center-ban-passed-by-maine-legislature-2000746599" target="_blank">First Statewide Data Center Ban Passed by Maine Legislature</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 03:18</span>
             </div>
         </div>
 </div>
@@ -351,7 +358,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:29 UTC
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
