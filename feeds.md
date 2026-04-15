@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 05:39:59 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-15 06:31:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 05:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 06:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss" target="_blank">Candidate calls for new election in Peru, claiming fraud without evidence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-15 05:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d071/live/bf2ed390-388c-11f1-9d5c-8ba507d7dbde.jpg" alt="Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss" target="_blank">Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-15 04:58</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/doj-moves-vacate-convictions-proud-boys-oath-keepers/story?id=132042992" target="_blank">DOJ moves to vacate convictions of Proud Boys, Oath Keepers from Jan. 6</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-14 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776209978604_nn_ggu_iran_hormuz_tensions_260414_S3_1920x1080-08pixx.jpg" alt="Trump signals new talks with Iran to start soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-signals-new-talks-with-iran-to-start-soon-261367877560" target="_blank">Trump signals new talks with Iran to start soon</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-14 23:02</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://iczelia.net/posts/e16-20-year-old-bug/" target="_blank">Fixing a 20-year-old bug in Enlightenment E16</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-15 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/m_saad_ahmad/day-72-of-100-days-of-code-static-files-media-files-and-environment-variables-in-django-14bk" target="_blank">Day 72 of 100 Days Of Code — Static Files, Media Files, and Environment Variables in Django</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-2i3n" target="_blank">Concurrent Video Processing with Go Goroutines</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-14 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-VFS-Kino-32-bit" target="_blank">Patches For Linux 7.1 May Have Negative Impact On 32-bit Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 20:21</span>
             </div>
         </div>
 </div>
@@ -341,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:40 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 06:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
