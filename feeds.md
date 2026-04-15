@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 16:19:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 17:21:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 16:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 17:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss" target="_blank">Israel’s High Court hears petitions to oust Ben-Gvir</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7816/live/5aa8b710-38d2-11f1-8606-05fe34b06e1b.jpg" alt="Mahmood promises action against &#x27;sham lawyers&#x27; abusing asylum system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj944dgwvm8o?at_medium=RSS&at_campaign=rss" target="_blank">Mahmood promises action against &#x27;sham lawyers&#x27; abusing asylum system</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-15 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/15/nx-s1-5786459/npr-kevin-klose-died-kroc-gift" target="_blank">Visionary NPR leader Kevin Klose, who led network to new heights, has died</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-15 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss" target="_blank">Trump escalates threats to fire US Federal Reserve Chair Powell</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-15 15:44</span>
@@ -53,7 +86,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar" target="_blank">Suspicion surrounds death of US influencer traveling with her boyfriend in Zanzibar</a></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar" target="_blank">Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-15 15:14</span>
             </div>
@@ -61,37 +94,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/15/barcelonas-lamine-yamal-vows-to-win-champions-league-after-atletico-defeat?traffic_source=rss" target="_blank">Barcelona’s Lamine Yamal vows to win Champions League after Atletico defeat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d40e/live/a9433d10-38b8-11f1-9d5c-8ba507d7dbde.jpg" alt="Israel and Hezbollah continue attacks after Israel-Lebanon talks in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Hezbollah continue attacks after Israel-Lebanon talks in US</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-15 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court" target="_blank">Ant smuggler sentenced to a year in jail by Kenyan court</a></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar" target="_blank">Suspicion surrounds death of US influencer traveling with her boyfriend in Zanzibar</a></span>
                 <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-15 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran threatens Red Sea transits if US blockade continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Tehran threatens Red Sea transits if US blockade continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-15 13:45</span>
+                <span class="time">2026-04-15 15:14</span>
             </div>
         </div>
 </div>
@@ -159,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b70" target="_blank">Intel Arc Pro B70 Open-Source Linux Performance Against NVIDIA RTX &amp; AMD Radeon AI PRO</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/" target="_blank">Build a personal organization command center with GitHub Copilot CLI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/turboquant-compression-kv-cache/en/headerimage/generatedHeaderImage-1776265077411.jpg" alt="Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s TurboQuant Compression May Support Faster Inference, Same Accuracy on Less Capable Hardware</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-15 16:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926815&w=600" alt="Microsoft Fabric AI Functions: A Practical Overview for Data Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -183,33 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/runtime-finops-making-cloud-cost-observable" target="_blank">Runtime FinOps: Making Cloud Cost Observable</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/" target="_blank">Developer policy update: Intermediary liability, copyright, and transparency</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/omkar_speaks/my-notes-makemore-character-level-language-model-b42" target="_blank">My Notes: Makemore - Character Level Language Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/" target="_blank">Human input needed: take our survey on AI agents</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-15 14:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/hidden-depths-1280x720.jpg" alt="The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/blue-prince-fez-outer-wilds-animal-well-tunic-bundle-steam-2000687887" target="_blank">The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-15 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get the classic Microsoft applications for life, for just $33" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +300,20 @@
                 <span class="time">2026-04-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1280x851.jpg" alt="Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-are-using-lightning-in-a-bottle-to-turn-methane-into-methanol-2000746416" target="_blank">Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776204679-20260415.png" alt="Saturday Morning Breakfast Cereal - Infinite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/infinite-2" target="_blank">Saturday Morning Breakfast Cereal - Infinite</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-15 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -322,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 17:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
