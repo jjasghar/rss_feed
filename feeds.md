@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 02:59:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 04:06:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +110,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/" target="_blank">Anthropic’s rise is giving some OpenAI investors second thoughts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 02:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer" target="_blank">Godzilla Minus Zero stomps through New York in first teaser trailer</a></span>
                 <span class="feed">The Verge</span>
@@ -150,20 +161,20 @@
                 <span class="time">2026-04-14 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d9286567ec9ebaea2e2438/master/pass/Show-Guide-Update-Gear-TCDSTWA_G5083.jpg" alt="The 10 Best TV Shows to Stream This Month (April 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-shows-to-stream-right-now/" target="_blank">The 10 Best TV Shows to Stream This Month (April 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m_saad_ahmad/day-72-of-100-days-of-code-static-files-media-files-and-environment-variables-in-django-14bk" target="_blank">Day 72 of 100 Days Of Code — Static Files, Media Files, and Environment Variables in Django</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 03:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +220,20 @@
                 <span class="time">2026-04-14 20:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-VFS-Kino-32-bit" target="_blank">LLM-Assisted Patches For Linux 7.1 May Have Negative Impact On 32-bit Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-14 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/" target="_blank">Patch Tuesday, April 2026 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-04-14 21:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -306,6 +317,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5808.png" alt="Pet Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5808" target="_blank">Pet Name</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-15 01:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -328,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
