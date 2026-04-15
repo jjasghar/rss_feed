@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 18:20:08 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-04-15 19:27:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 18:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/live-nation-gty-jef-260410_1775835841334_hpMain_4x3t_384.jpg" alt="Live Nation illegally monopolized the market for tickets, jury finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-nation-illegally-monopolized-market-tickets-jury-finds/story?id=131919079" target="_blank">Live Nation illegally monopolized the market for tickets, jury finds</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-15 19:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +94,29 @@
                 <span class="time">2026-04-15 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar" target="_blank">Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-15 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict" target="_blank">Ticketmaster is an illegal monopoly, jury rules</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/" target="_blank">Hightouch reaches $100M ARR fueled by marketing tools powered by AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 18:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +153,29 @@
                 <span class="time">2026-04-15 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/912484/allbirds-ai-hyperscale" target="_blank">Allbirds announced a switch from shoes to AI and its stock jumped 600 percent</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69debc4d4d898774bc720bdd/master/pass/GettyImages-2249152852.jpg" alt="The US Government Will Ask Data Centers How Much Power They Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/" target="_blank">The US Government Will Ask Data Centers How Much Power They Use</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/atomsrkuul/i-built-a-compression-algorithm-that-beats-gzip-i-have-an-a-cert-53e6" target="_blank">I Built a Compression Algorithm That Beats Gzip. I Have an A+ Cert.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934737&w=600" alt="How to Reliably Implement Post-Commit Actions in Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-implement-post-commit-actions-in-spring" target="_blank">How to Reliably Implement Post-Commit Actions in Spring</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +212,6 @@
                 <span class="time">2026-04-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hema_nambi_66c9/first-post-on-dev-a-quick-hello-19eh" target="_blank">First Post on DEV — A Quick Hello</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933357&w=600" alt="Runtime FinOps: Making Cloud Cost Observable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/runtime-finops-making-cloud-cost-observable" target="_blank">Runtime FinOps: Making Cloud Cost Observable</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/03/elon-musk-world-economic-forum-1280x853.jpg" alt="Elon Musk Scores a Victory Against Free Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-scores-a-victory-against-free-speech-2000746959" target="_blank">Elon Musk Scores a Victory Against Free Speech</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP8YXHBS8224YDPD70K18Y82/hero-image.jpg" alt="Spotify Just Partnered With One of Amazon&#x27;s Best Bookselling Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-buy-books-from-spotify?utm_medium=RSS" target="_blank">Spotify Just Partnered With One of Amazon&#x27;s Best Bookselling Rivals</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/yoshi.jpg?fit=1200%2C764&amp;quality=60&amp;ssl=1" alt="Yoshi popcorn buckets are being repurposed in the funniest ways imaginable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/blue-prince-fez-outer-wilds-animal-well-tunic-bundle-steam-2000687887" target="_blank">The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-15 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Get the classic Microsoft applications for life, for just $33" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/15/get-the-classic-microsoft-applications-for-life-for-just-33.html" target="_blank">Get the classic Microsoft applications for life, for just $33</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-1739395288-e1775661899240-1280x817.jpg" alt="Some Locals Are Using AI to Protest Against Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/some-locals-are-using-ai-to-protest-against-data-centers-2000744027" target="_blank">Some Locals Are Using AI to Protest Against Data Centers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 14:10</span>
             </div>
         </div>
 </div>
@@ -337,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
