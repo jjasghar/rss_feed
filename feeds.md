@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 22:12:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 23:13:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 23:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss" target="_blank">Israel bombs homes in southern Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 22:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,6 +90,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-ht-gmh-260415_1776263854767_hpMain_4x3t_384.jpg" alt="Iran live updates: Sanctioned ships cross the Strait of Hormuz toward Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Sanctioned ships cross the Strait of Hormuz toward Tehran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-15 20:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,29 +107,38 @@
                 <span class="time">2026-04-15 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/live-nation-gty-jef-260410_1775835841334_hpMain_4x3t_384.jpg" alt="Live Nation illegally monopolized the market for tickets, jury finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Culture/live-nation-illegally-monopolized-market-tickets-jury-finds/story?id=131919079" target="_blank">Live Nation illegally monopolized the market for tickets, jury finds</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-15 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/countries-pledge-1-5bn-for-sudan-crisis-as-war-enters-fourth-year?traffic_source=rss" target="_blank">Countries pledge $1.5bn for Sudan crisis as war enters fourth year</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions" target="_blank">Microsoft counters the MacBook Neo with freebies for students</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/" target="_blank">Amazon-backed X-energy files to raise up to $800M in IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-500x500.jpg" alt="Florida surgeon charged with killing man after removing liver instead of spleen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/" target="_blank">Florida surgeon charged with killing man after removing liver instead of spleen</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-15 22:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +164,6 @@
                 <span class="title"><a href="https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software" target="_blank">Ford’s EV and software chief Doug Field is leaving the company</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-15 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg" alt="Google releases new apps for Windows and MacOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" target="_blank">Google releases new apps for Windows and MacOS</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-15 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/" target="_blank">OpenAI updates its Agents SDK to help enterprises build safer, more capable agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict" target="_blank">Ticketmaster is an illegal monopoly, jury rules</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 19:09</span>
             </div>
         </div>
 </div>
@@ -187,6 +192,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chatgpt.com/apps/spreadsheets/" target="_blank">ChatGPT for Excel</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-15 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18985197&w=600" alt="Code Security Remediation: What 50,000 Repositories Reveal About PR Scanning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/pr-scanning-50k-repositories" target="_blank">Code Security Remediation: What 50,000 Repositories Reveal About PR Scanning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-15 21:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028" target="_blank">How to Compress SVG Files: Tools, Techniques, Config</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +223,6 @@
                 <span class="title"><a href="https://dzone.com/articles/when-kubernetes-breaks-session-consistency-using-c-1" target="_blank">When Kubernetes Breaks Session Consistency: Using Cosmos DB and Redis Together</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/atomsrkuul/i-built-a-compression-algorithm-that-beats-gzip-i-have-an-a-cert-53e6" target="_blank">I Built a Compression Algorithm That Beats Gzip. I Have an A+ Cert.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934737&w=600" alt="How to Reliably Implement Post-Commit Actions in Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-implement-post-commit-actions-in-spring" target="_blank">How to Reliably Implement Post-Commit Actions in Spring</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-15 19:00</span>
             </div>
         </div>
 </div>
@@ -240,12 +245,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/mike-johnson-e1768323420532.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="MAGA Mike fact-checks the Pope on Jesus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/15/maga-mike-fact-checks-the-pope-on-jesus.html" target="_blank">MAGA Mike fact-checks the Pope on Jesus</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-15 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/02/clayface-hed-1280x853.jpg" alt="The First ‘Clayface’ Footage Was Wonderfully Disgusting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-first-clayface-footage-was-wonderfully-disgusting-2000747042" target="_blank">The First ‘Clayface’ Footage Was Wonderfully Disgusting</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/fortnite-1280x710.jpg" alt="Players Use Epic For Free Games But Then Just Go Back To Steam, Former Employees Claim" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/epic-free-games-store-steam-tim-sweeney-2000687958" target="_blank">Players Use Epic For Free Games But Then Just Go Back To Steam, Former Employees Claim</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-15 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-is-taking-a-stand-against-back-button-hijacking?utm_medium=RSS" target="_blank">Google Is Finally Taking a Stand Against &#x27;Back Button Hijacking&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/GTAonline6-1280x720.jpg" alt="GTA Online’s Incredible Success Leaves GTA 6 With An Impossible Task" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-onlines-incredible-success-leaves-gta-6-with-an-impossible-task-2000687888" target="_blank">GTA Online’s Incredible Success Leaves GTA 6 With An Impossible Task</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-15 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/monument.jpg?fit=1200%2C725&amp;quality=60&amp;ssl=1" alt="Someone already pitched Bezos&#x27; 10,000-year clock — in 1903" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/15/someone-already-pitched-bezos-10000-year-clock-in-1903.html" target="_blank">Someone already pitched Bezos&#x27; 10,000-year clock — in 1903</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-15 19:30</span>
             </div>
         </div>
 </div>
@@ -348,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
