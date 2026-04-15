@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 15:23:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 16:19:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 15:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss" target="_blank">Trump escalates threats to fire US Federal Reserve Chair Powell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 15:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +94,29 @@
                 <span class="time">2026-04-15 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/016f/live/b2adb2c0-38b5-11f1-90eb-854a36c38eaa.jpg" alt="Starmer says he&#x27;s &#x27;not going to yield&#x27; to pressure from Trump on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says he&#x27;s &#x27;not going to yield&#x27; to pressure from Trump on Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-15 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/912484/allbirds-ai-hyperscale" target="_blank">Allbirds announced a switch from shoes to AI and its stock jumped 600 percent</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 16:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69debc4d4d898774bc720bdd/master/pass/GettyImages-2249152852.jpg" alt="The US Government Will Ask Data Centers How Much Power They Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/" target="_blank">The US Government Will Ask Data Centers How Much Power They Use</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +153,20 @@
                 <span class="time">2026-04-15 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png" alt="12 Best Standing Desks of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-standing-desks/" target="_blank">12 Best Standing Desks of 2026, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch" target="_blank">The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18926815&w=600" alt="Microsoft Fabric AI Functions: A Practical Overview for Data Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microsoft-fabric-ai-functions-practical-overview-data-engineers" target="_blank">Microsoft Fabric AI Functions: A Practical Overview for Data Engineers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,21 +204,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F21k9vw1y0r04iygtcgbc.png" alt="Advanced Techniques for Hybrid Cloud Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eriklundstrom/advanced-techniques-for-hybrid-cloud-integration-4hed" target="_blank">Advanced Techniques for Hybrid Cloud Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-15 13:23</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/" target="_blank">Why AI hasn&#x27;t replaced human expertise—and what that means for your SaaS stack</a></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/" target="_blank">Human input needed: take our survey on AI agents</a></span>
                 <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-15 13:00</span>
+                <span class="time">2026-04-15 14:00</span>
             </div>
         </div>
 </div>
@@ -243,15 +233,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/" target="_blank">Patch Tuesday, April 2026 Edition</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-04-14 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-14 16:01</span>
             </div>
         </div>
 </div>
@@ -336,22 +317,13 @@
                 <span class="time">2026-04-15 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/the-masked-mouse/" target="_blank">The Masked Mouse</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-04-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
