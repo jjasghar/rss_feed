@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 06:31:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 07:29:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 06:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +54,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss" target="_blank">Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117473/justice-department-toss-seditious-conspiracy" target="_blank">Justice Department moves to toss conspiracy convictions for Jan. 6 rioters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-15 06:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss" target="_blank">Candidate calls for new election in Peru, claiming fraud without evidence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-15 05:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation" target="_blank">Justice denied: why families of apartheid victims are still searching for answers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-15 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +104,20 @@
                 <span class="time">2026-04-15 01:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss" target="_blank">Haiti’s Culture Ministry fires workers over citadel stampede that killed 25</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss" target="_blank">Iran war live: Trump hints at talks; US blockade in Hormuz enters 2nd day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pb_1776206746900_hpMain_4x3t_384.jpg" alt="DOJ moves to vacate convictions of Proud Boys, Oath Keepers from Jan. 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/doj-moves-vacate-convictions-proud-boys-oath-keepers/story?id=132042992" target="_blank">DOJ moves to vacate convictions of Proud Boys, Oath Keepers from Jan. 6</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-14 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: Save Up to 50% on Gaming Gear in April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,20 @@
                 <span class="time">2026-04-14 22:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/" target="_blank">AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-14 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/steipete/wacli" target="_blank">Peter Steinberger – WhatsApp CLI: sync, search, send</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-15 07:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.2.2" target="_blank">AMD ROCm 7.2.2 Brings Optimization Guide For Ryzen AI / RDNA 3.5 Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-14 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-2i3n" target="_blank">Concurrent Video Processing with Go Goroutines</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 22:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
