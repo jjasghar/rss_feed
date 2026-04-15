@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 17:21:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-15 18:20:08 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 17:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/countries-pledge-1-5bn-for-sudan-crisis-as-war-enters-fourth-year?traffic_source=rss" target="_blank">Countries pledge $1.5bn for Sudan crisis as war enters fourth year</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,47 @@
                 <span class="time">2026-04-15 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar" target="_blank">Suspicion surrounds death of US influencer traveling with her boyfriend in Zanzibar</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-15 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/912638/google-gemini-mac-app" target="_blank">Google launches a Gemini AI app on Mac</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/master/pass/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg" alt="AI Could Democratize One of Tech&#x27;s Most Valuable Resources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank">AI Could Democratize One of Tech&#x27;s Most Valuable Resources</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/netgear-routers-500x500-1776273453.jpg" alt="FCC exempts Netgear from ban on foreign routers, doesn&#x27;t explain why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/" target="_blank">FCC exempts Netgear from ban on foreign routers, doesn&#x27;t explain why</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-15 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/" target="_blank">This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-15 17:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,42 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/" target="_blank">The US Government Will Ask Data Centers How Much Power They Use</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/" target="_blank">After sale of its shoe business, Allbirds pivots to AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus" target="_blank">The perfect successor to Lost has been hiding from me for years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-tax-form-500x500.jpg" alt="It&#x27;s Tax Day, and no one knows how to file for prediction market winnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/its-tax-day-and-no-one-knows-how-to-file-for-prediction-market-winnings/" target="_blank">It&#x27;s Tax Day, and no one knows how to file for prediction market winnings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-15 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/" target="_blank">Reid Hoffman weighs in on the ‘tokenmaxxing’ debate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 13:06</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/yoshi.jpg?fit=1200%2C764&amp;quality=60&amp;ssl=1" alt="Yoshi popcorn buckets are being repurposed in the funniest ways imaginable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/15/yoshi-popcorn-buckets-are-being-repurposed-in-the-funniest-ways-imaginable.html" target="_blank">Yoshi popcorn buckets are being repurposed in the funniest ways imaginable</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-15 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/12/CVOW-1280x853.jpg" alt="US Renewable Power Generation Beats Natural Gas for the First Time, Defying Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/us-renewable-power-generation-beats-natural-gas-for-the-first-time-defying-trump-2000746918" target="_blank">US Renewable Power Generation Beats Natural Gas for the First Time, Defying Trump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP92JPKGY56DJ9MK23WR44AG/hero-image.jpg" alt="Why Everyone Is Suddenly Into ‘Combat Training&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-everyone-is-trying-combat-training?utm_medium=RSS" target="_blank">Why Everyone Is Suddenly Into ‘Combat Training&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/hidden-depths-1280x720.jpg" alt="The Blue Prince Devs Want You To Try These Other Great Games, But Won’t Tell You Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,33 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/some-locals-are-using-ai-to-protest-against-data-centers-2000744027" target="_blank">Some Locals Are Using AI to Protest Against Data Centers</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-15 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HJQDA8RC8EK7DHTFQPX50/hero-image.jpg" alt="Should You Supplement With Creatine?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/should-you-supplement-creatine?utm_medium=RSS" target="_blank">Should You Supplement With Creatine?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNT2KJFH1J15QP683TBJ5CER/hero-image.png" alt="What People Are Getting Wrong This Week: Was the Artemis II Mission Fake?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-artemis-ii-mission-fake?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Was the Artemis II Mission Fake?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KP7STS42VP0SYP9TEEDCXX8M/hero-image.png" alt="This Roborock Vacuum/Mop Combo Is 38% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/qrevo-qv-35a-vacuum-mop-sale-april-2026?utm_medium=RSS" target="_blank">This Roborock Vacuum/Mop Combo Is 38% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 13:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
