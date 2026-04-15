@@ -1,26 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 11:19:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-15 12:14:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 11:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war &#x27;very close to over&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Trump says war &#x27;very close to over&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-15 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass?traffic_source=rss" target="_blank">Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59c/live/f375bcf0-38bd-11f1-8606-05fe34b06e1b.png" alt="More than 200 Iranian sailors stranded after US torpedo attack return home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss" target="_blank">More than 200 Iranian sailors stranded after US torpedo attack return home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-15 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,38 +102,29 @@
                 <span class="time">2026-04-15 09:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss" target="_blank">Families across Sudan endure years of displacement, hunger, loss</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss" target="_blank">Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117473/justice-department-toss-seditious-conspiracy" target="_blank">Justice Department moves to toss conspiracy convictions for Jan. 6 rioters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-15 06:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f10e6472f227b69cc9560/master/pass/The%20Best%20Standing%20Desks.png" alt="12 Best Standing Desks of 2026, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-standing-desks/" target="_blank">12 Best Standing Desks of 2026, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-15 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch" target="_blank">The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69d7ff7bb95420b1da80e5a6/master/pass/science_space_cave_getty.jpg" alt="The Caves That Could Help Us Find, or Become, Aliens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,29 +161,20 @@
                 <span class="time">2026-04-14 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cd64e418a74289dad2a58d/master/pass/hp-omnibook-5-14.JPG" alt="The Surprising MacBook Neo Competitor You’ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hp-omnibook-5-deal-0426-1/" target="_blank">The Surprising MacBook Neo Competitor You’ve Never Heard Of</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69cd64e418a74289dad2a58d/master/pass/hp-omnibook-5-14.JPG" alt="The Surprising MacBook Neo Competitor You&#x27;ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hp-omnibook-5-deal-0426-1/" target="_blank">The Surprising MacBook Neo Competitor You&#x27;ve Never Heard Of</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-14 23:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ssshreyans26/linux-memory-explained-swap-kernel-slab-and-skbuff-what-kubernetes-doesnt-show-you-i1a" target="_blank">Linux Memory Explained: Swap, Kernel Slab, and skbuff — What Kubernetes Doesn&#x27;t Show You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +220,6 @@
                 <span class="time">2026-04-15 09:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/lambda-extension-deferred-flush/en/headerimage/lambda-extension-deferred-flush-header-1775648097720.jpg" alt="Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/lambda-extension-deferred-flush/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +258,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1280x851.jpg" alt="Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-are-using-lightning-in-a-bottle-to-turn-methane-into-methanol-2000746416" target="_blank">Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP3FY44WZXBWZMT07H1ZP6WX/hero-image.png" alt="I Used This Wall Edger to Paint My Stairs, and I&#x27;m Never Going Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-wall-edger-for-painting-stairs?utm_medium=RSS" target="_blank">I Used This Wall Edger to Paint My Stairs, and I&#x27;m Never Going Back</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/sad-spock-1280x720.jpg" alt="Telltale-Like Star Trek Game Is Getting Pulled From Sale Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/telltale-star-trek-game-delisted-steam-epic-resurgence-2000687802" target="_blank">Telltale-Like Star Trek Game Is Getting Pulled From Sale Forever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-15 11:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/03/Dune-Part-Three-Chalamet-1280x853.jpg" alt="‘Dune: Part Three’ Begins Like a Sci-Fi ‘Saving Private Ryan’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,33 +309,6 @@
                 <span class="title"><a href="https://gizmodo.com/fcc-exempts-netgear-from-foreign-made-router-ban-for-some-reason-2000746580" target="_blank">FCC Exempts Netgear from Foreign-Made Router Ban for Some Reason</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-15 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6FYVEMANX9P15WBZTTCNK4J/hero-image.jpg" alt="A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/babbel-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">A Lifetime Subscription to Babbel Is on Sale at a Huge Discount Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-15 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Screenshot-2025-03-27-122428.png?fit=1919%2C892&amp;quality=55&amp;ssl=1" alt="Nintendo spent almost a decade fine-tuning fart noises for Tomodachi Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/14/nintendo-spent-almost-a-decade-fine-tuning-fart-noises-for-tomodachi-life.html" target="_blank">Nintendo spent almost a decade fine-tuning fart noises for Tomodachi Life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-15 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KKXQD8PAHJH04C0Q1115ZZGP/hero-image.png" alt="These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-tune-buds-2-earbuds-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">These Wireless, Noise-Canceling JBL Earbuds Are on Sale for Just $40 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-14 22:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 11:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
