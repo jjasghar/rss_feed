@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-15 08:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-15 09:28:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, April 15, 2026 - 08:29 UTC</div>
+    <div class="newspaper-date">Wednesday, April 15, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/15/g-s1-117486/pope-heads-to-cameroon" target="_blank">Pope heads to Cameroon as separatists announce 3-day pause in fighting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-15 09:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea?traffic_source=rss" target="_blank">North Korea boosting ability to manufacture nuclear arms, IAEA chief warns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-15 09:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss" target="_blank">Candidate calls for new election in Peru, claiming fraud without evidence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-15 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation" target="_blank">Justice denied: why families of apartheid victims are still searching for answers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d071/live/bf2ed390-388c-11f1-9d5c-8ba507d7dbde.jpg" alt="Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss" target="_blank">Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-15 04:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stephanie_makori_845bb2c0/deploying-a-static-website-on-aws-s3-with-terraform-a-beginners-guide-koi" target="_blank">Deploying a Static Website on AWS S3 with Terraform: A Beginner’s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-15 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/lambda-extension-deferred-flush/en/headerimage/lambda-extension-deferred-flush-header-1775648097720.jpg" alt="Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/lambda-extension-deferred-flush/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Using AWS Lambda Extensions to Run Post-Response Telemetry Flush</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-15 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/godofgeeks/bloom-filters-and-their-applications-2mkg" target="_blank">Bloom Filters and their Applications</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 08:20</span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/m_saad_ahmad/day-72-of-100-days-of-code-static-files-media-files-and-environment-variables-in-django-14bk" target="_blank">Day 72 of 100 Days Of Code — Static Files, Media Files, and Environment Variables in Django</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486" target="_blank">Linus Torvalds Merged The Code Beginning To Remove Intel 486 CPU Support In Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-15 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390" target="_blank">How to Deploy Spring Boot Apps on Fly.io</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-14 23:03</span>
             </div>
         </div>
 </div>
@@ -356,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
