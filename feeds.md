@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 04:09:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 05:42:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 05:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice" target="_blank">French government seeking release of 86-year-old French widow detained by ICE</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 05:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc15/live/6468de20-38e0-11f1-8606-05fe34b06e1b.jpg" alt="Migrants making false domestic abuse claims to stay in UK, BBC investigation finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss" target="_blank">Migrants making false domestic abuse claims to stay in UK, BBC investigation finds</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-16 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-plans-250-foot-triumphal-arch-to-mark-250-years-of-us-independence?traffic_source=rss" target="_blank">Trump plans 250-foot ‘Triumphal Arch’ to mark 250 years of US independence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5780035/rural-hospital-colorado-medical-translators" target="_blank">A Colorado hospital profits from resolving language barriers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-16 04:01</span>
@@ -64,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-australia-fire_7221227.jpg?20260416050103" alt="Setback in Australia&#x27;s fuel crisis as fire breaks out at oil refinery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss" target="_blank">Brazil’s fugitive ex-spy chief freed in the US after ICE detention</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/lauren-bullis-ht-jt-260415_1776288210313_hpMain_4x3t_384.jpg" alt="DHS employee killed while walking her dog in Atlanta shooting spree" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/dhs-employee-killed-walking-dog-atlanta-shooting-spree/story?id=132057630" target="_blank">DHS employee killed while walking her dog in Atlanta shooting spree</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-15 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss" target="_blank">Israel bombs homes in southern Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss" target="_blank">Brazil’s police open a probe into presidential candidate Flavio Bolsonaro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-15 21:45</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/major-blaze-breaks-out-at-australian-oil-refinery-as-nations-petrol-supplies-could-be-impacted-13532352" target="_blank">Setback in Australia&#x27;s fuel crisis as fire breaks out at oil refinery</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-16 01:19</span>
             </div>
         </div>
 </div>
@@ -104,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" alt="Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/birdfy-discount-code/" target="_blank">Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2026-04-15 22:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/" target="_blank">Ford EV and tech chief leaving automaker</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-15 21:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ietf.org/archive/id/draft-thain-ipv8-00.html" target="_blank">IPv8 Proposal</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-16 05:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx9b4amdfhrfeo8z6cg5.png" alt="CSS Games: 4Connect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/SDL-Says-No-To-AI-LLMs" target="_blank">SDL Adds Policy To Forbid LLM/AI Generated Code Contributions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-15 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chatgpt.com/apps/spreadsheets/" target="_blank">ChatGPT for Excel</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-15 21:21</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
