@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 20:12:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-16 21:13:00 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 20:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination" target="_blank">Trump nominates former Coast Guard doctor as CDC chief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss" target="_blank">A ceasefire in Lebanon — will it hold?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -59,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038a/live/5bccbf70-39a8-11f1-ba5b-c578881f2eba.jpg" alt="Starmer did not know Mandelson failed vetting, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer did not know Mandelson failed vetting, government says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-16 19:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -67,38 +105,20 @@
                 <span class="time">2026-04-16 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/endless-grief-turkey-mourns-victims-of-second-school-shooting-in-a-week?traffic_source=rss" target="_blank">‘Endless grief’: Turkiye mourns victims of second school shooting in a week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/lebanon-4-gty-gmh-260416_1776354709287_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260414-lebanon-israel-mn-1535-67ab9c.jpg" alt="Trump says Israel and Lebanon have agreed a 10-day ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/trump-announces-israel-lebanon-ceasefire-hezbollah-rcna331999" target="_blank">Trump says Israel and Lebanon have agreed a 10-day ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-16 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large-500x500.jpg" alt="Artemis II astronauts say landing on the Moon is &quot;absolutely doable&quot; soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" target="_blank">Artemis II astronauts say landing on the Moon is &quot;absolutely doable&quot; soon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e12b860d58c6570f78e85b/master/pass/GettyImages-458015353.jpg" alt="Dark Matter May Be Made of Black Holes From Another Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +164,20 @@
                 <span class="time">2026-04-16 16:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/" target="_blank">Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-16 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9f7405sfueefr9nix6p.png" alt="Understanding Transformers Part 8: Shared Weights in Self-Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/understanding-transformers-part-8-shared-weights-in-self-attention-2pbe" target="_blank">Understanding Transformers Part 8: Shared Weights in Self-Attention</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +223,6 @@
                 <span class="time">2026-04-16 18:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/aws-s3-files/en/headerimage/generatedHeaderImage-1776284137747.jpg" alt="AWS Introduces S3 Files, Bringing File System Access to S3 Buckets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/aws-s3-files/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces S3 Files, Bringing File System Access to S3 Buckets</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-16 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,11 +243,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2270914397-1280x853.jpg" alt="White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/white-house-is-reportedly-ready-to-drop-its-anthropic-beef-and-embrace-the-spooky-new-model-2000747561" target="_blank">White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 21:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-galaxys-edge-leia-1280x853.jpg" alt="Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/disneyland-star-wars-galaxys-edge-leia-reveal-2000747572" target="_blank">Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K9APC76JDS09CYXTM2THHP08/hero-image.png" alt="This 55-inch Samsung OLED TV Is $600 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/65-inch-samsung-s95f-oled-tv-sale?utm_medium=RSS" target="_blank">This 55-inch Samsung OLED TV Is $600 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-16 20:00</span>
             </div>
         </div>
@@ -267,24 +296,6 @@
                 <span class="time">2026-04-16 18:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/VueBuds_007.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="These earbuds can read the label on your snack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/16/these-earbuds-can-read-the-label-on-your-snack.html" target="_blank">These earbuds can read the label on your snack</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-16 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/2025-surfacepro-surfacelaptop-1280x853.jpg" alt="The Next Surface PCs May Not Be the Big Upgrades You Hoped for" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/next-surface-pcs-may-not-be-the-big-upgrades-you-hoped-for-2000747499" target="_blank">The Next Surface PCs May Not Be the Big Upgrades You Hoped for</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
