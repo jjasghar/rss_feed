@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 14:32:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 15:29:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 14:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 15:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,57 +51,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss" target="_blank">Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer" target="_blank">NPR receives $113 million in charitable gifts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg" alt="Pope criticises &#x27;tyrants&#x27; who spend billions on wars after Trump spat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss" target="_blank">Pope criticises &#x27;tyrants&#x27; who spend billions on wars after Trump spat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-16 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776347860791_now_brk_hegseth_locked_260416_S3_1920x1080-mdkzv0.jpg" alt="Hegseth says U.S. is &#x27;locked and loaded&#x27; if Iran talks fail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-says-u-s-is-locked-and-loaded-if-iran-talks-fail-261493317857" target="_blank">Hegseth says U.S. is &#x27;locked and loaded&#x27; if Iran talks fail</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-16 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hegseth-4-rt-gmh-260416_1776342403086_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran &#x27;digging out&#x27; bombed weapons facilities, Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran &#x27;digging out&#x27; bombed weapons facilities, Hegseth says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-16 13:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/b0c496a0-3995-11f1-8606-05fe34b06e1b.jpg" alt="Home Office investigating after BBC finds migrants making false claims to stay in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office investigating after BBC finds migrants making false claims to stay in UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-16 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/india-plans-more-seats-for-women-in-parliament-links-it-to-delimitation?traffic_source=rss" target="_blank">India plans more seats for women in parliament, links it to ‘delimitation’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons" target="_blank">A Polymarket trader made $300,000 betting on Biden&#x27;s pardons, a new analysis shows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/who-is-roelf-meyer-south-africas-new-ambassador-to-the-us-2?traffic_source=rss" target="_blank">Who is Roelf Meyer, South Africa’s new ambassador to the US?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/16/sent-to-be-killed-how-russia-forces-migrants-to-fight-in-ukraine?traffic_source=rss" target="_blank">‘Sent to be killed’: How Russia forces migrants to fight in Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117409/indonesia-capital-nusantara-future-faces-doubts-present" target="_blank">Indonesia&#x27;s capital of the future faces doubts in the present</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 10:02</span>
             </div>
         </div>
 </div>
@@ -110,6 +116,24 @@
                 <span class="title"><a href="https://www.theverge.com/policy/913038/age-verification-flaws" target="_blank">Age verification is a mess but we&amp;#8217;re doing it anyway</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/kidTOP-500x500-1776347629.jpg" alt="Meet the Quantum Kid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/meet-the-quantum-kid/" target="_blank">Meet the Quantum Kid</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-16 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e0da3dae2b670940bc0783/master/pass/GettyImages-2261514586.jpg" alt="Anthropic Plots Major London Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank">Anthropic Plots Major London Expansion</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 13:49</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +163,38 @@
                 <span class="time">2026-04-16 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/" target="_blank">DeepL, known for text translation, now wants to translate your voice</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-16 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" alt="Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/birdfy-discount-code/" target="_blank">Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fiorastudio/field-notes-from-a-solo-builder-shipping-the-beloved-claude-code-buddy-into-the-wild-part-i-3lpa" target="_blank">Field Notes from a Solo Builder — Shipping the Beloved Claude Code Buddy Into the Wild - Part I</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Kitten-i686-Userspace" target="_blank">AlmaLinux OS Kitten 10 Adds i686 User-Space Packages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-16 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint’s next release won’t be until Christmas 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-mint-next-release-christmas-2026" target="_blank">Linux Mint’s next release won’t be until Christmas 2026</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-16 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933492&w=600" alt="SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +222,6 @@
                 <span class="time">2026-04-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/platform-product-deliver-value/en/headerimage/platform-product-deliver-value-header-1775738211226.jpg" alt="Platform as a Product: Delivering Value While Balancing Competing Priorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/platform-product-deliver-value/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform as a Product: Delivering Value While Balancing Competing Priorities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-16 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-LASS-Linux-7.1" target="_blank">Intel LASS In Good Shape For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahdi_benrhouma_fe1c6005/build-a-full-stack-app-with-nextjs-and-supabase-in-20-minutes-25pg" target="_blank">Build a Full-Stack App with Next.js and Supabase in 20 Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 10:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-5-1280x853.jpg" alt="Meta’s Quest Price Hikes Just Put VR in a Worse Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/metas-quest-price-hikes-just-put-vr-in-a-worse-spot-2000747417" target="_blank">Meta’s Quest Price Hikes Just Put VR in a Worse Spot</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPBBNSR46K5SY3EWDTME43N8/hero-image.jpg" alt="Seven Samsung Galaxy Settings You Don’t Get on Other Android Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-settings-you-dont-get-on-other-android-phones?utm_medium=RSS" target="_blank">Seven Samsung Galaxy Settings You Don’t Get on Other Android Phones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-16 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Nicholas-Galitzine-Masters-of-the-Universe-1280x853.jpg" alt="The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +295,20 @@
                 <span class="time">2026-04-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Spaceballs-2-Dark-Helmet-1280x853.jpg" alt="We’re Obsessed With the Hilarious First Footage From ‘Spaceballs 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spaceballs-2-new-title-first-look-cinemacon-2000747217" target="_blank">We’re Obsessed With the Hilarious First Footage From ‘Spaceballs 2’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/kalshi-top-art-1280x853.jpg" alt="Kalshi Wants Your ID Whether You Gamble or Not (You Know, for Kids)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kalshi-wants-your-id-whether-you-gamble-or-not-you-know-for-kids-2000747117" target="_blank">Kalshi Wants Your ID Whether You Gamble or Not (You Know, for Kids)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776204808-20260416.png" alt="Saturday Morning Breakfast Cereal - Forbidden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/forbidden" target="_blank">Saturday Morning Breakfast Cereal - Forbidden</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5809.png" alt="Friends To Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,22 +327,13 @@
                 <span class="time">2026-04-15 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776204679-20260415.png" alt="Saturday Morning Breakfast Cereal - Infinite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/infinite-2" target="_blank">Saturday Morning Breakfast Cereal - Infinite</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
