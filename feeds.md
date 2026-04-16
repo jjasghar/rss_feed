@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 12:15:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 13:29:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 12:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/b0c496a0-3995-11f1-8606-05fe34b06e1b.jpg" alt="Home Office investigating after BBC finds migrants making false claims to stay in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office investigating after BBC finds migrants making false claims to stay in UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-16 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/india-plans-more-seats-for-women-in-parliament-links-it-to-delimitation?traffic_source=rss" target="_blank">India plans more seats for women in parliament, links it to ‘delimitation’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons" target="_blank">A Polymarket trader made $300,000 betting on Biden&#x27;s pardons, a new analysis shows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +97,20 @@
                 <span class="time">2026-04-16 10:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle" target="_blank">South African politician Julius Malema given five-year jail term for gun offence</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-16 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5783870/strait-of-hormuz-naval-blockade" target="_blank">3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/strait-main_1776328280500_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth to offer remarks on Iran amid US blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Hegseth to offer remarks on Iran amid US blockade</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e018fc2d6efe939773065f/master/pass/Congress-Turns-Up-Pressure-on-DHS-Business-2255702346.jpg" alt="Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/" target="_blank">Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-500x500.jpg" alt="The race to Shackleton Crater is on—will Jeff Bezos or China get there first?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +156,38 @@
                 <span class="time">2026-04-15 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69decbf74d898774bc720f4f/master/pass/Avatar-Leak-Ethically-Screw-Over-Paramount-Culture-2261716767.jpg" alt="‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/" target="_blank">‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-15 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.95-Released" target="_blank">Rust 1.95 Released With Several Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-16 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933454&w=600" alt="The Architecture Tax: What Nobody Tells You About Deploying LLMs in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-architecture-tax-deploying-llms" target="_blank">The Architecture Tax: What Nobody Tells You About Deploying LLMs in Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/platform-product-deliver-value/en/headerimage/platform-product-deliver-value-header-1775738211226.jpg" alt="Platform as a Product: Delivering Value While Balancing Competing Priorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/platform-product-deliver-value/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform as a Product: Delivering Value While Balancing Competing Priorities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-16 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +215,6 @@
                 <span class="time">2026-04-16 09:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flg30u92igm6zm5u10u5u.png" alt="Coding Cat Oran Ep3, Five Tables Changed Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/syslayer/coding-cat-oran-ep3-five-tables-changed-everything-1094" target="_blank">Coding Cat Oran Ep3, Five Tables Changed Everything</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ietf.org/archive/id/draft-thain-ipv8-00.html" target="_blank">IPv8 Proposal</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-16 05:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://darkbloom.dev" target="_blank">Darkbloom – Private inference on idle Macs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-16 04:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPAMYQZAHJGQ42E74YNEGJJR/hero-image.png" alt="This Anker Portable Projector With Google TV Is Over $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-nebula-p1i-projector-sale-april-2026?utm_medium=RSS" target="_blank">This Anker Portable Projector With Google TV Is Over $70 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Govee-Lightwall-moon-1280x853.jpg" alt="Govee’s Next Trick Is Just a Whole Dang Wall of Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +288,6 @@
                 <span class="time">2026-04-15 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/02/clayface-hed-1280x853.jpg" alt="The First ‘Clayface’ Footage Was Wonderfully Disgusting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-clayface-footage-was-wonderfully-disgusting-2000747042" target="_blank">The First ‘Clayface’ Footage Was Wonderfully Disgusting</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-15 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
