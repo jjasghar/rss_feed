@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 22:11:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 23:12:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 22:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 23:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +47,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss" target="_blank">People in Beirut wary of trusting Israel will uphold Lebanon ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings" target="_blank">Top five takeaways from Homeland Security budget hearings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss" target="_blank">US State Department restricts visas for those who ‘support adversaries’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-16 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nasa-presser-01-ht-jt-260416_1776365893898_hpMain_4x3t_384.jpg" alt="&#x27;We came back as best friends&#x27;: Artemis II crew reflects on historic moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/back-best-friends-artemis-ii-crew-reflects-historic/story?id=132094732" target="_blank">&#x27;We came back as best friends&#x27;: Artemis II crew reflects on historic moon mission</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-16 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +97,20 @@
                 <span class="time">2026-04-16 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss" target="_blank">A ceasefire in Lebanon — will it hold?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss" target="_blank">Cuban president defiant amid US pressure and energy blockade threats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="FBI analyzing DNA recovered from Nancy Guthrie&#x27;s home: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/nancy-guthrie-abduction-fbi-analyzing-dna-recovered-home/story?id=132113070" target="_blank">FBI analyzing DNA recovered from Nancy Guthrie&#x27;s home: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 19:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/" target="_blank">Factory hits $1.5B valuation to build AI coding for enterprises</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-16 22:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/intel-core-series-3-500x500.jpeg" alt="Intel refreshes non-Ultra Core CPUs with new silicon for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2026-04-16 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/" target="_blank">Google&#x27;s AI Mode Update Tries to Kill Tab Hopping in Chrome</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5" target="_blank">What happens when a 10-year-old builds their first IoT sensor — a teacher&#x27;s perspective from Buenos Aires</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 23:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmu93izdbgd7w1nklf6w.jpeg" alt="Building NewHomie property analytics tool — Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,30 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941025&w=600" alt="Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/part-i-software-supply-chains-sboms-and-solarwinds" target="_blank">Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c" target="_blank">Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-16 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937862&w=600" alt="Advanced Auto Loader Patterns for Large-Scale JSON and Semi-Structured Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/advanced-auto-loader-json-semi-structured-data" target="_blank">Advanced Auto Loader Patterns for Large-Scale JSON and Semi-Structured Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://reinout.vanrees.org/weblog/2026/04/16/7-django-as-desktop-app.html" target="_blank">When SaaS is not allowed: shipping Django as a desktop app</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-16 18:26</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Mandalorian-and-Grogu-walker-1280x853.jpg" alt="We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/weve-seen-the-first-18-minutes-of-the-mandalorian-and-grogu-2000744833" target="_blank">We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_1886933707-1-scaled-e1776379093666.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="Mandalorian and Grogu &quot;final&quot; trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/16/mandalorian-and-grogu-final-trailer.html" target="_blank">Mandalorian and Grogu &quot;final&quot; trailer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-16 22:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/gal_gadot-1280x853.jpg" alt="Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/disneyland-star-wars-galaxys-edge-leia-reveal-2000747572" target="_blank">Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K9APC76JDS09CYXTM2THHP08/hero-image.png" alt="This 55-inch Samsung OLED TV Is $600 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/65-inch-samsung-s95f-oled-tv-sale?utm_medium=RSS" target="_blank">This 55-inch Samsung OLED TV Is $600 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/SM3_EW_Still_4.jpg" alt="Goddammit, He’s Alive LMAO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonic-hedgehog-4-trailer-cinemacon-robotnik-jim-carrey-2000688324" target="_blank">Goddammit, He’s Alive LMAO</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-16 19:37</span>
             </div>
         </div>
 </div>
@@ -331,7 +326,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:11 UTC
+        🔄 Last Updated: 23:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
