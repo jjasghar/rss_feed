@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 17:26:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 18:20:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 17:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 18:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/endless-grief-turkey-mourns-victims-of-second-school-shooting-in-a-week?traffic_source=rss" target="_blank">‘Endless grief’: Turkiye mourns victims of second school shooting in a week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 17:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/lebanon-4-gty-gmh-260416_1776354709287_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -56,6 +64,15 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/world/middle-east/trump-announces-israel-lebanon-ceasefire-hezbollah-rcna331999" target="_blank">Trump says Israel and Lebanon have agreed a 10-day ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-16 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776355623872_now_daily_a_bradley_lebanon_israel_260416_S3_1920x1080-n4evrw.jpg" alt="Trump says Israel and Lebanon have agreed to a ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-israel-and-lebanon-have-agreed-to-a-ceasefire-deal-261500485833" target="_blank">Trump says Israel and Lebanon have agreed to a ceasefire deal</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-16 16:07</span>
             </div>
@@ -78,29 +95,20 @@
                 <span class="time">2026-04-16 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict?traffic_source=rss" target="_blank">Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer" target="_blank">NPR receives $113 million in charitable gifts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e00f87b4a75597c048548b/master/pass/Made-In-China-Sci-Fi-Sells-Business.jpg" alt="The Online Fiction Boom Reimagining China’s History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/" target="_blank">The Online Fiction Boom Reimagining China’s History</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,38 @@
                 <span class="time">2026-04-16 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/kidTOP-500x500-1776347629.jpg" alt="Meet the Quantum Kid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/meet-the-quantum-kid/" target="_blank">Meet the Quantum Kid</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-16 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/optiwariindia/revisiting-message-brokers-for-ai-inference-3oic" target="_blank">Revisiting Message Brokers for AI Inference</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mir-2.26-Released" target="_blank">Mir 2.26 Begins Working On Rust-Based Input Platform</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-16 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/codex-for-almost-everything/" target="_blank">Codex for Almost Everything</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-16 17:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/04/google-gemm4/en/headerimage/header-1776307607549.jpg" alt="Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,48 +196,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/11/ai-agents-failing-industry.jpg.webp?resize=406%2C232&amp;ssl=1" alt="Thunderbolt is an open-source ‘AI client’ from Mozilla’s for-profit arm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/mozilla-thunderbolt-ai-client" target="_blank">Thunderbolt is an open-source ‘AI client’ from Mozilla’s for-profit arm</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-16 17:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937782&w=600" alt="How To Build A White-label AI Chatbot: Here&#x27;s the Complete Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/how-to-build-a-white-label-ai-chatbot" target="_blank">How To Build A White-label AI Chatbot: Here&#x27;s the Complete Process</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amedinat/why-llm-cost-dashboards-are-not-enough-the-runtime-enforcement-gap-3fea" target="_blank">Why LLM Cost Dashboards Are Not Enough — The Runtime Enforcement Gap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937751&w=600" alt="Seeing the Whole System: Why OpenTelemetry Is Ending the Era of Fragmented Visibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/opentelemetry-ending-era-of-fragmented-visibility" target="_blank">Seeing the Whole System: Why OpenTelemetry Is Ending the Era of Fragmented Visibility</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-7-270k-plus" target="_blank">Intel Core Ultra 7 270K Plus Performance In 340+ Linux Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/" target="_blank">How GitHub uses eBPF to improve deployment safety</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-16 16:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/fairgame-1280x720.jpg" alt="Sony’s Fairgames Is Somehow Still Alive And Reportedly Competing In The Extraction Shooter Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonys-fairgames-is-somehow-still-alive-and-reportedly-competing-in-the-extraction-shooter-space-2000688285" target="_blank">Sony’s Fairgames Is Somehow Still Alive And Reportedly Competing In The Extraction Shooter Space</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-16 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/VueBuds_007.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="These earbuds can read the label on your snack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/16/these-earbuds-can-read-the-label-on-your-snack.html" target="_blank">These earbuds can read the label on your snack</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-16 17:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/2025-surfacepro-surfacelaptop-1280x853.jpg" alt="The Next Surface PCs May Not Be the Big Upgrades You Hoped for" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/metas-quest-price-hikes-just-put-vr-in-a-worse-spot-2000747417" target="_blank">Meta’s Quest Price Hikes Just Put VR in a Worse Spot</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-16 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPBBNSR46K5SY3EWDTME43N8/hero-image.jpg" alt="Seven Samsung Galaxy Settings You Don’t Get on Other Android Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-settings-you-dont-get-on-other-android-phones?utm_medium=RSS" target="_blank">Seven Samsung Galaxy Settings You Don’t Get on Other Android Phones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-16 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Nicholas-Galitzine-Masters-of-the-Universe-1280x853.jpg" alt="The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-he-man-transformation-in-masters-of-the-universe-gave-us-chills-2000747054" target="_blank">The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 14:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
