@@ -1,20 +1,18 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 21:13:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 22:11:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
@@ -23,19 +21,18 @@
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 22:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss" target="_blank">US State Department restricts visas for those who ‘support adversaries’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la" target="_blank">These musicians are providing the soundtrack for anti-ICE protests in LA</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +102,20 @@
                 <span class="time">2026-04-16 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038a/live/5bccbf70-39a8-11f1-ba5b-c578881f2eba.jpg" alt="Starmer did not know Mandelson failed vetting, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer did not know Mandelson failed vetting, government says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-16 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787491/ticketmaster-live-nation-verdict-monopoly-remedies" target="_blank">A jury declared Live Nation a monopoly. But ticket prices won&#x27;t drop just yet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/intel-core-series-3-500x500.jpeg" alt="Intel refreshes non-Ultra Core CPUs with new silicon for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/" target="_blank">Intel refreshes non-Ultra Core CPUs with new silicon for the first time</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-16 21:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large-500x500.jpg" alt="Artemis II astronauts say landing on the Moon is &quot;absolutely doable&quot; soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +161,20 @@
                 <span class="time">2026-04-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/20250918_BrysonMalone_Also_2484-500x500.jpg" alt="First look: Also&#x27;s upcoming e-bike disconnects the pedals and wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/first-look-alsos-upcoming-e-bike-disconnects-the-pedals-and-wheels/" target="_blank">First look: Also&#x27;s upcoming e-bike disconnects the pedals and wheels</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-16 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmu93izdbgd7w1nklf6w.jpeg" alt="Building NewHomie property analytics tool — Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/menglinmaker/building-newhomie-property-analytics-tool-part-1-57oe" target="_blank">Building NewHomie property analytics tool — Part 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 22:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9f7405sfueefr9nix6p.png" alt="Understanding Transformers Part 8: Shared Weights in Self-Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +220,6 @@
                 <span class="time">2026-04-16 18:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/optiwariindia/revisiting-message-brokers-for-ai-inference-3oic" target="_blank">Revisiting Message Brokers for AI Inference</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 18:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/gal_gadot-1280x853.jpg" alt="Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hollywoods-first-big-budget-ai-generated-movie-is-about-bitcoin-of-course-2000747573" target="_blank">Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPC08CPCHANR5FV8K6WA58V7/hero-image.jpg" alt="An Audit Found That DuckDuckGo&#x27;s VPN Doesn&#x27;t Track User Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/duckduckgo-vpn-privacy-audit?utm_medium=RSS" target="_blank">An Audit Found That DuckDuckGo&#x27;s VPN Doesn&#x27;t Track User Activity</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-16 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2270914397-1280x853.jpg" alt="White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +293,20 @@
                 <span class="time">2026-04-16 19:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/div2mmorpg-1280x720.jpg" alt="It Blows My Mind That The Division Used To Look Like A World Of Warcraft-Style MMORPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-division-mmorgp-world-of-warcraft-gameplay-early-look-ubisoft-wow-2000688307" target="_blank">It Blows My Mind That The Division Used To Look Like A World Of Warcraft-Style MMORPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-16 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/fairgame-1280x720.jpg" alt="Sony’s Fairgames Is Somehow Still Alive And Reportedly Competing In The Extraction Shooter Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonys-fairgames-is-somehow-still-alive-and-reportedly-competing-in-the-extraction-shooter-space-2000688285" target="_blank">Sony’s Fairgames Is Somehow Still Alive And Reportedly Competing In The Extraction Shooter Space</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-16 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/16/piratical-sabbatical" target="_blank">Piratical Sabbatical</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-16 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1776204808-20260416.png" alt="Saturday Morning Breakfast Cereal - Forbidden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
