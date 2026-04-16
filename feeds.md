@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 00:16:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-16 01:31:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Error processing https://gizmodo.com/rss: The read operation timed out -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 00:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss" target="_blank">Brazil’s fugitive ex-spy chief freed in the US after ICE detention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lauren-bullis-ht-jt-260415_1776288210313_hpMain_4x3t_384.jpg" alt="DHS employee killed while walking her dog in Atlanta shooting spree" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/dhs-employee-killed-walking-dog-atlanta-shooting-spree/story?id=132057630" target="_blank">DHS employee killed while walking her dog in Atlanta shooting spree</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-15 23:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/thom-tillis-opens-up-on-which-cabinet-secretaries-are-giving-trump-bad-advice-261438021990" target="_blank">Thom Tillis opens up on which Cabinet secretaries are giving Trump bad advice</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-15 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/15/nx-s1-5786697/middle-east-conflict-causes-a-fluoride-shortage-for-us-drinking-water" target="_blank">Middle East conflict causes a fluoride shortage for US drinking water</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-15 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-ht-gmh-260415_1776263854767_hpMain_4x3t_384.jpg" alt="Iran live updates: Sanctioned ships cross the Strait of Hormuz toward Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Sanctioned ships cross the Strait of Hormuz toward Tehran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-15 20:32</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Power-Module" target="_blank">AMD Linux Graphics Driver Introducing &quot;Power Module&quot; To Better Match Windows Behavior</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-16 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk" target="_blank">I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028" target="_blank">How to Compress SVG Files: Tools, Techniques, Config</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-15 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933419&w=600" alt="When Kubernetes Breaks Session Consistency: Using Cosmos DB and Redis Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-kubernetes-breaks-session-consistency-using-c-1" target="_blank">When Kubernetes Breaks Session Consistency: Using Cosmos DB and Redis Together</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-15 20:00</span>
             </div>
         </div>
 </div>
@@ -295,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5809.png" alt="Friends To Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5809" target="_blank">Friends To Rivals</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-16 01:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -330,22 +340,13 @@
                 <span class="time">2026-04-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5808.png" alt="Pet Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5808" target="_blank">Pet Name</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-15 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
