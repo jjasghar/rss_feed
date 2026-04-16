@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 09:28:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 10:25:20 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 10:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117409/indonesia-capital-nusantara-future-faces-doubts-present" target="_blank">Indonesia&#x27;s capital of the future faces doubts in the present</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run?traffic_source=rss" target="_blank">Warriors upset Clippers in NBA West play-in, extend playoff run</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-16 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice" target="_blank">French government seeking release of 86-year-old French widow detained by ICE</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 05:35</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahdi_benrhouma_fe1c6005/build-a-full-stack-app-with-nextjs-and-supabase-in-20-minutes-25pg" target="_blank">Build a Full-Stack App with Next.js and Supabase in 20 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 10:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cursor-3-agent-first-interface/en/headerimage/generatedHeaderImage-1776081399414.jpg" alt="Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-16 09:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flg30u92igm6zm5u10u5u.png" alt="Coding Cat Oran Ep3, Five Tables Changed Everything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/alvaromontoro/css-games-4connect-4ikl" target="_blank">CSS Games: 4Connect</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-16 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Power-Module" target="_blank">AMD Linux Graphics Driver Introducing &quot;Power Module&quot; To Better Match Windows Behavior</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/opentelemetry-declarative-config/en/headerimage/generatedHeaderImage-1776292543355.jpg" alt="OpenTelemetry Declarative Configuration Reaches Stability Milestone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenTelemetry Declarative Configuration Reaches Stability Milestone</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-15 23:45</span>
             </div>
         </div>
 </div>
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
