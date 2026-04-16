@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 13:29:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-16 14:32:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 13:29 UTC</div>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 14:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/913038/age-verification-flaws" target="_blank">Age verification is a mess but we&amp;#8217;re doing it anyway</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69e018fc2d6efe939773065f/master/pass/Congress-Turns-Up-Pressure-on-DHS-Business-2255702346.jpg" alt="Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +157,20 @@
                 <span class="time">2026-04-16 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions" target="_blank">Microsoft counters the MacBook Neo with freebies for students</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-15 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933492&w=600" alt="SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/sbom-embedding-compliance-into-sdlc" target="_blank">SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2026-04-16 10:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cursor-3-agent-first-interface/en/headerimage/generatedHeaderImage-1776081399414.jpg" alt="Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cursor 3 Introduces Agent-First Interface, Moving Beyond the IDE Model</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-16 09:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Nicholas-Galitzine-Masters-of-the-Universe-1280x853.jpg" alt="The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-he-man-transformation-in-masters-of-the-universe-gave-us-chills-2000747054" target="_blank">The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-31.jpg" alt="Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206" target="_blank">Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-16 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPAMYQZAHJGQ42E74YNEGJJR/hero-image.png" alt="This Anker Portable Projector With Google TV Is Over $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/kalshi-wants-your-id-whether-you-gamble-or-not-you-know-for-kids-2000747117" target="_blank">Kalshi Wants Your ID Whether You Gamble or Not (You Know, for Kids)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/ai-kilmer-priest-1-1280x717.jpg" alt="That Movie with AI Val Kilmer as a Priest Has a Trailer Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/that-movie-with-ai-val-kilmer-as-a-priest-has-a-trailer-now-2000747169" target="_blank">That Movie with AI Val Kilmer as a Priest Has a Trailer Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 02:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/mike-johnson-e1768323420532.jpg?fit=768%2C480&amp;quality=60&amp;ssl=1" alt="MAGA Mike fact-checks the Pope on Jesus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/15/maga-mike-fact-checks-the-pope-on-jesus.html" target="_blank">MAGA Mike fact-checks the Pope on Jesus</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-15 22:25</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
