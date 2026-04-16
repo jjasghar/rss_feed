@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 19:27:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 20:12:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 20:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss" target="_blank">Cuban president defiant amid US pressure and energy blockade threats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/guthrie-8-ht-gmh-260205_1770323490722_hpMain_4x3t_384.jpg" alt="FBI analyzing DNA recovered from Nancy Guthrie&#x27;s home: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +94,20 @@
                 <span class="time">2026-04-16 16:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776355623872_now_daily_a_bradley_lebanon_israel_260416_S3_1920x1080-n4evrw.jpg" alt="Trump says Israel and Lebanon have agreed to a ceasefire deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-israel-and-lebanon-have-agreed-to-a-ceasefire-deal-261500485833" target="_blank">Trump says Israel and Lebanon have agreed to a ceasefire deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-16 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e12b860d58c6570f78e85b/master/pass/GettyImages-458015353.jpg" alt="Dark Matter May Be Made of Black Holes From Another Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/" target="_blank">Dark Matter May Be Made of Black Holes From Another Universe</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e00f87b4a75597c048548b/master/pass/Made-In-China-Sci-Fi-Sells-Business.jpg" alt="The Online Fiction Boom Reimagining China’s History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +153,20 @@
                 <span class="time">2026-04-16 16:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/913038/age-verification-flaws" target="_blank">Age verification is a mess but we&amp;#8217;re doing it anyway</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-16 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codescoop/frontend-performance-that-actually-moves-the-needle-41b7" target="_blank">Frontend Performance That Actually Moves the Needle</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 20:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +212,6 @@
                 <span class="time">2026-04-16 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mir-2.26-Released" target="_blank">Mir 2.26 Begins Working On Rust-Based Input Platform</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-galaxys-edge-leia-1280x853.jpg" alt="Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disneyland-star-wars-galaxys-edge-leia-reveal-2000747572" target="_blank">Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/SM3_EW_Still_4.jpg" alt="Goddammit, He’s Alive LMAO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonic-hedgehog-4-trailer-cinemacon-robotnik-jim-carrey-2000688324" target="_blank">Goddammit, He’s Alive LMAO</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-16 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/div2mmorpg-1280x720.jpg" alt="It Blows My Mind That The Division Used To Look Like A World Of Warcraft-Style MMORPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +285,6 @@
                 <span class="time">2026-04-16 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/accursedclock.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="This clock sorts the 43,200 times of day alphabetically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/16/this-clock-sorts-the-43200-times-of-day-alphabetically.html" target="_blank">This clock sorts the 43,200 times of day alphabetically</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-16 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-16-at-11.44.26-AM-1280x720.jpg" alt="Lana Del Rey’s 007: First Light Theme Song Is Sexy And Kinda Silly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/007-first-light-lana-del-rey-james-bond-theme-song-lyrics-2000688237" target="_blank">Lana Del Rey’s 007: First Light Theme Song Is Sexy And Kinda Silly</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
