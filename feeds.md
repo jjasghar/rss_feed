@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 16:28:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 17:26:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 17:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +102,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories" target="_blank">The nine best ways to protect, customize, and accessorize your MacBook Neo</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-16 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/" target="_blank">Google&#x27;s AI Mode Update Tries to Kill Tab Hopping in Chrome</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/20250918_BrysonMalone_Also_2484-500x500.jpg" alt="First look: Also&#x27;s upcoming e-bike disconnects the pedals and wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -145,29 +155,29 @@
                 <span class="time">2026-04-16 14:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e0da3dae2b670940bc0783/master/pass/GettyImages-2261514586.jpg" alt="Anthropic Plots Major London Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank">Anthropic Plots Major London Expansion</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e018fc2d6efe939773065f/master/pass/Congress-Turns-Up-Pressure-on-DHS-Business-2255702346.jpg" alt="Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/" target="_blank">Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/google-gemm4/en/headerimage/header-1776307607549.jpg" alt="Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/google-gemm4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-16 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937782&w=600" alt="How To Build A White-label AI Chatbot: Here&#x27;s the Complete Process" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-build-a-white-label-ai-chatbot" target="_blank">How To Build A White-label AI Chatbot: Here&#x27;s the Complete Process</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,37 +199,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/" target="_blank">How GitHub uses eBPF to improve deployment safety</a></span>
-                <span class="feed">The GitHub Blog</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-7-270k-plus" target="_blank">Intel Core Ultra 7 270K Plus Performance In 340+ Linux Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2026-04-16 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fiorastudio/field-notes-from-a-solo-builder-shipping-the-beloved-claude-code-buddy-into-the-wild-part-i-3lpa" target="_blank">Field Notes from a Solo Builder — Shipping the Beloved Claude Code Buddy Into the Wild - Part I</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Kitten-i686-Userspace" target="_blank">AlmaLinux OS Kitten 10 Adds i686 User-Space Packages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint’s next release won’t be until Christmas 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-mint-next-release-christmas-2026" target="_blank">Linux Mint’s next release won’t be until Christmas 2026</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-16 15:04</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/" target="_blank">How GitHub uses eBPF to improve deployment safety</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-16 16:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/2025-surfacepro-surfacelaptop-1280x853.jpg" alt="The Next Surface PCs May Not Be the Big Upgrades You Hoped for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/next-surface-pcs-may-not-be-the-big-upgrades-you-hoped-for-2000747499" target="_blank">The Next Surface PCs May Not Be the Big Upgrades You Hoped for</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-16 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/accursedclock.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="This clock sorts the 43,200 times of day alphabetically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/16/this-clock-sorts-the-43200-times-of-day-alphabetically.html" target="_blank">This clock sorts the 43,200 times of day alphabetically</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-16 17:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-16-at-11.44.26-AM-1280x720.jpg" alt="Lana Del Rey’s 007: First Light Theme Song Is Sexy And Kinda Silly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-he-man-transformation-in-masters-of-the-universe-gave-us-chills-2000747054" target="_blank">The He-Man Transformation in ‘Masters of the Universe’ Gave Us Chills</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-31.jpg" alt="Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/street-fighter-movie-trailer-ryu-ken-chun-li-cammy-bison-2000688206" target="_blank">Ryu And Ken Are Going Through A Rough Patch In The New Street Fighter Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-16 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPAMYQZAHJGQ42E74YNEGJJR/hero-image.png" alt="This Anker Portable Projector With Google TV Is Over $70 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-nebula-p1i-projector-sale-april-2026?utm_medium=RSS" target="_blank">This Anker Portable Projector With Google TV Is Over $70 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-16 13:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
