@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 15:29:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-16 16:28:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 15:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, April 16, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/lebanon-4-gty-gmh-260416_1776354709287_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-16 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260414-lebanon-israel-mn-1535-67ab9c.jpg" alt="Trump says Israel and Lebanon have agreed a 10-day ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/trump-announces-israel-lebanon-ceasefire-hezbollah-rcna331999" target="_blank">Trump says Israel and Lebanon have agreed a 10-day ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-16 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss" target="_blank">Syria takes control of all bases where US forces were deployed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-16 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787749/rfk-jr-hearing-hhs-health-budget-cuts" target="_blank">RFK Jr. defends his health agenda and Trump&#x27;s proposed budget cuts in hearing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,47 +104,29 @@
                 <span class="time">2026-04-16 14:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg" alt="Pope criticises &#x27;tyrants&#x27; who spend billions on wars after Trump spat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss" target="_blank">Pope criticises &#x27;tyrants&#x27; who spend billions on wars after Trump spat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-16 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776347860791_now_brk_hegseth_locked_260416_S3_1920x1080-mdkzv0.jpg" alt="Hegseth says U.S. is &#x27;locked and loaded&#x27; if Iran talks fail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-says-u-s-is-locked-and-loaded-if-iran-talks-fail-261493317857" target="_blank">Hegseth says U.S. is &#x27;locked and loaded&#x27; if Iran talks fail</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-16 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hegseth-4-rt-gmh-260416_1776342403086_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran &#x27;digging out&#x27; bombed weapons facilities, Hegseth says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran &#x27;digging out&#x27; bombed weapons facilities, Hegseth says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/b0c496a0-3995-11f1-8606-05fe34b06e1b.jpg" alt="Home Office investigating after BBC finds migrants making false claims to stay in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office investigating after BBC finds migrants making false claims to stay in UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-16 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/20250918_BrysonMalone_Also_2484-500x500.jpg" alt="First look: Also&#x27;s upcoming e-bike disconnects the pedals and wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/first-look-alsos-upcoming-e-bike-disconnects-the-pedals-and-wheels/" target="_blank">First look: Also&#x27;s upcoming e-bike disconnects the pedals and wheels</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-16 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/" target="_blank">Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-16 16:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +163,38 @@
                 <span class="time">2026-04-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-500x500.jpg" alt="The race to Shackleton Crater is on—will Jeff Bezos or China get there first?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/" target="_blank">The race to Shackleton Crater is on—will Jeff Bezos or China get there first?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69df9cc95ba8ba60af0b1ac8/master/pass/Sabi-3.jpeg" alt="This Beanie Is Designed to Read Your Thoughts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" target="_blank">This Beanie Is Designed to Read Your Thoughts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amedinat/why-llm-cost-dashboards-are-not-enough-the-runtime-enforcement-gap-3fea" target="_blank">Why LLM Cost Dashboards Are Not Enough — The Runtime Enforcement Gap</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-16 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937751&w=600" alt="Seeing the Whole System: Why OpenTelemetry Is Ending the Era of Fragmented Visibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/opentelemetry-ending-era-of-fragmented-visibility" target="_blank">Seeing the Whole System: Why OpenTelemetry Is Ending the Era of Fragmented Visibility</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/" target="_blank">How GitHub uses eBPF to improve deployment safety</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +222,6 @@
                 <span class="time">2026-04-16 15:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933492&w=600" alt="SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/sbom-embedding-compliance-into-sdlc" target="_blank">SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.95-Released" target="_blank">Rust 1.95 Released With Several Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-16 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18933454&w=600" alt="The Architecture Tax: What Nobody Tells You About Deploying LLMs in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-architecture-tax-deploying-llms" target="_blank">The Architecture Tax: What Nobody Tells You About Deploying LLMs in Production</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-16-at-11.44.26-AM-1280x720.jpg" alt="Lana Del Rey’s 007: First Light Theme Song Is Sexy And Kinda Silly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/007-first-light-lana-del-rey-james-bond-theme-song-lyrics-2000688237" target="_blank">Lana Del Rey’s 007: First Light Theme Song Is Sexy And Kinda Silly</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Meta-Quest-3S-XBOX-5-1280x853.jpg" alt="Meta’s Quest Price Hikes Just Put VR in a Worse Spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +295,6 @@
                 <span class="time">2026-04-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Govee-Lightwall-moon-1280x853.jpg" alt="Govee’s Next Trick Is Just a Whole Dang Wall of Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/govees-next-trick-is-just-a-whole-dang-wall-of-light-2000740602" target="_blank">Govee’s Next Trick Is Just a Whole Dang Wall of Light</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
