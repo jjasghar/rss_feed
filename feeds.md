@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 02:59:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-17 04:08:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/17/pentagon-chief-pete-hegseth-reads-fake-bible-verse-from-pulp-fiction?traffic_source=rss" target="_blank">Pentagon chief Pete Hegseth reads fake Bible verse from Pulp Fiction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 03:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117772/d4vd-singer-david-arrested-tesla" target="_blank">Singer D4vd is arrested months after a teen&#x27;s remains were found in his car</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 02:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/democrat-analilia-mejia-projected-winner-in-new-jersey-house-race-261539397761" target="_blank">Democrat Analilia Mejia projected winner in New Jersey House race</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-17 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss" target="_blank">Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s" target="_blank">House passes bill extending protections for Haitian migrants in the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 23:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/New-NTFS-Driver-Submitted-Linux" target="_blank">New NTFS File-System Driver Submitted For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-17 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/whoffagents/nextjs-15-server-actions-vs-route-handlers-when-to-use-each-i-got-this-wrong-for-3-months-49hm" target="_blank">Next.js 15 Server Actions vs Route Handlers: When to Use Each (I Got This Wrong for 3 Months)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +215,6 @@
                 <span class="time">2026-04-16 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codescoop/frontend-performance-that-actually-moves-the-needle-41b7" target="_blank">Frontend Performance That Actually Moves the Needle</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/ford-factory-1280x853.jpg" alt="Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pentagon-reportedly-asks-detroit-to-use-more-car-factories-as-arms-factories-2000746017" target="_blank">Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-17 03:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ballmirror.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="Painters have been lying with mirrors for 600 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +288,6 @@
                 <span class="time">2026-04-16 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/gal_gadot-1280x853.jpg" alt="Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hollywoods-first-big-budget-ai-generated-movie-is-about-bitcoin-of-course-2000747573" target="_blank">Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
