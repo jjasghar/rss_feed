@@ -1,23 +1,17 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 08:29:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 09:28:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
@@ -25,12 +19,11 @@
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 08:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/rapper-d4vd-arrested-on-suspicion-of-murdering-14-year-old-girl?traffic_source=rss" target="_blank">Rapper d4vd arrested on suspicion of murdering 14-year-old girl</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 08:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may" target="_blank">ICE acting director Todd Lyons will resign at end of May, DHS says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-17 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/17/chelsea-vs-manchester-united-premier-league-teams-lineups-start?traffic_source=rss" target="_blank">Chelsea vs Manchester United: Premier League – teams, lineups, start</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 05:09</span>
             </div>
         </div>
 </div>
@@ -165,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/presentations/optimize-performance-cx-platform/en/mediumimage/Matheus-Albuquerque-medium-1775047866586.jpg" alt="Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-17 09:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -183,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320657/linux-kernel-baikal-cpu-support-removal" target="_blank">Russian Baikal CPUs Are Losing Their Place in the Linux Kernel</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-17 07:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/04/aws-agent-registry-preview/en/headerimage/generatedHeaderImage-1776064171956.jpg" alt="AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/zblauser/on-the-vibe-coders-and-their-lies-1m5b" target="_blank">On the Vibe Coders and Their Lies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-17 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/New-NTFS-Driver-Submitted-Linux" target="_blank">New NTFS File-System Driver Submitted For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-17 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/whoffagents/nextjs-15-server-actions-vs-route-handlers-when-to-use-each-i-got-this-wrong-for-3-months-49hm" target="_blank">Next.js 15 Server Actions vs Route Handlers: When to Use Each (I Got This Wrong for 3 Months)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 00:05</span>
             </div>
         </div>
 </div>
@@ -337,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
