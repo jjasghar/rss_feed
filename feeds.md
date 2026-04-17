@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 01:31:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 02:59:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-forced-israel-into-a-ceasefire-with-lebanon-2?traffic_source=rss" target="_blank">‘Trump forced Israel into a ceasefire’ with Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 01:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/d3d01c60-39f8-11f1-99fe-5fdcad0f703b.jpg" alt="Singer D4vd arrested in connection with death of missing teen girl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss" target="_blank">Singer D4vd arrested in connection with death of missing teen girl</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-17 01:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-havana-cuba_7222285.jpg?20260417015413" alt="Trump&#x27;s oil blockade is bringing Cuba to its knees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-oil-blockade-is-bringing-cuba-to-its-knees-13532550" target="_blank">Trump&#x27;s oil blockade is bringing Cuba to its knees</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-17 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776386224096_now_staytuned_sko_mejia_win_260416_S3_1920x1080-55dd7d.jpg" alt="Democrat Analilia Mejia projected winner in New Jersey House race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/democrat-analilia-mejia-projected-winner-in-new-jersey-house-race-261539397761" target="_blank">Democrat Analilia Mejia projected winner in New Jersey House race</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-17 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss" target="_blank">Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-17 00:00</span>
@@ -69,47 +97,20 @@
                 <span class="time">2026-04-16 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/artemis-crew-01-abc-jt-260416_1776371414563_hpMain_4x3t_384.jpg" alt="Artemis II astronauts detail &#x27;intense&#x27; reentry in interview with ABC News&#x27; David Muir" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/artemis-ii-astronauts-detail-intense-reentry-interview-abc/story?id=132112982" target="_blank">Artemis II astronauts detail &#x27;intense&#x27; reentry in interview with ABC News&#x27; David Muir</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c594/live/58b02640-39e1-11f1-8606-05fe34b06e1b.jpg" alt="Top Foreign Office official to leave post after Mandelson vetting row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss" target="_blank">Top Foreign Office official to leave post after Mandelson vetting row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-16 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss" target="_blank">People in Beirut wary of trusting Israel will uphold Lebanon ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings" target="_blank">Top five takeaways from Homeland Security budget hearings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/" target="_blank">New leaders, new fund: Sequoia has raised $7B to expand its AI bets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-17 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/" target="_blank">Dark Matter May Be Made of Black Holes From Another Universe</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-16 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e00f87b4a75597c048548b/master/pass/Made-In-China-Sci-Fi-Sells-Business.jpg" alt="The Online Fiction Boom Reimagining China’s History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/" target="_blank">The Online Fiction Boom Reimagining China’s History</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 18:17</span>
             </div>
         </div>
 </div>
@@ -243,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ballmirror.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="Painters have been lying with mirrors for 600 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/16/painters-have-been-lying-with-mirrors-for-600-years.html" target="_blank">Painters have been lying with mirrors for 600 years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-17 01:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Thor_Doomsday_Teaser-1280x853.jpg" alt="We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +288,6 @@
                 <span class="time">2026-04-16 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPC08CPCHANR5FV8K6WA58V7/hero-image.jpg" alt="An Audit Found That DuckDuckGo&#x27;s VPN Doesn&#x27;t Track User Activity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/duckduckgo-vpn-privacy-audit?utm_medium=RSS" target="_blank">An Audit Found That DuckDuckGo&#x27;s VPN Doesn&#x27;t Track User Activity</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-16 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
