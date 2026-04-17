@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-16 23:12:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-17 00:14:52 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 16, 2026 - 23:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 00:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss" target="_blank">Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/artemis-crew-01-abc-jt-260416_1776371414563_hpMain_4x3t_384.jpg" alt="Artemis II astronauts detail &#x27;intense&#x27; reentry in interview with ABC News&#x27; David Muir" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/artemis-ii-astronauts-detail-intense-reentry-interview-abc/story?id=132112982" target="_blank">Artemis II astronauts detail &#x27;intense&#x27; reentry in interview with ABC News&#x27; David Muir</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-16 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c594/live/58b02640-39e1-11f1-8606-05fe34b06e1b.jpg" alt="Top Foreign Office official to leave post after Mandelson vetting row" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss" target="_blank">Top Foreign Office official to leave post after Mandelson vetting row</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-16 22:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss" target="_blank">US State Department restricts visas for those who ‘support adversaries’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-16 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nasa-presser-01-ht-jt-260416_1776365893898_hpMain_4x3t_384.jpg" alt="&#x27;We came back as best friends&#x27;: Artemis II crew reflects on historic moon mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/back-best-friends-artemis-ii-crew-reflects-historic/story?id=132094732" target="_blank">&#x27;We came back as best friends&#x27;: Artemis II crew reflects on historic moon mission</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-16 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la" target="_blank">These musicians are providing the soundtrack for anti-ICE protests in LA</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination" target="_blank">Trump nominates former Coast Guard doctor as CDC chief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-16 20:58</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/whoffagents/nextjs-15-server-actions-vs-route-handlers-when-to-use-each-i-got-this-wrong-for-3-months-49hm" target="_blank">Next.js 15 Server Actions vs Route Handlers: When to Use Each (I Got This Wrong for 3 Months)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5" target="_blank">What happens when a 10-year-old builds their first IoT sensor — a teacher&#x27;s perspective from Buenos Aires</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-16 23:09</span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/part-i-software-supply-chains-sboms-and-solarwinds" target="_blank">Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c" target="_blank">Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 19:18</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
