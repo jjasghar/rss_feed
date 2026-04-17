@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 21:12:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-17 22:10:20 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 22:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump delivers remarks at Turning Point USA event: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump delivers remarks at Turning Point USA event: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-17 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +93,29 @@
                 <span class="time">2026-04-17 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/17/arsenal-to-embrace-privilege-not-pressure-of-man-city-premier-league-tilt?traffic_source=rss" target="_blank">Arsenal to embrace ‘privilege’ not pressure of Man City Premier League tilt</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-500x500.jpg" alt="US-sanctioned currency exchange says $15 million heist done by &quot;unfriendly states&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/" target="_blank">US-sanctioned currency exchange says $15 million heist done by &quot;unfriendly states&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing" target="_blank">OpenAI’s former Sora boss is leaving</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-17 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +152,20 @@
                 <span class="time">2026-04-17 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Drone-thermal-image-of-Garland-data-center-500x500.jpg" alt="Construction delays hit 40% of US data centers planned for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/" target="_blank">Construction delays hit 40% of US data centers planned for 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-17 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket" target="_blank">Betting on the news raises ethical questions for journalists</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-17 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yogesh_bhavsar/convert-an-asp-net-mvc-application-to-vue-js-3-ts-page-by-page-4djn" target="_blank">Convert an ASP .NET MVC application to Vue JS 3 TS page-by-page</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +211,6 @@
                 <span class="time">2026-04-17 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941153&w=600" alt="Multithreading in Modern Java: Advanced Benefits and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/multithreading-in-modern-java-advanced-benefits" target="_blank">Multithreading in Modern Java: Advanced Benefits and Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/clash-royal-1280x718.jpg" alt="Clash Of Clans Decides To Sell Feet Pics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clash-of-clans-decides-to-sell-feet-pics-2000688639" target="_blank">Clash Of Clans Decides To Sell Feet Pics</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/mickey-el-gaucho.jpg?fit=1080%2C904&amp;quality=60&amp;ssl=1" alt="Mice that ate artificial sweeteners passed metabolic changes to their grandchildren" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/17/mice-that-ate-artificial-sweeteners-passed-metabolic-changes-to-their-grandchildren.html" target="_blank">Mice that ate artificial sweeteners passed metabolic changes to their grandchildren</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-17 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/IMG_2862-1280x720.jpg" alt="Pragmata Isn’t A ‘Sad Dad’ Game, It’s A Game That Loves Fatherhood, And That Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/17/arthur-c-clarke-predicted-remote-work-telesurgery-and-mobile-phones-in-1964.html" target="_blank">Arthur C. Clarke predicted remote work, telesurgery, and mobile phones in 1964</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-17 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/a699dc2e9cf8568ee63b55a7c92eedc9_original.jpg" alt="Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583" target="_blank">Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-17 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HF505BB9H5SD9E6WVJYZ4/hero-image.jpg" alt="What You Can Expect to Pay to Get Into Fitness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-much-does-it-really-cost-to-get-into-fitness?utm_medium=RSS" target="_blank">What You Can Expect to Pay to Get Into Fitness</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-17 17:30</span>
             </div>
         </div>
 </div>
@@ -336,22 +325,13 @@
                 <span class="time">2026-04-17 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/16/piratical-sabbatical" target="_blank">Piratical Sabbatical</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-16 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 22:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
