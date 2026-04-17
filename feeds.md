@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 13:28:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 14:24:08 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 14:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn" target="_blank">Ghost orchid in the machine</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/HF_XtVIXcAQ5jrN-1-500x500.jpg" alt="Rocket Report: Starship V3 test-fired; ESA&#x27;s tentative step toward crew launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/" target="_blank">Rocket Report: Starship V3 test-fired; ESA&#x27;s tentative step toward crew launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 13:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69e11dc60f92acc744d0d72e/master/pass/The-Best-Bluetooth-Speakers.jpg" alt="Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -135,29 +159,29 @@
                 <span class="time">2026-04-17 03:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/" target="_blank">New leaders, new fund: Sequoia has raised $7B to expand its AI bets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips" target="_blank">YouTube’s mobile app finally lets you share timestamped videos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-16 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/treesoop/introducing-hwp-mcp-korean-document-support-for-claude-via-mcp-1lbg" target="_blank">Introducing hwp-mcp: Korean document support for Claude via MCP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA4m-RADV-ACO" target="_blank">Valve Developer Lands RADV/ACO Changes For AMD&#x27;s GFX11.7 / RDNA 4m</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-17 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +218,6 @@
                 <span class="time">2026-04-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/kubernetes-secure-workloads/en/headerimage/generatedHeaderImage-1775830657737.jpg" alt="CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Warns Kubernetes Alone Is Not Enough to Secure LLM Workloads</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320788/cal-com-goes-proprietary" target="_blank">Cal.com Goes Close Source Because &amp;quot;AI Can Easily Exploit Open Source Software&amp;quot;</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-17 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="This Flash Sale Offers a One-Year BJ&#x27;s Membership With Gas Discounts for Just $15 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">This Flash Sale Offers a One-Year BJ&#x27;s Membership With Gas Discounts for Just $15 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-17 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/ford-factory-1280x853.jpg" alt="Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/16/mandalorian-and-grogu-final-trailer.html" target="_blank">Mandalorian and Grogu &quot;final&quot; trailer</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-16 22:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KHSBF5T36DN9YA6HX01AZN37/hero-image.png" alt="The New Google Pixel 10a Is Already $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10a-deal-april-2026?utm_medium=RSS" target="_blank">The New Google Pixel 10a Is Already $50 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-16 22:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 14:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
