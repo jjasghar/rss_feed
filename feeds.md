@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 00:14:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 01:31:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 00:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss" target="_blank">Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s" target="_blank">House passes bill extending protections for Haitian migrants in the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-16 23:37</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +105,20 @@
                 <span class="time">2026-04-16 22:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss" target="_blank">US State Department restricts visas for those who ‘support adversaries’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-16 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips" target="_blank">YouTube’s mobile app finally lets you share timestamped videos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-16 23:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +164,6 @@
                 <span class="time">2026-04-16 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories" target="_blank">The nine best ways to protect, customize, and accessorize your MacBook Neo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-16 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/whoffagents/nextjs-15-server-actions-vs-route-handlers-when-to-use-each-i-got-this-wrong-for-3-months-49hm" target="_blank">Next.js 15 Server Actions vs Route Handlers: When to Use Each (I Got This Wrong for 3 Months)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-17 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-april-17-2026-red-hat" target="_blank">Friday Five — April 17, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-04-17 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +223,6 @@
                 <span class="time">2026-04-16 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941025&w=600" alt="Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/part-i-software-supply-chains-sboms-and-solarwinds" target="_blank">Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-16 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/Thor_Doomsday_Teaser-1280x853.jpg" alt="We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/avengers-doomsday-trailer-cinemacon-footage-description-2000747676" target="_blank">We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-17 00:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/Mandalorian-and-Grogu-walker-1280x853.jpg" alt="We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,6 +267,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/16/mandalorian-and-grogu-final-trailer.html" target="_blank">Mandalorian and Grogu &quot;final&quot; trailer</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-16 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KHSBF5T36DN9YA6HX01AZN37/hero-image.png" alt="The New Google Pixel 10a Is Already $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10a-deal-april-2026?utm_medium=RSS" target="_blank">The New Google Pixel 10a Is Already $50 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-16 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -268,29 +296,20 @@
                 <span class="time">2026-04-16 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/GettyImages-2270914397-1280x853.jpg" alt="White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/white-house-is-reportedly-ready-to-drop-its-anthropic-beef-and-embrace-the-spooky-new-model-2000747561" target="_blank">White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/star-wars-galaxys-edge-leia-1280x853.jpg" alt="Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disneyland-star-wars-galaxys-edge-leia-reveal-2000747572" target="_blank">Disneyland Makes Up for That Han Solo Situation With a Lovely Leia Look</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5810.png" alt="Watching The Watchman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5810" target="_blank">Watching The Watchman</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-17 00:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,22 +328,13 @@
                 <span class="time">2026-04-16 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5809.png" alt="Friends To Rivals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5809" target="_blank">Friends To Rivals</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-16 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
