@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 04:08:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-17 05:41:29 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 04:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 05:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e8/live/94fbcf40-3a19-11f1-879d-1b2f5c3919b8.jpg" alt="What we know about the ceasefire between Lebanon and Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the ceasefire between Lebanon and Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-17 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may" target="_blank">ICE acting director Todd Lyons will resign at end of May, DHS says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/17/chelsea-vs-manchester-united-premier-league-teams-lineups-start?traffic_source=rss" target="_blank">Chelsea vs Manchester United: Premier League – teams, lineups, start</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +103,29 @@
                 <span class="time">2026-04-17 01:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/d3d01c60-39f8-11f1-99fe-5fdcad0f703b.jpg" alt="Singer D4vd arrested in connection with death of missing teen girl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss" target="_blank">Singer D4vd arrested in connection with death of missing teen girl</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-17 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-havana-cuba_7222285.jpg?20260417015413" alt="Trump&#x27;s oil blockade is bringing Cuba to its knees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-oil-blockade-is-bringing-cuba-to-its-knees-13532550" target="_blank">Trump&#x27;s oil blockade is bringing Cuba to its knees</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-17 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776386224096_now_staytuned_sko_mejia_win_260416_S3_1920x1080-55dd7d.jpg" alt="Democrat Analilia Mejia projected winner in New Jersey House race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/democrat-analilia-mejia-projected-winner-in-new-jersey-house-race-261539397761" target="_blank">Democrat Analilia Mejia projected winner in New Jersey House race</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-17 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Deals: 30% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-17 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/PanCam_mast_fitted_to_ExoMars_rover-1-500x500.jpg" alt="After a saga of broken promises, a European rover finally has a ride to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/" target="_blank">After a saga of broken promises, a European rover finally has a ride to Mars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 03:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +162,20 @@
                 <span class="time">2026-04-16 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large-500x500.jpg" alt="Artemis II astronauts say landing on the Moon is &quot;absolutely doable&quot; soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" target="_blank">Artemis II astronauts say landing on the Moon is &quot;absolutely doable&quot; soon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e12b860d58c6570f78e85b/master/pass/GettyImages-458015353.jpg" alt="Dark Matter May Be Made of Black Holes From Another Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/" target="_blank">Dark Matter May Be Made of Black Holes From Another Universe</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-16 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/" target="_blank">No country left behind with sovereign AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-17 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/menglinmaker/building-newhomie-property-analytics-tool-part-1-57oe" target="_blank">Building NewHomie property analytics tool — Part 1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-16 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9f7405sfueefr9nix6p.png" alt="Understanding Transformers Part 8: Shared Weights in Self-Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rijultp/understanding-transformers-part-8-shared-weights-in-self-attention-2pbe" target="_blank">Understanding Transformers Part 8: Shared Weights in Self-Attention</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-16 21:08</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
