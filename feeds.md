@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 16:17:35 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-17 17:15:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 17:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large-500x500.jpg" alt="Artemis II pilot talks about what it was really like to fly and land in Orion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" target="_blank">Artemis II pilot talks about what it was really like to fly and land in Orion</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/" target="_blank">Gigs turns your concert history into a personal live music archive</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-17 16:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -139,29 +159,29 @@
                 <span class="time">2026-04-17 14:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn" target="_blank">Ghost orchid in the machine</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-17 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/HF_XtVIXcAQ5jrN-1-500x500.jpg" alt="Rocket Report: Starship V3 test-fired; ESA&#x27;s tentative step toward crew launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/" target="_blank">Rocket Report: Starship V3 test-fired; ESA&#x27;s tentative step toward crew launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-17 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lu1tr0n/ataque-a-trivy-340-gb-filtrados-de-la-comision-europea-en-2026-32oo" target="_blank">Ataque a Trivy: 340 GB filtrados de la Comisión Europea en 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941153&w=600" alt="Multithreading in Modern Java: Advanced Benefits and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multithreading-in-modern-java-advanced-benefits" target="_blank">Multithreading in Modern Java: Advanced Benefits and Best Practices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +218,6 @@
                 <span class="time">2026-04-17 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank">Claude Design</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-17 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cpp-26-reflection-safety-async/en/headerimage/cpp-26-feature-complete-1776436863495.jpeg" alt="C++26: Reflection, Memory Safety, Contracts, and a New Async Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">C++26: Reflection, Memory Safety, Contracts, and a New Async Model</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/c2adb39e060ccc8e53e595b007fe9a35-1280x720.jpg" alt="The Studio Behind Last Year’s Tony Hawk’s Pro Skater 3 + 4 Remasters Hit With More Mass Layoffs As It Tries To Adapt To The Video Game Industry’s New Normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/iron-galaxy-layoffs-tony-hawk-last-us-part-2-remaster-2000688573" target="_blank">The Studio Behind Last Year’s Tony Hawk’s Pro Skater 3 + 4 Remasters Hit With More Mass Layoffs As It Tries To Adapt To The Video Game Industry’s New Normal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-17 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPE410S0RS82AJJ84YZCMNT8/hero-image.png" alt="This Tech Announcement Was so Bad, the Company Apologized" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-bigme-tech-announcement-was-so-bad-the-company-apologizes?utm_medium=RSS" target="_blank">This Tech Announcement Was so Bad, the Company Apologized</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-17 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2026/04/exhaust-pollution-1280x853.jpg" alt="The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/16/painters-have-been-lying-with-mirrors-for-600-years.html" target="_blank">Painters have been lying with mirrors for 600 years</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-17 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Thor_Doomsday_Teaser-1280x853.jpg" alt="We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/avengers-doomsday-trailer-cinemacon-footage-description-2000747676" target="_blank">We’ve Seen Doctor Doom in Action for ‘Avengers: Doomsday’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-17 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/Mandalorian-and-Grogu-walker-1280x853.jpg" alt="We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/weve-seen-the-first-18-minutes-of-the-mandalorian-and-grogu-2000744833" target="_blank">We’ve Seen the First 18 Minutes of ‘The Mandalorian and Grogu’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-16 22:45</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
