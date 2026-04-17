@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 19:22:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-17 20:11:10 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 20:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran &#x27;fully&#x27; opens the Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran &#x27;fully&#x27; opens the Strait of Hormuz, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-17 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss" target="_blank">US Congress extends controversial surveillance power under FISA for 10 days</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,24 +101,6 @@
                 <span class="time">2026-04-17 15:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/25b6f680-3a48-11f1-b0ac-b54021fa6ada.png" alt="&#x27;Staggering&#x27; I was not told Mandelson failed vetting, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Staggering&#x27; I was not told Mandelson failed vetting, says PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-17 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776433262052_now_brk_strait_opens_260417_S3_1920x1080-4kousj.jpg" alt="Iran announces the Strait of Hormuz is open" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-announces-the-strait-of-hormuz-is-open-261561413585" target="_blank">Iran announces the Strait of Hormuz is open</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-17 13:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -137,6 +134,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket" target="_blank">Betting on the news raises ethical questions for journalists</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-17 18:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69e24d762c03fd43832a42f8/master/pass/GettyImages-2214140680.jpg" alt="Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +160,29 @@
                 <span class="time">2026-04-17 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/" target="_blank">Gigs turns your concert history into a personal live music archive</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs3hrcwoqk2p3766m6vgs.png" alt="Proven SSL Certificate Renewal Steps to Protect Your Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/monstermegs/proven-ssl-certificate-renewal-steps-to-protect-your-site-2kpp" target="_blank">Proven SSL Certificate Renewal Steps to Protect Your Site</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941173&w=600" alt="Why Angular Performance Problems Are Often Backend Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-angular-performance-problems-are-often" target="_blank">Why Angular Performance Problems Are Often Backend Problems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-17 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +219,6 @@
                 <span class="time">2026-04-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/" target="_blank">Bringing more transparency to GitHub’s status page</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pavelespitia/how-to-run-llms-locally-with-ollama-a-developers-guide-25nh" target="_blank">How to Run LLMs Locally with Ollama — A Developer&#x27;s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPE24WGR7W2T8989VPE3RPZH/hero-image.png" alt="This Android Setting Makes It Easy to Manage All Your App Permissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-manage-app-permissions-menu?utm_medium=RSS" target="_blank">This Android Setting Makes It Easy to Manage All Your App Permissions</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-17 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/clark-future.jpg?fit=1200%2C815&amp;quality=60&amp;ssl=1" alt="Arthur C. Clarke predicted remote work, telesurgery, and mobile phones in 1964" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/17/arthur-c-clarke-predicted-remote-work-telesurgery-and-mobile-phones-in-1964.html" target="_blank">Arthur C. Clarke predicted remote work, telesurgery, and mobile phones in 1964</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-17 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/a699dc2e9cf8568ee63b55a7c92eedc9_original.jpg" alt="Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/iron-galaxy-layoffs-tony-hawk-last-us-part-2-remaster-2000688573" target="_blank">The Studio Behind Last Year’s Tony Hawk’s Pro Skater 3 + 4 Remasters Hit With More Mass Layoffs As It Tries To Adapt To The Video Game Industry’s New Normal</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-17 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPE410S0RS82AJJ84YZCMNT8/hero-image.png" alt="This Tech Announcement Was so Bad, the Company Apologized" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-bigme-tech-announcement-was-so-bad-the-company-apologizes?utm_medium=RSS" target="_blank">This Tech Announcement Was so Bad, the Company Apologized</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-17 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/exhaust-pollution-1280x853.jpg" alt="The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-unexpected-reason-why-your-migraines-might-get-worse-depending-on-the-air-2000747580" target="_blank">The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-17 15:05</span>
             </div>
         </div>
 </div>
@@ -350,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:22 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
