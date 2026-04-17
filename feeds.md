@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 18:13:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 19:22:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/scholar-rumeysa-ozturk-returns-to-turkiye-following-trump-deportation-push?traffic_source=rss" target="_blank">Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran" target="_blank">Gasoline could drop below $4 in coming days</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +104,29 @@
                 <span class="time">2026-04-17 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran fully opens the Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran fully opens the Strait of Hormuz, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-17 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection" target="_blank">Why scientists are nervous about fungi</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-500x500-1776453341.jpg" alt="Trump picks qualified, normal health leader to head CDC; experts still cautious" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/" target="_blank">Trump picks qualified, normal health leader to head CDC; experts still cautious</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/" target="_blank">Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-17 19:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Drone-thermal-image-of-Garland-data-center-500x500.jpg" alt="Construction delays hit 40% of US data centers planned for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/" target="_blank">Gigs turns your concert history into a personal live music archive</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-17 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/912286/our-new-favorite-budget-phones" target="_blank">Our new favorite budget phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-17 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/master/pass/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg" alt="AI Drafting My Stories? Over My Dead Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/" target="_blank">AI Drafting My Stories? Over My Dead Body</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-17 15:46</span>
             </div>
         </div>
 </div>
@@ -238,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/a699dc2e9cf8568ee63b55a7c92eedc9_original.jpg" alt="Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583" target="_blank">Developer Feels ‘Shut Down And Silenced’ After BAFTA Awards Pulled Her Game Over Its Subject Matter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-17 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2HF505BB9H5SD9E6WVJYZ4/hero-image.jpg" alt="What You Can Expect to Pay to Get Into Fitness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -280,15 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-unexpected-reason-why-your-migraines-might-get-worse-depending-on-the-air-2000747580" target="_blank">The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2026-04-17 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="This Flash Sale Offers a One-Year BJ&#x27;s Membership With Gas Discounts for Just $15 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/bjs-membership-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">This Flash Sale Offers a One-Year BJ&#x27;s Membership With Gas Discounts for Just $15 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-17 13:30</span>
             </div>
         </div>
 </div>
@@ -346,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
