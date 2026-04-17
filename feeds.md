@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 17:15:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 18:13:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 17:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/17/arsenal-to-embrace-privilege-not-pressure-of-man-city-premier-league-tilt?traffic_source=rss" target="_blank">Arsenal to embrace ‘privilege’ not pressure of Man City Premier League tilt</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-17 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg" alt="Oil prices plunge as Iran says Strait &#x27;open&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +100,29 @@
                 <span class="time">2026-04-17 13:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a688/live/ca315f60-3a3f-11f1-826b-272fcb9e69bd.jpg" alt="Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&at_campaign=rss" target="_blank">Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-17 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Drone-thermal-image-of-Garland-data-center-500x500.jpg" alt="Construction delays hit 40% of US data centers planned for 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/" target="_blank">Construction delays hit 40% of US data centers planned for 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-17 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e24d762c03fd43832a42f8/master/pass/GettyImages-2214140680.jpg" alt="Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/" target="_blank">Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-17 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large-500x500.jpg" alt="Artemis II pilot talks about what it was really like to fly and land in Orion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/" target="_blank">AI Drafting My Stories? Over My Dead Body</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-17 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/" target="_blank">Uber will now pick up your returns from your doorstep</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2353a04c989eedf38a6d1/master/pass/GettyImages-2270864437.jpg" alt="Republican Mutiny Sinks Trump&#x27;s Push to Extend Warrantless Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/" target="_blank">Republican Mutiny Sinks Trump&#x27;s Push to Extend Warrantless Surveillance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-17 14:07</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HF505BB9H5SD9E6WVJYZ4/hero-image.jpg" alt="What You Can Expect to Pay to Get Into Fitness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-much-does-it-really-cost-to-get-into-fitness?utm_medium=RSS" target="_blank">What You Can Expect to Pay to Get Into Fitness</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-17 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/2560px-California_sea_lions_in_La_Jolla_70556-e1769533208361.jpg?fit=768%2C379&amp;quality=60&amp;ssl=1" alt="California&#x27;s ocean protections work, so naturally we&#x27;re arguing about them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/17/californias-ocean-protections-work-so-naturally-were-arguing-about-them.html" target="_blank">California&#x27;s ocean protections work, so naturally we&#x27;re arguing about them</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-17 17:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/c2adb39e060ccc8e53e595b007fe9a35-1280x720.jpg" alt="The Studio Behind Last Year’s Tony Hawk’s Pro Skater 3 + 4 Remasters Hit With More Mass Layoffs As It Tries To Adapt To The Video Game Industry’s New Normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,29 +291,29 @@
                 <span class="time">2026-04-17 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2026/04/ford-factory-1280x853.jpg" alt="Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pentagon-reportedly-asks-detroit-to-use-more-car-factories-as-arms-factories-2000746017" target="_blank">Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2026-04-17 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ballmirror.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="Painters have been lying with mirrors for 600 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/16/painters-have-been-lying-with-mirrors-for-600-years.html" target="_blank">Painters have been lying with mirrors for 600 years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-17 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/17/fridabe-sponsored-by-once-upon-a-galaxy" target="_blank">#Fridabe sponsored by Once Upon A Galaxy!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-17 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776387508-20260417.png" alt="Saturday Morning Breakfast Cereal - Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/same-3" target="_blank">Saturday Morning Breakfast Cereal - Same</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:15 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
