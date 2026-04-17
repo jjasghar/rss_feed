@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 22:10:20 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-17 23:11:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 22:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day" target="_blank">Animal activists celebrate their first global &#x27;Sanctuary Day&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump delivers remarks at Turning Point USA event: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +102,20 @@
                 <span class="time">2026-04-17 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/nx-s1-5788819/oil-gasoline-cheaper-war-iran" target="_blank">Gasoline could drop below $4 in coming days</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/" target="_blank">Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-17 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-500x500.jpg" alt="US-sanctioned currency exchange says $15 million heist done by &quot;unfriendly states&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +161,20 @@
                 <span class="time">2026-04-17 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/" target="_blank">Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4" target="_blank">I Built a Real-Time Notification System Inspired by Accra Traffic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,20 +220,20 @@
                 <span class="time">2026-04-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lu1tr0n/ataque-a-trivy-340-gb-filtrados-de-la-comision-europea-en-2026-32oo" target="_blank">Ataque a Trivy: 340 GB filtrados de la Comisión Europea en 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html" target="_blank">Friday Squid Blogging: New Giant Squid Video</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-17 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -230,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/lastflag1-1920x1080-81ec35067442-1280x720.jpg" alt="Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/even-the-lead-singer-of-imagine-dragons-can-barely-get-anyone-to-play-his-live-service-game-2000688643" target="_blank">Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-17 22:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/clash-royal-1280x718.jpg" alt="Clash Of Clans Decides To Sell Feet Pics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/android-manage-app-permissions-menu?utm_medium=RSS" target="_blank">This Android Setting Makes It Easy to Manage All Your App Permissions</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/clark-future.jpg?fit=1200%2C815&amp;quality=60&amp;ssl=1" alt="Arthur C. Clarke predicted remote work, telesurgery, and mobile phones in 1964" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/17/arthur-c-clarke-predicted-remote-work-telesurgery-and-mobile-phones-in-1964.html" target="_blank">Arthur C. Clarke predicted remote work, telesurgery, and mobile phones in 1964</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-17 18:40</span>
             </div>
         </div>
 </div>
@@ -330,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 22:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
