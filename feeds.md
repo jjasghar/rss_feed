@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 12:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-17 13:28:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 12:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran fully opens the Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran fully opens the Strait of Hormuz, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-17 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection" target="_blank">Why scientists are nervous about fungi</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 13:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a688/live/ca315f60-3a3f-11f1-826b-272fcb9e69bd.jpg" alt="Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss" target="_blank">What we know about the Israel-Lebanon ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-17 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz" target="_blank">Who says they have no fear of the Trump administration? The quiz knows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/rapper-d4vd-arrested-on-suspicion-of-murdering-14-year-old-girl?traffic_source=rss" target="_blank">Rapper d4vd arrested on suspicion of murdering 14-year-old girl</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 08:23</span>
             </div>
         </div>
 </div>
@@ -167,6 +159,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrclaw207/i-built-a-multi-agent-research-pipeline-that-catches-ai-confabulation-before-it-reaches-my-users-26lm" target="_blank">I Built a Multi-Agent Research Pipeline That Catches AI Confabulation Before It Reaches My Users</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320855/kamila-enlightenment-e16-bug" target="_blank">21-year-old Polish Woman Fixed a 20-year-old Linux Bug!</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-17 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hex.ooo/library/last_question.html" target="_blank">Isaac Asimov: The Last Question</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-17 12:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941037&w=600" alt="Part II: The Network That Doesn&#x27;t Exist: Zero Trust, Service Meshes, and the Slow Death of Perimeter Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320788/cal-com-goes-proprietary" target="_blank">Cal.com Goes Close Source Because &amp;quot;AI Can Easily Exploit Open Source Software&amp;quot;</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-17 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-Arm-AGI-CPU" target="_blank">GCC Compiler Adds Arm AGI CPU Target</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-17 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harijn72/building-a-loader-animation-with-svg-css-only-4cnj" target="_blank">Building a Loader Animation with SVG + CSS Only</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/claude-code-review/en/headerimage/generatedHeaderImage-1776367713481.jpg" alt="Anthropic Introduces Agent-Based Code Review for Claude Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Agent-Based Code Review for Claude Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-17 10:16</span>
             </div>
         </div>
 </div>
@@ -339,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
