@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 14:24:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-17 15:19:58 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 14:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 15:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +108,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/" target="_blank">Uber will now pick up your returns from your doorstep</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-17 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e2353a04c989eedf38a6d1/master/pass/GettyImages-2270864437.jpg" alt="Republican Mutiny Sinks Trump&#x27;s Push to Extend Warrantless Surveillance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/" target="_blank">Republican Mutiny Sinks Trump&#x27;s Push to Extend Warrantless Surveillance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-17 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn" target="_blank">Ghost orchid in the machine</a></span>
                 <span class="feed">The Verge</span>
@@ -141,29 +159,38 @@
                 <span class="time">2026-04-17 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Deals: 30% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/PanCam_mast_fitted_to_ExoMars_rover-1-500x500.jpg" alt="After a saga of broken promises, a European rover finally has a ride to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/" target="_blank">After a saga of broken promises, a European rover finally has a ride to Mars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-17 03:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pavelespitia/how-to-run-llms-locally-with-ollama-a-developers-guide-25nh" target="_blank">How to Run LLMs Locally with Ollama — A Developer&#x27;s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cpp-26-reflection-safety-async/en/headerimage/cpp-26-feature-complete-1776436863495.jpeg" alt="C++26: Reflection, Memory Safety, Contracts, and a New Async Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">C++26: Reflection, Memory Safety, Contracts, and a New Async Model</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-xe2-lunar-lake" target="_blank">Intel Xe2 Lunar Lake Linux Graphics Performance Up ~17% Over Past Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-17 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +218,6 @@
                 <span class="time">2026-04-17 13:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320855/kamila-enlightenment-e16-bug" target="_blank">21-year-old Polish Woman Fixed a 20-year-old Linux Bug!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-17 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hex.ooo/library/last_question.html" target="_blank">Isaac Asimov: The Last Question</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-17 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941037&w=600" alt="Part II: The Network That Doesn&#x27;t Exist: Zero Trust, Service Meshes, and the Slow Death of Perimeter Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/part-ii-the-network-that-doesnt-exist-zero-trust-s" target="_blank">Part II: The Network That Doesn&#x27;t Exist: Zero Trust, Service Meshes, and the Slow Death of Perimeter Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2026/04/exhaust-pollution-1280x853.jpg" alt="The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-unexpected-reason-why-your-migraines-might-get-worse-depending-on-the-air-2000747580" target="_blank">The Unexpected Reason Why Your Migraines Might Get Worse Depending on the Air</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2026-04-17 15:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K7FDV9SVRS44PHHSZYPRDK07/hero-image.jpg" alt="This Flash Sale Offers a One-Year BJ&#x27;s Membership With Gas Discounts for Just $15 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-04-16 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/shutterstock_1886933707-1-scaled-e1776379093666.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="Mandalorian and Grogu &quot;final&quot; trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/16/mandalorian-and-grogu-final-trailer.html" target="_blank">Mandalorian and Grogu &quot;final&quot; trailer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-16 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +323,13 @@
                 <span class="time">2026-04-16 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776204808-20260416.png" alt="Saturday Morning Breakfast Cereal - Forbidden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/forbidden" target="_blank">Saturday Morning Breakfast Cereal - Forbidden</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 14:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
