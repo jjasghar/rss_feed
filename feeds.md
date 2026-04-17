@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 15:19:58 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-17 16:17:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 15:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg" alt="Oil prices plunge as Iran says Strait &#x27;open&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices plunge as Iran says Strait &#x27;open&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-17 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/25b6f680-3a48-11f1-b0ac-b54021fa6ada.png" alt="&#x27;Staggering&#x27; I was not told Mandelson failed vetting, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Staggering&#x27; I was not told Mandelson failed vetting, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-17 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776433262052_now_brk_strait_opens_260417_S3_1920x1080-4kousj.jpg" alt="Iran announces the Strait of Hormuz is open" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-announces-the-strait-of-hormuz-is-open-261561413585" target="_blank">Iran announces the Strait of Hormuz is open</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-17 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran fully opens the Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +98,29 @@
                 <span class="time">2026-04-17 12:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776424212273_tdy_news_7a_engel_israel_lebanon_ceasefire_260417_S3_1920x1080-huvqr1.jpg" alt="Israel and Lebanon Reach 10-Day Ceasefire, Paving Way for Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-and-lebanon-reach-10-day-ceasefire-paving-way-for-deal-261557317631" target="_blank">Israel and Lebanon Reach 10-Day Ceasefire, Paving Way for Deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-17 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs" target="_blank">Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss" target="_blank">What we know about the Israel-Lebanon ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 10:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/912286/our-new-favorite-budget-phones" target="_blank">Our new favorite budget phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-17 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/master/pass/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg" alt="AI Drafting My Stories? Over My Dead Body" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/" target="_blank">AI Drafting My Stories? Over My Dead Body</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-17 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,38 @@
                 <span class="time">2026-04-17 13:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e11dc60f92acc744d0d72e/master/pass/The-Best-Bluetooth-Speakers.jpg" alt="Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-bluetooth-speakers/" target="_blank">Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile" target="_blank">A giant cell tower is going to space this weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-17 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rolan_r_n_r/your-backend-is-leaking-secrets-mine-was-too-555m" target="_blank">Your Backend Is Leaking Secrets (Mine Was Too)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18937808&w=600" alt="Fine-Tuning of Spring Cache" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/caching-with-spring-cache" target="_blank">Fine-Tuning of Spring Cache</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/" target="_blank">Bringing more transparency to GitHub’s status page</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,48 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank">Claude Design</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-17 15:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/04/cpp-26-reflection-safety-async/en/headerimage/cpp-26-feature-complete-1776436863495.jpeg" alt="C++26: Reflection, Memory Safety, Contracts, and a New Async Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">C++26: Reflection, Memory Safety, Contracts, and a New Async Model</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-xe2-lunar-lake" target="_blank">Intel Xe2 Lunar Lake Linux Graphics Performance Up ~17% Over Past Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-17 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/treesoop/introducing-hwp-mcp-korean-document-support-for-claude-via-mcp-1lbg" target="_blank">Introducing hwp-mcp: Korean document support for Claude via MCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA4m-RADV-ACO" target="_blank">Valve Developer Lands RADV/ACO Changes For AMD&#x27;s GFX11.7 / RDNA 4m</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-17 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrclaw207/i-built-a-multi-agent-research-pipeline-that-catches-ai-confabulation-before-it-reaches-my-users-26lm" target="_blank">I Built a Multi-Agent Research Pipeline That Catches AI Confabulation Before It Reaches My Users</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 13:27</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
