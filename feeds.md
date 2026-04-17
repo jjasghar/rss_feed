@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-17 09:28:02 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-17 10:23:20 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, April 17, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, April 17, 2026 - 10:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz" target="_blank">Who says they have no fear of the Trump administration? The quiz knows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-17 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the ceasefire between Lebanon and Israel</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-17 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may" target="_blank">ICE acting director Todd Lyons will resign at end of May, DHS says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 05:10</span>
             </div>
         </div>
 </div>
@@ -158,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harijn72/building-a-loader-animation-with-svg-css-only-4cnj" target="_blank">Building a Loader Animation with SVG + CSS Only</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-17 10:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/optimize-performance-cx-platform/en/mediumimage/Matheus-Albuquerque-medium-1775047866586.jpg" alt="Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/presentations/optimize-performance-cx-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Speed at Scale: Optimizing the Largest CX Platform Out There</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-17 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.iqiipi.com/the-quiet-colossus.html" target="_blank">Ada, Its Design, and the Language That Built the Languages</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-17 08:51</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +218,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17320657/linux-kernel-baikal-cpu-support-removal" target="_blank">Russian Baikal CPUs Are Losing Their Place in the Linux Kernel</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-17 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/aws-agent-registry-preview/en/headerimage/generatedHeaderImage-1776064171956.jpg" alt="AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/aws-agent-registry-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-17 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0t33y5hwb0nhpkklc0j9.png" alt="On the Vibe Coders and Their Lies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zblauser/on-the-vibe-coders-and-their-lies-1m5b" target="_blank">On the Vibe Coders and Their Lies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 06:26</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html" target="_blank">Human Trust of AI Agents</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-16 09:41</span>
             </div>
         </div>
 </div>
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
