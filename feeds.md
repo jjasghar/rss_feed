@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 15:10:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-18 16:08:15 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 15:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +104,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers" target="_blank">Cheap stuff that doesn’t suck, take 3</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-18 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/" target="_blank">Anthropic’s relationship with the Trump administration seems to be thawing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-18 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/" target="_blank">The App Store is booming again, and AI may be why</a></span>
                 <span class="feed">TechCrunch</span>
@@ -135,29 +155,20 @@
                 <span class="time">2026-04-18 11:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2785f18346d309af9882b/master/pass/LonelyRunnercr-MarkBelan-Lede.gif" alt="The ‘Lonely Runner’ Problem Only Appears Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/" target="_blank">The ‘Lonely Runner’ Problem Only Appears Simple</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/" target="_blank">Once close enough for an acquisition, Stripe and Airwallex are now going after each other</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-18 05:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8x3psrek5fnpfzblgq9.png" alt="Day 60: Decoupling State and CloudWatch FinOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ericrodriguez10/day-60-decoupling-state-and-cloudwatch-finops-4g5f" target="_blank">Day 60: Decoupling State and CloudWatch FinOps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +214,6 @@
                 <span class="time">2026-04-18 11:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Scheduler" target="_blank">Linux 7.1 Scheduler Changes May Benefit Some Workloads</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-18 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Apple-iPad-10.2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Want 77% off an iPad? Here&#x27;s a simple hack to save big" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/18/want-77-off-an-ipad-heres-a-simple-hack-to-save-big.html" target="_blank">Want 77% off an iPad? Here&#x27;s a simple hack to save big</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spire-22-1280x720.jpg" alt="As Slay The Spire 2 Continues To Dominate, Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird Eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +287,6 @@
                 <span class="time">2026-04-17 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/clash-royal-1280x718.jpg" alt="Clash Of Clans Decides To Sell Feet Pics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clash-of-clans-decides-to-sell-feet-pics-2000688639" target="_blank">Clash Of Clans Decides To Sell Feet Pics</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-17 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,22 +301,13 @@
                 <span class="time">2026-04-17 17:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776387508-20260417.png" alt="Saturday Morning Breakfast Cereal - Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/same-3" target="_blank">Saturday Morning Breakfast Cereal - Same</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
