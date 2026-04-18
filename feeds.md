@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 11:10:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-18 12:06:41 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 11:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5781293/opinion-remembering-kevin-klose-former-npr-president-and-broadcasting-icon" target="_blank">Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss" target="_blank">Displaced Lebanese return as Israeli shelling violates ceasefire in south</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 11:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +97,20 @@
                 <span class="time">2026-04-18 09:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss" target="_blank">Iran has learned that the Strait of Hormuz is its strongest deterrent</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca87/live/49127490-3af9-11f1-be03-8bbe7ad91075.jpg" alt="Senior official ousted over Mandelson security row to face MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss" target="_blank">Senior official ousted over Mandelson security row to face MPs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-18 07:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2" target="_blank">There’s nothing like an RPG over vacation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-515714114-500x500.jpg" alt="Great white sharks are overheating" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +118,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/" target="_blank">Great white sharks are overheating</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-18 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e2927e26dabb307b73e8ca/master/pass/Your-Outdoor-Smart-Home-Gear-Doesn't-Have-To-Be-Ugly.jpg" alt="The Best Smart Home Accessories to Boost Your Curb Appeal (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/smart-home-curb-appeal/" target="_blank">The Best Smart Home Accessories to Boost Your Curb Appeal (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-18 11:02</span>
             </div>
         </div>
 <div class="story">
@@ -143,29 +156,20 @@
                 <span class="time">2026-04-17 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-500x500.jpg" alt="US-sanctioned currency exchange says $15 million heist done by &quot;unfriendly states&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/" target="_blank">US-sanctioned currency exchange says $15 million heist done by &quot;unfriendly states&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-17 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing" target="_blank">OpenAI’s former Sora boss is leaving</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-17 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Scheduler" target="_blank">Linux 7.1 Scheduler Changes May Benefit Some Workloads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-18 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/effect-v4-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-18 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://abuseofnotation.github.io/category-theory-illustrated/04_order/" target="_blank">Category Theory Illustrated – Orders</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 06:40</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 11:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
