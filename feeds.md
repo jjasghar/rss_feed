@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 10:11:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-18 11:10:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 10:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 11:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260418-hormuz-nd-63b3e5.jpg" alt="Iran reimposes &#x27;strict control&#x27; over Strait of Hormuz, citing continued U.S. naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-reimposes-strict-control-strait-hormuz-citing-continued-us-naval-rcna340765" target="_blank">Iran reimposes &#x27;strict control&#x27; over Strait of Hormuz, citing continued U.S. naval blockade</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-18 09:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +102,20 @@
                 <span class="time">2026-04-18 07:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump-arizona_7223235.jpg?20260418083455" alt="&#x27;Very interesting documents&#x27; related to UFOs will be released &#x27;soon&#x27;, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/very-interesting-documents-related-to-ufos-will-be-released-soon-says-trump-13533225" target="_blank">&#x27;Very interesting documents&#x27; related to UFOs will be released &#x27;soon&#x27;, says Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-18 07:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-515714114-500x500.jpg" alt="Great white sharks are overheating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/" target="_blank">Great white sharks are overheating</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-18 11:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e2785f18346d309af9882b/master/pass/LonelyRunnercr-MarkBelan-Lede.gif" alt="The ‘Lonely Runner’ Problem Only Appears Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +161,20 @@
                 <span class="time">2026-04-17 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/" target="_blank">Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip" target="_blank">Building a Modern Open Knowledge Ecosystem: Introducing Mippedia</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="time">2026-04-18 06:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/becarpenter/misc/blob/main/why6why.md" target="_blank">Why is IPv6 so complicated?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +232,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html" target="_blank">Friday Squid Blogging: New Giant Squid Video</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-04-17 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html" target="_blank">Mythos and Cybersecurity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-17 11:02</span>
             </div>
         </div>
 </div>
@@ -327,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 11:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
