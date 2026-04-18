@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 09:13:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 10:11:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 10:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5761904/lebanon-war-israel-hezbollah-displacement-ceasefire" target="_blank">Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-18 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-main_1776503534094_hpMain_4x3t_384.jpg" alt="Iran live updates: Strait of Hormuz returns to &#x27;previous state,&#x27; Iranian TV reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Strait of Hormuz returns to &#x27;previous state,&#x27; Iranian TV reports</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-18 09:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-gaggle-rt-jt-260417_1776460122109_hpMain_4x3t_384.jpg" alt="Iran live updates: Strait of Hormuz returns to &#x27;previous state,’ Iranian TV reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump-arizona_7223235.jpg?20260418083455" alt="&#x27;Very interesting documents&#x27; related to UFOs will be released &#x27;soon&#x27;, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss" target="_blank">Israeli police destroy children’s footballs at Al-Aqsa mosque</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/18/curry-warriors-knocked-out-of-nba-play-in-tournament-by-suns?traffic_source=rss" target="_blank">Curry, Warriors knocked out of NBA play-in tournament by Suns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/nx-s1-5789059/judge-halts-nexstar-tegna-merger-lawsuits" target="_blank">Judge halts local TV giant Nexstar&#x27;s takeover of rival Tegna until trial</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 02:24</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/very-interesting-documents-related-to-ufos-will-be-released-soon-says-trump-13533225" target="_blank">&#x27;Very interesting documents&#x27; related to UFOs will be released &#x27;soon&#x27;, says Trump</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-18 07:15</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-Session" target="_blank">KDE Plasma 6.7 Ready With Wayland Session Management, Other New Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-18 10:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/04/pulumi-bun-support/en/headerimage/generatedHeaderImage-1776413456207.jpg" alt="Pulumi Adds Full Bun Runtime Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -212,15 +215,6 @@
                 <span class="title"><a href="https://github.com/becarpenter/misc/blob/main/why6why.md" target="_blank">Why is IPv6 so complicated?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-18 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrm2lsrd0moitu3qtxfu.png" alt="Examlock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zheyuse/examlock-257m" target="_blank">Examlock</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 02:42</span>
             </div>
         </div>
 </div>
@@ -333,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
