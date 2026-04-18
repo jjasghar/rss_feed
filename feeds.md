@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 12:06:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 13:24:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/04/18/nx-s1-5766110/overfishing-in-southeast-asia" target="_blank">Photos: How overfishing in Southeast Asia is an ecological and human crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/18/irans-deputy-fm-says-no-date-for-more-us-talks-until-framework-agreed?traffic_source=rss" target="_blank">Iran’s deputy FM says no date for more US talks until ‘framework’ agreed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5781293/opinion-remembering-kevin-klose-former-npr-president-and-broadcasting-icon" target="_blank">Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-18 12:00</span>
@@ -62,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0be/live/f8d1c890-3b26-11f1-879d-1b2f5c3919b8.jpg" alt="Madonna joins Sabrina Carpenter to surprise Coachella" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss" target="_blank">Madonna joins Sabrina Carpenter to surprise Coachella</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-18 10:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -70,38 +104,20 @@
                 <span class="time">2026-04-18 10:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-main_1776503534094_hpMain_4x3t_384.jpg" alt="Iran live updates: Strait of Hormuz returns to &#x27;previous state,&#x27; Iranian TV reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Strait of Hormuz returns to &#x27;previous state,&#x27; Iranian TV reports</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-18 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-gaggle-rt-jt-260417_1776460122109_hpMain_4x3t_384.jpg" alt="Iran live updates: Strait of Hormuz returns to &#x27;previous state,’ Iranian TV reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Strait of Hormuz returns to &#x27;previous state,’ Iranian TV reports</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-18 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260418-hormuz-nd-63b3e5.jpg" alt="Iran reimposes &#x27;strict control&#x27; over Strait of Hormuz, citing continued U.S. naval blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-reimposes-strict-control-strait-hormuz-citing-continued-us-naval-rcna340765" target="_blank">Iran reimposes &#x27;strict control&#x27; over Strait of Hormuz, citing continued U.S. naval blockade</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-18 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/" target="_blank">The App Store is booming again, and AI may be why</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,29 @@
                 <span class="time">2026-04-18 05:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/" target="_blank">Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-17 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/basteez/crossposting-without-the-copy-paste-a-github-action-from-hugo-to-devto-52go" target="_blank">Crossposting without the copy-paste: a GitHub Action from Hugo to dev.to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 13:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kdenlive.org/news/2026/state-2026/" target="_blank">State of Kdenlive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-18 11:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/pulumi-bun-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Adds Full Bun Runtime Support</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-eae" target="_blank">Top 10 Free APIs to Build Profitable Side Projects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/effect-v4-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Effect v4 Beta: Rewritten Runtime, Smaller Bundles and Unified Package System</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-18 07:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
