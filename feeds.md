@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 05:30:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 06:21:22 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 05:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 06:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/18/curry-warriors-knocked-out-of-nba-play-in-tournament-by-suns?traffic_source=rss" target="_blank">Curry, Warriors knocked out of NBA play-in tournament by Suns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 05:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-says-it-reopened-strait-of-hormuz-261596229887" target="_blank">Iran says it reopened Strait of Hormuz</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-17 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/17/nx-s1-5775921/animal-activists-are-celebrating-their-first-global-sanctuary-day" target="_blank">Animal activists celebrate their first global &#x27;Sanctuary Day&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-17 22:26</span>
             </div>
         </div>
 </div>
@@ -178,6 +184,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-New-NTFS-Driver" target="_blank">The &quot;NTFS Resurrection&quot; Has Occurred For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-18 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dan52242644dan/devchallenge-openclawchallenge-2ck3" target="_blank">#DevChallenge #openclawchallenge</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/yogesh_bhavsar/convert-an-asp-net-mvc-application-to-vue-js-3-ts-page-by-page-4djn" target="_blank">Convert an ASP .NET MVC application to Vue JS 3 TS page-by-page</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo" target="_blank">Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 21:09</span>
             </div>
         </div>
 </div>
@@ -330,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
