@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 00:12:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 01:31:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,21 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260416_1776363628189_hpMain_4x3t_384.jpg" alt="Trump tells ABC News he thinks he can trust the Iranians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-tells-abc-news-thinks-trust-iranians/story?id=132142888" target="_blank">Trump tells ABC News he thinks he can trust the Iranians</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-17 20:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss" target="_blank">Lebanon president says country is no longer a pawn amid Israel ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-17 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran &#x27;fully&#x27; opens the Strait of Hormuz, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran &#x27;fully&#x27; opens the Strait of Hormuz, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-17 19:50</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyLKHNBx6EfsfONw6Xitzt4RcX9leNtGai6SVjTwLzroHFZnTxYpN52n2C76rvhfNAMSzAcmmAO4fOiQ4kQMPIVNbIU-j9Pt7Es2NV8ESx1okONq_Vn1%3Dw1200-h630-p" alt="GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l" target="_blank">GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 01:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +215,6 @@
                 <span class="time">2026-04-17 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941173&w=600" alt="Why Angular Performance Problems Are Often Backend Problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-angular-performance-problems-are-often" target="_blank">Why Angular Performance Problems Are Often Backend Problems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-17 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +244,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNPCMP58XWTKSJ49JMKTGVBQ/hero-image.png" alt="This Compact HP Mini Desktop Is on Sale for Just $320 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hp-mini-desktop-stacksocial-sale-april-2026?utm_medium=RSS" target="_blank">This Compact HP Mini Desktop Is on Sale for Just $320 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/lastflag1-1920x1080-81ec35067442-1280x720.jpg" alt="Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/even-the-lead-singer-of-imagine-dragons-can-barely-get-anyone-to-play-his-live-service-game-2000688643" target="_blank">Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-17 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/asimov.jpg?fit=1200%2C781&amp;quality=60&amp;ssl=1" alt="Asimov&#x27;s favorite story: &quot;The Last Question&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/17/asimovs-favorite-story-the-last-question.html" target="_blank">Asimov&#x27;s favorite story: &quot;The Last Question&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-17 22:10</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/pragmata-hugh-diana-dad-game-drawings-earth-memories-2000688610" target="_blank">Pragmata Isn’t A ‘Sad Dad’ Game, It’s A Game That Loves Fatherhood, And That Rules</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-17 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPEAXW58MTY3B2Z05Y0WJ0W8/hero-image.jpg" alt="Starbucks’ New ChatGPT Integration Is a Potential Privacy Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-starbucks-integration-privacy?utm_medium=RSS" target="_blank">Starbucks’ New ChatGPT Integration Is a Potential Privacy Nightmare</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPE24WGR7W2T8989VPE3RPZH/hero-image.png" alt="This Android Setting Makes It Easy to Manage All Your App Permissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-manage-app-permissions-menu?utm_medium=RSS" target="_blank">This Android Setting Makes It Easy to Manage All Your App Permissions</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-17 19:30</span>
             </div>
         </div>
 </div>
@@ -330,12 +330,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5810.png" alt="Watching The Watchman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/europa_missions.png" alt="Europa Missions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5810" target="_blank">Watching The Watchman</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-17 00:59</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3234/" target="_blank">Europa Missions</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-17 04:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
