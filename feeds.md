@@ -1,42 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 14:12:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 15:10:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 14:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 15:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/unicef-outraged-after-israeli-forces-kill-water-truck-drivers-in-gaza?traffic_source=rss" target="_blank">UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5781293/opinion-remembering-kevin-klose-former-npr-president-and-broadcasting-icon" target="_blank">Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss" target="_blank">Displaced Lebanese return as Israeli shelling violates ceasefire in south</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 11:53</span>
             </div>
         </div>
 </div>
@@ -174,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/doru_gradinaru_889c1b8687/how-i-stopped-retry-storms-from-destroying-my-scraping-budget-5b7e" target="_blank">How I Stopped Retry Storms from Destroying My Scraping Budget</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj" target="_blank">Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/" target="_blank">Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-18 13:29</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Scheduler" target="_blank">Linux 7.1 Scheduler Changes May Benefit Some Workloads</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-18 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip" target="_blank">Building a Modern Open Knowledge Ecosystem: Introducing Mippedia</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-Session" target="_blank">KDE Plasma 6.7 Ready With Wayland Session Management, Other New Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-18 10:05</span>
             </div>
         </div>
 </div>
@@ -325,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
