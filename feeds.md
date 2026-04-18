@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 13:24:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-18 14:12:16 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 14:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss" target="_blank">Trump claims on Iranian concessions trigger questions, rejections in Tehran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776516207451_tdy_sat_raf_iran_strait_of_hormuz_260418_S3_1920x1080-mb2pcs.jpg" alt="Iran Closes of Strait of Hormuz After Announcing Its Reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/iran-says-strait-of-hormuz-is-closed-again-over-us-port-blockade-261630021544" target="_blank">Iran Closes of Strait of Hormuz After Announcing Its Reopening</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-18 12:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -84,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south?traffic_source=rss" target="_blank">Displaced Lebanese return as Israeli shelling violates ceasefire in south</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-18 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0be/live/f8d1c890-3b26-11f1-879d-1b2f5c3919b8.jpg" alt="Madonna joins Sabrina Carpenter to surprise Coachella" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss" target="_blank">Madonna joins Sabrina Carpenter to surprise Coachella</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-18 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5761904/lebanon-war-israel-hezbollah-displacement-ceasefire" target="_blank">Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 10:02</span>
             </div>
         </div>
 </div>
@@ -172,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj" target="_blank">Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/basteez/crossposting-without-the-copy-paste-a-github-action-from-hugo-to-devto-52go" target="_blank">Crossposting without the copy-paste: a GitHub Action from Hugo to dev.to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 13:21</span>
@@ -213,15 +224,6 @@
                 <span class="time">2026-04-18 10:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/pulumi-bun-support/en/headerimage/generatedHeaderImage-1776413456207.jpg" alt="Pulumi Adds Full Bun Runtime Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/pulumi-bun-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Adds Full Bun Runtime Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-18 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spire-22-1280x720.jpg" alt="As Slay The Spire 2 Continues To Dominate, Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird Eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/as-slay-the-spire-2-continues-to-dominate-devs-outline-the-future-roadmap-and-confirm-49-percent-of-you-monsters-have-been-eating-the-bird-eggsegg-2000688668" target="_blank">As Slay The Spire 2 Continues To Dominate, Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird Eggs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-18 11:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/angry-mario-1280x703.jpg" alt="New York Mayor Uses Mario Kart To Explain Politics: ‘We Need To Beat Bowser On The Rainbow Road’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +297,6 @@
                 <span class="time">2026-04-17 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/mickey-el-gaucho.jpg?fit=1080%2C904&amp;quality=60&amp;ssl=1" alt="Mice that ate artificial sweeteners passed metabolic changes to their grandchildren" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/17/mice-that-ate-artificial-sweeteners-passed-metabolic-changes-to-their-grandchildren.html" target="_blank">Mice that ate artificial sweeteners passed metabolic changes to their grandchildren</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-17 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
