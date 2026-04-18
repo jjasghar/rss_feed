@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 22:05:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 23:08:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 22:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 23:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260418-tpusa-ch-1611-11aa4b.jpg" alt="Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604" target="_blank">Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-18 22:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +106,20 @@
                 <span class="time">2026-04-18 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ships-tankers-hormuz-02-rt-jt-260418_1776528923635_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran reviewing US proposal as it reasserts control over strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Tehran reviewing US proposal as it reasserts control over strait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-18 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years" target="_blank">The RAM shortage could last years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-18 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +165,20 @@
                 <span class="time">2026-04-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-515714114-500x500.jpg" alt="Great white sharks are overheating" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/" target="_blank">Great white sharks are overheating</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-18 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftcn79zc2s7ae5jg1fkie.png" alt="How to Fix Spotify&#x27;s Ugly Blue Titlebar on Gnome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk" target="_blank">How to Fix Spotify&#x27;s Ugly Blue Titlebar on Gnome</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 23:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +224,20 @@
                 <span class="time">2026-04-18 16:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8x3psrek5fnpfzblgq9.png" alt="Day 60: Decoupling State and CloudWatch FinOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ericrodriguez10/day-60-decoupling-state-and-cloudwatch-finops-4g5f" target="_blank">Day 60: Decoupling State and CloudWatch FinOps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/moonchild.jpg" alt="Developers Of ’90s Amiga Prototype ‘Moon Child’ Resurface To Bask In All The Shitposts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/developers-of-moon-child-resurface-to-bask-in-all-the-shitposts-amiga-prototype-2000688827" target="_blank">Developers Of ’90s Amiga Prototype ‘Moon Child’ Resurface To Bask In All The Shitposts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-18 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Mail-Backup-X-Individual-Edition.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Shield your emails from harm with Mail Backup X for just $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +283,6 @@
                 <span class="time">2026-04-18 11:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/angry-mario-1280x703.jpg" alt="New York Mayor Uses Mario Kart To Explain Politics: ‘We Need To Beat Bowser On The Rainbow Road’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-zohran-mamdani-tax-rich-2000688646" target="_blank">New York Mayor Uses Mario Kart To Explain Politics: ‘We Need To Beat Bowser On The Rainbow Road’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-17 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
