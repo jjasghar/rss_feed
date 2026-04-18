@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 16:08:15 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-18 17:09:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef8/live/e34c92d0-3b43-11f1-9e4f-cdab8de3fb0a.png" alt="At least six killed in Kyiv as gunman opens fire and takes hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss" target="_blank">At least six killed in Kyiv as gunman opens fire and takes hostages</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-18 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ships-tankers-hormuz-02-rt-jt-260418_1776528923635_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran reviewing US proposal as it reasserts control over strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Tehran reviewing US proposal as it reasserts control over strait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-18 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2026-04-18 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776516207451_tdy_sat_raf_iran_strait_of_hormuz_260418_S3_1920x1080-mb2pcs.jpg" alt="Iran Closes of Strait of Hormuz After Announcing Its Reopening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/iran-says-strait-of-hormuz-is-closed-again-over-us-port-blockade-261630021544" target="_blank">Iran Closes of Strait of Hormuz After Announcing Its Reopening</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-18 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5781293/opinion-remembering-kevin-klose-former-npr-president-and-broadcasting-icon" target="_blank">Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking" target="_blank">Judge rules Trump administration violated the First Amendment in fight against ICE-tracking</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-18 16:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2026-04-18 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2927e26dabb307b73e8ca/master/pass/Your-Outdoor-Smart-Home-Gear-Doesn't-Have-To-Be-Ugly.jpg" alt="The Best Smart Home Accessories to Boost Your Curb Appeal (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/smart-home-curb-appeal/" target="_blank">The Best Smart Home Accessories to Boost Your Curb Appeal (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-18 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toniantunovic/ai-agents-generate-code-that-passes-your-tests-that-is-the-problem-56jb" target="_blank">AI Agents Generate Code That Passes Your Tests. That Is the Problem.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 17:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8x3psrek5fnpfzblgq9.png" alt="Day 60: Decoupling State and CloudWatch FinOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/basteez/crossposting-without-the-copy-paste-a-github-action-from-hugo-to-devto-52go" target="_blank">Crossposting without the copy-paste: a GitHub Action from Hugo to dev.to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kdenlive.org/news/2026/state-2026/" target="_blank">State of Kdenlive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 11:42</span>
             </div>
         </div>
 </div>
@@ -293,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776383978-20260418.png" alt="Saturday Morning Breakfast Cereal - Dreams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dreams-2" target="_blank">Saturday Morning Breakfast Cereal - Dreams</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-18 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
