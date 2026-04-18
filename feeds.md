@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 01:31:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-18 02:58:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 01:31 UTC</div>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 02:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/18/lebanese-man-removes-israeli-flag-from-castle-in-southern-lebanon?traffic_source=rss" target="_blank">Lebanese man removes Israeli flag from castle in southern Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gaggle-rt-jt-260417_1776460122109_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran pushes back on Trump&#x27;s claims about agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran pushes back on Trump&#x27;s claims about agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-18 00:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +103,6 @@
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump delivers remarks at Turning Point USA event: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-17 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260416_1776363628189_hpMain_4x3t_384.jpg" alt="Trump tells ABC News he thinks he can trust the Iranians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-tells-abc-news-thinks-trust-iranians/story?id=132142888" target="_blank">Trump tells ABC News he thinks he can trust the Iranians</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-17 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss" target="_blank">Lebanon president says country is no longer a pawn amid Israel ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-17 20:45</span>
             </div>
         </div>
 </div>
@@ -162,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxrm2lsrd0moitu3qtxfu.png" alt="Examlock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zheyuse/examlock-257m" target="_blank">Examlock</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-18 02:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyLKHNBx6EfsfONw6Xitzt4RcX9leNtGai6SVjTwLzroHFZnTxYpN52n2C76rvhfNAMSzAcmmAO4fOiQ4kQMPIVNbIU-j9Pt7Es2NV8ESx1okONq_Vn1%3Dw1200-h630-p" alt="GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +223,6 @@
                 <span class="time">2026-04-17 21:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs3hrcwoqk2p3766m6vgs.png" alt="Proven SSL Certificate Renewal Steps to Protect Your Site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/monstermegs/proven-ssl-certificate-renewal-steps-to-protect-your-site-2kpp" target="_blank">Proven SSL Certificate Renewal Steps to Protect Your Site</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-17 20:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/angry-mario-1280x703.jpg" alt="New York Mayor Uses Mario Kart To Explain Politics: ‘We Need To Beat Bowser On The Rainbow Road’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-zohran-mamdani-tax-rich-2000688646" target="_blank">New York Mayor Uses Mario Kart To Explain Politics: ‘We Need To Beat Bowser On The Rainbow Road’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-17 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KNPCMP58XWTKSJ49JMKTGVBQ/hero-image.png" alt="This Compact HP Mini Desktop Is on Sale for Just $320 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/17/mice-that-ate-artificial-sweeteners-passed-metabolic-changes-to-their-grandchildren.html" target="_blank">Mice that ate artificial sweeteners passed metabolic changes to their grandchildren</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-17 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2862-1280x720.jpg" alt="Pragmata Isn’t A ‘Sad Dad’ Game, It’s A Game That Loves Fatherhood, And That Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pragmata-hugh-diana-dad-game-drawings-earth-memories-2000688610" target="_blank">Pragmata Isn’t A ‘Sad Dad’ Game, It’s A Game That Loves Fatherhood, And That Rules</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-17 20:34</span>
             </div>
         </div>
 </div>
@@ -344,7 +352,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:31 UTC
+        🔄 Last Updated: 02:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
