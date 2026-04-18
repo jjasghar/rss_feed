@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 08:11:07 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-18 09:13:51 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 08:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gaggle-rt-jt-260417_1776460122109_hpMain_4x3t_384.jpg" alt="Iran live updates: Strait of Hormuz returns to &#x27;previous state,’ Iranian TV reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Strait of Hormuz returns to &#x27;previous state,’ Iranian TV reports</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-18 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss" target="_blank">Iran has learned that the Strait of Hormuz is its strongest deterrent</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 08:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca87/live/49127490-3af9-11f1-be03-8bbe7ad91075.jpg" alt="Senior official ousted over Mandelson security row to face MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +105,20 @@
                 <span class="time">2026-04-18 02:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/18/lebanese-man-removes-israeli-flag-from-castle-in-southern-lebanon?traffic_source=rss" target="_blank">Lebanese man removes Israeli flag from castle in southern Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-gaggle-rt-jt-260417_1776460122109_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran pushes back on Trump&#x27;s claims about agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iran pushes back on Trump&#x27;s claims about agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-18 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e2785f18346d309af9882b/master/pass/LonelyRunnercr-MarkBelan-Lede.gif" alt="The ‘Lonely Runner’ Problem Only Appears Simple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/" target="_blank">The ‘Lonely Runner’ Problem Only Appears Simple</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-18 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +164,20 @@
                 <span class="time">2026-04-17 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e28bd5c90ceaca5deef659/master/pass/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg" alt="OpenAI Executive Kevin Weil Is Leaving the Company" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/" target="_blank">OpenAI Executive Kevin Weil Is Leaving the Company</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-17 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/pulumi-bun-support/en/headerimage/generatedHeaderImage-1776413456207.jpg" alt="Pulumi Adds Full Bun Runtime Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/pulumi-bun-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Adds Full Bun Runtime Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-18 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/zheyuse/examlock-257m" target="_blank">Examlock</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocs%2FAHkbwyLKHNBx6EfsfONw6Xitzt4RcX9leNtGai6SVjTwLzroHFZnTxYpN52n2C76rvhfNAMSzAcmmAO4fOiQ4kQMPIVNbIU-j9Pt7Es2NV8ESx1okONq_Vn1%3Dw1200-h630-p" alt="GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l" target="_blank">GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 01:23</span>
             </div>
         </div>
 </div>
@@ -326,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
