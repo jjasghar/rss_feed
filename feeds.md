@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-18 18:08:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-04-18 19:14:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, April 18, 2026 - 18:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, April 18, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health" target="_blank">Trump signs order fast tracking review of psychedelics for mental health disorders</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-18 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss" target="_blank">Ukraine police shoot dead gunman who killed six in Kyiv, took hostages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-18 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef8/live/e34c92d0-3b43-11f1-9e4f-cdab8de3fb0a.png" alt="At least six killed in Kyiv as gunman opens fire and takes hostages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/unicef-outraged-after-israeli-forces-kill-water-truck-drivers-in-gaza?traffic_source=rss" target="_blank">UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-18 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-kyiv-shooting-ukraine_7223623.jpg?20260418164107" alt="At least six killed in Kyiv shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/several-killed-in-kyiv-shooting-as-operation-to-detain-gunman-ongoing-13533299" target="_blank">At least six killed in Kyiv shooting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-18 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss" target="_blank">Trump claims on Iranian concessions trigger questions, rejections in Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 13:03</span>
             </div>
         </div>
 </div>
@@ -160,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-2026-New-SMCA-Bank-Types" target="_blank">Linux 7.1 Adds New AMD SMCA Bank Types, Presumably For Upcoming EPYC Venice</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-18 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toniantunovic/ai-agents-generate-code-that-passes-your-tests-that-is-the-problem-56jb" target="_blank">AI Agents Generate Code That Passes Your Tests. That Is the Problem.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html" target="_blank">The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-18 16:26</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +219,6 @@
                 <span class="time">2026-04-18 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/" target="_blank">Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/basteez/crossposting-without-the-copy-paste-a-github-action-from-hugo-to-devto-52go" target="_blank">Crossposting without the copy-paste: a GitHub Action from Hugo to dev.to</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 13:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +245,15 @@
                 <span class="title"><a href="https://kotaku.com/all-the-sequels-and-handful-of-non-sequels-at-cinemacon-2000688808" target="_blank">All The Sequels (And Handful Of Non-Sequels) At CinemaCon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-18 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KMFEMBMSP1X094ES34SPHR3Y/hero-image.png" alt="You Should Start Spring Cleaning With This Dyson Cordless Vacuum While It&#x27;s on Sale for Over $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dyson-v15-cordless-vacuum-stacksocial-sale-april-2018?utm_medium=RSS" target="_blank">You Should Start Spring Cleaning With This Dyson Cordless Vacuum While It&#x27;s on Sale for Over $200 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-18 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -275,15 +292,6 @@
                 <span class="time">2026-04-17 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/lastflag1-1920x1080-81ec35067442-1280x720.jpg" alt="Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/even-the-lead-singer-of-imagine-dragons-can-barely-get-anyone-to-play-his-live-service-game-2000688643" target="_blank">Even The Lead Singer Of Imagine Dragons Can Barely Get Anyone To Play His Live-Service Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-17 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:08 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
