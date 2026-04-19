@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 13:24:14 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-19 14:12:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 13:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 14:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss" target="_blank">Displaced Lebanese woman returns to find home destroyed after ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 13:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260419-nbc-news-poll-trump-2x1-jg-d90c25.jpg" alt="Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +105,29 @@
                 <span class="time">2026-04-19 09:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7c/live/680a2ee0-3ba0-11f1-8606-05fe34b06e1b.jpg" alt="Starmer would have blocked Mandelson over vetting failure, says Lammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer would have blocked Mandelson over vetting failure, says Lammy</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 07:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk" target="_blank">The Stars My Destination is classic proto-cyberpunk</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/" target="_blank">Cracks are starting to form on fusion energy’s funding boom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-19 12:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +164,29 @@
                 <span class="time">2026-04-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2d81939c62e0b45b3e304/master/pass/The-Best-Pet-Cameras-of-2026.jpg" alt="The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pet-cameras/" target="_blank">The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-19 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/" target="_blank">Tesla brings its robotaxi service to Dallas and Houston</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-18 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robertatkinson3570/screaming-frog-gave-me-10000-errors-here-3009" target="_blank">Screaming Frog Gave Me 10,000 Errors. Here</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux" target="_blank">Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-19 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2.4 released with fresh set of bug fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/itprepvn/handy-agent-2026-from-chatbot-to-autonomous-ai-systems-ejh" target="_blank">Handy Agent 2026 – From Chatbot to Autonomous AI Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 09:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321728/mozillas-firefox-mascot-gender-controversy" target="_blank">Mozilla’s New Firefox Mascot ‘Kit’ Triggers Online Backlash Over Pronouns</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-19 09:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf" target="_blank">SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-19 08:45</span>
             </div>
         </div>
 </div>
@@ -286,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:24 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
