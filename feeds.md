@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 01:31:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 02:59:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,12 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg" alt="Strait of Hormuz closed again, Iran says, as ships attacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine" target="_blank">A mass shooting in Ukraine&#x27;s capital leaves 6 dead before police shot and killed the gunman</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 20:43</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss" target="_blank">Strait of Hormuz closed again, Iran says, as ships attacked</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-18 21:19</span>
             </div>
         </div>
 </div>
@@ -160,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio" target="_blank">Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 02:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/kdenlive-audio-minimap.jpg?resize=406%2C232&amp;ssl=1" alt="Type with your voice on Linux using this Whisper-based app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/speed-of-sound-linux-voice-typing-app" target="_blank">Type with your voice on Linux using this Whisper-based app</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-19 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Block-Changes" target="_blank">Linux 7.1 Sees RAID Fixes, IO_uring Enhancements</a></span>
                 <span class="feed">Phoronix</span>
@@ -191,24 +218,6 @@
                 <span class="title"><a href="https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits" target="_blank">NIST scientists create &#x27;any wavelength&#x27; lasers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-18 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GhostBSD-26.1-R15.0p2" target="_blank">GhostBSD 26.1 Now Based On FreeBSD 15.0, Switches to XLibre X Server</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-18 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-2026-New-SMCA-Bank-Types" target="_blank">Linux 7.1 Adds New AMD SMCA Bank Types, Presumably For Upcoming EPYC Venice</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-18 18:41</span>
             </div>
         </div>
 </div>
@@ -290,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:31 UTC
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
