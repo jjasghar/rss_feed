@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 18:08:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-04-19 19:14:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 18:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 19:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss" target="_blank">Iran and Israel: From friends to enemies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png" alt="Eight children killed in Louisiana shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/poll-trumps-approval-rating-hits-second-term-low-economy-iran-war-rcna331462" target="_blank">Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-19 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776602944917_tdy_sun_welker_trump_iran_poll_260419_S3_1920x1080-4zc60h.jpg" alt="NBC News Poll: 67% Disapprove of Trump’s Handling of Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/nbc-news-poll-67-disapprove-of-trump-s-handling-of-iran-war-261665861617" target="_blank">NBC News Poll: 67% Disapprove of Trump’s Handling of Iran War</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-19 12:49</span>
             </div>
         </div>
 </div>
@@ -185,6 +182,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/" target="_blank">Vercel says internal systems hit in breach</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-19 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/" target="_blank">Vercel Says Internal Systems Hit in Breach</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-19 15:23</span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux" target="_blank">Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-19 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2.4 released with fresh set of bug fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/gimp-3-2-4-bug-fix-update" target="_blank">GIMP 3.2.4 released with fresh set of bug fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-19 12:15</span>
             </div>
         </div>
 </div>
@@ -268,8 +265,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:09 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
