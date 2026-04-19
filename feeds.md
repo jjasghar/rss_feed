@@ -1,29 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 00:12:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 01:31:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles" target="_blank">North Korea launches ballistic missiles toward sea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-19 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss" target="_blank">North Korea launches ballistic missiles towards sea off its east coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine" target="_blank">A mass shooting in Ukraine&#x27;s capital leaves 6 dead before police shot and killed the gunman</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-18 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health" target="_blank">Trump signs order fast tracking review of psychedelics for mental health disorders</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss" target="_blank">Ukraine police shoot dead gunman who killed six in Kyiv, took hostages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-18 18:02</span>
             </div>
         </div>
 </div>
@@ -158,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Block-Changes" target="_blank">Linux 7.1 Sees RAID Fixes, IO_uring Enhancements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-19 00:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftcn79zc2s7ae5jg1fkie.png" alt="How to Fix Spotify&#x27;s Ugly Blue Titlebar on Gnome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,6 +187,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits" target="_blank">NIST scientists create &#x27;any wavelength&#x27; lasers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-18 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GhostBSD-26.1-R15.0p2" target="_blank">GhostBSD 26.1 Now Based On FreeBSD 15.0, Switches to XLibre X Server</a></span>
                 <span class="feed">Phoronix</span>
@@ -191,24 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-2026-New-SMCA-Bank-Types" target="_blank">Linux 7.1 Adds New AMD SMCA Bank Types, Presumably For Upcoming EPYC Venice</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-18 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toniantunovic/ai-agents-generate-code-that-passes-your-tests-that-is-the-problem-56jb" target="_blank">AI Agents Generate Code That Passes Your Tests. That Is the Problem.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html" target="_blank">The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 16:26</span>
             </div>
         </div>
 </div>
@@ -289,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
