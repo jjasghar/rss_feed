@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 09:13:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-19 10:11:32 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 10:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -175,6 +177,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321728/mozillas-firefox-mascot-gender-controversy" target="_blank">Mozilla’s New Firefox Mascot ‘Kit’ Triggers Online Backlash Over Pronouns</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-19 09:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf" target="_blank">SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-19 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321709/age-verification-tobacco-moment" target="_blank">Won’t Somebody Think of the Children? Why Big Tech’s ‘Tobacco Moment’ Isn’t What It Seems</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-19 07:27</span>
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/rnilav/attention-mechanisms-stop-compressing-start-looking-back-1bol" target="_blank">Attention Mechanisms: Stop Compressing, Start Looking Back</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 05:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/en/headerimage/generatedHeaderImage-1776570139748.jpg" alt="Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-19 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rapls/building-a-yu-japanese-suggest-without-ime-access-ggi" target="_blank">Building &quot;あ&quot; -&gt; &quot;雨&quot;: Japanese Suggest Without IME Access</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 03:55</span>
             </div>
         </div>
 </div>
@@ -294,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
