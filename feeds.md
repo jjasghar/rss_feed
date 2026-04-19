@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 04:08:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 05:41:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 05:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/why-britains-far-right-celebrates-a-saint-revered-in-palestine?traffic_source=rss" target="_blank">Why Britain’s far-right celebrates a saint revered in Palestine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/iran-declares-strait-of-hormuz-closed-in-response-to-u-s-navy-blockade-261649477912" target="_blank">Iran declares Strait of Hormuz closed in response to U.S. Navy blockade</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-18 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260418-tpusa-ch-1611-11aa4b.jpg" alt="Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604" target="_blank">Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-18 22:39</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rnilav/attention-mechanisms-stop-compressing-start-looking-back-1bol" target="_blank">Attention Mechanisms: Stop Compressing, Start Looking Back</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 05:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/en/headerimage/generatedHeaderImage-1776570139748.jpg" alt="Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google’s Aletheia Advances the State of the Art of Fully Autonomous Agentic Math Research</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-19 04:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rapls/building-a-yu-japanese-suggest-without-ime-access-ggi" target="_blank">Building &quot;あ&quot; -&gt; &quot;雨&quot;: Japanese Suggest Without IME Access</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 03:55</span>
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Block-Changes" target="_blank">Linux 7.1 Sees RAID Fixes, IO_uring Enhancements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-19 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftcn79zc2s7ae5jg1fkie.png" alt="How to Fix Spotify&#x27;s Ugly Blue Titlebar on Gnome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk" target="_blank">How to Fix Spotify&#x27;s Ugly Blue Titlebar on Gnome</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pioneer10/why-your-json-keeps-breaking-and-how-to-fix-it-fast-2lej" target="_blank">Why Your JSON Keeps Breaking (And How to Fix It Fast)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-18 21:48</span>
             </div>
         </div>
 </div>
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
