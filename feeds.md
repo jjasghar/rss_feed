@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 02:59:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 04:08:56 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/19/lebron-lakers-shock-rockets-with-game-1-win-in-nba-playoffs?traffic_source=rss" target="_blank">LeBron, Lakers shock Rockets with Game 1 win in NBA playoffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 03:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776553717526_wnn_ras_iran_says_strait_is_closed_260418_S3_1920x1080-bqrfcf.jpg" alt="Iran declares Strait of Hormuz closed in response to U.S. Navy blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/iran-declares-strait-of-hormuz-closed-in-response-to-u-s-navy-blockade-261649477912" target="_blank">Iran declares Strait of Hormuz closed in response to U.S. Navy blockade</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-18 23:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260418-tpusa-ch-1611-11aa4b.jpg" alt="Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604" target="_blank">Trump voters say the pope should &#x27;stay in his lane&#x27; and butt out of the Iran war</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-18 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction" target="_blank">Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-18 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg" alt="Strait of Hormuz closed again, Iran says, as ships attacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss" target="_blank">Strait of Hormuz closed again, Iran says, as ships attacked</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-18 21:19</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rapls/building-a-yu-japanese-suggest-without-ime-access-ggi" target="_blank">Building &quot;あ&quot; -&gt; &quot;雨&quot;: Japanese Suggest Without IME Access</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio" target="_blank">Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 02:54</span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/pioneer10/why-your-json-keeps-breaking-and-how-to-fix-it-fast-2lej" target="_blank">Why Your JSON Keeps Breaking (And How to Fix It Fast)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-18 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits" target="_blank">NIST scientists create &#x27;any wavelength&#x27; lasers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-18 20:54</span>
             </div>
         </div>
 </div>
@@ -298,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
