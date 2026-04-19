@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 12:06:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 13:24:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 12:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 13:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260419-nbc-news-poll-trump-2x1-jg-d90c25.jpg" alt="Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/poll-trumps-approval-rating-hits-second-term-low-economy-iran-war-rcna331462" target="_blank">Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india" target="_blank">Photos: In this part of the world, nearly every chile pepper farmer is a woman</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-19 11:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5786242/profit-landlord-real-estate-investment-trust-nursing-homes-safety" target="_blank">Real estate investors are buying up long-term care facilities. Residents can suffer</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/strait-main_1776589771677_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian leader vows &#x27;new defeats&#x27; for US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iranian leader vows &#x27;new defeats&#x27; for US</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-19 10:02</span>
             </div>
         </div>
 <div class="story">
@@ -63,33 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer would have blocked Mandelson over vetting failure, says Lammy</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-19 07:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss" target="_blank">Cash shortages grip Yemen despite currency stabilisation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa" target="_blank">The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a112/live/db9993e0-3bc4-11f1-879d-1b2f5c3919b8.jpg" alt="Australia&#x27;s most-decorated soldier vows to fight war crime charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss" target="_blank">Australia&#x27;s most-decorated soldier vows to fight war crime charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 05:12</span>
             </div>
         </div>
 </div>
@@ -125,6 +132,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/69e2e732b5f641682c659673/master/pass/The-Best-Meta-Glasses-for-Looking-Hot-and-Invading-Everyone's-Privacy.jpg" alt="Best Meta Glasses (2026): Ray-Ban, Oakley, AR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-meta-glasses/" target="_blank">Best Meta Glasses (2026): Ray-Ban, Oakley, AR</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69e2d81939c62e0b45b3e304/master/pass/The-Best-Pet-Cameras-of-2026.jpg" alt="The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,20 +158,29 @@
                 <span class="time">2026-04-18 21:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years" target="_blank">The RAM shortage could last years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-18 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2.4 released with fresh set of bug fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/gimp-3-2-4-bug-fix-update" target="_blank">GIMP 3.2.4 released with fresh set of bug fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-19 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321781/thunderbolt-launch" target="_blank">Thunderbolt Wants to Do for AI Clients What Thunderbird Did for Email</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-19 12:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Disappearing Blockchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,24 +215,6 @@
                 <span class="title"><a href="https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf" target="_blank">SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-19 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321709/age-verification-tobacco-moment" target="_blank">Won’t Somebody Think of the Children? Why Big Tech’s ‘Tobacco Moment’ Isn’t What It Seems</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-19 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/catatsuy/lets-encrypt-short-lived-certificates-are-quite-strict-so-you-should-use-an-ari-capable-client-j5a" target="_blank">Let&#x27;s Encrypt short-lived certificates are quite strict, so you should use an ARI-capable client</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 07:24</span>
             </div>
         </div>
 </div>
@@ -279,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:06 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
