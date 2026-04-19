@@ -1,39 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 21:08:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-19 22:06:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 21:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +55,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5790463/midwest-tornadoes-cleanup-illinois-minnesota-wisconsin" target="_blank">Communities launch cleanup after severe weather and tornadoes churn across Midwest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-19 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss" target="_blank">US forces attack and seize Iranian ship Touska near Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9908/live/7011b290-3c34-11f1-8a32-adb65a1e379b.jpg" alt="US intercepts and seizes Iranian-flagged cargo ship, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss" target="_blank">US intercepts and seizes Iranian-flagged cargo ship, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-19 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +109,20 @@
                 <span class="time">2026-04-19 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png" alt="Eight children killed in Louisiana shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Eight children killed in Louisiana shooting, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport" target="_blank">Eight children killed in a shooting in Louisiana, police say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-main_1776597890637_hpMain_4x3t_384.jpg" alt="Trump tells ABC News peace agreement for Iran &#x27;will happen one way or another&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-tells-abc-news-peace-agreement-iran-happen/story?id=132180755" target="_blank">Trump tells ABC News peace agreement for Iran &#x27;will happen one way or another&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-19 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket" target="_blank">Blue Origin successfully reused its New Glenn rocket</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-19 20:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +168,29 @@
                 <span class="time">2026-04-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/" target="_blank">Cracks are starting to form on fusion energy’s funding boom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-19 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://bernat.tech/posts/securing-python-supply-chain/" target="_blank">Defense in Depth: A Practical Guide to Python Supply Chain Security</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-19 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-DPL-Sruthi-Chandran" target="_blank">New Debian Project Leader Elected For 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-19 20:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4z2j1e100pfkhkatyzp0.png" alt="I added profile-specific duplicate rules to my CSV intake console #5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +227,6 @@
                 <span class="time">2026-04-19 17:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-PCI" target="_blank">Linux 7.1 Adds Some New PCIe Drivers While Nuking Some PCI Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-19 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/" target="_blank">Vercel says internal systems hit in breach</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-19 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -244,15 +250,6 @@
                 <span class="time">2026-04-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/moonchild.jpg" alt="Developers Of ’90s Amiga Prototype ‘Moon Child’ Resurface To Bask In All The Shitposts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/developers-of-moon-child-resurface-to-bask-in-all-the-shitposts-amiga-prototype-2000688827" target="_blank">Developers Of ’90s Amiga Prototype ‘Moon Child’ Resurface To Bask In All The Shitposts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-18 21:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -272,8 +269,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 21:08 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
