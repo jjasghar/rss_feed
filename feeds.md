@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 06:29:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 07:28:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 06:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 07:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss" target="_blank">Cash shortages grip Yemen despite currency stabilisation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 05:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles" target="_blank">North Korea launches ballistic missiles toward sea</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-19 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss" target="_blank">North Korea launches ballistic missiles towards sea off its east coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 00:28</span>
             </div>
         </div>
 </div>
@@ -169,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/catatsuy/lets-encrypt-short-lived-certificates-are-quite-strict-so-you-should-use-an-ari-capable-client-j5a" target="_blank">Let&#x27;s Encrypt short-lived certificates are quite strict, so you should use an ARI-capable client</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 07:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rnilav/attention-mechanisms-stop-compressing-start-looking-back-1bol" target="_blank">Attention Mechanisms: Stop Compressing, Start Looking Back</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 05:32</span>
@@ -208,15 +221,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/speed-of-sound-linux-voice-typing-app" target="_blank">Type with your voice on Linux using this Whisper-based app</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-19 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Block-Changes" target="_blank">Linux 7.1 Sees RAID Fixes, IO_uring Enhancements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-19 00:25</span>
             </div>
         </div>
 </div>
@@ -297,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
