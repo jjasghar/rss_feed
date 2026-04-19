@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 11:11:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 12:06:10 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 11:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 12:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5786242/profit-landlord-real-estate-investment-trust-nursing-homes-safety" target="_blank">Real estate investors are buying up long-term care facilities. Residents can suffer</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7c/live/680a2ee0-3ba0-11f1-8606-05fe34b06e1b.jpg" alt="Starmer would have blocked Mandelson over vetting failure, ministers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer would have blocked Mandelson over vetting failure, ministers say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-19 09:44</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +92,38 @@
                 <span class="time">2026-04-19 05:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6206/live/a6297cb0-3ba7-11f1-879d-1b2f5c3919b8.jpg" alt="Australia&#x27;s most-decorated soldier vows to &#x27;fight&#x27; war crime charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss" target="_blank">Australia&#x27;s most-decorated soldier vows to &#x27;fight&#x27; war crime charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 05:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review" target="_blank">Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/" target="_blank">Blue Origin successfully re-uses a New Glenn rocket for the first time ever</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-19 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2191315480-500x500-1776463576.jpg" alt="I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/" target="_blank">I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-19 11:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e2d81939c62e0b45b3e304/master/pass/The-Best-Pet-Cameras-of-2026.jpg" alt="The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,33 +149,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years" target="_blank">The RAM shortage could last years</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-18 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking" target="_blank">Judge rules Trump administration violated the First Amendment in fight against ICE-tracking</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-18 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers" target="_blank">Cheap stuff that doesn’t suck, take 3</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-18 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/" target="_blank">Anthropic’s relationship with the Trump administration seems to be thawing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-18 14:56</span>
             </div>
         </div>
 </div>
@@ -265,15 +260,6 @@
                 <span class="time">2026-04-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/slay-the-spire-22-1280x720.jpg" alt="As Slay The Spire 2 Continues To Dominate, Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird Eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/as-slay-the-spire-2-continues-to-dominate-devs-outline-the-future-roadmap-and-confirm-49-percent-of-you-monsters-have-been-eating-the-bird-eggsegg-2000688668" target="_blank">As Slay The Spire 2 Continues To Dominate, Devs Outline The Future Roadmap And Confirm 49 Percent Of You Monsters Have Been Eating The Bird Eggs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-18 11:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +279,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:11 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
