@@ -1,41 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 07:28:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 08:16:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 07:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 08:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a112/live/db9993e0-3bc4-11f1-879d-1b2f5c3919b8.jpg" alt="Australia&#x27;s most-decorated soldier vows to fight war crime charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss" target="_blank">Australia&#x27;s most-decorated soldier vows to fight war crime charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-19 05:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6206/live/a6297cb0-3ba7-11f1-879d-1b2f5c3919b8.jpg" alt="Australia&#x27;s most-decorated soldier vows to &#x27;fight&#x27; war crime charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -94,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/19/lebron-lakers-shock-rockets-with-game-1-win-in-nba-playoffs?traffic_source=rss" target="_blank">LeBron, Lakers shock Rockets with Game 1 win in NBA playoffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-19 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles" target="_blank">North Korea launches ballistic missiles toward sea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 00:54</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321709/age-verification-tobacco-moment" target="_blank">Won’t Somebody Think of the Children? Why Big Tech’s ‘Tobacco Moment’ Isn’t What It Seems</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-19 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/catatsuy/lets-encrypt-short-lived-certificates-are-quite-strict-so-you-should-use-an-ari-capable-client-j5a" target="_blank">Let&#x27;s Encrypt short-lived certificates are quite strict, so you should use an ARI-capable client</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio" target="_blank">Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/kdenlive-audio-minimap.jpg?resize=406%2C232&amp;ssl=1" alt="Type with your voice on Linux using this Whisper-based app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/speed-of-sound-linux-voice-typing-app" target="_blank">Type with your voice on Linux using this Whisper-based app</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-19 02:48</span>
             </div>
         </div>
 </div>
@@ -302,7 +303,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:28 UTC
+        🔄 Last Updated: 08:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
