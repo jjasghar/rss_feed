@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 15:11:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-19 16:08:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 16:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/" target="_blank">TechCrunch Mobility: Uber enters its assetmaxxing era</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-19 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal" target="_blank">Nothing’s modular CMF Headphone Pro are down to their lowest price to date</a></span>
                 <span class="feed">The Verge</span>
@@ -151,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/" target="_blank">Blue Origin successfully re-uses a New Glenn rocket for the first time ever</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-19 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2191315480-500x500-1776463576.jpg" alt="I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/" target="_blank">I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-19 11:17</span>
             </div>
         </div>
 </div>
@@ -262,36 +254,13 @@
                 <span class="time">2026-04-18 17:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KMFEMBMSP1X094ES34SPHR3Y/hero-image.png" alt="You Should Start Spring Cleaning With This Dyson Cordless Vacuum While It&#x27;s on Sale for Over $200 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/dyson-v15-cordless-vacuum-stacksocial-sale-april-2018?utm_medium=RSS" target="_blank">You Should Start Spring Cleaning With This Dyson Cordless Vacuum While It&#x27;s on Sale for Over $200 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-18 15:30</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776383978-20260418.png" alt="Saturday Morning Breakfast Cereal - Dreams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dreams-2" target="_blank">Saturday Morning Breakfast Cereal - Dreams</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
