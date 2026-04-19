@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 16:08:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 17:09:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 16:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-main_1776597890637_hpMain_4x3t_384.jpg" alt="Trump tells ABC News peace agreement for Iran &#x27;will happen one way or another&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-tells-abc-news-peace-agreement-iran-happen/story?id=132180755" target="_blank">Trump tells ABC News peace agreement for Iran &#x27;will happen one way or another&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-19 14:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +93,20 @@
                 <span class="time">2026-04-19 11:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5786242/profit-landlord-real-estate-investment-trust-nursing-homes-safety" target="_blank">Real estate investors are buying up long-term care facilities. Residents can suffer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/" target="_blank">Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-19 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +152,20 @@
                 <span class="time">2026-04-19 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/" target="_blank">Blue Origin successfully re-uses a New Glenn rocket for the first time ever</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-19 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/" target="_blank">Vercel Says Internal Systems Hit in Breach</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-19 15:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/rawveg/the-disappearing-blockchain-3h4f" target="_blank">The Disappearing Blockchain</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itprepvn/handy-agent-2026-from-chatbot-to-autonomous-ai-systems-ejh" target="_blank">Handy Agent 2026 – From Chatbot to Autonomous AI Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 09:08</span>
             </div>
         </div>
 </div>
@@ -259,8 +257,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:08 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
