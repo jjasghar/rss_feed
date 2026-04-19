@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 19:14:29 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-19 20:07:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 19:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 20:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +59,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/tehran-billboard-20260419-ap-jh_1776606620931_hpMain_4x3t_384.jpg" alt="Waltz defends Trump’s threat to bomb ‘every single power plant’ in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/waltz-defends-trumps-threat-bomb-single-power-plant/story?id=132181508" target="_blank">Waltz defends Trump’s threat to bomb ‘every single power plant’ in Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-19 17:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png" alt="Eight children killed in Louisiana shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Eight children killed in Louisiana shooting, police say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-19 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport" target="_blank">Eight children killed in a shooting in Louisiana, police say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-19 17:26</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +103,20 @@
                 <span class="time">2026-04-19 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss" target="_blank">Displaced Lebanese woman returns to find home destroyed after ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260419-nbc-news-poll-trump-2x1-jg-d90c25.jpg" alt="Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/poll-trumps-approval-rating-hits-second-term-low-economy-iran-war-rcna331462" target="_blank">Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/" target="_blank">Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-19 18:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +162,20 @@
                 <span class="time">2026-04-19 12:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review" target="_blank">Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-19 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fixes-VA-API-H264-Rate" target="_blank">GNOME Fixes Screencasting Issue With H.264 Recordings Being ~18x Larger Than VP8</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-19 19:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +221,20 @@
                 <span class="time">2026-04-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Harvested-GPUs-Linux" target="_blank">Valve Developer Further Improves Old AMD GPUs: HD 7870 XT Finally Working On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-19 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/cryptoland.jpg" alt="Bitcoin Thriller Billing Itself As First Studio-Quality AI-Generated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bitcoin-thriller-billing-itself-as-first-studio-quality-ai-generated-movie-pete-davidson-gal-gadot-2000688877" target="_blank">Bitcoin Thriller Billing Itself As First Studio-Quality AI-Generated Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-19 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into cybersecurity at your own pace with this $20 CISSP Training Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:14 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
