@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 14:12:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-19 15:11:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 14:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 15:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +53,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/drc-government-m23-rebels-commit-to-protect-civilians-aid-deliveries?traffic_source=rss" target="_blank">DRC government, M23 rebels commit to protect civilians, aid deliveries</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-19 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss" target="_blank">Displaced Lebanese woman returns to find home destroyed after ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-19 13:23</span>
@@ -67,6 +74,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/poll-trumps-approval-rating-hits-second-term-low-economy-iran-war-rcna331462" target="_blank">Trump&#x27;s approval rating hits second-term low as Americans sour on the economy and Iran war</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776602944917_tdy_sun_welker_trump_iran_poll_260419_S3_1920x1080-4zc60h.jpg" alt="NBC News Poll: 67% Disapprove of Trump’s Handling of Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/nbc-news-poll-67-disapprove-of-trump-s-handling-of-iran-war-261665861617" target="_blank">NBC News Poll: 67% Disapprove of Trump’s Handling of Iran War</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-19 12:49</span>
             </div>
         </div>
 <div class="story">
@@ -87,29 +103,20 @@
                 <span class="time">2026-04-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/strait-main_1776589771677_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian leader vows &#x27;new defeats&#x27; for US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Iranian leader vows &#x27;new defeats&#x27; for US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-19 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7c/live/680a2ee0-3ba0-11f1-8606-05fe34b06e1b.jpg" alt="Starmer would have blocked Mandelson over vetting failure, ministers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer would have blocked Mandelson over vetting failure, ministers say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 09:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal" target="_blank">Nothing’s modular CMF Headphone Pro are down to their lowest price to date</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/" target="_blank">I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-19 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2e732b5f641682c659673/master/pass/The-Best-Meta-Glasses-for-Looking-Hot-and-Invading-Everyone's-Privacy.jpg" alt="Best Meta Glasses (2026): Ray-Ban, Oakley, AR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-meta-glasses/" target="_blank">Best Meta Glasses (2026): Ray-Ban, Oakley, AR</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-19 11:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +227,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into cybersecurity at your own pace with this $20 CISSP Training Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/19/pivot-into-cybersecurity-at-your-own-pace-with-this-20-cissp-training-bundle.html" target="_blank">Pivot into cybersecurity at your own pace with this $20 CISSP Training Bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/moonchild.jpg" alt="Developers Of ’90s Amiga Prototype ‘Moon Child’ Resurface To Bask In All The Shitposts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,15 +271,6 @@
                 <span class="time">2026-04-18 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Apple-iPad-10.2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Want 77% off an iPad? Here&#x27;s a simple hack to save big" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/18/want-77-off-an-ipad-heres-a-simple-hack-to-save-big.html" target="_blank">Want 77% off an iPad? Here&#x27;s a simple hack to save big</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-18 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:12 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
