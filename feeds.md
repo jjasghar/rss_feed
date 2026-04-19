@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 17:09:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-19 18:08:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, April 19, 2026 - 18:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png" alt="Eight children killed in Louisiana shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Eight children killed in Louisiana shooting, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-19 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-main_1776597890637_hpMain_4x3t_384.jpg" alt="Trump tells ABC News peace agreement for Iran &#x27;will happen one way or another&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +97,6 @@
                 <span class="title"><a href="https://www.today.com/video/nbc-news-poll-67-disapprove-of-trump-s-handling-of-iran-war-261665861617" target="_blank">NBC News Poll: 67% Disapprove of Trump’s Handling of Iran War</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-19 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/19/g-s1-116759/red-hot-peppers-women-farmers-india" target="_blank">Photos: In this part of the world, nearly every chile pepper farmer is a woman</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 11:16</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb" target="_blank">从混沌到秩序：AI 时代的系统分层治理方法论</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-19 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-PCI" target="_blank">Linux 7.1 Adds Some New PCIe Drivers While Nuking Some PCI Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-19 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/" target="_blank">Vercel Says Internal Systems Hit in Breach</a></span>
                 <span class="feed">Hacker News</span>
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/gimp-3-2-4-bug-fix-update" target="_blank">GIMP 3.2.4 released with fresh set of bug fixes</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-19 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17321781/thunderbolt-launch" target="_blank">Thunderbolt Wants to Do for AI Clients What Thunderbird Did for Email</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-19 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The Disappearing Blockchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-disappearing-blockchain-3h4f" target="_blank">The Disappearing Blockchain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 11:00</span>
             </div>
         </div>
 </div>
@@ -243,13 +249,18 @@
                 <span class="time">2026-04-18 21:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/spaceballs.jpg" alt="All The Sequels (And Handful Of Non-Sequels) At CinemaCon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1776384022-20260419.png" alt="Saturday Morning Breakfast Cereal - Dial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/all-the-sequels-and-handful-of-non-sequels-at-cinemacon-2000688808" target="_blank">All The Sequels (And Handful Of Non-Sequels) At CinemaCon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-18 17:43</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dial" target="_blank">Saturday Morning Breakfast Cereal - Dial</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-19 15:20</span>
             </div>
         </div>
 </div>
@@ -257,8 +268,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
