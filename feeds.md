@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 22:12:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 23:13:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 23:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/d4vd-charged-with-murder-of-14-year-old-celeste-rivas-hernandez?traffic_source=rss" target="_blank">D4vd charged with murder of 14-year-old Celeste Rivas Hernandez</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791726/the-onion-satirical-takeover-infowars-new-plan" target="_blank">The Onion has agreed to a new deal to take over Infowars</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +106,38 @@
                 <span class="time">2026-04-20 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/ukrainian-drone-attack-hits-russias-tuapse-port?traffic_source=rss" target="_blank">Ukrainian drone attack hits Russia’s Tuapse port</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038a/live/5bccbf70-39a8-11f1-ba5b-c578881f2eba.jpg" alt="Officials deliberately withheld Mandelson vetting result from me, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&at_campaign=rss" target="_blank">Officials deliberately withheld Mandelson vetting result from me, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-20 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/" target="_blank">Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-20 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon" target="_blank">The Lenovo Legion Go S is RAMageddon’s latest victim</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e67707d27252207be01419/master/pass/robotchino1.jpg" alt="A Humanoid Robot Set a Half-Marathon Record in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/" target="_blank">A Humanoid Robot Set a Half-Marathon Record in China</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 22:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +165,20 @@
                 <span class="time">2026-04-20 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser" target="_blank">Insta360 is putting screens on its next wireless mics to show logos or images</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e65fd70c76e8ee412aee36/master/pass/GettyImages-1585486700.jpg" alt="A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#x27;s a &#x27;Very Rare&#x27; Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/" target="_blank">A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#x27;s a &#x27;Very Rare&#x27; Event</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale" target="_blank">You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pedrop3/the-orchestrator-state-transitions-and-kafka-routing-b9k" target="_blank">The Orchestrator: State Transitions and Kafka Routing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2Ft4enECK.png" alt="Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -164,6 +186,24 @@
                 <span class="title"><a href="https://dev.to/ayratmurtazin/black-scholes-on-polymarket-finding-mispriced-binary-events-with-python-2m50" target="_blank">Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-20 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18993111&w=600" alt="How to Transfer Domains via API: Automate Domain Migrations Programmatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/domain-transfer-api-automation" target="_blank">How to Transfer Domains via API: Automate Domain Migrations Programmatically</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank">John Ternus to become Apple CEO</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-20 20:39</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/quality-assurance-in-ai-driven-business-evolution" target="_blank">Quality Assurance in AI-Driven Business Evolution</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-20 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942086&w=600" alt="Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cybersecurity-with-a-digital-twin-real-time-data" target="_blank">Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/" target="_blank">Changes to GitHub Copilot Individual plans</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-20 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894345&w=600" alt="Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hidden-ai-cyber-threats-companies-overlook" target="_blank">Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 18:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/ww22-1280x720.jpg" alt="New Minions Movie Retconning The Lore That Kept The Bastards Out Of WW1 And WW2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-minions-movie-retconning-the-lore-that-kept-the-bastards-out-of-ww1-and-ww2-2000689159" target="_blank">New Minions Movie Retconning The Lore That Kept The Bastards Out Of WW1 And WW2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-20 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/1-year-The-Club-Card-Membership-1.jpg?fit=2000%2C1333&amp;quality=60&amp;ssl=1" alt="Save up to 20¢ per gallon on fuel with BJ&#x27;s Wholesale Club for just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/20/save-up-to-20%c2%a2-per-gallon-on-fuel-with-bjs-wholesale-club-for-just-15.html" target="_blank">Save up to 20¢ per gallon on fuel with BJ&#x27;s Wholesale Club for just $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-20 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/933365a2b44724f85e355579857d38cf-1280x800.jpg" alt="Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,33 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/20/minnesota-senate-candidate-convicted-for-throwing-tarantula-at-tenant.html" target="_blank">Minnesota Senate candidate convicted for throwing tarantula at tenant</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KN4T0EM3M4G830JHWXJTADQ0/hero-image.png" alt="Everything We (Think) We Know About Google&#x27;s &#x27;Fitbit Air&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/google-fitbit-smart-band-rumor?utm_medium=RSS" target="_blank">Everything We (Think) We Know About Google&#x27;s &#x27;Fitbit Air&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-20 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/palreturn-1280x720.jpg" alt="Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/oscar-isaac-tried-really-hard-to-make-star-wars-episode-9-palpatine-line-not-sound-dum-2000689083" target="_blank">Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-20 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-21-at-3.02.37-PM.png?fit=1344%2C882&amp;quality=55&amp;ssl=1" alt="Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/20/is-lana-del-reys-first-light-the-best-bond-song-in-years.html" target="_blank">Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-20 16:54</span>
             </div>
         </div>
 </div>
@@ -321,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 23:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
