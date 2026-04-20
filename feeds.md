@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 08:40:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 09:32:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 08:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 09:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss" target="_blank">Ukraine claims attack on Russian warships in occupied Crimea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms" target="_blank">Data center disputes have been local. But the midterms might change that</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Marines-Touska-DB-260420_1776668959422_hpMain_4x3t_384.jpg" alt="Iran live updates: Marines from USS Tripoli seized Iranian vessel, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Marines from USS Tripoli seized Iranian vessel, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-20 08:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +107,29 @@
                 <span class="time">2026-04-20 04:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime" target="_blank">Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-20 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4919/live/9f76ebe0-3c2a-11f1-b235-ed3cce5b7ed2.jpg" alt="Five questions awaiting Starmer as he faces Commons over Mandelson scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yw6egnjg2o?at_medium=RSS&at_campaign=rss" target="_blank">Five questions awaiting Starmer as he faces Commons over Mandelson scandal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/strait-main_1776589771677_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-19 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices" target="_blank">GoPro’s new Mission cameras are priced beyond most weekend athletes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 09:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e26f4466e2b77438cf4564/master/pass/GettyImages-2256650784.jpg" alt="There’s New Evidence for How Loneliness Affects Memory in Old Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/" target="_blank">There’s New Evidence for How Loneliness Affects Memory in Old Age</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +164,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/" target="_blank">Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-19 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/" target="_blank">TechCrunch Mobility: Uber enters its assetmaxxing era</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-19 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal" target="_blank">Nothing’s modular CMF Headphone Pro are down to their lowest price to date</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-19 14:30</span>
             </div>
         </div>
 </div>
@@ -283,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 08:40 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 09:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
