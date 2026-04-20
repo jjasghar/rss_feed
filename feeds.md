@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 05:50:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 06:38:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 05:50 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 06:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss" target="_blank">US military releases video of marines seizing Iranian ship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 06:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon" target="_blank">A humanoid robot sprints past the human half-marathon world record in Beijing race</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 06:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93b/live/0f4bf540-3c81-11f1-879d-1b2f5c3919b8.jpg" alt="Man kills seven of his children, and an eighth child, in Louisiana mass shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss" target="_blank">Man kills seven of his children, and an eighth child, in Louisiana mass shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 04:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +105,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-19 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5790463/midwest-tornadoes-cleanup-illinois-minnesota-wisconsin" target="_blank">Communities launch cleanup after severe weather and tornadoes churn across Midwest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-19 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa" target="_blank">Iranian American woman arrested in Los Angeles for alleged arms trafficking</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-19 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776635717252_wnn_mhu_iranian_tanker_seizer_260419_S3_1920x1080-x2pfnt.jpg" alt="President Trump says U.S. struck &amp; seized Iranian tanker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/president-trump-says-u-s-struck-seized-iranian-tanker-261681221686" target="_blank">President Trump says U.S. struck &amp; seized Iranian tanker</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-19 21:55</span>
             </div>
         </div>
 </div>
@@ -160,6 +172,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pejiepcji2joktivyup.png" alt="Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arqamwd/terra-triage-i-built-a-3-agent-wildlife-dispatcher-that-learns-from-every-referral-efk" target="_blank">Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-expands-ubuntu-support-to-next-generation-mediatek-genio-520-and-720-platforms" target="_blank">Canonical expands Ubuntu support to next-generation MediaTek Genio 520 and 720 platforms</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-04-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/04/java-news-roundup-apr13-2026/en/headerimage/java-news-roundup-image-1776605902940.jpg" alt="Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -193,24 +223,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56" target="_blank">Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-19 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://bernat.tech/posts/securing-python-supply-chain/" target="_blank">Defense in Depth: A Practical Guide to Python Supply Chain Security</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-19 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-DPL-Sruthi-Chandran" target="_blank">New Debian Project Leader Elected For 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-19 20:58</span>
             </div>
         </div>
 </div>
@@ -273,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:50 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
