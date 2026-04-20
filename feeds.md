@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-19 23:09:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 00:13:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, April 19, 2026 - 23:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 00:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/strait-main_1776589771677_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647" target="_blank">Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-19 22:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/19/nx-s1-5790463/midwest-tornadoes-cleanup-illinois-minnesota-wisconsin" target="_blank">Communities launch cleanup after severe weather and tornadoes churn across Midwest</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-19 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa" target="_blank">Iranian American woman arrested in Los Angeles for alleged arms trafficking</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-19 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776635717252_wnn_mhu_iranian_tanker_seizer_260419_S3_1920x1080-x2pfnt.jpg" alt="President Trump says U.S. struck &amp; seized Iranian tanker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/president-trump-says-u-s-struck-seized-iranian-tanker-261681221686" target="_blank">President Trump says U.S. struck &amp; seized Iranian tanker</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-19 21:55</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +103,20 @@
                 <span class="time">2026-04-19 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss" target="_blank">Trump says US seized Iran-flagged ship trying to get past Hormuz blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-and-israel-from-friends-to-enemies?traffic_source=rss" target="_blank">Iran and Israel: From friends to enemies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/tehran-billboard-20260419-ap-jh_1776606620931_hpMain_4x3t_384.jpg" alt="Waltz defends Trump’s threat to bomb ‘every single power plant’ in Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/waltz-defends-trumps-threat-bomb-single-power-plant/story?id=132181508" target="_blank">Waltz defends Trump’s threat to bomb ‘every single power plant’ in Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-19 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/19/openais-existential-questions/" target="_blank">OpenAI’s existential questions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-19 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal" target="_blank">Nothing’s modular CMF Headphone Pro are down to their lowest price to date</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-19 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk" target="_blank">The Stars My Destination is classic proto-cyberpunk</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-19 14:00</span>
             </div>
         </div>
 </div>
@@ -272,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:09 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
