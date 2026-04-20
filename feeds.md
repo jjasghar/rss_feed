@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 12:18:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 13:30:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 12:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -64,6 +68,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates" target="_blank">Peace talks are in doubt as the U.S. seizes an Iranian ship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates" target="_blank">Peace talks in doubt as U.S. seizes Iranian ship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-20 11:02</span>
@@ -87,20 +100,20 @@
                 <span class="time">2026-04-20 09:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-debel-jesus-israeli_7225030.jpg?20260420091547" alt="Netanyahu condemns &#x27;in strongest terms&#x27; IDF damage to Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/netanyahu-condemns-in-strongest-terms-idf-damage-to-jesus-statue-in-lebanon-13534070" target="_blank">Netanyahu condemns &#x27;in strongest terms&#x27; IDF damage to Jesus statue in Lebanon</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-20 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69e162684f4f8c52a7b1a820/master/pass/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg" alt="Prego Has a Dinner-Conversation-Recording Device, Capisce?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/" target="_blank">Prego Has a Dinner-Conversation-Recording Device, Capisce?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,29 @@
                 <span class="time">2026-04-20 09:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e26f4466e2b77438cf4564/master/pass/GettyImages-2256650784.jpg" alt="There’s New Evidence for How Loneliness Affects Memory in Old Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/" target="_blank">There’s New Evidence for How Loneliness Affects Memory in Old Age</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18935731&w=600" alt="How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-cnapp-bridges-the-gap-between-devsecops" target="_blank">How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-150.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 50 brings Linux emoji picker, PDF page ordering + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-50-features" target="_blank">Firefox 50 brings Linux emoji picker, PDF page ordering + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-20 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redb-4.1-Released" target="_blank">Popular Rust-Based Database Turns To AI For Up To 1.5x Speedup, Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-20 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F825443%2F25eb86cc-d436-4b4f-9c75-a90d96f82a91.jpeg" alt="Launching Pegasus 1.5 by TwelveLabs on Product Hunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fmerian/launching-pegasus-15-by-twelvelabs-on-product-hunt-54dd" target="_blank">Launching Pegasus 1.5 by TwelveLabs on Product Hunt</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 08:33</span>
             </div>
         </div>
 </div>
@@ -297,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 12:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
