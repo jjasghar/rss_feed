@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 19:23:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-20 20:12:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 20:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -244,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/933365a2b44724f85e355579857d38cf-1280x800.jpg" alt="Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/starfield-best-selling-game-ps5-launch-2000689070" target="_blank">Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 19:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-62-1280x720.jpg" alt="It’s Such A Relief To See A Cool Game Like Pragmata Succeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/pragmata-sales-steam-charts-capcom-price-2000689091" target="_blank">It’s Such A Relief To See A Cool Game Like Pragmata Succeed</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-20 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Marisa-imonetti.jpg?fit=1200%2C831&amp;quality=60&amp;ssl=1" alt="Minnesota Senate candidate convicted for throwing tarantula at tenant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/20/minnesota-senate-candidate-convicted-for-throwing-tarantula-at-tenant.html" target="_blank">Minnesota Senate candidate convicted for throwing tarantula at tenant</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-20 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/20/is-lana-del-reys-first-light-the-best-bond-song-in-years.html" target="_blank">Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-20 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/aphelion-1280x720.jpg" alt="The End Of April Is Absolutely Stacked On Xbox Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-game-pass-vampire-crawlers-final-fantasy-aphelion-2000689032" target="_blank">The End Of April Is Absolutely Stacked On Xbox Game Pass</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-20 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-2024-Home-Business.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="You&#x27;ve been renting and using Office wrong since 2009 … fix everything with a 72% discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/20/youve-been-renting-and-using-office-wrong-since-2009-fix-everything-with-a-72-discount.html" target="_blank">You&#x27;ve been renting and using Office wrong since 2009 … fix everything with a 72% discount</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-20 15:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 20:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
