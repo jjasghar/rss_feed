@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 04:12:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 05:50:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 04:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 05:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime" target="_blank">Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4919/live/9f76ebe0-3c2a-11f1-b235-ed3cce5b7ed2.jpg" alt="Five questions awaiting Starmer as he faces Commons over Mandelson scandal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yw6egnjg2o?at_medium=RSS&at_campaign=rss" target="_blank">Five questions awaiting Starmer as he faces Commons over Mandelson scandal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-19 23:32</span>
             </div>
         </div>
 <div class="story">
@@ -85,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/president-trump-says-u-s-struck-seized-iranian-tanker-261681221686" target="_blank">President Trump says U.S. struck &amp; seized Iranian tanker</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-19 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss" target="_blank">US forces attack and seize Iranian ship Touska near Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-19 21:53</span>
             </div>
         </div>
 </div>
@@ -274,8 +273,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:12 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
