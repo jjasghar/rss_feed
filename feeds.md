@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 20:12:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 21:13:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 20:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss" target="_blank">What to know about the next round of US-Iran talks in Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-6-gty-gmh-260420_1776707187650_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Time is not my adversary,’ Trump says on securing deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: &#x27;Time is not my adversary,’ Trump says on securing deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-20 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12da/live/0c0c6dc0-3c99-11f1-879d-1b2f5c3919b8.jpg" alt="Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,27 +90,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books" target="_blank">The American Library Association has released its list of the most challenged books of 2025</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books" target="_blank">The 11 most challenged books of 2025, according to the American Library Association</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-20 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-gaza-destruction_7225542.jpg?20260420184138" alt="Rebuilding Gaza will cost more than &amp;#163;50bn, says UN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/rebuilding-gaza-will-cost-more-than-16350bn-says-un-and-eu-13534234" target="_blank">Rebuilding Gaza will cost more than &amp;#163;50bn, says UN</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-20 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-20 17:06</span>
             </div>
         </div>
 </div>
@@ -101,6 +100,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook" target="_blank">Apple names Johny Srouji as chief hardware officer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e691cad29b04dda3eea13d/master/pass/tim-Cook-Steps-Down-Business-2233926949.jpg" alt="Apple CEO Tim Cook Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/" target="_blank">Apple CEO Tim Cook Is Stepping Down</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +154,20 @@
                 <span class="time">2026-04-20 17:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/" target="_blank">North Korea hackers blamed for $290M crypto theft</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-20 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations" target="_blank">Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942103&w=600" alt="Quality Assurance in AI-Driven Business Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/quality-assurance-in-ai-driven-business-evolution" target="_blank">Quality Assurance in AI-Driven Business Evolution</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942086&w=600" alt="Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4.2-Released" target="_blank">Box64 0.4.2 Begins Working On POWER PPC64LE Backend, Support For SteamRT3 + Proton 11</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-20 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Git-2.54-Released" target="_blank">Git 2.54 Released With New Experimental &quot;git history&quot; Command</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-20 17:03</span>
             </div>
         </div>
 </div>
@@ -325,7 +324,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 20:12 UTC
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
