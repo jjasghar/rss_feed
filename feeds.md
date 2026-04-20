@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 16:22:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-20 17:20:31 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 16:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 17:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-20 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d4/live/cc486ba0-3cc8-11f1-987d-c743ccc8aa4a.jpg" alt="&#x27;Huge relief&#x27; as students given loans &#x27;in error&#x27; get repayment reprieve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Huge relief&#x27; as students given loans &#x27;in error&#x27; get repayment reprieve</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +98,38 @@
                 <span class="time">2026-04-20 12:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments" target="_blank">Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-20 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss" target="_blank">Russia claims Ukraine-linked bomb plot foiled, German woman arrested</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-500x500-1775856294.jpg" alt="Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/" target="_blank">Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-20 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations" target="_blank">Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e25ac766e2b77438cf4141/master/pass/Hyundai%20IONIQ3%20Ext3.png" alt="Hyundai Ioniq 3 2026: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hyundai-ioniq-3-2026/" target="_blank">Hyundai Ioniq 3 2026: Price, Specs, Availability</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 15:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/bruce1-500x500.jpg" alt="Meet Bruce, the &quot;beak-jousting&quot; parrot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +157,29 @@
                 <span class="time">2026-04-20 13:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e162684f4f8c52a7b1a820/master/pass/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg" alt="Prego Has a Dinner-Conversation-Recording Device, Capisce?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/" target="_blank">Prego Has a Dinner-Conversation-Recording Device, Capisce?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison" target="_blank">DJI’s latest power station is proof that good things come in mini packages</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2e91f715d3176493cfd7d/master/pass/Snag-a-Great-Deal-on-the-Best-Noise-Canceling-Earbuds.jpg" alt="We Love the Bose QuietComfort Ultra 2, Especially at $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/" target="_blank">We Love the Bose QuietComfort Ultra 2, Especially at $50 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.54-Released" target="_blank">Git 2.54 Released With New Experimental &quot;git history&quot; Command</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-20 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941201&w=600" alt="From APIs to Event-Driven Systems: Modern Java Backend Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apis-to-event-driven-java-backend" target="_blank">From APIs to Event-Driven Systems: Modern Java Backend Design</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnd08bbbi96h5vautpp6.jpeg" alt="TPU Mythbusting: vendor lock-in" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="time">2026-04-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tito10047/symfony-asset-mapper-how-to-finally-test-javascript-properly-without-the-pain-290f" target="_blank">Symfony Asset Mapper: How to Finally Test JavaScript Properly Without the Pain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17322304/pods-container-management" target="_blank">This Simple GUI Tool Takes the Pain Out of Docker and Podman</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-20 14:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-21-at-3.02.37-PM.png?fit=1344%2C882&amp;quality=55&amp;ssl=1" alt="Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/20/is-lana-del-reys-first-light-the-best-bond-song-in-years.html" target="_blank">Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-20 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/aphelion-1280x720.jpg" alt="The End Of April Is Absolutely Stacked On Xbox Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2026-04-19 20:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/cryptoland.jpg" alt="Bitcoin Thriller Billing Itself As First Studio-Quality AI-Generated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bitcoin-thriller-billing-itself-as-first-studio-quality-ai-generated-movie-pete-davidson-gal-gadot-2000688877" target="_blank">Bitcoin Thriller Billing Itself As First Studio-Quality AI-Generated Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-19 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 17:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
