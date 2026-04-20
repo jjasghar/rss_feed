@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 17:20:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 18:15:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 17:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss" target="_blank">Germany summons Russian ambassador citing ‘direct threats’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books" target="_blank">The American Library Association has released its list of the most challenged books of 2025</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 17:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-20 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-mass-legalisation-measure_7225587.jpg?20260420191112" alt="Migrants in Spain queue to apply for mass legalisation programme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/migrants-in-spain-queue-to-apply-for-mass-legalisation-programme-13534206" target="_blank">Migrants in Spain queue to apply for mass legalisation programme</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-20 16:25</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +103,20 @@
                 <span class="time">2026-04-20 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/bulgarias-former-president-radev-wins-election-all-you-need-to-know?traffic_source=rss" target="_blank">Bulgaria’s former President Radev wins election: All you need to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss" target="_blank">Cloud over US-Iran talks: What are the key sticking points?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/2410b500-3cc3-11f1-879d-1b2f5c3919b8.jpg" alt="Japan on high alert for &#x27;huge&#x27; second quake after issuing tsunami warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss" target="_blank">Japan on high alert for &#x27;huge&#x27; second quake after issuing tsunami warning</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-20 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale" target="_blank">You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-500x500-1775856294.jpg" alt="Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +124,15 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/" target="_blank">Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-20 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/" target="_blank">North Korea hackers blamed for $290M crypto theft</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-20 17:04</span>
             </div>
         </div>
 <div class="story">
@@ -139,29 +162,38 @@
                 <span class="time">2026-04-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank">Deezer says 44% of songs uploaded to its platform daily are AI-generated</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-20 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/" target="_blank">Rivian’s factory hit by tornado ahead of R2 launch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-20 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894345&w=600" alt="Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hidden-ai-cyber-threats-companies-overlook" target="_blank">Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-skull"></span>
+                <span class="title"><a href="https://blog.codinghorror.com/thank-you-for-being-a-friend/" target="_blank">Thank You For Being a Friend</a></span>
+                <span class="feed">Coding Horror</span>
+                <span class="time">2026-04-20 17:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4.2-Released" target="_blank">Box64 0.4.2 Begins Working On POWER PPC64LE Backend, Support For SteamRT3 + Proton 11</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-20 17:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +221,6 @@
                 <span class="time">2026-04-20 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://bernat.tech/posts/pytexas-2026-recap/" target="_blank">PyTexas 2026 Recap</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-20 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nicbaughman/week-456-learning-k8s-3jeo" target="_blank">Week 4,5,6 - Learning K8s</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18971598&w=600" alt="Swift: The Complete Guide to Error Handling in the Network Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/swift-guide-error-handling-network-layer" target="_blank">Swift: The Complete Guide to Error Handling in the Network Layer</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KN4T0EM3M4G830JHWXJTADQ0/hero-image.png" alt="Everything We (Think) We Know About Google&#x27;s &#x27;Fitbit Air&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/google-fitbit-smart-band-rumor?utm_medium=RSS" target="_blank">Everything We (Think) We Know About Google&#x27;s &#x27;Fitbit Air&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-20 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/palreturn-1280x720.jpg" alt="Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/oscar-isaac-tried-really-hard-to-make-star-wars-episode-9-palpatine-line-not-sound-dum-2000689083" target="_blank">Oscar Isaac Tried Really Hard To Make Star Wars Episode 9 Palpatine Line Not Sound Dumb</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 17:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-21-at-3.02.37-PM.png?fit=1344%2C882&amp;quality=55&amp;ssl=1" alt="Is Lana Del Rey&#x27;s &quot;First Light&quot; the best Bond song in years?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,29 +294,20 @@
                 <span class="time">2026-04-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Surface-SE.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A laptop? A tablet? The Microsoft Surface SE is both — and it&#x27;s 49% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/19/a-laptop-a-tablet-the-microsoft-surface-se-is-both-and-its-49-off.html" target="_blank">A laptop? A tablet? The Microsoft Surface SE is both — and it&#x27;s 49% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/hVVJBjSMFF4QXhsQBtjruJbg-1280x720.jpg" alt="Modder Discovers Abandoned Sewer Level In Dark Souls II Nearly 12 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/modder-discovers-abandoned-dark-souls-ii-level-even-more-sewers-2000688887" target="_blank">Modder Discovers Abandoned Sewer Level In Dark Souls II Nearly 12 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-19 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/20/athena-vibes" target="_blank">Athena Vibes</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-20 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1776548137-20260420.png" alt="Saturday Morning Breakfast Cereal - Nigh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -317,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 17:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
