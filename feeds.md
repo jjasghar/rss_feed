@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 11:27:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-20 12:18:09 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 11:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 12:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments" target="_blank">Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-20 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss" target="_blank">Russia claims Ukraine-linked bomb plot foiled, German woman arrested</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +96,38 @@
                 <span class="time">2026-04-20 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss" target="_blank">Ukraine claims attack on Russian warships in occupied Crimea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms" target="_blank">Data center disputes have been local. But the midterms might change that</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-20 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison" target="_blank">DJI’s latest power station is proof that good things come in mini packages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e2e91f715d3176493cfd7d/master/pass/Snag-a-Great-Deal-on-the-Best-Noise-Canceling-Earbuds.jpg" alt="We Love the Bose QuietComfort Ultra 2, Especially at $50 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/" target="_blank">We Love the Bose QuietComfort Ultra 2, Especially at $50 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1396577576-500x500.jpg" alt="Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/" target="_blank">Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e2911f84b3ab6f42ad96f8/master/pass/Security_AlysaLiu_Getty.jpg" alt="The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +155,29 @@
                 <span class="time">2026-04-20 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/19/openais-existential-questions/" target="_blank">OpenAI’s existential questions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-19 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket" target="_blank">Blue Origin successfully reused its New Glenn rocket</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-19 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/" target="_blank">Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-19 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/datakaz/why-most-developers-lose-downloads-by-skipping-app-store-localization-fnb" target="_blank">Why Most Developers Lose Downloads by Skipping App Store Localization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/patterns-payment-system/en/mediumimage/medium-1775049482922.jpg" alt="Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-20 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/fmerian/launching-pegasus-15-by-twelvelabs-on-product-hunt-54dd" target="_blank">Launching Pegasus 1.5 by TwelveLabs on Product Hunt</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-20 08:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://awesomeagents.ai/news/github-fake-stars-investigation/" target="_blank">GitHub&#x27;s Fake Star Economy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-20 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/" target="_blank">OpenClaw isn&#x27;t fooling me. I remember MS-DOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-20 07:49</span>
             </div>
         </div>
 </div>
@@ -304,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 12:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
