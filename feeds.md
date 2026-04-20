@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 13:30:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 14:30:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss" target="_blank">Cloud over US-Iran talks: What are the key sticking points?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/2410b500-3cc3-11f1-879d-1b2f5c3919b8.jpg" alt="Japan on high alert for &#x27;huge&#x27; second quake after issuing tsunami warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss" target="_blank">Japan on high alert for &#x27;huge&#x27; second quake after issuing tsunami warning</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran has &#x27;no plans&#x27; for new round of talks, spokesperson says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Tehran has &#x27;no plans&#x27; for new round of talks, spokesperson says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-20 11:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -73,38 +94,20 @@
                 <span class="time">2026-04-20 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates" target="_blank">Peace talks in doubt as U.S. seizes Iranian ship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-20 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine?traffic_source=rss" target="_blank">‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-debel-jesus-israeli_7225030.jpg?20260420091547" alt="IDF soldier damages Jesus statue with sledgehammer in Lebanon - as Netanyahu responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/netanyahu-condemns-in-strongest-terms-idf-damage-to-jesus-statue-in-lebanon-13534070" target="_blank">IDF soldier damages Jesus statue with sledgehammer in Lebanon - as Netanyahu responds</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-20 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/" target="_blank">Rivian’s factory hit by tornado ahead of R2 launch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-20 13:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e162684f4f8c52a7b1a820/master/pass/Prego-AI-Dinner-Bot-Gear-Prego_ConnectionKeeper-5.jpg" alt="Prego Has a Dinner-Conversation-Recording Device, Capisce?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,29 @@
                 <span class="time">2026-04-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices" target="_blank">GoPro’s new Mission cameras are priced beyond most weekend athletes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 09:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tito10047/symfony-asset-mapper-how-to-finally-test-javascript-properly-without-the-pain-290f" target="_blank">Symfony Asset Mapper: How to Finally Test JavaScript Properly Without the Pain</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-26.14.37833.4" target="_blank">Intel Compute Runtime Promotes Support For Wildcat Lake, &quot;Early&quot; Crescent Island</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-20 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18935731&w=600" alt="How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +183,15 @@
                 <span class="title"><a href="https://dzone.com/articles/how-cnapp-bridges-the-gap-between-devsecops" target="_blank">How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/pretext-js-120fps-text-layout/en/headerimage/generatedHeaderImage-1776650733551.jpg" alt="Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-20 12:59</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/datakaz/why-most-developers-lose-downloads-by-skipping-app-store-localization-fnb" target="_blank">Why Most Developers Lose Downloads by Skipping App Store Localization</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-20 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/patterns-payment-system/en/mediumimage/medium-1775049482922.jpg" alt="Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-20 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-58pg" target="_blank">Build a Web Scraper and Sell the Data: A Step-by-Step Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/building-trpc-api-typescript/en/headerimage/building-trpc-api-typescript-header-1776246612091.jpg" alt="Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-20 11:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wondercon-main-1280x720.jpeg" alt="WonderCon’s Cosplay Raises The Game With Some Completely Stunning Fits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wondercons-cosplay-raises-the-game-with-some-completely-stunning-fits-2000688984" target="_blank">WonderCon’s Cosplay Raises The Game With Some Completely Stunning Fits</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Surface-SE.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A laptop? A tablet? The Microsoft Surface SE is both — and it&#x27;s 49% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
