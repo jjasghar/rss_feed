@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 07:32:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-20 08:40:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 07:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 08:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F825443%2F25eb86cc-d436-4b4f-9c75-a90d96f82a91.jpeg" alt="Launching Pegasus 1.5 by TwelveLabs on Product Hunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fmerian/launching-pegasus-15-by-twelvelabs-on-product-hunt-54dd" target="_blank">Launching Pegasus 1.5 by TwelveLabs on Product Hunt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 08:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/" target="_blank">OpenClaw isn&#x27;t fooling me. I remember MS-DOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-20 07:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/canonical-expands-ubuntu-support-to-next-generation-mediatek-genio-520-and-720-platforms" target="_blank">Canonical expands Ubuntu support to next-generation MediaTek Genio 520 and 720 platforms</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-04-20 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/java-news-roundup-apr13-2026/en/headerimage/java-news-roundup-image-1776605902940.jpg" alt="Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-20 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287" target="_blank">Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 01:28</span>
             </div>
         </div>
 </div>
@@ -267,6 +261,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/20/athena-vibes" target="_blank">Athena Vibes</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-20 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1776384022-20260419.png" alt="Saturday Morning Breakfast Cereal - Dial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -280,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:32 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 08:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
