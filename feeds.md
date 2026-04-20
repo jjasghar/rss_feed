@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 15:26:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 16:22:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 15:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 16:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/palestinians-not-welcome-as-israel-marks-memorial-day?traffic_source=rss" target="_blank">Palestinians not welcome as Israel marks Memorial Day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman?traffic_source=rss" target="_blank">Russia claims Ukraine-linked bomb plot foiled, German woman arrested</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-20 11:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran has &#x27;no plans&#x27; for new round of talks, spokesperson says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Tehran has &#x27;no plans&#x27; for new round of talks, spokesperson says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-20 11:11</span>
             </div>
         </div>
 </div>
@@ -160,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnd08bbbi96h5vautpp6.jpeg" alt="TPU Mythbusting: vendor lock-in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo" target="_blank">TPU Mythbusting: vendor lock-in</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://bernat.tech/posts/pytexas-2026-recap/" target="_blank">PyTexas 2026 Recap</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-20 16:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +214,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17322304/pods-container-management" target="_blank">This Simple GUI Tool Takes the Pain Out of Docker and Podman</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-20 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-26.14.37833.4" target="_blank">Intel Compute Runtime Promotes Support For Wildcat Lake, &quot;Early&quot; Crescent Island</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-20 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18935731&w=600" alt="How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-cnapp-bridges-the-gap-between-devsecops" target="_blank">How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 13:00</span>
             </div>
         </div>
 </div>
@@ -292,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776548137-20260420.png" alt="Saturday Morning Breakfast Cereal - Nigh" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nigh-2" target="_blank">Saturday Morning Breakfast Cereal - Nigh</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-20 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -305,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 15:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
