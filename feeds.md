@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 14:30:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-20 15:26:22 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 14:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 15:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/bulgarias-former-president-radev-wins-election-all-you-need-to-know?traffic_source=rss" target="_blank">Bulgaria’s former President Radev wins election: All you need to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +95,29 @@
                 <span class="time">2026-04-20 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates" target="_blank">Peace talks are in doubt as the U.S. seizes an Iranian ship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-20 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/bruce1-500x500.jpg" alt="Meet Bruce, the &quot;beak-jousting&quot; parrot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/" target="_blank">Meet Bruce, the &quot;beak-jousting&quot; parrot</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank">Deezer says 44% of songs uploaded to its platform daily are AI-generated</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-20 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +154,6 @@
                 <span class="time">2026-04-20 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1396577576-500x500.jpg" alt="Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/" target="_blank">Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2911f84b3ab6f42ad96f8/master/pass/Security_AlysaLiu_Getty.jpg" alt="The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/" target="_blank">The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +163,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nicbaughman/week-456-learning-k8s-3jeo" target="_blank">Week 4,5,6 - Learning K8s</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18971598&w=600" alt="Swift: The Complete Guide to Error Handling in the Network Layer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/swift-guide-error-handling-network-layer" target="_blank">Swift: The Complete Guide to Error Handling in the Network Layer</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tito10047/symfony-asset-mapper-how-to-finally-test-javascript-properly-without-the-pain-290f" target="_blank">Symfony Asset Mapper: How to Finally Test JavaScript Properly Without the Pain</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-20 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17322304/pods-container-management" target="_blank">This Simple GUI Tool Takes the Pain Out of Docker and Podman</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-20 14:14</span>
             </div>
         </div>
 <div class="story">
@@ -183,33 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/how-cnapp-bridges-the-gap-between-devsecops" target="_blank">How CNAPP Bridges the Gap Between DevSecOps and Cloud Security Companies</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/pretext-js-120fps-text-layout/en/headerimage/generatedHeaderImage-1776650733551.jpg" alt="Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pretext.js Bypasses DOM Layout Reflow, Enabling Advanced UX Patterns at 120 FPS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-20 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-150.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 50 brings Linux emoji picker, PDF page ordering + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-50-features" target="_blank">Firefox 50 brings Linux emoji picker, PDF page ordering + more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-20 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/datakaz/why-most-developers-lose-downloads-by-skipping-app-store-localization-fnb" target="_blank">Why Most Developers Lose Downloads by Skipping App Store Localization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 12:06</span>
             </div>
         </div>
 </div>
@@ -231,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/aphelion-1280x720.jpg" alt="The End Of April Is Absolutely Stacked On Xbox Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-pass-vampire-crawlers-final-fantasy-aphelion-2000689032" target="_blank">The End Of April Is Absolutely Stacked On Xbox Game Pass</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Office-2024-Home-Business.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="You&#x27;ve been renting and using Office wrong since 2009 … fix everything with a 72% discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/20/youve-been-renting-and-using-office-wrong-since-2009-fix-everything-with-a-72-discount.html" target="_blank">You&#x27;ve been renting and using Office wrong since 2009 … fix everything with a 72% discount</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/wondercon-main-1280x720.jpeg" alt="WonderCon’s Cosplay Raises The Game With Some Completely Stunning Fits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +286,6 @@
                 <span class="time">2026-04-19 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-CISSP-Security-Risk-Management-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into cybersecurity at your own pace with this $20 CISSP Training Bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/19/pivot-into-cybersecurity-at-your-own-pace-with-this-20-cissp-training-bundle.html" target="_blank">Pivot into cybersecurity at your own pace with this $20 CISSP Training Bundle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,22 +300,13 @@
                 <span class="time">2026-04-20 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776384022-20260419.png" alt="Saturday Morning Breakfast Cereal - Dial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dial" target="_blank">Saturday Morning Breakfast Cereal - Dial</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 14:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 15:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
