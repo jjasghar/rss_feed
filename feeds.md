@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 02:59:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 04:12:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 04:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime" target="_blank">Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-20 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/strait-main_1776589771677_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says US Navy attacked and seized Iranian-flagged cargo ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss" target="_blank">US forces attack and seize Iranian ship Touska near Strait of Hormuz</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-19 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9908/live/7011b290-3c34-11f1-8a32-adb65a1e379b.jpg" alt="US intercepts and seizes Iranian-flagged cargo ship, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss" target="_blank">US intercepts and seizes Iranian-flagged cargo ship, Trump says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-19 21:39</span>
             </div>
         </div>
 </div>
@@ -279,8 +274,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
