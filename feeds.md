@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 10:31:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 11:27:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 10:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 11:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates" target="_blank">Peace talks in doubt as U.S. seizes Iranian ship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-20 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine?traffic_source=rss" target="_blank">‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-debel-jesus-israeli_7225030.jpg?20260420091547" alt="IDF soldier damages Jesus statue with sledgehammer in Lebanon - as Netanyahu responds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/netanyahu-condemns-in-strongest-terms-idf-damage-to-jesus-statue-in-lebanon-13534070" target="_blank">IDF soldier damages Jesus statue with sledgehammer in Lebanon - as Netanyahu responds</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-20 09:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-debel-jesus-israeli_7225030.jpg?20260420091547" alt="Netanyahu condemns &#x27;in strongest terms&#x27; IDF damage to Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms" target="_blank">Data center disputes have been local. But the midterms might change that</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Marines-Touska-DB-260420_1776668959422_hpMain_4x3t_384.jpg" alt="Iran live updates: Marines from USS Tripoli seized Iranian vessel, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Marines from USS Tripoli seized Iranian vessel, CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-20 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss" target="_blank">US military releases video of marines seizing Iranian ship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 06:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon" target="_blank">A humanoid robot sprints past the human half-marathon world record in Beijing race</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-20 06:10</span>
             </div>
         </div>
 </div>
@@ -157,6 +168,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-58pg" target="_blank">Build a Web Scraper and Sell the Data: A Step-by-Step Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/building-trpc-api-typescript/en/headerimage/building-trpc-api-typescript-header-1776246612091.jpg" alt="Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redb-4.1-Released" target="_blank">Popular Rust-Based Database Turns To AI For Up To 1.5x Speedup, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-20 10:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F825443%2F25eb86cc-d436-4b4f-9c75-a90d96f82a91.jpeg" alt="Launching Pegasus 1.5 by TwelveLabs on Product Hunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -169,45 +207,32 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://awesomeagents.ai/news/github-fake-stars-investigation/" target="_blank">GitHub&#x27;s Fake Star Economy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-20 08:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/" target="_blank">OpenClaw isn&#x27;t fooling me. I remember MS-DOS</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-20 07:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itprepvn/what-is-langgraph-a-beginner-friendly-introduction-3b7d" target="_blank">What Is LangGraph? A Beginner-Friendly Introduction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/hybrid-search-and-reranking-a-deeper-look-at-rag" target="_blank">Hybrid search and reranking: a deeper look at RAG</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-20 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pejiepcji2joktivyup.png" alt="Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arqamwd/terra-triage-i-built-a-3-agent-wildlife-dispatcher-that-learns-from-every-referral-efk" target="_blank">Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-expands-ubuntu-support-to-next-generation-mediatek-genio-520-and-720-platforms" target="_blank">Canonical expands Ubuntu support to next-generation MediaTek Genio 520 and 720 platforms</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-20 04:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html" target="_blank">Is “Satoshi Nakamoto” Really Adam Back?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-20 11:07</span>
             </div>
         </div>
 </div>
@@ -279,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
