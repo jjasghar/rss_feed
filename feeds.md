@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 18:15:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 19:23:10 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12da/live/0c0c6dc0-3c99-11f1-879d-1b2f5c3919b8.jpg" alt="Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss" target="_blank">Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/ukrainian-drone-attack-hits-russias-tuapse-port?traffic_source=rss" target="_blank">Ukrainian drone attack hits Russia’s Tuapse port</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-gaza-destruction_7225542.jpg?20260420184138" alt="Rebuilding Gaza will cost more than &amp;#163;50bn, says UN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/rebuilding-gaza-will-cost-more-than-16350bn-says-un-and-eu-13534234" target="_blank">Rebuilding Gaza will cost more than &amp;#163;50bn, says UN</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-20 17:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Tehran-poster-DB-260420_1776679052917_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Israel &#x27;never talked&#x27; him into war with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -76,38 +106,29 @@
                 <span class="time">2026-04-20 17:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-mass-legalisation-measure_7225587.jpg?20260420191112" alt="Migrants in Spain queue to apply for mass legalisation programme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/migrants-in-spain-queue-to-apply-for-mass-legalisation-programme-13534206" target="_blank">Migrants in Spain queue to apply for mass legalisation programme</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-20 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d4/live/cc486ba0-3cc8-11f1-987d-c743ccc8aa4a.jpg" alt="&#x27;Huge relief&#x27; as students given loans &#x27;in error&#x27; get repayment reprieve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Huge relief&#x27; as students given loans &#x27;in error&#x27; get repayment reprieve</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-20 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/palestinians-not-welcome-as-israel-marks-memorial-day?traffic_source=rss" target="_blank">Palestinians not welcome as Israel marks Memorial Day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser" target="_blank">Insta360 is putting screens on its next wireless mics to show logos or images</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e65fd70c76e8ee412aee36/master/pass/GettyImages-1585486700.jpg" alt="A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#x27;s a &#x27;Very Rare&#x27; Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/" target="_blank">A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#x27;s a &#x27;Very Rare&#x27; Event</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-20 18:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +165,29 @@
                 <span class="time">2026-04-20 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e25ac766e2b77438cf4141/master/pass/Hyundai%20IONIQ3%20Ext3.png" alt="Hyundai Ioniq 3 2026: Price, Specs, Availability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hyundai-ioniq-3-2026/" target="_blank">Hyundai Ioniq 3 2026: Price, Specs, Availability</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/bruce1-500x500.jpg" alt="Meet Bruce, the &quot;beak-jousting&quot; parrot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/" target="_blank">Meet Bruce, the &quot;beak-jousting&quot; parrot</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-20 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942086&w=600" alt="Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cybersecurity-with-a-digital-twin-real-time-data" target="_blank">Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/" target="_blank">Changes to GitHub Copilot Individual plans</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-20 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18894345&w=600" alt="Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +224,6 @@
                 <span class="time">2026-04-20 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941201&w=600" alt="From APIs to Event-Driven Systems: Modern Java Backend Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apis-to-event-driven-java-backend" target="_blank">From APIs to Event-Driven Systems: Modern Java Backend Design</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnd08bbbi96h5vautpp6.jpeg" alt="TPU Mythbusting: vendor lock-in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo" target="_blank">TPU Mythbusting: vendor lock-in</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-62-1280x720.jpg" alt="It’s Such A Relief To See A Cool Game Like Pragmata Succeed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pragmata-sales-steam-charts-capcom-price-2000689091" target="_blank">It’s Such A Relief To See A Cool Game Like Pragmata Succeed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-20 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KN4T0EM3M4G830JHWXJTADQ0/hero-image.png" alt="Everything We (Think) We Know About Google&#x27;s &#x27;Fitbit Air&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +297,6 @@
                 <span class="time">2026-04-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/wondercon-main-1280x720.jpeg" alt="WonderCon’s Cosplay Raises The Game With Some Completely Stunning Fits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wondercons-cosplay-raises-the-game-with-some-completely-stunning-fits-2000688984" target="_blank">WonderCon’s Cosplay Raises The Game With Some Completely Stunning Fits</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
