@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 00:13:13 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-20 01:31:13 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 1 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 00:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287" target="_blank">Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 01:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuskg431o9qz8eil2phoj.png" alt="Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fixes-VA-API-H264-Rate" target="_blank">GNOME Fixes Screencasting Issue With H.264 Recordings Being ~18x Larger Than VP8</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-19 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/senk/cong-hun-dun-dao-zhi-xu-ai-shi-dai-de-xi-tong-fen-ceng-zhi-li-fang-fa-lun-43fb" target="_blank">从混沌到秩序：AI 时代的系统分层治理方法论</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 18:04</span>
             </div>
         </div>
 </div>
@@ -272,8 +263,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:13 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
