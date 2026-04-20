@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 21:13:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-20 22:12:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss" target="_blank">EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,21 +85,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038a/live/5bccbf70-39a8-11f1-ba5b-c578881f2eba.jpg" alt="Officials deliberately withheld Mandelson vetting result from me, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss" target="_blank">Germany summons Russian ambassador citing ‘direct threats’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791617/american-library-association-challenged-books" target="_blank">The 11 most challenged books of 2025, according to the American Library Association</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-20 17:33</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&at_campaign=rss" target="_blank">Officials deliberately withheld Mandelson vetting result from me, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 18:06</span>
             </div>
         </div>
 </div>
@@ -106,6 +104,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook" target="_blank">Apple names Johny Srouji as chief hardware officer</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2026-04-20 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-500x500.jpg" alt="John Ternus will replace Tim Cook as Apple CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/" target="_blank">John Ternus will replace Tim Cook as Apple CEO</a></span>
+                <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-20 21:05</span>
             </div>
         </div>
@@ -145,20 +152,29 @@
                 <span class="time">2026-04-20 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-500x500-1775856294.jpg" alt="Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/" target="_blank">Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-20 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2Ft4enECK.png" alt="Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayratmurtazin/black-scholes-on-polymarket-finding-mispriced-binary-events-with-python-2m50" target="_blank">Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-20 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://codeberg.org/aol/spam" target="_blank">SPAM - A Software PAckage Manager utility</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-20 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942103&w=600" alt="Quality Assurance in AI-Driven Business Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +209,6 @@
                 <span class="title"><a href="https://dzone.com/articles/hidden-ai-cyber-threats-companies-overlook" target="_blank">Hidden Cyber Threat AI Is Preparing That Some Companies Aren&#x27;t Thinking About</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-skull"></span>
-                <span class="title"><a href="https://blog.codinghorror.com/thank-you-for-being-a-friend/" target="_blank">Thank You For Being a Friend</a></span>
-                <span class="feed">Coding Horror</span>
-                <span class="time">2026-04-20 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Box64-0.4.2-Released" target="_blank">Box64 0.4.2 Begins Working On POWER PPC64LE Backend, Support For SteamRT3 + Proton 11</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-20 17:16</span>
             </div>
         </div>
 </div>
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
