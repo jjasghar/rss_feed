@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 01:31:13 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-20 02:59:29 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, April 20, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -159,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/java-news-roundup-apr13-2026/en/headerimage/java-news-roundup-image-1776605902940.jpg" alt="Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-20 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287" target="_blank">Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-20 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-HID" target="_blank">New Lenovo Legion Go Drivers &amp; More Sony HID Device Support In Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-20 00:42</span>
             </div>
         </div>
 <div class="story">
@@ -194,29 +219,20 @@
                 <span class="time">2026-04-19 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4z2j1e100pfkhkatyzp0.png" alt="I added profile-specific duplicate rules to my CSV intake console #5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno" target="_blank">I added profile-specific duplicate rules to my CSV intake console #5</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-19 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Fixes-VA-API-H264-Rate" target="_blank">GNOME Fixes Screencasting Issue With H.264 Recordings Being ~18x Larger Than VP8</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-19 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Surface-SE.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A laptop? A tablet? The Microsoft Surface SE is both — and it&#x27;s 49% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/19/a-laptop-a-tablet-the-microsoft-surface-se-is-both-and-its-49-off.html" target="_blank">A laptop? A tablet? The Microsoft Surface SE is both — and it&#x27;s 49% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/hVVJBjSMFF4QXhsQBtjruJbg-1280x720.jpg" alt="Modder Discovers Abandoned Sewer Level In Dark Souls II Nearly 12 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,8 +279,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
