@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 20:15:19 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-21 21:13:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 20:15 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260421_1776775458697_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces he&#x27;s extending ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump announces he&#x27;s extending ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-21 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5789030/naked-mole-rat-colony-queens-succession" target="_blank">Instead of civil war, a naked mole rat colony changed queens peacefully</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-21 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,38 @@
                 <span class="time">2026-04-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vance-2-gty-gmh-260415_1776258633869_hpMain_4x3t_384.jpg" alt="Iran war has become political baggage for Vance: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/iran-war-become-political-baggage-vance-analysis/story?id=132237155" target="_blank">Iran war has become political baggage for Vance: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-21 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss" target="_blank">Israeli sexual violence helping push Palestinians from West Bank: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-21 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/" target="_blank">Tim Cook is stepping down as CEO of Apple. Here’s a look at his 15-year legacy, from new products and services to China expansion.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-21 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/915237/palantir-manifesto" target="_blank">We translated the Palantir manifesto for actual human beings</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-500x500.jpg" alt="Silo S3 teaser hints at the wasteland&#x27;s origins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/" target="_blank">Silo S3 teaser hints at the wasteland&#x27;s origins</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +164,20 @@
                 <span class="time">2026-04-21 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-Pro-Teardown-500x500.jpg" alt="Framework Laptop 13 Pro is the first major revision to the original Framework Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/" target="_blank">Framework Laptop 13 Pro is the first major revision to the original Framework Laptop</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e6b3bd8d2fd342f277fdb0/master/pass/Tim-Cook-Steps-Down-Business-2233926863.jpg" alt="Tim Cook’s Legacy Is Turning Apple Into a Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-tim-cook-subscription-business/" target="_blank">Tim Cook’s Legacy Is Turning Apple Into a Subscription</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-500x500.jpg" alt="Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/" target="_blank">Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941861&w=600" alt="AWS Bedrock: The Future of Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-bedrock-the-future-of-enterprise-ai" target="_blank">AWS Bedrock: The Future of Enterprise AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-21 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +185,24 @@
                 <span class="title"><a href="https://dev.to/sharonnyabuto/sql-subqueries-vs-ctes-a-guide-to-writing-better-queries-1f44" target="_blank">SQL Subqueries vs. CTEs: A Guide to Writing Better Queries</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Old-Network-AI" target="_blank">Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://stuartm.nz/2026/04/pdm-rocks/" target="_blank">Switching from uv to PDM</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-21 19:25</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +221,6 @@
                 <span class="title"><a href="https://dzone.com/articles/demystifying-intelligent-integration-ai-and-ml" target="_blank">Demystifying Intelligent Integration: AI and ML in Hybrid Clouds</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-21 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-Laptop-13-Pro" target="_blank">Framework Computer Announces The Framework Laptop 13 Pro</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/plugiva/how-wordpress-developers-actually-handle-client-access-based-on-real-discussions-16nj" target="_blank">How WordPress Developers Actually Handle Client Access (Based on Real Discussions)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kushal1o1/real-mcp-has-a-lot-going-on-but-the-core-idea-is-this-simple-52g" target="_blank">Real MCP has a lot going on - but the core idea is this simple</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 17:18</span>
             </div>
         </div>
 </div>
@@ -242,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $80 AI tool brings chat, image, audio, video, and docs together in one place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/21/this-80-ai-tool-brings-chat-image-audio-video-and-docs-together-in-one-place.html" target="_blank">This $80 AI tool brings chat, image, audio, video, and docs together in one place</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/guy-montgomery-1280x720.jpg" alt="A ‘Game Show’ That’s Basically Dropout For Word Nerds Is The Funniest Thing I’ve Watched In Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/game-show-dropout-word-nerds-guy-montgomery-2000689430" target="_blank">A ‘Game Show’ That’s Basically Dropout For Word Nerds Is The Funniest Thing I’ve Watched In Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-21 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPNXY0DRHV796DQRJ0VHH43Z/hero-image.jpg" alt="10 Hacks Every Apple CarPlay User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +305,6 @@
                 <span class="time">2026-04-21 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/maxresdefault.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="52-year-old Nintendo full-motion film game restored" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/21/52-year-old-nintendo-full-motion-video-game-restored.html" target="_blank">52-year-old Nintendo full-motion film game restored</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-21 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPNRS9DND5CCR3JSFEHTEPFC/hero-image.jpg" alt="10 Shows Like &#x27;Rooster&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-best-shows-like-rooster-you-should-watch-next?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Rooster&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
