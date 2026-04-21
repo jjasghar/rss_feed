@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 08:31:43 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-21 09:29:19 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 08:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 09:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +108,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix" target="_blank">Microsoft Teams is trying to fix accidental hand-raising</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 09:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e6859a62260009d0021b0e/master/pass/GettyImages-2210802594.jpg" alt="How to Watch the 2026 Lyrids Meteor Shower at Its Peak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/" target="_blank">How to Watch the 2026 Lyrids Meteor Shower at Its Peak</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat" target="_blank">PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-21 07:11</span>
@@ -142,29 +158,20 @@
                 <span class="time">2026-04-21 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy" target="_blank">Tim Cook will still be Apple’s Trump whisperer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/" target="_blank">Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-20 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/redesign-pdf-table-extraction/en/headerimage/redesign-pdf-table-extraction-header-1776414059821.jpg" alt="Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="The Cross-Entropy Method: Solving RL Without Gradients" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i" target="_blank">I tried to build a personal SaaS with zero backend. Here&#x27;s where that strategy hits a wall.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Cloudflare Introduces Project Think: A Durable Runtime for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Project Think: A Durable Runtime for AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-21 02:34</span>
             </div>
         </div>
 </div>
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 251 |
-        🔄 Last Updated: 08:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 09:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
