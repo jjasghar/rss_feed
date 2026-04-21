@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 09:29:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-21 10:26:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 10:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5786915/ice-immigration-enforcement-data-thomson-reuters" target="_blank">She raised concerns about her company&#x27;s contracts with ICE. Then she lost her job</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2026-04-21 05:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/trumps-labor-secretary-lori-chavez-deremer-latest-to-leave-administration?traffic_source=rss" target="_blank">Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-21 02:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/" target="_blank">Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2026-04-21 02:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank">Who is John Ternus, the incoming Apple CEO?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-21 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwetehc3alwtb0xmo0rh9.png" alt="I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf" target="_blank">I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Staging" target="_blank">Linux 7.1 Staging Ushered In More Developers To Make Their First Kernel Contributions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/redesign-pdf-table-extraction/en/headerimage/redesign-pdf-table-extraction-header-1776414059821.jpg" alt="Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/17j/chaos-engineering-breaking-things-on-purpose-before-production-does-8jc" target="_blank">Chaos Engineering: Breaking Things on Purpose Before Production Does</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pixel_mosaic/how-we-build-high-performance-animated-websites-without-killing-page-speed-1pd6" target="_blank">How We Build High-Performance Animated Websites Without Killing Page Speed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deeshansharma/i-tried-to-build-a-personal-saas-with-zero-backend-heres-where-that-strategy-hits-a-wall-210i" target="_blank">I tried to build a personal SaaS with zero backend. Here&#x27;s where that strategy hits a wall.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 04:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 250 |
+        🔄 Last Updated: 10:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
