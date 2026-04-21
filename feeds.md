@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 00:15:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-21 01:31:19 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 00:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +57,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776725555660_nn_rch_Shreveport_shooting_260420_S3_1920x1080-w0u4dc.jpg" alt="New details about Louisiana gunman’s mental health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-about-louisiana-gunman-s-mental-health-261742661574" target="_blank">New details about Louisiana gunman’s mental health</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-20 22:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -71,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bda0/live/eff6d4d0-3cee-11f1-879d-1b2f5c3919b8.jpg" alt="Trump says US will not lift Hormuz blockade until deal made with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US will not lift Hormuz blockade until deal made with Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-20 21:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-teotihuacan-mexico-pyramid_7225824.jpg?20260420225910" alt="Deadly shooting at famous Mexico tourist site" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -79,29 +101,29 @@
                 <span class="time">2026-04-20 21:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss" target="_blank">EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss" target="_blank">What to know about the next round of US-Iran talks in Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/" target="_blank">Who is John Ternus, the incoming Apple CEO?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-21 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy" target="_blank">Tim Cook will still be Apple’s Trump whisperer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,29 @@
                 <span class="time">2026-04-20 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-500x500.jpg" alt="John Ternus will replace Tim Cook as Apple CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/" target="_blank">John Ternus will replace Tim Cook as Apple CEO</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-20 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e691cad29b04dda3eea13d/master/pass/tim-Cook-Steps-Down-Business-2233926949.jpg" alt="Apple CEO Tim Cook Is Stepping Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/" target="_blank">Apple CEO Tim Cook Is Stepping Down</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-20 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1nj0" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-Import-Export-Agent" target="_blank">AMD&#x27;s GAIA Makes It Easier To Import/Export Custom AI Agents Across PCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 00:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" target="_blank">John Ternus to become Apple CEO</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-20 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://codeberg.org/aol/spam" target="_blank">SPAM - A Software PAckage Manager utility</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-20 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942103&w=600" alt="Quality Assurance in AI-Driven Business Evolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/quality-assurance-in-ai-driven-business-evolution" target="_blank">Quality Assurance in AI-Driven Business Evolution</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-20 20:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 00:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
