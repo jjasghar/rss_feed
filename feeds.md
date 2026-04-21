@@ -1,47 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 15:25:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-21 16:21:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 38 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 16:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing" target="_blank">Ordering with the Starbucks ChatGPT app was a true coffee nightmare</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-500x500.jpg" alt="CATL&#x27;s new LFP battery can charge from 10 to 98% in less than 7 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/" target="_blank">CATL&#x27;s new LFP battery can charge from 10 to 98% in less than 7 minutes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 15:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-500x500.jpg" alt="What&#x27;s the deal with spacesuits for the Moon? Will they be ready in time?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,29 +158,29 @@
                 <span class="time">2026-04-21 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/" target="_blank">With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e668fcab15b90f6c64db2c/master/pass/The-Best-Gaming-Laptops.jpg" alt="Best Gaming Laptops (2026): Razer, Asus, Dell, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-gaming-laptops/" target="_blank">Best Gaming Laptops (2026): Razer, Asus, Dell, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941805&w=600" alt="Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-cost-aware-product-roadmaps" target="_blank">Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NTFS-3G-Driver-2026" target="_blank">NTFS-3G FUSE Driver Sees First New Release In Four Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhswm1fbpy77aq4rcl11o.png" alt="Introducing Portkey&#x27;s Agent Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,24 +217,6 @@
                 <span class="time">2026-04-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!_3W5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc215ccd0-2cd3-4ab3-93a5-9ba11a7ba196_2048x1536.jpeg" alt="Learnings from conducting ~1,000 interviews at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews" target="_blank">Learnings from conducting ~1,000 interviews at Amazon</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-21 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/github-outages-scaling/en/headerimage/generatedHeaderImage-1776504516196.jpg" alt="GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -257,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/hannity-2.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Hannity quits Catholicism after pope disagrees with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/21/hannity-quits-catholicism-after-pope-disagrees-with-trump.html" target="_blank">Hannity quits Catholicism after pope disagrees with Trump</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-21 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/IMG_3119-1280x720.jpg" alt="I Need Everyone To Start Being Normal About Pragmata" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -302,15 +299,6 @@
                 <span class="time">2026-04-21 13:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPQSMEEE18NMQEJATR94GQ5V/hero-image.jpg" alt="&#x27;Clicky&#x27; Is a macOS Companion That Can Help You With Just About Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/clicky-macos-companion?utm_medium=RSS" target="_blank">&#x27;Clicky&#x27; Is a macOS Companion That Can Help You With Just About Anything</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 252 |
+        🔄 Last Updated: 16:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
