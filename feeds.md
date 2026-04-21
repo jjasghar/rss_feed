@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 16:21:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-21 17:19:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 16:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/vance-2-gty-gmh-260415_1776258633869_hpMain_4x3t_384.jpg" alt="Iran war has become political baggage for Vance: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/iran-war-become-political-baggage-vance-analysis/story?id=132237155" target="_blank">Iran war has become political baggage for Vance: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-21 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss" target="_blank">Israeli sexual violence helping push Palestinians from West Bank: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-21 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg" alt="Iran sees mass redundancies from war with US and Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss" target="_blank">Iran sees mass redundancies from war with US and Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-21 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa58/live/35b82990-3d91-11f1-b55d-0f258dce1735.jpg" alt="Israeli soldiers punished over vandalism of Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +102,29 @@
                 <span class="time">2026-04-21 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc63/live/12039d70-3bcc-11f1-9278-4d3af542c6a1.jpg" alt="Boy, 17, pleads guilty to synagogue arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&at_campaign=rss" target="_blank">Boy, 17, pleads guilty to synagogue arson attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-21 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/warsh_nom-0qim8a.jpg" alt="Senate holds confirmation hearing for Fed chair nominee Kevin Warsh" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-senate-holds-confirmation-hearing-for-fed-chair-nominee-kevin-warsh-261782085915" target="_blank">Senate holds confirmation hearing for Fed chair nominee Kevin Warsh</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-21 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates" target="_blank">As the U.S.-Iran ceasefire deadline looms, here are the main sticking points</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 12:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-500x500.jpg" alt="Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/" target="_blank">Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e64d98627d0e0d48a77366/master/pass/GettyImages-2267997264.jpg" alt="Meta Is Sued Over Scam Ads on Facebook and Instagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/" target="_blank">Meta Is Sued Over Scam Ads on Facebook and Instagram</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,29 @@
                 <span class="time">2026-04-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e6d358d29b04dda3eea33f/master/pass/The-Best-Electrolyte-Powders-and-Supplements.jpg" alt="The 10 Best Electrolyte Powders (We Tested Nearly 20)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-electrolyte-powders/" target="_blank">The 10 Best Electrolyte Powders (We Tested Nearly 20)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer" target="_blank">Splatoon Raiders hits the Switch 2 in July</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kushal1o1/real-mcp-has-a-lot-going-on-but-the-core-idea-is-this-simple-52g" target="_blank">Real MCP has a lot going on - but the core idea is this simple</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Age-Verification-Laws" target="_blank">AlmaLinux Comments On California Age Verification Law</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 16:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941805&w=600" alt="Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +220,6 @@
                 <span class="time">2026-04-21 14:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/upgrade-ubuntu-2604.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS: What’s new since 24.04?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04" target="_blank">Ubuntu 26.04 LTS: What’s new since 24.04?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-21 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-9950x3d2-linux" target="_blank">AMD Ryzen 9 9950X3D2 Benchmarks: The Best Desktop Performance For Linux Developers, Creators</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/maxresdefault.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="52-year-old Nintendo full-motion film game restored" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/21/52-year-old-nintendo-full-motion-video-game-restored.html" target="_blank">52-year-old Nintendo full-motion film game restored</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-21 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPR3F5Y0CZ8QG1QABKDEYQ4T/hero-image.jpg" alt="11 of the Biggest Moments in Tim Cook&#x27;s Time As Apple CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/biggest-moments-in-tim-cooks-time-as-apple-ceo?utm_medium=RSS" target="_blank">11 of the Biggest Moments in Tim Cook&#x27;s Time As Apple CEO</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/hannity-2.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Hannity quits Catholicism after pope disagrees with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +302,6 @@
                 <span class="time">2026-04-21 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPR24HCN9WFDFXXMEE6NB43Q/hero-image.png" alt="This Samsung Soundbar With Dolby Atmos Is Now $350 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-soundbar-dolby-atmos-deal-april-2026?utm_medium=RSS" target="_blank">This Samsung Soundbar With Dolby Atmos Is Now $350 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Splatoon-Raiders-—-Release-Date-Revealed-—-Nintendo-Switch-2-2-2-screenshot-1280x720.jpg" alt="Splatoon Raiders Has a Release Date And I Can’t Believe I Have To Wait ‘Til July To Hit Fish Guys With An Ink Axe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/splatoon-raiders-release-date-cool-ink-axe-2000689318" target="_blank">Splatoon Raiders Has a Release Date And I Can’t Believe I Have To Wait ‘Til July To Hit Fish Guys With An Ink Axe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-21 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 16:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
