@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 10:26:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-21 11:23:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 10:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 11:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss" target="_blank">Afghans displaced by Pakistan conflict survive in tent camps</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-21 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2026/04/21/g-s1-118071/the-hidden-power-keeping-wages-low" target="_blank">The hidden power keeping wages low</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +103,29 @@
                 <span class="time">2026-04-21 05:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss" target="_blank">US veterans arrested in Capitol during protest against the war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-21 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico" target="_blank">Gunman shoots several tourists at historic pyramids in Mexico</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 05:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69de96afb083bab80bea1c92/master/pass/MAGA-AI-Womanfluencers-Culture.jpg" alt="This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-generated-maga-girls/" target="_blank">This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/" target="_blank">Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +162,29 @@
                 <span class="time">2026-04-21 07:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price" target="_blank">Dyson’s back with a travel-size Supersonic hairdryer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GPS_schriever-500x500.jpg" alt="Pentagon pulls the plug on one of the military&#x27;s most troubled space programs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/" target="_blank">Pentagon pulls the plug on one of the military&#x27;s most troubled space programs</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 02:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Arm-C1-Pro-Fix" target="_blank">Linux 7.1 Lands Workaround For Arm C1-Pro Erratum</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/llm-personalization/en/mediumimage/Sudeep-Das-Pradeep-Muthukrishnan-medium-1776173227456.jpg" alt="Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/llm-personalization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Dynamic Moments: Weaving LLMs into Deep Personalization at DoorDash</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-21 10:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwetehc3alwtb0xmo0rh9.png" alt="I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,43 +221,20 @@
                 <span class="time">2026-04-21 08:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/" target="_blank">We still need developer communities</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-21 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/17j/chaos-engineering-breaking-things-on-purpose-before-production-does-8jc" target="_blank">Chaos Engineering: Breaking Things on Purpose Before Production Does</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 07:24</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html" target="_blank">Is “Satoshi Nakamoto” Really Adam Back?</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-20 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/black-flag-2-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced Trailer Leaks, And Oh Damn, It’s Looking Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-resynced-trailer-screenshot-leak-2000689284" target="_blank">Assassin’s Creed Black Flag Resynced Trailer Leaks, And Oh Damn, It’s Looking Good</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-21 11:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/ww22-1280x720.jpg" alt="New Minions Movie Retconning The Lore That Kept The Bastards Out Of WW1 And WW2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +280,6 @@
                 <span class="time">2026-04-20 19:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Marisa-imonetti.jpg?fit=1200%2C831&amp;quality=60&amp;ssl=1" alt="Minnesota Senate candidate convicted for throwing tarantula at tenant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/20/minnesota-senate-candidate-convicted-for-throwing-tarantula-at-tenant.html" target="_blank">Minnesota Senate candidate convicted for throwing tarantula at tenant</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-20 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 250 |
-        🔄 Last Updated: 10:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 11:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
