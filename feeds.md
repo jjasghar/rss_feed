@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 19:25:27 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-21 20:15:19 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 19:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 20:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5793967/florida-openai-investigation-mass-shooting-fsu" target="_blank">Florida AG launches criminal investigation into ChatGPT over FSU shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-21 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss" target="_blank">Israeli sexual violence helping push Palestinians from West Bank: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-21 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-pope-equatorial-guinea_7226491.jpg?20260421174754" alt="Pope warns humanity&#x27;s destiny could be &#x27;tragically compromised&#x27; and calls on politicians to respect international law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pope-warns-humanitys-destiny-could-be-tragically-compromised-and-calls-on-politicians-to-respect-international-law-13534652" target="_blank">Pope warns humanity&#x27;s destiny could be &#x27;tragically compromised&#x27; and calls on politicians to respect international law</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-21 16:28</span>
             </div>
         </div>
 </div>
@@ -174,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharonnyabuto/sql-subqueries-vs-ctes-a-guide-to-writing-better-queries-1f44" target="_blank">SQL Subqueries vs. CTEs: A Guide to Writing Better Queries</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/praveen_kumar_wednesday/the-week-we-refused-to-build-anything-is-what-made-the-ai-roi-measurable-39jg" target="_blank">No code for a week. That is why we could measure the AI ROI.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 19:16</span>
@@ -215,15 +214,6 @@
                 <span class="time">2026-04-21 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html" target="_blank">The Vercel breach: OAuth attack exposes risk in platform environment variables</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-21 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPNXY0DRHV796DQRJ0VHH43Z/hero-image.jpg" alt="10 Hacks Every Apple CarPlay User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-carplay-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple CarPlay User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/fa3af5eeff35b02e78c9a70012b401e2-1280x720.jpg" alt="The Most Inescapable Voice In Gaming Wants To Start His Own Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/troy-baker-studio-mouse-pi-voice-review-2000689438" target="_blank">The Most Inescapable Voice In Gaming Wants To Start His Own Studio</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-21 19:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png" alt="The Best Samsung Galaxy Watch for Athletes and Adventurers Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,24 +296,6 @@
                 <span class="time">2026-04-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPR3F5Y0CZ8QG1QABKDEYQ4T/hero-image.jpg" alt="11 of the Biggest Moments in Tim Cook&#x27;s Time As Apple CEO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/biggest-moments-in-tim-cooks-time-as-apple-ceo?utm_medium=RSS" target="_blank">11 of the Biggest Moments in Tim Cook&#x27;s Time As Apple CEO</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/hannity-2.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Hannity quits Catholicism after pope disagrees with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/21/hannity-quits-catholicism-after-pope-disagrees-with-trump.html" target="_blank">Hannity quits Catholicism after pope disagrees with Trump</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-21 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
