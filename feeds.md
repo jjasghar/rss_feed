@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 17:19:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-04-21 18:17:48 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5f/live/5156e990-3da3-11f1-b55d-0f258dce1735.jpg" alt="No 10 had &#x27;dismissive attitude&#x27; to Mandelson vetting, says sacked Foreign Office chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79j0d01x4zo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 had &#x27;dismissive attitude&#x27; to Mandelson vetting, says sacked Foreign Office chief</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/vance-2-gty-gmh-260415_1776258633869_hpMain_4x3t_384.jpg" alt="Iran war has become political baggage for Vance: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -64,6 +65,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss" target="_blank">Israeli sexual violence helping push Palestinians from West Bank: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-21 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-pope-equatorial-guinea_7226491.jpg?20260421174754" alt="Pope warns humanity&#x27;s destiny could be &#x27;tragically compromised&#x27; and calls on politicians to respect international law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pope-warns-humanitys-destiny-could-be-tragically-compromised-and-calls-on-politicians-to-respect-international-law-13534652" target="_blank">Pope warns humanity&#x27;s destiny could be &#x27;tragically compromised&#x27; and calls on politicians to respect international law</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-21 16:28</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +94,29 @@
                 <span class="time">2026-04-21 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths" target="_blank">Want to lighten your mental load? First, let go of these gender myths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-7-rt-gmh-260420_1776707186357_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran violated ceasefire &#x27;multiple times&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump says Iran violated ceasefire &#x27;multiple times&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-21 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-Pro-Teardown-500x500.jpg" alt="Framework Laptop 13 Pro is the first major revision to the original Framework Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/" target="_blank">Framework Laptop 13 Pro is the first major revision to the original Framework Laptop</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e6b3bd8d2fd342f277fdb0/master/pass/Tim-Cook-Steps-Down-Business-2233926863.jpg" alt="Tim Cook’s Legacy Is Turning Apple Into a Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-tim-cook-subscription-business/" target="_blank">Tim Cook’s Legacy Is Turning Apple Into a Subscription</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 17:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-500x500.jpg" alt="Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +153,20 @@
                 <span class="time">2026-04-21 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-500x500.jpg" alt="What&#x27;s the deal with spacesuits for the Moon? Will they be ready in time?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" target="_blank">What&#x27;s the deal with spacesuits for the Moon? Will they be ready in time?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/915640/silo-season-2-apple-tv-date-trailer" target="_blank">Apple TV has another busy summer of sci-fi with Silo season 3 in July</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/plugiva/how-wordpress-developers-actually-handle-client-access-based-on-real-discussions-16nj" target="_blank">How WordPress Developers Actually Handle Client Access (Based on Real Discussions)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 18:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,10 +179,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html" target="_blank">The Vercel breach: OAuth attack exposes risk in platform environment variables</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-21 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Age-Verification-Laws" target="_blank">AlmaLinux Comments On California Age Verification Law</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-21 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu confirms the 26.10 codename, and it sounds strange…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-10-codename-confirmed" target="_blank">Ubuntu confirms the 26.10 codename, and it sounds strange…</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-21 16:28</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://dzone.com/articles/building-cost-aware-product-roadmaps" target="_blank">Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-21 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NTFS-3G-Driver-2026" target="_blank">NTFS-3G FUSE Driver Sees First New Release In Four Years</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhswm1fbpy77aq4rcl11o.png" alt="Introducing Portkey&#x27;s Agent Gateway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/siddharth_sambharia_1a196/introducing-portkeys-agent-gateway-41n0" target="_blank">Introducing Portkey&#x27;s Agent Gateway</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/anthropic-managed-agents/en/headerimage/generatedHeaderImage-1776566447284.jpg" alt="Anthropic Introduces Managed Agents to Simplify AI Agent Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/anthropic-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Managed Agents to Simplify AI Agent Deployment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-21 14:36</span>
             </div>
         </div>
 </div>
@@ -249,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/HEG7AlxbsAAePiQ-1280x676.jpg" alt="Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-sale-discount-xbox-free-to-play-2000689344" target="_blank">Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-21 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/maxresdefault.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="52-year-old Nintendo full-motion film game restored" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/04/21/52-year-old-nintendo-full-motion-video-game-restored.html" target="_blank">52-year-old Nintendo full-motion film game restored</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-21 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPNRS9DND5CCR3JSFEHTEPFC/hero-image.jpg" alt="10 Shows Like &#x27;Rooster&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-best-shows-like-rooster-you-should-watch-next?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Rooster&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -284,24 +294,6 @@
                 <span class="time">2026-04-21 15:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ChatGPT-Automation-E-Degree.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This $15 ChatGPT course bundle can help you decode your way through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/21/this-15-chatgpt-course-bundle-can-help-you-decode-your-way-through-ai.html" target="_blank">This $15 ChatGPT course bundle can help you decode your way through AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPR6KNYT7T02FEH7T3H4PSX1/hero-image.png" alt="The Google Pixel 10 Pro XL Is $300 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-10-pro-xl-sale-april-2026?utm_medium=RSS" target="_blank">The Google Pixel 10 Pro XL Is $300 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +308,13 @@
                 <span class="time">2026-04-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/20/athena-vibes" target="_blank">Athena Vibes</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-20 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
