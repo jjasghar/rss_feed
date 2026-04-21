@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 21:13:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-21 22:12:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260421_1776775458697_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces he&#x27;s extending ceasefire indefinitely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump announces he&#x27;s extending ceasefire indefinitely</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-21 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260421_1776775458697_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces he&#x27;s extending ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +100,20 @@
                 <span class="time">2026-04-21 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5f/live/5156e990-3da3-11f1-b55d-0f258dce1735.jpg" alt="No 10 had &#x27;dismissive attitude&#x27; to Mandelson vetting, says sacked Foreign Office chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c79j0d01x4zo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 had &#x27;dismissive attitude&#x27; to Mandelson vetting, says sacked Foreign Office chief</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/US-military-drone-500x500.jpeg" alt="Pentagon wants $54B for drones, more than most nations’ military budgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/" target="_blank">Pentagon wants $54B for drones, more than most nations’ military budgets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 21:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +159,29 @@
                 <span class="time">2026-04-21 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e6dccf9c8b9ae166e6c082/master/pass/gear_All-Product--Family-Hero-2026.jpg" alt="Framework Has a Better, More Take-Apart-Able Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/framework-laptop-13-pro/" target="_blank">Framework Has a Better, More Take-Apart-Able Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4" target="_blank">Building a C# Agent with Microsoft Agent Framework and Ollama</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dpc.pw/posts/i-dont-want-your-prs-anymore/" target="_blank">I don&#x27;t want your PRs anymore</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-21 20:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941861&w=600" alt="AWS Bedrock: The Future of Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +218,6 @@
                 <span class="time">2026-04-21 19:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/praveen_kumar_wednesday/the-week-we-refused-to-build-anything-is-what-made-the-ai-roi-measurable-39jg" target="_blank">No code for a week. That is why we could measure the AI ROI.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941853&w=600" alt="Demystifying Intelligent Integration: AI and ML in Hybrid Clouds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/demystifying-intelligent-integration-ai-and-ml" target="_blank">Demystifying Intelligent Integration: AI and ML in Hybrid Clouds</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-21 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/claude.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Claude Opus 4.7 identified a writer from 125 words she&#x27;d never published" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/21/claude-opus-4-7-identified-a-writer-from-125-words-shed-never-published.html" target="_blank">Claude Opus 4.7 identified a writer from 125 words she&#x27;d never published</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-21 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNSTYR0DRS5XANE1CFED9E07/hero-image.png" alt="The Best Tool and Appliance Deals You Can Still Get Before Home Depot&#x27;s Spring Sale Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-last-minute-deals-home-depot-spring-black-friday-sale-april-2026?utm_medium=RSS" target="_blank">The Best Tool and Appliance Deals You Can Still Get Before Home Depot&#x27;s Spring Sale Ends</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $80 AI tool brings chat, image, audio, video, and docs together in one place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,24 +300,6 @@
                 <span class="time">2026-04-21 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png" alt="The Best Samsung Galaxy Watch for Athletes and Adventurers Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-ultra-deal-april-2026?utm_medium=RSS" target="_blank">The Best Samsung Galaxy Watch for Athletes and Adventurers Is Over $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/HEG7AlxbsAAePiQ-1280x676.jpg" alt="Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-sale-discount-xbox-free-to-play-2000689344" target="_blank">Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-21 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
