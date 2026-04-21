@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 06:32:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-21 07:30:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 06:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Islamabad-talks-DB-260421_1776754950650_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran won&#x27;t negotiate &#x27;under threat of force,&#x27; ambassador says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Iran won&#x27;t negotiate &#x27;under threat of force,&#x27; ambassador says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-21 07:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8331/live/437b11a0-3d46-11f1-aa3b-cfbbde0e85b0.jpg" alt="Sacked civil servant to speak out in Mandelson vetting row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: &#x27;Time is not my adversary,&#x27; Trump says on securing deal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-21 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss" target="_blank">‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-20 23:43</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/17j/chaos-engineering-breaking-things-on-purpose-before-production-does-8jc" target="_blank">Chaos Engineering: Breaking Things on Purpose Before Production Does</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 07:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pixel_mosaic/how-we-build-high-performance-animated-websites-without-killing-page-speed-1pd6" target="_blank">How We Build High-Performance Animated Websites Without Killing Page Speed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 05:30</span>
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-Import-Export-Agent" target="_blank">AMD&#x27;s GAIA Makes It Easier To Import/Export Custom AI Agents Across PCs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-21 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pedrop3/the-orchestrator-state-transitions-and-kafka-routing-b9k" target="_blank">The Orchestrator: State Transitions and Kafka Routing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-20 23:00</span>
             </div>
         </div>
 </div>
@@ -312,22 +317,13 @@
                 <span class="time">2026-04-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/20/athena-vibes" target="_blank">Athena Vibes</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 252 |
-        🔄 Last Updated: 06:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
