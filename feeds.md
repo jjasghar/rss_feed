@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 13:29:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-21 14:31:11 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 14:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-7-rt-gmh-260420_1776707186357_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran violated ceasefire &#x27;multiple times&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump says Iran violated ceasefire &#x27;multiple times&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-21 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc63/live/12039d70-3bcc-11f1-9278-4d3af542c6a1.jpg" alt="Boy, 17, pleads guilty to synagogue arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&at_campaign=rss" target="_blank">Boy, 17, pleads guilty to synagogue arson attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-21 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +94,38 @@
                 <span class="time">2026-04-21 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5786915/ice-immigration-enforcement-data-thomson-reuters" target="_blank">She raised concerns about her company&#x27;s contracts with ICE. Then she lost her job</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss" target="_blank">US, Iran exchange threats as fragile ceasefire set to expire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-21 07:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-500x500.jpg" alt="What&#x27;s the deal with spacesuits for the Moon? Will they be ready in time?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" target="_blank">What&#x27;s the deal with spacesuits for the Moon? Will they be ready in time?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/915640/silo-season-2-apple-tv-date-trailer" target="_blank">Apple TV has another busy summer of sci-fi with Silo season 3 in July</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e6d358d29b04dda3eea33f/master/pass/The-Best-Electrolyte-Powders-and-Supplements.jpg" alt="The 10 Best Electrolyte Powders (We Tested Nearly 20)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-electrolyte-powders/" target="_blank">The 10 Best Electrolyte Powders (We Tested Nearly 20)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +153,20 @@
                 <span class="time">2026-04-21 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-500x500.jpg" alt="Global growth in solar &quot;the largest ever observed for any source&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/" target="_blank">Global growth in solar &quot;the largest ever observed for any source&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69de96afb083bab80bea1c92/master/pass/MAGA-AI-Womanfluencers-Culture.jpg" alt="This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-generated-maga-girls/" target="_blank">This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/" target="_blank">Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/upgrade-ubuntu-2604.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS: What’s new since 24.04?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04" target="_blank">Ubuntu 26.04 LTS: What’s new since 24.04?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-21 13:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +174,15 @@
                 <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-9950x3d2-linux" target="_blank">AMD Ryzen 9 9950X3D2 Benchmarks: The Best Desktop Performance For Linux Developers, Creators</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!_3W5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc215ccd0-2cd3-4ab3-93a5-9ba11a7ba196_2048x1536.jpeg" alt="Learnings from conducting ~1,000 interviews at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews" target="_blank">Learnings from conducting ~1,000 interviews at Amazon</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-21 12:49</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +212,6 @@
                 <span class="time">2026-04-21 10:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwetehc3alwtb0xmo0rh9.png" alt="I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf" target="_blank">I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Staging" target="_blank">Linux 7.1 Staging Ushered In More Developers To Make Their First Kernel Contributions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPR24HCN9WFDFXXMEE6NB43Q/hero-image.png" alt="This Samsung Soundbar With Dolby Atmos Is Now $350 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-soundbar-dolby-atmos-deal-april-2026?utm_medium=RSS" target="_blank">This Samsung Soundbar With Dolby Atmos Is Now $350 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Splatoon-Raiders-—-Release-Date-Revealed-—-Nintendo-Switch-2-2-2-screenshot-1280x720.jpg" alt="Splatoon Raiders Has a Release Date And I Can’t Believe I Have To Wait ‘Til July To Hit Fish Guys With An Ink Axe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +285,6 @@
                 <span class="time">2026-04-20 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/1-year-The-Club-Card-Membership-1.jpg?fit=2000%2C1333&amp;quality=60&amp;ssl=1" alt="Save up to 20¢ per gallon on fuel with BJ&#x27;s Wholesale Club for just $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/20/save-up-to-20%c2%a2-per-gallon-on-fuel-with-bjs-wholesale-club-for-just-15.html" target="_blank">Save up to 20¢ per gallon on fuel with BJ&#x27;s Wholesale Club for just $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-20 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 247 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 14:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
