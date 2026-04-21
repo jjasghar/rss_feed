@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 11:23:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-21 12:15:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 11:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh" target="_blank">U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-21 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,20 @@
                 <span class="time">2026-04-21 07:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8331/live/437b11a0-3d46-11f1-aa3b-cfbbde0e85b0.jpg" alt="Sacked civil servant to speak out in Mandelson vetting row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrezg3vyzjo?at_medium=RSS&at_campaign=rss" target="_blank">Sacked civil servant to speak out in Mandelson vetting row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-21 05:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-500x500.jpg" alt="Global growth in solar &quot;the largest ever observed for any source&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/" target="_blank">Global growth in solar &quot;the largest ever observed for any source&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69de96afb083bab80bea1c92/master/pass/MAGA-AI-Womanfluencers-Culture.jpg" alt="This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +156,20 @@
                 <span class="time">2026-04-21 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat" target="_blank">PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 07:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/github-outages-scaling/en/headerimage/generatedHeaderImage-1776504516196.jpg" alt="GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-outages-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Acknowledges Recent Outages, Cites Scaling Challenges and Architectural Weaknesses</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/redesign-pdf-table-extraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Redesigning Banking PDF Table Extraction: A Layered Approach with Java</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="The Cross-Entropy Method: Solving RL Without Gradients" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/berkan_sesen/the-cross-entropy-method-solving-rl-without-gradients-1lol" target="_blank">The Cross-Entropy Method: Solving RL Without Gradients</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 08:27</span>
             </div>
         </div>
 </div>
@@ -308,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 11:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
