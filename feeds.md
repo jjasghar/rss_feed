@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 07:30:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-21 08:31:43 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 08:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/us-and-iran-exchange-threats-as-fragile-ceasefire-set-to-expire?traffic_source=rss" target="_blank">US, Iran exchange threats as fragile ceasefire set to expire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-21 07:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Islamabad-talks-DB-260421_1776754950650_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran won&#x27;t negotiate &#x27;under threat of force,&#x27; ambassador says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2026-04-21 02:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-6-gty-gmh-260420_1776707187650_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Time is not my adversary,&#x27; Trump says on securing deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: &#x27;Time is not my adversary,&#x27; Trump says on securing deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-21 02:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat" target="_blank">PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 07:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,29 @@
                 <span class="time">2026-04-20 23:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon" target="_blank">The Lenovo Legion Go S is RAMageddon’s latest victim</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-20 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcolab.research.google.com%2Fassets%2Fcolab-badge.svg" alt="The Cross-Entropy Method: Solving RL Without Gradients" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/berkan_sesen/the-cross-entropy-method-solving-rl-without-gradients-1lol" target="_blank">The Cross-Entropy Method: Solving RL Without Gradients</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 08:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/" target="_blank">We still need developer communities</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-21 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-project-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Project Think: A Durable Runtime for AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-21 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1nj0" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-Import-Export-Agent" target="_blank">AMD&#x27;s GAIA Makes It Easier To Import/Export Custom AI Agents Across PCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 00:36</span>
             </div>
         </div>
 </div>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 251 |
+        🔄 Last Updated: 08:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
