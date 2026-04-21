@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-20 23:13:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-21 00:15:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 20, 2026 - 23:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 00:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +47,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss" target="_blank">‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-20 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/20/d4vd-charged-with-murder-of-14-year-old-celeste-rivas-hernandez?traffic_source=rss" target="_blank">D4vd charged with murder of 14-year-old Celeste Rivas Hernandez</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-20 22:19</span>
@@ -68,6 +68,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/20/nx-s1-5791726/the-onion-satirical-takeover-infowars-new-plan" target="_blank">The Onion has agreed to a new deal to take over Infowars</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-20 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-teotihuacan-mexico-pyramid_7225824.jpg?20260420225910" alt="Deadly shooting at famous Mexico tourist site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/canadian-woman-killed-and-others-hurt-in-shooting-at-mexicos-teotihuacan-pyramids-13534343" target="_blank">Deadly shooting at famous Mexico tourist site</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-20 21:38</span>
             </div>
         </div>
 <div class="story">
@@ -86,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss" target="_blank">What to know about the next round of US-Iran talks in Pakistan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-20 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-6-gty-gmh-260420_1776707187650_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Time is not my adversary,’ Trump says on securing deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: &#x27;Time is not my adversary,’ Trump says on securing deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-20 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12da/live/0c0c6dc0-3c99-11f1-879d-1b2f5c3919b8.jpg" alt="Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss" target="_blank">Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-20 18:57</span>
             </div>
         </div>
 </div>
@@ -334,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 23:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 00:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
