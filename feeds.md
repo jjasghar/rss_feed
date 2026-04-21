@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-21 18:17:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-21 19:25:27 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 21, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, April 21, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/21/russian-police-raid-book-publisher-accused-of-pushing-gay-propaganda?traffic_source=rss" target="_blank">Russian police raid book publisher accused of pushing ‘gay propaganda’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-21 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight" target="_blank">Taiwan president blames China for forced cancellation of Eswatini trip</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-21 18:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5f/live/5156e990-3da3-11f1-b55d-0f258dce1735.jpg" alt="No 10 had &#x27;dismissive attitude&#x27; to Mandelson vetting, says sacked Foreign Office chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +106,38 @@
                 <span class="time">2026-04-21 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg" alt="Iran sees mass redundancies from war with US and Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss" target="_blank">Iran sees mass redundancies from war with US and Israel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-21 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa58/live/35b82990-3d91-11f1-b55d-0f258dce1735.jpg" alt="Israeli soldiers punished over vandalism of Jesus statue in Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli soldiers punished over vandalism of Jesus statue in Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-21 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo" target="_blank">Tim Cook was an innovator — just not the Jobs kind</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-21 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/" target="_blank">AI research lab NeoCognition lands $40M seed to build agents that learn like humans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-21 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e6dccf9c8b9ae166e6c082/master/pass/gear_All-Product--Family-Hero-2026.jpg" alt="Framework Has a Better, More Take-Apart-Able Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/framework-laptop-13-pro/" target="_blank">Framework Has a Better, More Take-Apart-Able Laptop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-21 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-Pro-Teardown-500x500.jpg" alt="Framework Laptop 13 Pro is the first major revision to the original Framework Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +165,38 @@
                 <span class="time">2026-04-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e64d98627d0e0d48a77366/master/pass/GettyImages-2267997264.jpg" alt="Meta Is Sued Over Scam Ads on Facebook and Instagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/" target="_blank">Meta Is Sued Over Scam Ads on Facebook and Instagram</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-21 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing" target="_blank">Ordering with the Starbucks ChatGPT app was a true coffee nightmare</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-21 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-500x500.jpg" alt="CATL&#x27;s new LFP battery can charge from 10 to 98% in less than 7 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/" target="_blank">CATL&#x27;s new LFP battery can charge from 10 to 98% in less than 7 minutes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/praveen_kumar_wednesday/the-week-we-refused-to-build-anything-is-what-made-the-ai-roi-measurable-39jg" target="_blank">No code for a week. That is why we could measure the AI ROI.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-21 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941853&w=600" alt="Demystifying Intelligent Integration: AI and ML in Hybrid Clouds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/demystifying-intelligent-integration-ai-and-ml" target="_blank">Demystifying Intelligent Integration: AI and ML in Hybrid Clouds</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-21 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Framework-Laptop-13-Pro" target="_blank">Framework Computer Announces The Framework Laptop 13 Pro</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-21 18:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,33 +222,6 @@
                 <span class="title"><a href="https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html" target="_blank">The Vercel breach: OAuth attack exposes risk in platform environment variables</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-21 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Age-Verification-Laws" target="_blank">AlmaLinux Comments On California Age Verification Law</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-21 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/ubuntu-news.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu confirms the 26.10 codename, and it sounds strange…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-10-codename-confirmed" target="_blank">Ubuntu confirms the 26.10 codename, and it sounds strange…</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-21 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941805&w=600" alt="Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-cost-aware-product-roadmaps" target="_blank">Building Cost-Aware Product Roadmaps Using Real-Time Data from Distributed Logistics Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-21 16:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png" alt="The Best Samsung Galaxy Watch for Athletes and Adventurers Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-watch-ultra-deal-april-2026?utm_medium=RSS" target="_blank">The Best Samsung Galaxy Watch for Athletes and Adventurers Is Over $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-21 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/HEG7AlxbsAAePiQ-1280x676.jpg" alt="Marathon Goes On Sale For The First Time As Fans Debate Free-To-Play Nuclear Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +306,6 @@
                 <span class="time">2026-04-21 16:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_3119-1280x720.jpg" alt="I Need Everyone To Start Being Normal About Pragmata" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pragmata-controversy-diana-design-mods-culture-war-2000689130" target="_blank">I Need Everyone To Start Being Normal About Pragmata</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-21 15:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
