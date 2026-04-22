@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 00:12:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-22 01:31:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 00:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +43,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5793878/virginia-redistricting-results-trump" target="_blank">Virginia voters OK a Democratic effort to redraw the state&#x27;s congressional map</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-22 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db11/live/0b800030-3de1-11f1-93eb-a371fe7f0f0d.jpg" alt="Trump buys time for Iran deal after frantic day of diplomacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump buys time for Iran deal after frantic day of diplomacy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-22 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss" target="_blank">Iran war live: Trump says ceasefire extended as talks with Tehran in limbo</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-22 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo" target="_blank">Trump officials consider sending 1,100 Afghans who aided US forces to Congo</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-21 23:26</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +94,20 @@
                 <span class="time">2026-04-21 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260421_1776775458697_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump announces he&#x27;s extending ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump announces he&#x27;s extending ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-21 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5789030/naked-mole-rat-colony-queens-succession" target="_blank">Instead of civil war, a naked mole rat colony changed queens peacefully</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/21/nx-s1-5793967/florida-openai-investigation-mass-shooting-fsu" target="_blank">Florida AG launches criminal investigation into ChatGPT over FSU shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-21 20:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/" target="_blank">Redwood Materials lays off 10% in restructuring to chase energy storage business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-22 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/915237/palantir-manifesto" target="_blank">We translated the Palantir manifesto for actual human beings</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-21 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-500x500.jpg" alt="Silo S3 teaser hints at the wasteland&#x27;s origins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/" target="_blank">Silo S3 teaser hints at the wasteland&#x27;s origins</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-21 20:53</span>
             </div>
         </div>
 </div>
@@ -323,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
