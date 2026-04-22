@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 15:25:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 16:20:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 15:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 16:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb9/live/14ab1e50-3e5f-11f1-8887-e93160959470.jpg" alt="Trump family&#x27;s crypto firm sued over alleged &#x27;extortion&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss" target="_blank">Trump family&#x27;s crypto firm sued over alleged &#x27;extortion&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-22 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/videos/2026/4/22/israeli-settlers-block-palestinian-children-from-school-in-the-west-bank?traffic_source=rss" target="_blank">Israeli settlers block Palestinian children from school in the West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-22 15:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park" target="_blank">Greetings from an Islamabad park, a peaceful vantage point in an uncertain world</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-22 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f9/live/2dfd6f60-3e47-11f1-ac78-2112837ce2aa.png" alt="Starmer admits No 10 asked about job for aide Matthew Doyle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer admits No 10 asked about job for aide Matthew Doyle</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-22 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss" target="_blank">Deadly Israeli settler attack on school kills two in Ramallah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 12:41</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/auth0/from-backend-engineer-to-building-ai-infrastructure-at-a-startup-1cco" target="_blank">From Backend Engineer to Building AI Infrastructure at a Startup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_350df62777eb55e1/i-built-a-scroll-position-memory-extension-that-actually-works-on-spas-3fjd" target="_blank">I Built a Scroll Position Memory Extension That Actually Works on SPAs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-22 15:16</span>
@@ -211,15 +217,6 @@
                 <span class="time">2026-04-22 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941889&w=600" alt="The Invisible OOMKill: Why Your Java Pod Keeps Restarting in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-pod-oomkill-kubernetes" target="_blank">The Invisible OOMKill: Why Your Java Pod Keeps Restarting in Kubernetes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/kaku.jpg?fit=1200%2C931&amp;quality=60&amp;ssl=1" alt="Atlantic calls missing-scientists panic 2026&#x27;s dumbest conspiracy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/22/atlantic-calls-missing-scientists-panic-2026s-dumbest-conspiracy.html" target="_blank">Atlantic calls missing-scientists panic 2026&#x27;s dumbest conspiracy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-22 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPTS45JRPMJ9CRYP40YMGFTS/hero-image.png" alt="This Eufy Home Security Bundle Is $400 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-home-security-bundle-sale-april-2026?utm_medium=RSS" target="_blank">This Eufy Home Security Bundle Is $400 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-22 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/05/afe79bdbc9a0d762a87188d17555def8.jpg" alt="Troy Baker Says We Haven’t Seen The Last Of Joel, Who Is Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="time">2026-04-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/claude.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Claude Opus 4.7 identified a writer from 125 words she&#x27;d never published" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/21/claude-opus-4-7-identified-a-writer-from-125-words-shed-never-published.html" target="_blank">Claude Opus 4.7 identified a writer from 125 words she&#x27;d never published</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-21 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNSTYR0DRS5XANE1CFED9E07/hero-image.png" alt="The Best Tool and Appliance Deals You Can Still Get Before Home Depot&#x27;s Spring Sale Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-last-minute-deals-home-depot-spring-black-friday-sale-april-2026?utm_medium=RSS" target="_blank">The Best Tool and Appliance Deals You Can Still Get Before Home Depot&#x27;s Spring Sale Ends</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 15:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 16:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
