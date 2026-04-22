@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 09:28:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 10:26:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 10:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss" target="_blank">Iran’s gunboat fires on container ship off Oman coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-22 09:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Hormuz-DB-260422_1776845430607_hpMain_4x3t_384.jpg" alt="Iran live updates: Ships attacked in Strait of Hormuz after Trump ceasefire extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/22/nx-s1-5789050/spirit-airlines-liquidation-bankruptcy-impact" target="_blank">How the airline industry could be impacted if Spirit Airlines is liquidated</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260421_1776775458697_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran is &#x27;starving for cash&#x27; amid US blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -84,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer sends &#x27;chill&#x27; through civil service, union boss says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-22 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss" target="_blank">Iran war: What’s happening on day 54 as Trump extends ceasefire?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery" target="_blank">Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-22 05:24</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/presentations/panel-positive-culture/en/mediumimage/ln-540x400-1775048593311.jpg" alt="Presentation: Panel: Building a Culture that Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Building a Culture that Works</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-22 10:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc1wxahu339o5w82oiyt7.jpg" alt="Bringing Java Closer to Education: A Community-Driven Initiative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/F2FS-Linux-7.1" target="_blank">F2FS, EXT4 &amp; XFS Focus On Fixes For Linux 7.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-22 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frank_brsrk/wait-you-guys-run-evals-19ig" target="_blank">Wait, you guys run evals?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 00:11</span>
             </div>
         </div>
 </div>
@@ -333,7 +325,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:28 UTC
+        🔄 Last Updated: 10:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
