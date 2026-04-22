@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 11:22:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 12:15:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 11:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online" target="_blank">Behind the unraveling of Dan Crenshaw</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Allen-SB-05-Lifestyle-Beach-01-500x500.jpg" alt="Our favorite gear at Sea Otter Classic wasn&#x27;t the bikes—it was the accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -145,20 +157,29 @@
                 <span class="time">2026-04-22 00:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/" target="_blank">Meta will record employees’ keystrokes and use it to train its AI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-21 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hnsn1lqp03979lz1n5b.png" alt="Why do test coverage metrics keep misleading developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/coderabbitai/why-do-test-coverage-metrics-keep-misleading-developers-1n6i" target="_blank">Why do test coverage metrics keep misleading developers?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ghostty-Ubuntu-26.04" target="_blank">Ghostty OpenGL-Accelerated Terminal Available On Ubuntu 26.04 LTS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-22 10:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/panel-positive-culture/en/mediumimage/ln-540x400-1775048593311.jpg" alt="Presentation: Panel: Building a Culture that Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -166,6 +187,15 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/panel-positive-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Panel: Building a Culture that Works</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-22 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://social.hails.org/@hailey/116446826733136456" target="_blank">Windows 9x Subsystem for Linux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-22 09:52</span>
             </div>
         </div>
 <div class="story">
@@ -186,38 +216,20 @@
                 <span class="time">2026-04-22 06:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17323368/playnix-linux-console" target="_blank">The People Who Put Emulators on Your Steam Deck Now Want to Sell You a Linux Console</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-22 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/" target="_blank">How to get multiple agents to play nice at scale</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-22 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/F2FS-Linux-7.1" target="_blank">F2FS, EXT4 &amp; XFS Focus On Fixes For Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-22 00:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html" target="_blank">ICE Uses Graphite Spyware</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-22 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 11:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
