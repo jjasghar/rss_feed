@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 17:18:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 18:18:14 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 17:18 UTC</div>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 18:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-rt-gmh-260422_1776861558335_hpMain_4x3t_384.jpg" alt="Iran live updates: Graham says blockade will stay in place, even expand globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Graham says blockade will stay in place, even expand globally</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-22 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +102,38 @@
                 <span class="time">2026-04-22 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-rt-gmh-260422_1776861558335_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC says it seized 2 vessels in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: IRGC says it seized 2 vessels in Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-22 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal" target="_blank">Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-22 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/coyote1-500x500-1776868310.jpg" alt="Coyote vs. Acme is finally getting released—with a killer trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/" target="_blank">Coyote vs. Acme is finally getting released—with a killer trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-22 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/" target="_blank">Google turns Chrome into an AI coworker for the workplace</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-22 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8t-board-500x500.jpg" alt="Google unveils two new TPUs designed for the &quot;agentic era&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +161,29 @@
                 <span class="time">2026-04-22 16:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e7be5630f1417b945ef3f3/master/pass/NY-Ban-Insider-Trading-Business-2254839986.jpg" alt="New York Bans Government Employees from Insider Trading on Prediction Markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/" target="_blank">New York Bans Government Employees from Insider Trading on Prediction Markets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1340129766-500x500.jpg" alt="New court ruling blocks many of the government&#x27;s anti-renewable policies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/" target="_blank">New court ruling blocks many of the government&#x27;s anti-renewable policies</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-22 15:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e8011875c782c19df35a8a/master/pass/politics_usaid_whistleblower_worse.jpg" alt="USAID Whistleblower Says It Was Even Worse Than People Knew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/" target="_blank">USAID Whistleblower Says It Was Even Worse Than People Knew</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ttw/-pre-execution-gates-how-to-block-before-you-execute-part-23-4ie4" target="_blank"># Pre-Execution Gates: How to Block Before You Execute (Part 2/3)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942545&w=600" alt="Stop Adding Indexes: What&#x27;s Actually Slowing Your SQL Server Queries When SSIS Loads Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/stop-adding-indexes-whats-slowing-your-sql" target="_blank">Stop Adding Indexes: What&#x27;s Actually Slowing Your SQL Server Queries When SSIS Loads Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-22 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +220,6 @@
                 <span class="time">2026-04-22 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_350df62777eb55e1/i-built-a-scroll-position-memory-extension-that-actually-works-on-spas-3fjd" target="_blank">I Built a Scroll Position Memory Extension That Actually Works on SPAs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/" target="_blank">Using LLMs to find Python C-extension bugs</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/gtacarcer2-1280x720.jpg" alt="Meet The People Making A New GTA Game Inside The World Of Manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/meet-the-people-making-a-new-gta-game-inside-the-world-of-manhunt-2000689447" target="_blank">Meet The People Making A New GTA Game Inside The World Of Manhunt</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JHR06C7WCKVX0NH9ZBR41GJH/hero-image.png" alt="This Garmin Smartwatch With a 10-Day Battery Is $110 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-venu-3s-sale-april-2026?utm_medium=RSS" target="_blank">This Garmin Smartwatch With a 10-Day Battery Is $110 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-22 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPTWDS11R6A1M47SG16B1MYV/hero-image.webp" alt="What&#x27;s New on Netflix in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +293,6 @@
                 <span class="time">2026-04-22 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Rain.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="The fascinating reason why rain smells the way that it does" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/22/the-fascinating-reason-why-rain-smells-the-way-that-it-does.html" target="_blank">The fascinating reason why rain smells the way that it does</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-22 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPTNTFYKH4NSBA8SZB5T96VN/hero-image.png" alt="This Samsung Galaxy S26 Is $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-base-galaxy-s26-sale-april-2026?utm_medium=RSS" target="_blank">This Samsung Galaxy S26 Is $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-22 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 17:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 18:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
