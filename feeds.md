@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 12:15:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 13:29:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 12:15 UTC</div>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss" target="_blank">Deadly Israeli settler attack on school kills two in Ramallah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-22 12:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +105,6 @@
                 <span class="time">2026-04-22 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac87/live/fe4f2a80-3e21-11f1-8ba5-cfdd8d3337ac.jpg" alt="UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss" target="_blank">UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-22 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +114,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs" target="_blank">BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/" target="_blank">AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online" target="_blank">Behind the unraveling of Dan Crenshaw</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e7df555301878a0065581e/master/pass/The-Best-Chromebooks.jpg" alt="Best Chromebooks (2026): Most Are Bad, but These Aren&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-chromebooks/" target="_blank">Best Chromebooks (2026): Most Are Bad, but These Aren&#x27;t</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-22 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -130,38 +164,20 @@
                 <span class="time">2026-04-22 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security" target="_blank">Anthropic’s most dangerous AI model just fell into the wrong hands</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-22 09:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" alt="Valvoline Coupons &amp; Promo Codes for April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/valvoline-coupons/" target="_blank">Valvoline Coupons &amp; Promo Codes for April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/" target="_blank">Redwood Materials lays off 10% in restructuring to chase energy storage business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941887&w=600" alt="Designing a “People You May Know” System With Graph Neural Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/people-you-may-know-graph-neural-networks" target="_blank">Designing a “People You May Know” System With Graph Neural Networks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hnsn1lqp03979lz1n5b.png" alt="Why do test coverage metrics keep misleading developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +223,6 @@
                 <span class="time">2026-04-22 09:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raphink/autism-and-the-genius-effect-k86" target="_blank">Autism and the &quot;genius&quot; effect</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 06:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPTECWJP74J9BJH14081ZPED/hero-image.jpg" alt="Galaxy Enhance-X Is Samsung&#x27;s Best Photo and Video Editing Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-enhance-x-app?utm_medium=RSS" target="_blank">Galaxy Enhance-X Is Samsung&#x27;s Best Photo and Video Editing Tool</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/claude.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Claude Opus 4.7 identified a writer from 125 words she&#x27;d never published" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +305,6 @@
                 <span class="time">2026-04-21 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/fa3af5eeff35b02e78c9a70012b401e2-1280x720.jpg" alt="The Most Inescapable Voice In Gaming Wants To Start His Own Studio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/troy-baker-studio-mouse-pi-voice-review-2000689438" target="_blank">The Most Inescapable Voice In Gaming Wants To Start His Own Studio</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-21 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
