@@ -1,42 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 21:14:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-22 22:13:02 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +95,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69e93de8158176d33f8610e8/master/pass/mark-moran-Caught-Insider-Trading-Business.jpg" alt="US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/" target="_blank">US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-22 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/" target="_blank">LinkedIn’s CEO is moving on; please hold your tearful video tributes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-22 21:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -147,24 +148,6 @@
                 <span class="time">2026-04-22 20:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots" target="_blank">OpenAI now lets teams make custom bots that can do work on their own</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-22 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/" target="_blank">Apple fixes bug that cops used to extract deleted chat messages from iPhones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +160,15 @@
                 <span class="title"><a href="https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk" target="_blank">A Practical Guide to AWS Solutions Architect Certification Training</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-22 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Ends-OSS-Evangelism-Repos" target="_blank">Intel Ends Open Ecosystem Community/Evangelism, Archives Other Open-Source Projects</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-22 20:28</span>
             </div>
         </div>
 <div class="story">
@@ -215,15 +207,6 @@
                 <span class="time">2026-04-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ttw/-pre-execution-gates-how-to-block-before-you-execute-part-23-4ie4" target="_blank"># Pre-Execution Gates: How to Block Before You Execute (Part 2/3)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +226,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/ee1345de76f6268ce627540bdf4e86b5-1280x720.jpg" alt="A Woman Is Suing MrBeast’s Company For Alleged Sexual Harassment And Verbal Abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-woman-is-suing-mrbeasts-company-for-alleged-sexual-harassment-and-verbal-abuse-2000689821" target="_blank">A Woman Is Suing MrBeast’s Company For Alleged Sexual Harassment And Verbal Abuse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-22 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Give your PC a makeover with Windows 11—now just $13" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +280,6 @@
                 <span class="time">2026-04-22 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/gtacarcer2-1280x720.jpg" alt="Meet The People Making A New GTA Game Inside The World Of Manhunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/meet-the-people-making-a-new-gta-game-inside-the-world-of-manhunt-2000689447" target="_blank">Meet The People Making A New GTA Game Inside The World Of Manhunt</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-22 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:14 UTC
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
