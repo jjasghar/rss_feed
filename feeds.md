@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 14:31:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-22 15:25:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 14:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 15:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/22/the-war-on-iran-breaking-down-the-words-youre-hearing?traffic_source=rss" target="_blank">The war on Iran: Breaking down the words you’re hearing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-22 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-rt-gmh-260422_1776861558335_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC says it seized 2 vessels in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: IRGC says it seized 2 vessels in Strait of Hormuz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-22 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +102,38 @@
                 <span class="time">2026-04-22 12:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/22/why-is-indias-manipur-burning-for-three-years?traffic_source=rss" target="_blank">Why is India’s Manipur burning for three years?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss" target="_blank">Iran’s gunboat fires on container ship off Oman coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1340129766-500x500.jpg" alt="New court ruling blocks many of the government&#x27;s anti-renewable policies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/" target="_blank">New court ruling blocks many of the government&#x27;s anti-renewable policies</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-22 15:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e8011875c782c19df35a8a/master/pass/politics_usaid_whistleblower_worse.jpg" alt="USAID Whistleblower Says It Was Even Worse Than People Knew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/" target="_blank">USAID Whistleblower Says It Was Even Worse Than People Knew</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale" target="_blank">Sony’s PlayStation 5 is $200 off for the first time since December</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-22 14:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/stripper-500x500.jpg" alt="Indian med student rakes in thousands with AI-generated MAGA hottie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,38 +161,38 @@
                 <span class="time">2026-04-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/" target="_blank">AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online" target="_blank">Behind the unraveling of Dan Crenshaw</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e7df555301878a0065581e/master/pass/The-Best-Chromebooks.jpg" alt="Best Chromebooks (2026): Most Are Bad, but These Aren&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-chromebooks/" target="_blank">Best Chromebooks (2026): Most Are Bad, but These Aren&#x27;t</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_350df62777eb55e1/i-built-a-scroll-position-memory-extension-that-actually-works-on-spas-3fjd" target="_blank">I Built a Scroll Position Memory Extension That Actually Works on SPAs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/" target="_blank">Using LLMs to find Python C-extension bugs</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941897&w=600" alt="What AI Systems Taught Us About the Limits of Chaos Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/chaos-engineering-limits" target="_blank">What AI Systems Taught Us About the Limits of Chaos Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,33 +220,6 @@
                 <span class="time">2026-04-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941887&w=600" alt="Designing a “People You May Know” System With Graph Neural Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/people-you-may-know-graph-neural-networks" target="_blank">Designing a “People You May Know” System With Graph Neural Networks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/from-jammy-to-resolute-how-ubuntus-toolchains-have-evolved" target="_blank">From Jammy to Resolute: how Ubuntu&amp;#8217;s toolchains have evolved</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hnsn1lqp03979lz1n5b.png" alt="Why do test coverage metrics keep misleading developers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/coderabbitai/why-do-test-coverage-metrics-keep-misleading-developers-1n6i" target="_blank">Why do test coverage metrics keep misleading developers?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 12:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,20 +234,20 @@
                 <span class="time">2026-04-22 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/" target="_blank">‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-04-21 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/05/afe79bdbc9a0d762a87188d17555def8.jpg" alt="Troy Baker Says We Haven’t Seen The Last Of Joel, Who Is Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/last-of-us-joel-miller-death-prequel-troy-baker-part-3-2000689745" target="_blank">Troy Baker Says We Haven’t Seen The Last Of Joel, Who Is Dead</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-22 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Rain.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="The fascinating reason why rain smells the way that it does" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +293,6 @@
                 <span class="time">2026-04-21 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $80 AI tool brings chat, image, audio, video, and docs together in one place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/21/this-80-ai-tool-brings-chat-image-audio-video-and-docs-together-in-one-place.html" target="_blank">This $80 AI tool brings chat, image, audio, video, and docs together in one place</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +307,13 @@
                 <span class="time">2026-04-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776728330-20260421.png" alt="Saturday Morning Breakfast Cereal - Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/standard" target="_blank">Saturday Morning Breakfast Cereal - Standard</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 14:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 15:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
