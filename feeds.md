@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 05:40:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-22 06:32:19 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 05:40 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 06:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +173,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raphink/autism-and-the-genius-effect-k86" target="_blank">Autism and the &quot;genius&quot; effect</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17323368/playnix-linux-console" target="_blank">The People Who Put Emulators on Your Steam Deck Now Want to Sell You a Linux Console</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-22 05:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/" target="_blank">How to get multiple agents to play nice at scale</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-22 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/F2FS-Linux-7.1" target="_blank">F2FS, EXT4 &amp; XFS Focus On Fixes For Linux 7.1</a></span>
                 <span class="feed">Phoronix</span>
@@ -191,33 +222,6 @@
                 <span class="title"><a href="https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8" target="_blank">1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-21 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4" target="_blank">Building a C# Agent with Microsoft Agent Framework and Ollama</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-21 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dpc.pw/posts/i-dont-want-your-prs-anymore/" target="_blank">I don&#x27;t want your PRs anymore</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-21 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941861&w=600" alt="AWS Bedrock: The Future of Enterprise AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-bedrock-the-future-of-enterprise-ai" target="_blank">AWS Bedrock: The Future of Enterprise AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-21 20:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 05:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 06:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
