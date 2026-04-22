@@ -1,25 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 22:13:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-22 23:14:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 17 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 22:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, April 22, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776896329809_now_hallie_navy_secy_260422_S3_1920x1080-t7cim1.jpg" alt="Navy Secretary John Phelan leaves Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/navy-secretary-john-phelan-leaves-trump-administration-261930053536" target="_blank">Navy Secretary John Phelan leaves Trump administration</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-22 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55cc/live/a0a94e00-3e72-11f1-8f78-2b3776d2d1d0.jpg" alt="UK and France strike new £662m small boats deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss" target="_blank">UK and France strike new £662m small boats deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-22 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,29 +96,38 @@
                 <span class="time">2026-04-22 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/22/nx-s1-5791663/the-tariff-refund-customers" target="_blank">The tariff refund process has begun for businesses. What about customers?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-22 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss" target="_blank">Chelsea sack Rosenior after only three months at Premier League club</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/" target="_blank">Google updates Workspace to make AI your new office intern</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-22 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e9205d27d28cd206268af9/master/pass/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg" alt="Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#x27;t Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/" target="_blank">Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#x27;t Exist</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-22 22:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Tanker-Strait-of-Hormuz-500x500.jpg" alt="Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/" target="_blank">Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-22 22:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e93de8158176d33f8610e8/master/pass/mark-moran-Caught-Insider-Trading-Business.jpg" alt="US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,38 +155,20 @@
                 <span class="time">2026-04-22 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation" target="_blank">X is going to let Grok curate your timeline</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-22 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-500x500.jpg" alt="Our newsroom AI policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/" target="_blank">Our newsroom AI policy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-22 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/" target="_blank">NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1744345196324-94c618a49bc3%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8MXx8QVBJJTIwdGVjaG5vbG9neSUyMG5ldHdvcmslMjBjb25uZWN0aW9uc3xlbnwwfHx8fDE3NzY4OTkwNTZ8MA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080" alt="Salesforce Headless 360: Run Your CRM Without a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4" target="_blank">Salesforce Headless 360: Run Your CRM Without a Browser</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-22 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,15 +214,6 @@
                 <span class="time">2026-04-22 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942559&w=600" alt="Reconciling Privacy Preferences Across Two Datastores With Snowflake and Airflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reconciling-privacy-preferences-snowflake-airflow" target="_blank">Reconciling Privacy Preferences Across Two Datastores With Snowflake and Airflow</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/game-releases-1280x722.jpg" alt="The Week In Games: Pottery Parties And A Long-Lost JRPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/video-games-coming-out-april-2026-release-dates-2000689835" target="_blank">The Week In Games: Pottery Parties And A Long-Lost JRPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-22 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/ee1345de76f6268ce627540bdf4e86b5-1280x720.jpg" alt="A Woman Is Suing MrBeast’s Company For Alleged Sexual Harassment And Verbal Abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +287,6 @@
                 <span class="time">2026-04-22 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HADWAP0AXJ0HW76C843SW/hero-image.jpg" alt="Five Common Mistakes People Make When Checking for Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/five-common-mistakes-when-checking-for-ticks?utm_medium=RSS" target="_blank">Five Common Mistakes People Make When Checking for Ticks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-22 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,6 +299,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/22/directinput" target="_blank">DirectInput</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-04-22 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776728379-20260422.png" alt="Saturday Morning Breakfast Cereal - WaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/waas" target="_blank">Saturday Morning Breakfast Cereal - WaaS</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-22 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -317,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 22:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
