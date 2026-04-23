@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-22 23:14:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-23 00:17:26 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, April 22, 2026 - 23:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 00:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olivia_craft/cursor-rules-for-mongodb-the-complete-guide-to-ai-assisted-mongodb-development-59a3" target="_blank">Cursor Rules for MongoDB: The Complete Guide to AI-Assisted MongoDB Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 00:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1744345196324-94c618a49bc3%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8MXx8QVBJJTIwdGVjaG5vbG9neSUyMG5ldHdvcmslMjBjb25uZWN0aW9uc3xlbnwwfHx8fDE3NzY4OTkwNTZ8MA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080" alt="Salesforce Headless 360: Run Your CRM Without a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/revolutionizing-scaled-agile-frameworks-with-ai" target="_blank">Revolutionizing Scaled Agile Frameworks with AI, MuleSoft, and AWS: An Insider’s Perspective</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beefedai/low-power-firmware-techniques-for-battery-powered-mcus-3n6l" target="_blank">Low-power firmware techniques for battery-powered MCUs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 19:17</span>
             </div>
         </div>
 </div>
@@ -333,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
