@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 17:28:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 18:18:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 18:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +110,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271975525-500x500.jpg" alt="RFK Jr.’s rejection of germ theory debunked in Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/" target="_blank">RFK Jr.’s rejection of germ theory debunked in Senate hearing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-23 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt" target="_blank">OpenAI says its new GPT-5.5 model is more efficient and better at coding</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -144,29 +163,38 @@
                 <span class="time">2026-04-23 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/" target="_blank">Era raises $11M to build a software platform for AI gadgets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music" target="_blank">25 years later, is it time for a new iPod?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cverports/ghsa-rhf7-wvw3-vjvm-ghsa-rhf7-wvw3-vjvm-cross-origin-arbitrary-file-write-via-missing-csrf-5dem" target="_blank">GHSA-RHF7-WVW3-VJVM: GHSA-RHF7-WVW3-VJVM: Cross-Origin Arbitrary File Write via Missing CSRF Protection in goshs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18940891&w=600" alt="Gemini + Veo: A Deep Dive into Google’s High-Fidelity Video Generation Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gemini-veo-a-deep-dive-into-google" target="_blank">Gemini + Veo: A Deep Dive into Google’s High-Fidelity Video Generation Pipeline</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/engineering/april-23-postmortem" target="_blank">An update on recent Claude Code quality reports</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-23 17:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18943317&w=600" alt="Advantages of Independent Testing in Comparison with Traditional QA Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,48 +205,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS released: GNOME 50, Wayland-only and Linux 7.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://substackcdn.com/image/fetch/$s_!RLFW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66a69a14-0903-4f04-a1d4-13222f40c4ee_1834x1074.png" alt="The Pulse: AI token spending out of control – what’s next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-released" target="_blank">Ubuntu 26.04 LTS released: GNOME 50, Wayland-only and Linux 7.0</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-23 16:20</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of" target="_blank">The Pulse: AI token spending out of control – what’s next?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-23 16:51</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnny_picante_6dba8e9477/the-case-for-vegas-as-your-next-project-domain-11ba" target="_blank">The Case for .Vegas as Your Next Project Domain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeanmmayer/show-dev-i-made-a-glassblowing-sim-you-blow-into-d0" target="_blank">Show Dev: I made a glassblowing sim you blow into</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324247/foss-weekly-26-17" target="_blank">FOSS Weekly #26.17: Ubuntu 26.04 Release, Firefox Controversy, Positive News on Age-verification and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-23 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944382&w=600" alt="The Bandwidth Tax Nobody Warned You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-bandwidth-tax-nobody-warned-you" target="_blank">The Bandwidth Tax Nobody Warned You About</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS" target="_blank">Ubuntu 26.04 LTS Now Available &amp; Powered By Linux 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-23 16:32</span>
             </div>
         </div>
 </div>
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPXMYW5WTE2F8XE0HRC9XZJA/hero-image.jpg" alt="Google Meet Can Now Take Notes During In-Person Meetings Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-meet-can-now-take-notes-during-in-person-meetings?utm_medium=RSS" target="_blank">Google Meet Can Now Take Notes During In-Person Meetings Too</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tunnel-rock.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Workers routed a highway through this boulder rather than blast it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2026-04-23 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KH0RQW4KWPVKA2EQYRGHKKF8/hero-image.png" alt="These Nothing Earbuds With Built-In ChatGPT Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-earbuds-built-in-chatgpt-sale-april-2026?utm_medium=RSS" target="_blank">These Nothing Earbuds With Built-In ChatGPT Are $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
