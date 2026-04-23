@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 01:31:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-23 02:59:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss" target="_blank">Ultra-Orthodox Jews burn Israeli flags to protest national day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 02:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776899571849_nn_ksi_ships_seized_260422_S3_1920x1080-qy16ro.jpg" alt="Iran attacks and seizes commercial ships after Trump extends ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-attacks-and-seizes-commercial-ships-after-trump-extends-ceasefire-261931589687" target="_blank">Iran attacks and seizes commercial ships after Trump extends ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-22 23:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776896329809_now_hallie_navy_secy_260422_S3_1920x1080-t7cim1.jpg" alt="Navy Secretary John Phelan leaves Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/2-dead-chemical-release-west-virginia-manufacturing-facility-rcna341515" target="_blank">2 dead in &#x27;chemical release&#x27; at West Virginia manufacturing facility</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-22 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260417._1776430359011_hpMain_4x3t_384.jpg" alt="Iran war: Trump&#x27;s pattern of setting unenforced deadlines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/iran-war-trumps-pattern-setting-unenforced-deadlines/story?id=132258267" target="_blank">Iran war: Trump&#x27;s pattern of setting unenforced deadlines</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-22 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-rt-gmh-260422_1776861558335_hpMain_4x3t_384.jpg" alt="Iran live updates: Graham says blockade will stay in place, even expand globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Graham says blockade will stay in place, even expand globally</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-22 17:56</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tanx-1811/authentication-mechanisms-jwt-oauth-and-single-sign-on-sso-1eo3" target="_blank">Authentication Mechanisms: JWT, OAuth, and Single Sign-On (SSO)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/henri_kp_77a25145814fd1b8/checklist-i-found-an-agent-running-under-a-rotated-api-key-heres-what-kya-finally-named-2mfi" target="_blank">Checklist: I Found An Agent Running Under A Rotated API Key - Here&#x27;s What KYA Finally Named</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 01:19</span>
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk" target="_blank">A Practical Guide to AWS Solutions Architect Certification Training</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-22 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Ends-OSS-Evangelism-Repos" target="_blank">Intel Ends Open Ecosystem Community/Evangelism, Archives Other Open-Source Projects</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-22 20:28</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
