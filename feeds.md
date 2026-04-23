@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 20:17:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-23 21:13:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss" target="_blank">Will complex EU loan deal intensify conflict?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797855/meta-layoffs-10-percent-staff" target="_blank">Meta will lay off 10% of its staff</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 20:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +100,29 @@
                 <span class="time">2026-04-23 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg" alt="Trump tells BBC that King&#x27;s visit could &#x27;absolutely&#x27; help repair relations with UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump tells BBC that King&#x27;s visit could &#x27;absolutely&#x27; help repair relations with UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-23 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d9/live/8f4a1790-18b9-11f1-97ba-493bedc7637b.jpg" alt="Rapist who infected men and boys with HIV jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss" target="_blank">Rapist who infected men and boys with HIV jailed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-23 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/" target="_blank">Bret Taylor’s Sierra buys YC-backed AI startup Fragment</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/bigG1-500x500-1776860219.jpg" alt="We still don&#x27;t have a more precise value for &quot;Big G&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/" target="_blank">We still don&#x27;t have a more precise value for &quot;Big G&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-23 20:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +159,38 @@
                 <span class="time">2026-04-23 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/" target="_blank">Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e7fd9ba92c502cace442f8/master/pass/Model-Behavior-AI-Coachella-Stanford-Business.jpg" alt="At &#x27;AI Coachella,&#x27; Stanford Students Line Up to Learn From Silicon Valley Royalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/" target="_blank">At &#x27;AI Coachella,&#x27; Stanford Students Line Up to Learn From Silicon Valley Royalty</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-23 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b" target="_blank">The Most Dangerous Designer at a Big Company Is the One Who Can Ship</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18938402&w=600" alt="Why AI-Assisted Development Is Raising the Value of E2E Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-ai-assisted-development-is-raising-e3e-test" target="_blank">Why AI-Assisted Development Is Raising the Value of E2E Testing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944414&w=600" alt="Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +218,6 @@
                 <span class="time">2026-04-23 18:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-5/" target="_blank">GPT-5.5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-23 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18940891&w=600" alt="Gemini + Veo: A Deep Dive into Google’s High-Fidelity Video Generation Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gemini-veo-a-deep-dive-into-google" target="_blank">Gemini + Veo: A Deep Dive into Google’s High-Fidelity Video Generation Pipeline</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/engineering/april-23-postmortem" target="_blank">An update on recent Claude Code quality reports</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-23 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPXMRBCBSR4Q7Y02N3DKB7WA/hero-image.jpg" alt="&#x27;Runfluencers&#x27; Want you to Breathe Through Your Nose, but Here&#x27;s What the Science Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-runfluencers-want-you-to-breathe-through-your-nose?utm_medium=RSS" target="_blank">&#x27;Runfluencers&#x27; Want you to Breathe Through Your Nose, but Here&#x27;s What the Science Says</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Crossroads.jpg" alt="Overwatch Is Making Good On A Decade-Old Promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-04-23 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tunnel-rock.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Workers routed a highway through this boulder rather than blast it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/23/workers-routed-a-highway-through-this-boulder-rather-than-blast-it.html" target="_blank">Workers routed a highway through this boulder rather than blast it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-23 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
