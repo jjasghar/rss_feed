@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 06:32:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 07:30:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 06:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 07:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -119,6 +110,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/" target="_blank">India’s app market is booming — but global platforms are capturing most of the gains</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 04:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati" target="_blank">The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated</a></span>
                 <span class="feed">The Verge</span>
@@ -152,20 +152,29 @@
                 <span class="time">2026-04-22 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e9205d27d28cd206268af9/master/pass/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg" alt="Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#x27;t Exist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/" target="_blank">Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#x27;t Exist</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yuan_chen_fe5f6f8182f7695/an-ai-powered-k-line-chart-analyzer-upload-a-screenshot-get-structured-technical-analysis-gnp" target="_blank">An AI-Powered K-Line Chart Analyzer — Upload a Screenshot, Get Structured Technical Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 07:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17323994/colorado-age-attestation-bill-open-source-exemption" target="_blank">A Linux Hardware Maker Is Convincing Colorado to Leave Open Source Alone</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-23 06:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmamwjcxrninnvil87ui.gif" alt="I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-SoCs" target="_blank">Linux 7.1 Adds Support For 12 New SoCs, Other ARM &amp; RISC-V Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-23 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olivia_craft/cursor-rules-for-mongodb-the-complete-guide-to-ai-assisted-mongodb-development-59a3" target="_blank">Cursor Rules for MongoDB: The Complete Guide to AI-Assisted MongoDB Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1744345196324-94c618a49bc3%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8MXx8QVBJJTIwdGVjaG5vbG9neSUyMG5ldHdvcmslMjBjb25uZWN0aW9uc3xlbnwwfHx8fDE3NzY4OTkwNTZ8MA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080" alt="Salesforce Headless 360: Run Your CRM Without a Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4" target="_blank">Salesforce Headless 360: Run Your CRM Without a Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 23:05</span>
             </div>
         </div>
 </div>
@@ -316,22 +307,13 @@
                 <span class="time">2026-04-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/22/directinput" target="_blank">DirectInput</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-22 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
