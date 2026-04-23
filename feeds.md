@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 05:43:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 06:32:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 05:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 06:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118427/trump-administration-child-cuba" target="_blank">Trump administration flies 10-year-old back from Cuba amid custody fight</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 06:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss" target="_blank">Pope Leo visits prison in Equatorial Guinea</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -60,6 +73,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss" target="_blank">High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-23 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-amal-khali-al-akhbar_7227871.jpg?20260423065858" alt="Israel accused of war crimes after &#x27;targeted&#x27; killing of journalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-accused-of-war-crimes-after-targeted-killing-of-journalist-13535269" target="_blank">Israel accused of war crimes after &#x27;targeted&#x27; killing of journalist</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-23 04:29</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +102,20 @@
                 <span class="time">2026-04-23 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776899571849_nn_ksi_ships_seized_260422_S3_1920x1080-qy16ro.jpg" alt="Iran attacks and seizes commercial ships after Trump extends ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-attacks-and-seizes-commercial-ships-after-trump-extends-ceasefire-261931589687" target="_blank">Iran attacks and seizes commercial ships after Trump extends ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-22 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260422_1776867757776_hpMain_4x3t_384.jpg" alt="What we know about why face-to-face talks with Iran fell through" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/face-face-talks-iran-fell/story?id=132281831" target="_blank">What we know about why face-to-face talks with Iran fell through</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-22 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 30% Off | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 30% Off | April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-23 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/" target="_blank">Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn&#x27;t Exist</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-22 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Tanker-Strait-of-Hormuz-500x500.jpg" alt="Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/" target="_blank">Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-22 22:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
