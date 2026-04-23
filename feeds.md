@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 07:30:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 08:31:30 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 08:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -158,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faelkzjkqdq7mpoo3x69y.png" alt="The Hidden Attack Surface of Modern Cloud Apps in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sreekari_m_eb6e870dcb8699/the-hidden-attack-surface-of-modern-cloud-apps-in-the-age-of-ai-2dj5" target="_blank">The Hidden Attack Surface of Modern Cloud Apps in the Age of AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 08:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/henri_kp_77a25145814fd1b8/checklist-i-found-an-agent-running-under-a-rotated-api-key-heres-what-kya-finally-named-2mfi" target="_blank">Checklist: I Found An Agent Running Under A Rotated API Key - Here&#x27;s What KYA Finally Named</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-SoCs" target="_blank">Linux 7.1 Adds Support For 12 New SoCs, Other ARM &amp; RISC-V Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 00:22</span>
             </div>
         </div>
 </div>
@@ -313,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:30 UTC
+        🔄 Last Updated: 08:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
