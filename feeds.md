@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 02:59:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-23 04:08:44 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,12 +58,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/22/g-s1-118416/chemical-leak-west-virginia-institute" target="_blank">Chemical leak at a W.Va. plant kills 2 people, sends 30 more to hospitals, officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 00:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776899571849_nn_ksi_ships_seized_260422_S3_1920x1080-qy16ro.jpg" alt="Iran attacks and seizes commercial ships after Trump extends ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-attacks-and-seizes-commercial-ships-after-trump-extends-ceasefire-261931589687" target="_blank">Iran attacks and seizes commercial ships after Trump extends ceasefire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-22 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260422_1776867757776_hpMain_4x3t_384.jpg" alt="What we know about why face-to-face talks with Iran fell through" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/face-face-talks-iran-fell/story?id=132281831" target="_blank">What we know about why face-to-face talks with Iran fell through</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-22 22:53</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +102,20 @@
                 <span class="time">2026-04-22 21:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/22/pope-leo-urges-justice-reform-in-equatorial-guineas-prisons?traffic_source=rss" target="_blank">Pope Leo urges justice reform in Equatorial Guinea’s prisons</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-22 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260422-Chemical-Leak-West-Virginia-ew-401p-16f5fa.jpg" alt="2 dead in &#x27;chemical release&#x27; at West Virginia manufacturing facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/2-dead-chemical-release-west-virginia-manufacturing-facility-rcna341515" target="_blank">2 dead in &#x27;chemical release&#x27; at West Virginia manufacturing facility</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-22 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati" target="_blank">The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 01:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +161,20 @@
                 <span class="time">2026-04-22 22:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e93de8158176d33f8610e8/master/pass/mark-moran-Caught-Insider-Trading-Business.jpg" alt="US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/" target="_blank">US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-22 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmamwjcxrninnvil87ui.gif" alt="I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aibughunter/i-spent-the-morning-scrolling-googlecloudnext-and-now-i-cannot-stop-thinking-about-it-35mg" target="_blank">I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 04:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4" target="_blank">Salesforce Headless 360: Run Your CRM Without a Browser</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-22 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk" target="_blank">A Practical Guide to AWS Solutions Architect Certification Training</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-22 21:11</span>
             </div>
         </div>
 </div>
@@ -324,22 +325,13 @@
                 <span class="time">2026-04-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/border_message.png" alt="Border Message" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3236/" target="_blank">Border Message</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-04-22 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
