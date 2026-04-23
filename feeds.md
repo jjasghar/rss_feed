@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 10:28:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-23 11:22:48 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 11:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid" target="_blank">Two startlingly different views on long-awaited data on America&#x27;s anti-HIV efforts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/IRGC-boat-DB-260423_1776939872796_hpMain_4x3t_384.jpg" alt="Iran live updates: 1st Strait of Hormuz toll revenues banked, Iranian official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: 1st Strait of Hormuz toll revenues banked, Iranian official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-23 10:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,29 @@
                 <span class="time">2026-04-23 06:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118427/trump-administration-child-cuba" target="_blank">Trump administration flies 10-year-old back from Cuba amid custody fight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 06:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss" target="_blank">Pope Leo visits prison in Equatorial Guinea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/" target="_blank">Meta will now allow parents to see the topics their child discussed with Meta AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android" target="_blank">Honor’s new phones look like iPhones for Android</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 30% Off | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2026-04-22 23:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/" target="_blank">Google updates Workspace to make AI your new office intern</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd" target="_blank">Elon Musk admits that millions of Tesla vehicles won&amp;#8217;t get unsupervised FSD</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-22 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="How Observability and Telemetry Can Enhance the Practice of Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/observability-telemetry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Observability and Telemetry Can Enhance the Practice of Software Engineering</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-23 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-USB" target="_blank">Many USB Improvements &amp; New Hardware Merged For Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-23 10:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc4i3vj1ci75s4kqqrzg.png" alt="Best 7 AI Voice Agent Platforms in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +220,6 @@
                 <span class="time">2026-04-23 08:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuan_chen_fe5f6f8182f7695/an-ai-powered-k-line-chart-analyzer-upload-a-screenshot-get-structured-technical-analysis-gnp" target="_blank">An AI-Powered K-Line Chart Analyzer — Upload a Screenshot, Get Structured Technical Analysis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17323994/colorado-age-attestation-bill-open-source-exemption" target="_blank">A Linux Hardware Maker Is Convincing Colorado to Leave Open Source Alone</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-23 06:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -224,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html" target="_blank">ICE Uses Graphite Spyware</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html" target="_blank">FBI Extracts Deleted Signal Messages from iPhone Notification Database</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-22 11:02</span>
+                <span class="time">2026-04-23 11:05</span>
             </div>
         </div>
 </div>
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
