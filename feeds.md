@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 12:15:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-23 13:29:52 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 12:15 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/juan_diegoisazaa_5362a/data-broker-opt-out-practical-steps-to-reduce-exposure-4ic9" target="_blank">Data Broker Opt Out: Practical Steps to Reduce Exposure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/grafana-loki-ai-agents/en/headerimage/generatedHeaderImage-1776936454243.jpg" alt="Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944324&w=600" alt="Boosting React.js Development Productivity With Google Code Assist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -198,24 +212,6 @@
                 <span class="time">2026-04-23 10:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-MFD" target="_blank">Linux 7.1 Lands The Apple SMC Power Driver For Reporting Battery Metrics On MacBooks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 10:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thavishka_abeysekara/the-hidden-side-of-being-a-developer-code-pressure-and-health-3n2" target="_blank">The Hidden Side of Being a Developer: Code, Pressure, and Health</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 09:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KH0RQW4KWPVKA2EQYRGHKKF8/hero-image.png" alt="These Nothing Earbuds With Built-In ChatGPT Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nothing-earbuds-built-in-chatgpt-sale-april-2026?utm_medium=RSS" target="_blank">These Nothing Earbuds With Built-In ChatGPT Are $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPVESYTKDTDMBJFZ3337VT2C/hero-image.jpg" alt="Why I Won&#x27;t Be Doing &#x27;Women&#x27;s Pushups&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +285,6 @@
                 <span class="time">2026-04-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/clayface2-1280x720.jpg" alt="DC’s New Clayface Looks Great—Wait, Oh My God, No, Absolutely Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dcu-new-clayface-disturbing-teaser-2000689804" target="_blank">DC’s New Clayface Looks Great—Wait, Oh My God, No, Absolutely Not</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-22 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
