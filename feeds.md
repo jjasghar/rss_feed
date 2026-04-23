@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 15:31:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 16:29:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 15:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 16:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d9/live/8f4a1790-18b9-11f1-97ba-493bedc7637b.jpg" alt="Rapist who infected men and boys with HIV jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss" target="_blank">Rapist who infected men and boys with HIV jailed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-23 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118443/mosquitoes-malaria-human-civilization" target="_blank">How mosquitoes — and malaria — helped shaped the whereabouts of early humankind</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +97,29 @@
                 <span class="time">2026-04-23 11:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-iran-football-world-cup_7228358.jpg?20260423150153" alt="Giorgia Meloni&#x27;s government responds to suggestion of Italy replacing Iran at World Cup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/giorgia-melonis-government-rules-out-italy-replacing-iran-at-world-cup-13535400" target="_blank">Giorgia Meloni&#x27;s government responds to suggestion of Italy replacing Iran at World Cup</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-23 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776943842125_tdy_news_7a_hunter_iran_siezes_ships_260423_S3_1920x1080-y2gbyq.jpg" alt="Iran Seizes Several Cargo Ships After Trump Extends Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/iran-attacks-and-seizes-several-ships-as-tensions-escalate-261956677926" target="_blank">Iran Seizes Several Cargo Ships After Trump Extends Ceasefire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-23 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1944-500x500.jpeg" alt="Eight months early and under budget, the Roman Telescope is ready to launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/" target="_blank">Eight months early and under budget, the Roman Telescope is ready to launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-23 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/" target="_blank">Era raises $11M to build a software platform for AI gadgets</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,35 +156,44 @@
                 <span class="time">2026-04-23 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/" target="_blank">Meta will now allow parents to see the topics their child discussed with Meta AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android" target="_blank">Honor’s new phones look like iPhones for Android</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS released: GNOME 50, Wayland-only and Linux 7.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-released" target="_blank">Ubuntu 26.04 LTS released: GNOME 50, Wayland-only and Linux 7.0</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-23 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johnny_picante_6dba8e9477/the-case-for-vegas-as-your-next-project-domain-11ba" target="_blank">The Case for .Vegas as Your Next Project Domain</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 16:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jeanmmayer/show-dev-i-made-a-glassblowing-sim-you-blow-into-d0" target="_blank">Show Dev: I made a glassblowing sim you blow into</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324247/foss-weekly-26-17" target="_blank">FOSS Weekly #26.17: Ubuntu 26.04 Release, Firefox Controversy, Positive News on Age-verification and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-23 15:21</span>
             </div>
         </div>
@@ -184,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-9950x3d2-benchmarks" target="_blank">Exploring The Workloads Where The AMD Ryzen 9 9950X3D2 Makes A Lot Of Sense</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18996168&w=600" alt="Agent Skills Explained for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agent-skills-for-developers" target="_blank">Agent Skills Explained for Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/" target="_blank">Black box AI drift: AI tools are making design decisions nobody asked for</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-With-ROCm" target="_blank">Ubuntu 26.04 Allows &quot;sudo apt install rocm&quot; But It&#x27;s Months Out-Of-Date</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 13:28</span>
             </div>
         </div>
 </div>
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
