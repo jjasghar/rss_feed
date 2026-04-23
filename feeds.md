@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 09:29:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 10:28:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 10:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss" target="_blank">What we know about Israel killing Lebanese journalist Amal Khalil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 10:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6c/live/8189d0a0-3eed-11f1-bd52-e755d604ece4.jpg" alt="Two trains collide head-on in Denmark, leaving five critically hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss" target="_blank">Pope Leo visits prison in Equatorial Guinea</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-23 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/07938ef0-3d8d-11f1-ac78-2112837ce2aa.jpg" alt="High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss" target="_blank">High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-23 04:59</span>
             </div>
         </div>
 </div>
@@ -160,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc4i3vj1ci75s4kqqrzg.png" alt="Best 7 AI Voice Agent Platforms in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hoe_shilee_b3aa96e0da49e/best-7-ai-voice-agent-platforms-in-2026-50b4" target="_blank">Best 7 AI Voice Agent Platforms in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-MFD" target="_blank">Linux 7.1 Lands The Apple SMC Power Driver For Reporting Battery Metrics On MacBooks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-23 10:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +213,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17323994/colorado-age-attestation-bill-open-source-exemption" target="_blank">A Linux Hardware Maker Is Convincing Colorado to Leave Open Source Alone</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-23 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://crawshaw.io/blog/building-a-cloud" target="_blank">I am building a cloud</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-23 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmamwjcxrninnvil87ui.gif" alt="I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aibughunter/i-spent-the-morning-scrolling-googlecloudnext-and-now-i-cannot-stop-thinking-about-it-35mg" target="_blank">I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 04:03</span>
             </div>
         </div>
 </div>
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
