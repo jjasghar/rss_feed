@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 21:13:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 22:12:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 21:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss" target="_blank">Milei administration in Argentina blocks journalist access to Casa Rosada</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss" target="_blank">Will complex EU loan deal intensify conflict?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-23 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron" target="_blank">The FDA gives the green light to the first gene therapy for deafness</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 20:46</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +103,20 @@
                 <span class="time">2026-04-23 18:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797402/author-details-the-spy-network-that-took-on-americas-post-wwii-nazi-groups" target="_blank">Author details the spy network that took on America&#x27;s post-WWII Nazi groups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/aclu-amnesty-lead-120-rights-groups-issuing-us-world-cup-travel-advisory?traffic_source=rss" target="_blank">ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1195493804-500x500-1776978121.jpg" alt="US accuses China of “industrial-scale” AI theft. China says it’s “slander.”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/" target="_blank">US accuses China of “industrial-scale” AI theft. China says it’s “slander.”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-23 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2026-04-23 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty" target="_blank">‘We Are Xbox’: read the memo defining Microsoft’s gaming future</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0" target="_blank">Créer un système d’authentification avec PHP et MySQL (étape par étape)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Opera-GX-Flatpak-Snaps" target="_blank">Opera GX Browser Gets Flatpak&#x27;ed &amp; Snap&#x27;ed On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-23 21:22</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/secure-auditable-middleware-for-reliable-data-exchange" target="_blank">Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/TypeError/secure" target="_blank">HTTP security headers for Python web applications</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-23 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cverports/ghsa-rhf7-wvw3-vjvm-ghsa-rhf7-wvw3-vjvm-cross-origin-arbitrary-file-write-via-missing-csrf-5dem" target="_blank">GHSA-RHF7-WVW3-VJVM: GHSA-RHF7-WVW3-VJVM: Cross-Origin Arbitrary File Write via Missing CSRF Protection in goshs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 18:10</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
