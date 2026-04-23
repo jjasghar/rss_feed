@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 14:40:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-23 15:31:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 14:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 15:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/turkiye-mps-pass-bill-to-restrict-social-media-use-for-children-under-15?traffic_source=rss" target="_blank">Turkiye MPs pass bill to restrict social media use for children under 15</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +95,20 @@
                 <span class="time">2026-04-23 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid" target="_blank">Two startlingly different views on long-awaited data on America&#x27;s anti-HIV efforts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music" target="_blank">25 years later, is it time for a new iPod?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +154,38 @@
                 <span class="time">2026-04-23 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Hoka Coupon Codes: 30% Off | April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hoka-coupon-code/" target="_blank">Hoka Coupon Codes: 30% Off | April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-23 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeanmmayer/show-dev-i-made-a-glassblowing-sim-you-blow-into-d0" target="_blank">Show Dev: I made a glassblowing sim you blow into</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944382&w=600" alt="The Bandwidth Tax Nobody Warned You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-bandwidth-tax-nobody-warned-you" target="_blank">The Bandwidth Tax Nobody Warned You About</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-9950x3d2-benchmarks" target="_blank">Exploring The Workloads Where The AMD Ryzen 9 9950X3D2 Makes A Lot Of Sense</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18996168&w=600" alt="Agent Skills Explained for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,33 +213,6 @@
                 <span class="time">2026-04-23 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juan_diegoisazaa_5362a/data-broker-opt-out-practical-steps-to-reduce-exposure-4ic9" target="_blank">Data Broker Opt Out: Practical Steps to Reduce Exposure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/grafana-loki-ai-agents/en/headerimage/generatedHeaderImage-1776936454243.jpg" alt="Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Rearchitects Loki with Kafka and Ships a CLI to Bring Observability Into Coding Agent</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944324&w=600" alt="Boosting React.js Development Productivity With Google Code Assist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reactjs-google-code-assist-productivity" target="_blank">Boosting React.js Development Productivity With Google Code Assist</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPV2A8D1ZR8BB7NH1BWSE2Z1/hero-image.jpg" alt="10 Shows Like &#x27;You&#x27; to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-you?utm_medium=RSS" target="_blank">10 Shows Like &#x27;You&#x27; to Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Xbox360-grid1-1280x720.jpg" alt="Microsoft Finally ‘Actively Investigating’ Why Some Xbox 360 Games Haven’t Been Working On New Consoles For Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +286,20 @@
                 <span class="time">2026-04-22 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/game-releases-1280x722.jpg" alt="The Week In Games: Pottery Parties And A Long-Lost JRPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-games-coming-out-april-2026-release-dates-2000689835" target="_blank">The Week In Games: Pottery Parties And A Long-Lost JRPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-22 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776728486-20260423.png" alt="Saturday Morning Breakfast Cereal - Happiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/happiness-6" target="_blank">Saturday Morning Breakfast Cereal - Happiness</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -310,22 +309,13 @@
                 <span class="time">2026-04-22 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776728379-20260422.png" alt="Saturday Morning Breakfast Cereal - WaaS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/waas" target="_blank">Saturday Morning Breakfast Cereal - WaaS</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
