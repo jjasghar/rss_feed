@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 18:18:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 19:27:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 18:19 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1950/live/374dc1f0-3f37-11f1-b55d-0f258dce1735.jpg" alt="Starmer says he&#x27;s acting in national interest after Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c77mpknd6lpo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says he&#x27;s acting in national interest after Trump criticism</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-23 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +104,38 @@
                 <span class="time">2026-04-23 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/turkiye-mps-pass-bill-to-restrict-social-media-use-for-children-under-15?traffic_source=rss" target="_blank">Turkiye MPs pass bill to restrict social media use for children under 15</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty" target="_blank">‘We Are Xbox’: read the memo defining Microsoft’s gaming future</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/" target="_blank">Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e7fd9ba92c502cace442f8/master/pass/Model-Behavior-AI-Coachella-Stanford-Business.jpg" alt="At &#x27;AI Coachella,&#x27; Stanford Students Line Up to Learn From Silicon Valley Royalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/" target="_blank">At &#x27;AI Coachella,&#x27; Stanford Students Line Up to Learn From Silicon Valley Royalty</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-23 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271975525-500x500.jpg" alt="RFK Jr.’s rejection of germ theory debunked in Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,38 +163,20 @@
                 <span class="time">2026-04-23 17:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2341-500x500.jpeg" alt="Apple&#x27;s M4 Mac mini, including the $599 one, is gradually becoming impossible to buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/" target="_blank">Apple&#x27;s M4 Mac mini, including the $599 one, is gradually becoming impossible to buy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-23 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1944-500x500.jpeg" alt="Eight months early and under budget, the Roman Telescope is ready to launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/" target="_blank">Eight months early and under budget, the Roman Telescope is ready to launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-23 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/master/pass/GettyImages-2268833968.jpg" alt="Palantir Employees Are Starting to Wonder if They&#x27;re the Bad Guys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/" target="_blank">Palantir Employees Are Starting to Wonder if They&#x27;re the Bad Guys</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-23 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944414&w=600" alt="Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secure-auditable-middleware-for-reliable-data-exchange" target="_blank">Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/cverports/ghsa-rhf7-wvw3-vjvm-ghsa-rhf7-wvw3-vjvm-cross-origin-arbitrary-file-write-via-missing-csrf-5dem" target="_blank">GHSA-RHF7-WVW3-VJVM: GHSA-RHF7-WVW3-VJVM: Cross-Origin Arbitrary File Write via Missing CSRF Protection in goshs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-gpt-5-5/" target="_blank">GPT-5.5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-23 18:01</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +222,6 @@
                 <span class="time">2026-04-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!RLFW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66a69a14-0903-4f04-a1d4-13222f40c4ee_1834x1074.png" alt="The Pulse: AI token spending out of control – what’s next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of" target="_blank">The Pulse: AI token spending out of control – what’s next?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-23 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.04-LTS" target="_blank">Ubuntu 26.04 LTS Now Available &amp; Powered By Linux 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin-1280x720.jpg" alt="New Xbox CEO Is ‘Reevaluating’ Exclusive Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-xbox-ceo-is-revaluating-exclusive-games-gears-ai-2000690180" target="_blank">New Xbox CEO Is ‘Reevaluating’ Exclusive Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-23 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPXS8E2W983D1SE7JQ8V8EYG/hero-image.jpg" alt="Meta Now Lets You Check In on Your Teens&#x27; Conversations With Its AI Chatbot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-ai-parental-control-teen-conversations?utm_medium=RSS" target="_blank">Meta Now Lets You Check In on Your Teens&#x27; Conversations With Its AI Chatbot</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPXMYW5WTE2F8XE0HRC9XZJA/hero-image.jpg" alt="Google Meet Can Now Take Notes During In-Person Meetings Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-you?utm_medium=RSS" target="_blank">10 Shows Like &#x27;You&#x27; to Watch Next</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Xbox360-grid1-1280x720.jpg" alt="Microsoft Finally ‘Actively Investigating’ Why Some Xbox 360 Games Haven’t Been Working On New Consoles For Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-actively-investigating-xbox-360-games-dont-work-xbox-series-x-2000690093" target="_blank">Microsoft Finally ‘Actively Investigating’ Why Some Xbox 360 Games Haven’t Been Working On New Consoles For Months</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-23 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPX7MTYCZQYNJWZPVYPP597N/hero-image.jpg" alt="I Put Claude&#x27;s New Visual Tools to the Test Against ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/claude-ai-compared-to-chatgpt-visual-tools?utm_medium=RSS" target="_blank">I Put Claude&#x27;s New Visual Tools to the Test Against ChatGPT</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 13:30</span>
             </div>
         </div>
 </div>
@@ -332,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
