@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 19:27:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 20:17:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 19:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs" target="_blank">Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1950/live/374dc1f0-3f37-11f1-b55d-0f258dce1735.jpg" alt="Starmer says he&#x27;s acting in national interest after Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +100,38 @@
                 <span class="time">2026-04-23 15:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/g-s1-118443/mosquitoes-malaria-human-civilization" target="_blank">How mosquitoes — and malaria — helped shaped the whereabouts of early humankind</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/" target="_blank">Instagram tests a new ‘Instants’ app for sharing disappearing photos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale" target="_blank">Sonos’ big sale on refurbished speakers is about to end</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e9325b3ea6d24e4cfdd4c8/master/pass/Uncanny-Valley-Tim-Cook-Business-2233926826.jpg" alt="Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/" target="_blank">Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-23 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,33 +159,6 @@
                 <span class="time">2026-04-23 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271975525-500x500.jpg" alt="RFK Jr.’s rejection of germ theory debunked in Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/" target="_blank">RFK Jr.’s rejection of germ theory debunked in Senate hearing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-23 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt" target="_blank">OpenAI says its new GPT-5.5 model is more efficient and better at coding</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming" target="_blank">Microsoft brings Xbox back, scraps Microsoft Gaming</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 17:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +171,15 @@
                 <span class="title"><a href="https://dzone.com/articles/secure-auditable-middleware-for-reliable-data-exchange" target="_blank">Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/TypeError/secure" target="_blank">HTTP security headers for Python web applications</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-23 18:59</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +218,6 @@
                 <span class="time">2026-04-23 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18943317&w=600" alt="Advantages of Independent Testing in Comparison with Traditional QA Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/advantages-of-independent-testing-vs-traditional-qa" target="_blank">Advantages of Independent Testing in Comparison with Traditional QA Methods</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Crossroads.jpg" alt="Overwatch Is Making Good On A Decade-Old Promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198" target="_blank">Overwatch Is Making Good On A Decade-Old Promise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-23 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/HMS_Implacable_1894_RMG_PU6190_cropped.jpg?fit=1200%2C1191&amp;quality=60&amp;ssl=1" alt="1949: Unable to resist the irony, Britain defeats Napoleon one more time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/23/1949-unable-to-resist-the-irony-britain-defeats-napoleon-one-more-time.html" target="_blank">1949: Unable to resist the irony, Britain defeats Napoleon one more time</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-23 19:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin-1280x720.jpg" alt="New Xbox CEO Is ‘Reevaluating’ Exclusive Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +291,6 @@
                 <span class="time">2026-04-23 16:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/assets_2026_04_1776929556_ACBFR_Screenshot_Static_16x9_EdwardParry_230426_615PMCEST-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced Is Changing The Modern Day Parts Of The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-remake-moving-away-from-the-modern-day-2000689854" target="_blank">Assassin’s Creed Black Flag Resynced Is Changing The Modern Day Parts Of The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-23 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPV2A8D1ZR8BB7NH1BWSE2Z1/hero-image.jpg" alt="10 Shows Like &#x27;You&#x27; to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-you?utm_medium=RSS" target="_blank">10 Shows Like &#x27;You&#x27; to Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,22 +314,13 @@
                 <span class="time">2026-04-23 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/22/directinput" target="_blank">DirectInput</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-22 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
