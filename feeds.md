@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 16:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 17:28:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797402/author-details-the-spy-network-that-took-on-americas-post-wwii-nazi-groups" target="_blank">Author details the spy network that took on America&#x27;s post-WWII Nazi groups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/aclu-amnesty-lead-120-rights-groups-issuing-us-world-cup-travel-advisory?traffic_source=rss" target="_blank">ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg" alt="Trump tells BBC that King&#x27;s visit could &#x27;absolutely&#x27; help repair relations with UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss" target="_blank">Trump tells BBC that King&#x27;s visit could &#x27;absolutely&#x27; help repair relations with UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-23 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d9/live/8f4a1790-18b9-11f1-97ba-493bedc7637b.jpg" alt="Rapist who infected men and boys with HIV jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +103,29 @@
                 <span class="time">2026-04-23 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/23/why-are-fifa-world-cup-2026-tickets-so-expensive?traffic_source=rss" target="_blank">Why are FIFA World Cup 2026 tickets so expensive?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-4-gty-gmh-260422_1776865679362_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump orders Navy to &#x27;shoot,&#x27; &#x27;kill&#x27; boats putting mines in strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump orders Navy to &#x27;shoot,&#x27; &#x27;kill&#x27; boats putting mines in strait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-23 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/4/23/the-economic-winners-losers-in-the-us-israel-war-on-iran?traffic_source=rss" target="_blank">The economic winners &amp; losers in the US-Israel war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming" target="_blank">Microsoft brings Xbox back, scraps Microsoft Gaming</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_2341-500x500.jpeg" alt="Apple&#x27;s M4 Mac mini, including the $599 one, is gradually becoming impossible to buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/" target="_blank">Apple&#x27;s M4 Mac mini, including the $599 one, is gradually becoming impossible to buy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-23 17:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_1944-500x500.jpeg" alt="Eight months early and under budget, the Roman Telescope is ready to launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +133,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/" target="_blank">Eight months early and under budget, the Roman Telescope is ready to launch</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-23 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/master/pass/GettyImages-2268833968.jpg" alt="Palantir Employees Are Starting to Wonder if They&#x27;re the Bad Guys" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/" target="_blank">Palantir Employees Are Starting to Wonder if They&#x27;re the Bad Guys</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-23 16:01</span>
             </div>
         </div>
 <div class="story">
@@ -129,38 +162,20 @@
                 <span class="time">2026-04-23 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/" target="_blank">Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e99dcf276e64b3ed47d28a/master/pass/Review--Lume-Cube-Edge-Light-Go-Desk-Lamp.jpg" alt="Lume Cube Edge Light Go Review (2026): Versatile, Portable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/" target="_blank">Lume Cube Edge Light Go Review (2026): Versatile, Portable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-23 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/" target="_blank">Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18943317&w=600" alt="Advantages of Independent Testing in Comparison with Traditional QA Methods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/advantages-of-independent-testing-vs-traditional-qa" target="_blank">Advantages of Independent Testing in Comparison with Traditional QA Methods</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/03/ubuntu-2604-hero-2.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.04 LTS released: GNOME 50, Wayland-only and Linux 7.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +221,6 @@
                 <span class="time">2026-04-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-9950x3d2-benchmarks" target="_blank">Exploring The Workloads Where The AMD Ryzen 9 9950X3D2 Makes A Lot Of Sense</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tunnel-rock.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Workers routed a highway through this boulder rather than blast it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/23/workers-routed-a-highway-through-this-boulder-rather-than-blast-it.html" target="_blank">Workers routed a highway through this boulder rather than blast it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-23 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/assets_2026_04_1776929556_ACBFR_Screenshot_Static_16x9_EdwardParry_230426_615PMCEST-1280x720.jpg" alt="Assassin’s Creed Black Flag Resynced Is Changing The Modern Day Parts Of The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-remake-moving-away-from-the-modern-day-2000689854" target="_blank">Assassin’s Creed Black Flag Resynced Is Changing The Modern Day Parts Of The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-23 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPV2A8D1ZR8BB7NH1BWSE2Z1/hero-image.jpg" alt="10 Shows Like &#x27;You&#x27; to Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +294,20 @@
                 <span class="time">2026-04-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPVESYTKDTDMBJFZ3337VT2C/hero-image.jpg" alt="Why I Won&#x27;t Be Doing &#x27;Women&#x27;s Pushups&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/womens-pushups-and-the-problem-with-gendered-fitness-hacks?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Doing &#x27;Women&#x27;s Pushups&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/game-releases-1280x722.jpg" alt="The Week In Games: Pottery Parties And A Long-Forgotten JRPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-games-coming-out-april-2026-release-dates-2000689835" target="_blank">The Week In Games: Pottery Parties And A Long-Forgotten JRPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-22 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/i-am-snake/" target="_blank">I Am Snake</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-04-23 15:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1776728486-20260423.png" alt="Saturday Morning Breakfast Cereal - Happiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
