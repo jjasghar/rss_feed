@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 11:22:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-23 12:15:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 11:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/money-works/2026/4/23/the-economic-winners-losers-in-the-us-israel-war-on-iran?traffic_source=rss" target="_blank">The economic winners &amp; losers in the US-Israel war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776943842125_tdy_news_7a_hunter_iran_siezes_ships_260423_S3_1920x1080-y2gbyq.jpg" alt="Iran Seizes Several Cargo Ships After Trump Extends Ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/iran-attacks-and-seizes-several-ships-as-tensions-escalate-261956677926" target="_blank">Iran Seizes Several Cargo Ships After Trump Extends Ceasefire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-23 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +98,20 @@
                 <span class="time">2026-04-23 09:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss" target="_blank">Lamine Yamal’s World Cup status unclear after Barcelona injury</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-denmark-train-accident_7227890.jpg?20260423072955" alt="Five people critically injured after two trains collide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/five-people-critically-injured-in-danish-train-crash-13535293" target="_blank">Five people critically injured after two trains collide</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-23 06:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/" target="_blank">Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-23 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,20 @@
                 <span class="time">2026-04-23 01:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/" target="_blank">Tesla just increased its spending plan to $25B — here’s where the money is going</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-22 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944324&w=600" alt="Boosting React.js Development Productivity With Google Code Assist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reactjs-google-code-assist-productivity" target="_blank">Boosting React.js Development Productivity With Google Code Assist</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="How Observability and Telemetry Can Enhance the Practice of Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2026-04-23 09:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faelkzjkqdq7mpoo3x69y.png" alt="The Hidden Attack Surface of Modern Cloud Apps in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sreekari_m_eb6e870dcb8699/the-hidden-attack-surface-of-modern-cloud-apps-in-the-age-of-ai-2dj5" target="_blank">The Hidden Attack Surface of Modern Cloud Apps in the Age of AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPVESYTKDTDMBJFZ3337VT2C/hero-image.jpg" alt="Why I Won&#x27;t Be Doing &#x27;Women&#x27;s Pushups&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/womens-pushups-and-the-problem-with-gendered-fitness-hacks?utm_medium=RSS" target="_blank">Why I Won&#x27;t Be Doing &#x27;Women&#x27;s Pushups&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/game-releases-1280x722.jpg" alt="The Week In Games: Pottery Parties And A Long-Forgotten JRPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/video-games-coming-out-april-2026-release-dates-2000689835" target="_blank">The Week In Games: Pottery Parties And A Long-Forgotten JRPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-22 23:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/game-releases-1280x722.jpg" alt="The Week In Games: Pottery Parties And A Long-Lost JRPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +289,6 @@
                 <span class="time">2026-04-22 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPVAF7C2HSKYE9F110JV0Q19/hero-image.jpg" alt="Did Apple Just Fix the iPhone Bug That Let the FBI Recover Deleted Signal Messages?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-signal-notifications-iphone-bug?utm_medium=RSS" target="_blank">Did Apple Just Fix the iPhone Bug That Let the FBI Recover Deleted Signal Messages?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/cannabis-drinker.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="In 1884, a doctor ate too much cannabis and his arms shrank to five inches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/22/in-1884-a-doctor-ate-too-much-cannabis-and-his-arms-shrank-to-five-inches.html" target="_blank">In 1884, a doctor ate too much cannabis and his arms shrank to five inches</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-22 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
