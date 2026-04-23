@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 08:31:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-23 09:29:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 08:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, April 23, 2026 - 09:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6c/live/8189d0a0-3eed-11f1-bd52-e755d604ece4.jpg" alt="Two trains collide head-on in Denmark, leaving five critically hurt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss" target="_blank">Two trains collide head-on in Denmark, leaving five critically hurt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-23 09:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss" target="_blank">Lamine Yamal’s World Cup status unclear after Barcelona injury</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-denmark-train-accident_7227890.jpg?20260423072955" alt="Five people critically injured after two trains collide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/five-people-critically-injured-in-danish-train-crash-13535293" target="_blank">Five people critically injured after two trains collide</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-23 06:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss" target="_blank">High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-23 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-amal-khali-al-akhbar_7227871.jpg?20260423065858" alt="Israel accused of war crimes after &#x27;targeted&#x27; killing of journalist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-accused-of-war-crimes-after-targeted-killing-of-journalist-13535269" target="_blank">Israel accused of war crimes after &#x27;targeted&#x27; killing of journalist</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-23 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss" target="_blank">Ultra-Orthodox Jews burn Israeli flags to protest national day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/22/g-s1-118416/chemical-leak-west-virginia-institute" target="_blank">Chemical leak at a W.Va. plant kills 2 people, sends 30 more to hospitals, officials say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 00:36</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thavishka_abeysekara/the-hidden-side-of-being-a-developer-code-pressure-and-health-3n2" target="_blank">The Hidden Side of Being a Developer: Code, Pressure, and Health</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-23 09:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faelkzjkqdq7mpoo3x69y.png" alt="The Hidden Attack Surface of Modern Cloud Apps in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,30 +196,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://crawshaw.io/blog/building-a-cloud" target="_blank">I am building a cloud</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-23 04:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmamwjcxrninnvil87ui.gif" alt="I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aibughunter/i-spent-the-morning-scrolling-googlecloudnext-and-now-i-cannot-stop-thinking-about-it-35mg" target="_blank">I Spent the Morning Scrolling #GoogleCloudNext and now I Cannot Stop Thinking About It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tanx-1811/authentication-mechanisms-jwt-oauth-and-single-sign-on-sso-1eo3" target="_blank">Authentication Mechanisms: JWT, OAuth, and Single Sign-On (SSO)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/henri_kp_77a25145814fd1b8/checklist-i-found-an-agent-running-under-a-rotated-api-key-heres-what-kya-finally-named-2mfi" target="_blank">Checklist: I Found An Agent Running Under A Rotated API Key - Here&#x27;s What KYA Finally Named</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 01:19</span>
             </div>
         </div>
 </div>
@@ -317,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 08:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
