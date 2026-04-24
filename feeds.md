@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 12:15:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-24 13:28:56 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 12:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/03/1920x1080/skynews-vinicius-junior-gianluca-prestianni_7179472.jpg?20260424142829" alt="Benfica player handed six-game ban for homophobic conduct towards Real star Vinicius Junior" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gianluca-prestianni-benfica-player-handed-six-game-ban-for-homophobic-conduct-towards-vinicius-junior-13535926" target="_blank">Benfica player handed six-game ban for homophobic conduct towards Real star Vinicius Junior</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-24 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hegseth-1-rt-gmh-260424_1777032737069_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth says &#x27;blockade is growing and going global&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Hegseth says &#x27;blockade is growing and going global&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-24 12:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon holds news conference on Iran war: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg" alt="Nato says &#x27;no provision&#x27; to expel members after report US could seek to suspend Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss" target="_blank">Environmental crisis in Russian city after drone attack on refinery</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties?traffic_source=rss" target="_blank">US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118590/2-arrested-in-plot-to-attack-houston-synagogue" target="_blank">2 young people arrested in alleged plot to attack Houston synagogue</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-24 05:45</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss" target="_blank">Nato says &#x27;no provision&#x27; to expel members after report US could seek to suspend Spain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-24 10:14</span>
             </div>
         </div>
 </div>
@@ -102,12 +101,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws" target="_blank">A new Republican privacy bill could be ‘worse than no standard at all’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69eabb593c3ff89ba77d0275/master/pass/Review--Dyson-PencilVac-Fluffycones.jpg" alt="Dyson PencilVac Review (2026): Limited but Handy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/review/dyson-pencilvac-review/" target="_blank">Dyson PencilVac Review (2026): Limited but Handy</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-24 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/" target="_blank">In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +154,6 @@
                 <span class="time">2026-04-24 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ea22cb7c6d09c92685b0af/master/pass/financial-advice-chat-gpt.jpg" alt="5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/" target="_blank">5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/917462/saros-review-ps5" target="_blank">Saros is pure action nirvana</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942825&w=600" alt="The Hidden Risk of SaaS-Based AI: You’re Training Models You Don’t Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/saas-ai-risks-losing-control-data" target="_blank">The Hidden Risk of SaaS-Based AI: You’re Training Models You Don’t Control</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-24 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +213,6 @@
                 <span class="time">2026-04-24 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkqr1matuy2mbjmae9qv9.png" alt="Chargeback vs showback team level cloud cost accountability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/riya_mittal_cdd264250ad45/chargeback-vs-showback-team-level-cloud-cost-accountability-3bo5" target="_blank">Chargeback vs showback team level cloud cost accountability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 09:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPZ44Q2NK3K0HJDM8JF1KQ6P/hero-image.png" alt="These Third-Generation Apple AirPods Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-third-generation-sale-april-2026?utm_medium=RSS" target="_blank">These Third-Generation Apple AirPods Are $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/saros-review-lead-1280x720.jpg" alt="Saros: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +286,6 @@
                 <span class="time">2026-04-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/cat.jpeg?fit=1500%2C997&amp;quality=60&amp;ssl=1" alt="Your drip coffee has more caffeine than your espresso — here&#x27;s why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/23/your-drip-coffee-has-more-caffeine-than-your-espresso-heres-why.html" target="_blank">Your drip coffee has more caffeine than your espresso — here&#x27;s why</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-23 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
