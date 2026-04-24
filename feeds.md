@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 18:10:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-24 19:16:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 19:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss" target="_blank">Trump government extends Jones Act waiver by 90 days to dampen oil prices</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-9-rt-gmh-260420_1776708421816_hpMain_4x3t_384.jpg" alt="Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-24 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d89d/live/10fb2170-3fda-11f1-9365-9d68a044e038.jpg" alt="Chris Mason: A grim week for Starmer – but things could be about to get worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,30 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/tdy-trump-iran-rush-f4ho28.jpg" alt="Trump Says He Won&#x27;t ‘Rush’ Into Agreement to End the Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell" target="_blank">Justice Department drops probe into Fed Chair Jerome Powell</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-24 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell" target="_blank">Justice Department drops inquiry into Fed Chair Jerome Powell</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-24 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss" target="_blank">Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 15:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-lebanon-truce-extended-trump-says-won-t-rush-iran-deal-262059077580" target="_blank">Trump Says He Won&#x27;t ‘Rush’ Into Agreement to End the Iran War</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-24 15:07</span>
             </div>
         </div>
 </div>
@@ -106,6 +111,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg" alt="Why are top university websites serving porn? It comes down to shoddy housekeeping." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/" target="_blank">Why are top university websites serving porn? It comes down to shoddy housekeeping.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-24 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +165,6 @@
                 <span class="time">2026-04-24 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings" target="_blank">Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +180,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nathanielc85523/40-cents-a-day-three-weeks-of-corrupted-writes-zero-alerts-fired-54i0" target="_blank">40 cents a day, three weeks of corrupted writes, zero alerts fired</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Removes-Old-Net" target="_blank">Farewell ISDN, Ham Radio &amp; Old Network Drivers: Linus Torvalds Merges 138k L.O.C. Removal</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-24 18:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7vixezerr1opve261dq.png" alt="10 Common Unity Rendering Issues (And How to Fix Them Like a Pro)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -184,39 +207,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical finally gives Launchpad (a bit of) a glow-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-launchpad-website-revamp" target="_blank">Canonical finally gives Launchpad (a bit of) a glow-up</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-24 17:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dev.to/images/blog/why-hvac-companies-lose-repeat-customers-and-how-to-build-a/image-2.png" alt="Why HVAC Companies Lose Repeat Customers (And How to Build a Service Agreement Program That Actually Works)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bookallleads/why-hvac-companies-lose-repeat-customers-and-how-to-build-a-service-agreement-program-that-210" target="_blank">Why HVAC Companies Lose Repeat Customers (And How to Build a Service Agreement Program That Actually Works)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944828&w=600" alt="Frontier Agents: The Next Evolution of AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-frontier-agents" target="_blank">Frontier Agents: The Next Evolution of AI Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-24 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944804&w=600" alt="50 Claude Code Tips That 10x My Coding Workflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/claude-code-tips-boost-coding-productivity" target="_blank">50 Claude Code Tips That 10x My Coding Workflow</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.1.2-Released" target="_blank">Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-24 15:12</span>
             </div>
         </div>
 </div>
@@ -238,6 +243,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/ff14-Evercold.jpg" alt="Final Fantasy 14 Is Taking Its Next Giant Step With The Evercold Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-expansion-ff14-trailer-release-2000690538" target="_blank">Final Fantasy 14 Is Taking Its Next Giant Step With The Evercold Expansion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-24 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_1950108196.jpeg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="Cops, not bunnies: Newport Beach chooses enforcement over art park" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/24/cops-not-bunnies-newport-beach-chooses-enforcement-over-art-park.html" target="_blank">Cops, not bunnies: Newport Beach chooses enforcement over art park</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-24 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQ09GVS48ADY0Y5HPR075WMK/hero-image.png" alt="These Sony Noise-Canceling Headphones Are Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/these-sony-noise-canceling-headphones-deal-april-2026?utm_medium=RSS" target="_blank">These Sony Noise-Canceling Headphones Are Nearly Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/08-vampire-crawlers-1280x720.jpg" alt="8 Ridiculous Things I Utterly Love About Vampire Crawlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-connect-now-works-windows-11?utm_medium=RSS" target="_blank">Samsung Galaxy Connect Now Works With Even More Windows PCs</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visual-Studio.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $50 coding bundle might actually change your life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/24/this-50-coding-bundle-might-actually-change-your-life.html" target="_blank">This $50 coding bundle might actually change your life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPZ4DXKGDNWNPMVJ2MVS8GAH/hero-image.png" alt="This Google Pixel Watch 4 Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-watch-4-lte-sale-april-2026?utm_medium=RSS" target="_blank">This Google Pixel Watch 4 Is Over $100 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPZ44Q2NK3K0HJDM8JF1KQ6P/hero-image.png" alt="These Third-Generation Apple AirPods Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-airpods-third-generation-sale-april-2026?utm_medium=RSS" target="_blank">These Third-Generation Apple AirPods Are $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 12:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
