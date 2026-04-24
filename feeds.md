@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 02:59:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 04:11:11 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss" target="_blank">Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss" target="_blank">Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-24 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-donald-trump-president_7228726.jpg?20260424045508" alt="Trump hits out at Prince Harry over Ukraine war comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-harry-is-not-speaking-for-the-uk-after-princes-comments-about-us-role-in-ukraine-war-13535704" target="_blank">Trump hits out at Prince Harry over Ukraine war comments</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-23 23:49</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +102,6 @@
                 <span class="time">2026-04-23 23:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss" target="_blank">US professors sue university over arrest during pro-Palestine protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/maduro-capture-gty-jt-260423_1776976864287_hpMain_4x3t_384.jpg" alt="DOJ arrests soldier who made $400,000 betting on Maduro&#x27;s removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-arrests-soldier-made-400000-betting-maduros-removal/story?id=132325426" target="_blank">DOJ arrests soldier who made $400,000 betting on Maduro&#x27;s removal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-23 23:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/" target="_blank">Porsche is adding an all-electric Cayenne coupe to its lineup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/" target="_blank">Bob Iger rejoins Thrive Capital as advisor after Disney exit</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-24 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke" target="_blank">US arrests soldier who allegedly made $400K on Maduro Polymarket bets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 22:49</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/" target="_blank">US accuses China of “industrial-scale” AI theft. China says it’s “slander.”</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-23 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/" target="_blank">Bret Taylor’s Sierra buys YC-backed AI startup Fragment</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/bigG1-500x500-1776860219.jpg" alt="We still don&#x27;t have a more precise value for &quot;Big G&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/" target="_blank">We still don&#x27;t have a more precise value for &quot;Big G&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-23 20:57</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/07/4625f6c201e8be94fe947b269f962288-1280x720.jpg" alt="A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262" target="_blank">A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-24 01:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/toy.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Congressman wants AI out of kids&#x27; toys after chatbots got weird with children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -280,15 +293,6 @@
                 <span class="time">2026-04-23 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/HMS_Implacable_1894_RMG_PU6190_cropped.jpg?fit=1200%2C1191&amp;quality=60&amp;ssl=1" alt="1949: Unable to resist the irony, Britain defeats Napoleon one more time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/23/1949-unable-to-resist-the-irony-britain-defeats-napoleon-one-more-time.html" target="_blank">1949: Unable to resist the irony, Britain defeats Napoleon one more time</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-23 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
