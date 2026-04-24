@@ -1,26 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 05:46:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 06:33:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 05:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 06:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118590/2-arrested-in-plot-to-attack-houston-synagogue" target="_blank">2 young people arrested in alleged plot to attack Houston synagogue</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-24 05:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,30 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-donald-trump-president_7228726.jpg?20260424045508" alt="Trump hits out at Prince Harry over Ukraine war comments and asks &#x27;how&#x27;s his wife? Give her my regards&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-harry-is-not-speaking-for-the-uk-after-princes-comments-about-us-role-in-ukraine-war-13535704" target="_blank">Trump hits out at Prince Harry over Ukraine war comments and asks &#x27;how&#x27;s his wife? Give her my regards&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-23 23:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-donald-trump-president_7228726.jpg?20260424045508" alt="Trump hits out at Prince Harry over Ukraine war comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-says-harry-is-not-speaking-for-the-uk-after-princes-comments-about-us-role-in-ukraine-war-13535704" target="_blank">Trump hits out at Prince Harry over Ukraine war comments</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-23 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider" target="_blank">U.S. soldier charged with using classified information to bet on Maduro&#x27;s removal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider" target="_blank">U.S. soldier charged with suspected Polymarket insider trading over Maduro raid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 23:29</span>
             </div>
         </div>
 </div>
@@ -164,12 +176,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/24/lights-camera-open-source/" target="_blank">Lights, camera, open source!</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-24 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffedi0hs6b38vrajujtoz.png" alt="20 Penetration Testing Projects Worth Adding to Your Resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/excalibra/20-penetration-testing-projects-worth-adding-to-your-resume-3d34" target="_blank">20 Penetration Testing Projects Worth Adding to Your Resume</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 05:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek v4</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-24 03:01</span>
             </div>
         </div>
 <div class="story">
@@ -188,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/om_shree_0709/microsoft-fabric-just-exposed-its-mcp-architecture-heres-what-it-actually-changes-for-data-teams-1i4e" target="_blank">Microsoft Fabric Just Exposed Its MCP Architecture. Here&#x27;s What It Actually Changes for Data Teams.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324480/ubuntu-26-04-upgrade-or-not" target="_blank">5 Reasons to Upgrade to Ubuntu 26.04 (and 3 Reasons to Stay Away)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-24 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HDMI-FRL-On-Nouveau-Linux" target="_blank">HDMI FRL Support Achieved With Open-Source Nouveau For NVIDIA GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-24 00:16</span>
             </div>
         </div>
 </div>
@@ -234,6 +246,15 @@
                 <span class="title"><a href="https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262" target="_blank">A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-24 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/cannabis.jpg?fit=1500%2C1071&amp;quality=60&amp;ssl=1" alt="DOJ moves cannabis from heroin&#x27;s schedule to Tylenol with codeine&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/23/doj-moves-cannabis-from-heroins-schedule-to-tylenol-with-codeines.html" target="_blank">DOJ moves cannabis from heroin&#x27;s schedule to Tylenol with codeine&#x27;s</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-23 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -272,15 +293,6 @@
                 <span class="time">2026-04-23 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Crossroads.jpg" alt="Overwatch Is Making Good On A Decade-Old Promise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198" target="_blank">Overwatch Is Making Good On A Decade-Old Promise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-23 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:46 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
