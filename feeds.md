@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-23 23:14:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 00:16:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, April 23, 2026 - 23:14 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 00:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider" target="_blank">U.S. soldier charged with suspected Polymarket insider trading over Maduro raid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776986773968_now_hallie_lebanon_refugees_260423_S3_1920x1080-8qv71z.jpg" alt="Lebanese refugees hope to return home as ceasefire with Israel is extended" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/lebanese-refugees-hope-to-return-home-as-ceasefire-with-israel-is-extended-262007877661" target="_blank">Lebanese refugees hope to return home as ceasefire with Israel is extended</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-23 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss" target="_blank">US professors sue university over arrest during pro-Palestine protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-23 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/maduro-capture-gty-jt-260423_1776976864287_hpMain_4x3t_384.jpg" alt="DOJ arrests soldier who made $400,000 betting on Maduro&#x27;s removal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-arrests-soldier-made-400000-betting-maduros-removal/story?id=132325426" target="_blank">DOJ arrests soldier who made $400,000 betting on Maduro&#x27;s removal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-23 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet" target="_blank">French police probe suspected weather device tampering after odd Polymarket bet</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-23 22:22</span>
@@ -63,42 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss" target="_blank">Milei administration in Argentina blocks journalist access to Casa Rosada</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-23 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss" target="_blank">Will complex EU loan deal intensify conflict?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron" target="_blank">The FDA gives the green light to the first gene therapy for deafness</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797855/meta-layoffs-10-percent-staff" target="_blank">Meta will lay off 10% of its staff</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs" target="_blank">Airlines in Europe slash thousands of flights as Iran war cuts jet fuel supplies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 19:29</span>
             </div>
         </div>
 </div>
@@ -178,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shakti_mishra_308e9f36b5d/5-markdown-files-that-tame-non-deterministic-ai-in-your-engineering-org-31h3" target="_blank">5 Markdown Files That Tame Non-Deterministic AI in Your Engineering Org</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 00:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-2610-date.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 (Stonking Stingray) release date &amp; schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-10-release-date" target="_blank">Ubuntu 26.10 (Stonking Stingray) release date &amp; schedule</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-23 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0" target="_blank">Créer un système d’authentification avec PHP et MySQL (étape par étape)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 22:04</span>
@@ -199,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b" target="_blank">The Most Dangerous Designer at a Big Company Is the One Who Can Ship</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18938402&w=600" alt="Why AI-Assisted Development Is Raising the Value of E2E Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-ai-assisted-development-is-raising-e3e-test" target="_blank">Why AI-Assisted Development Is Raising the Value of E2E Testing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944414&w=600" alt="Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secure-auditable-middleware-for-reliable-data-exchange" target="_blank">Advanced Middleware Architecture For Secure, Auditable, and Reliable Data Exchange Across Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-23 19:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
