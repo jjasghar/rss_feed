@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 11:22:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-24 12:15:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 11:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon holds news conference on Iran war: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Pentagon holds news conference on Iran war: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-24 11:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +96,29 @@
                 <span class="time">2026-04-24 05:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss" target="_blank">China’s DeepSeek unveils latest model a year after upending global tech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 05:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69eabb593c3ff89ba77d0275/master/pass/Review--Dyson-PencilVac-Fluffycones.jpg" alt="Dyson PencilVac Review (2026): Limited but Handy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/dyson-pencilvac-review/" target="_blank">Dyson PencilVac Review (2026): Limited but Handy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-24 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip" target="_blank">Elon Musk and Sam Altman’s court showdown will dish the dirt</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69eab6d7b5958d4a49c4cb8a/master/pass/Review--VMax-New-VX4-Electric-Scooter.jpg" alt="VMax New V4 Electric Scooter Review: Unleash the Beast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="time">2026-04-24 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Sam&#x27;s Club Promo Codes: 60% Off for April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sams-club-coupon/" target="_blank">Sam&#x27;s Club Promo Codes: 60% Off for April 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/" target="_blank">Porsche is adding an all-electric Cayenne coupe to its lineup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-24 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,10 +172,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/piya__c204c9e90/rust-vs-rue-can-this-claude-built-language-challenge-rusts-memory-safety-crown-1el4" target="_blank">Rust vs Rue: Can This Claude-Built Language Challenge Rust&#x27;s Memory Safety Crown?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine" target="_blank">Firefox Has Quietly Integrated Brave&amp;#x27;s Adblock Engine</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-24 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bmj.com/content/393/bmj.s781" target="_blank">UK Biobank leak: Health details of 500 000 people are offered for sale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-24 11:09</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/riya_mittal_cdd264250ad45/chargeback-vs-showback-team-level-cloud-cost-accountability-3bo5" target="_blank">Chargeback vs showback team level cloud cost accountability</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gx1n0dl9no" target="_blank">S. Korea police arrest man over AI image of runaway wolf that misled authorities</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-24 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/en/headerimage/orchestrating-agentic-multimodal-ai-pipelines-apache-camel-header-1776763980414.jpg" alt="Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-24 09:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
