@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 19:16:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-24 20:11:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 19:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 20:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +48,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss" target="_blank">US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 19:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss" target="_blank">Trump government extends Jones Act waiver by 90 days to dampen oil prices</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-24 18:47</span>
@@ -68,6 +69,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-24 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon" target="_blank">US millionaire big-game hunter dies after being crushed by elephants</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-24 18:09</span>
             </div>
         </div>
 <div class="story">
@@ -88,29 +98,20 @@
                 <span class="time">2026-04-24 16:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jerome-powell-ap-jef-260423_1777036809117_hpMain_4x3t_384.jpg" alt="DOJ dropping criminal probe of Fed Chair Jerome Powell amid pressure from senators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-expected-drop-criminal-probe-fed-chair-jerome/story?id=132344914" target="_blank">DOJ dropping criminal probe of Fed Chair Jerome Powell amid pressure from senators</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-24 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/tdy-trump-iran-rush-f4ho28.jpg" alt="Trump Says He Won&#x27;t ‘Rush’ Into Agreement to End the Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-lebanon-truce-extended-trump-says-won-t-rush-iran-deal-262059077580" target="_blank">Trump Says He Won&#x27;t ‘Rush’ Into Agreement to End the Iran War</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-24 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker" target="_blank">Alex Jones has uncovered another massive conspiracy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-500x500.jpg" alt="Why are top university websites serving porn? It comes down to shoddy housekeeping." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -118,6 +119,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/" target="_blank">Why are top university websites serving porn? It comes down to shoddy housekeeping.</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ebb572c24af9e77dc96bcc/master/pass/Ember's-Smart-Coffee-Mug-Is-Back-to-Its-Lowest-Price.jpg" alt="Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ember-mug-2-deal-april-2026/" target="_blank">Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-24 18:39</span>
             </div>
         </div>
 <div class="story">
@@ -147,24 +157,6 @@
                 <span class="time">2026-04-24 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/918301/samsung-south-korea-union-protests" target="_blank">The RAM shortage could get even worse if Samsung labor protests cut production</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69df9c52d84b8fa491200272/master/pass/041526_Designer%20Baby%20Companies%20Are%20in%20Turmoil%20.jpg" alt="Designer Baby Companies Are in Turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/designer-baby-companies-are-in-turmoil/" target="_blank">Designer Baby Companies Are in Turmoil</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_iametornam/bringing-it-to-life-the-real-time-inference-engine-part-3-29fi" target="_blank">Bringing it to Life: The Real-Time Inference Engine (Part 3)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 20:05</span>
             </div>
         </div>
 <div class="story">
@@ -198,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developers.openai.com/api/docs/changelog" target="_blank">OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-24 18:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7vixezerr1opve261dq.png" alt="10 Common Unity Rendering Issues (And How to Fix Them Like a Pro)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/magithar/10-common-unity-rendering-issues-and-how-to-fix-them-like-a-pro-hcl" target="_blank">10 Common Unity Rendering Issues (And How to Fix Them Like a Pro)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical finally gives Launchpad (a bit of) a glow-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-launchpad-website-revamp" target="_blank">Canonical finally gives Launchpad (a bit of) a glow-up</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-24 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dev.to/images/blog/why-hvac-companies-lose-repeat-customers-and-how-to-build-a/image-2.png" alt="Why HVAC Companies Lose Repeat Customers (And How to Build a Service Agreement Program That Actually Works)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bookallleads/why-hvac-companies-lose-repeat-customers-and-how-to-build-a-service-agreement-program-that-210" target="_blank">Why HVAC Companies Lose Repeat Customers (And How to Build a Service Agreement Program That Actually Works)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 17:10</span>
             </div>
         </div>
 </div>
@@ -243,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQ0CBARZYF8VNVKFQENZ0HYT/hero-image.png" alt="These Adjustable Dumbbells Actually Got Me to Stick to a Lifting Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/adjustable-dumbbells-helped-me-to-stick-to-lifting-routine?utm_medium=RSS" target="_blank">These Adjustable Dumbbells Actually Got Me to Stick to a Lifting Routine</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/ff14-Evercold.jpg" alt="Final Fantasy 14 Is Taking Its Next Giant Step With The Evercold Expansion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/tiktok-is-letting-users-remix-some-videos-with-ai?utm_medium=RSS" target="_blank">TikTok Is Testing an AI &#x27;Remix&#x27; Feature, but You Can Opt Out</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPZY60R205D2YK4VFA6X1FJY/hero-image.jpg" alt="Samsung Galaxy Connect Now Works With Even More Windows PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-connect-now-works-windows-11?utm_medium=RSS" target="_blank">Samsung Galaxy Connect Now Works With Even More Windows PCs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 15:30</span>
             </div>
         </div>
 </div>
@@ -343,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 20:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
