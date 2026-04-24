@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 01:31:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 02:59:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 01:31 UTC</div>
+    <div class="newspaper-date">Friday, April 24, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss" target="_blank">Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-24 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-polymarket-insider" target="_blank">U.S. soldier charged with using classified information to bet on Maduro&#x27;s removal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-23 23:29</span>
             </div>
         </div>
 <div class="story">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/US/doj-arrests-soldier-made-400000-betting-maduros-removal/story?id=132325426" target="_blank">DOJ arrests soldier who made $400,000 betting on Maduro&#x27;s removal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-23 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet" target="_blank">French police probe suspected weather device tampering after odd Polymarket bet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-23 22:22</span>
             </div>
         </div>
 </div>
@@ -176,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/" target="_blank">Why I Write (1946)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-24 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/om_shree_0709/microsoft-fabric-just-exposed-its-mcp-architecture-heres-what-it-actually-changes-for-data-teams-1i4e" target="_blank">Microsoft Fabric Just Exposed Its MCP Architecture. Here&#x27;s What It Actually Changes for Data Teams.</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shakti_mishra_308e9f36b5d/5-markdown-files-that-tame-non-deterministic-ai-in-your-engineering-org-31h3" target="_blank">5 Markdown Files That Tame Non-Deterministic AI in Your Engineering Org</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ubuntu-2610-date.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 (Stonking Stingray) release date &amp; schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-26-10-release-date" target="_blank">Ubuntu 26.10 (Stonking Stingray) release date &amp; schedule</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-23 23:31</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HDMI-FRL-On-Nouveau-Linux" target="_blank">HDMI FRL Support Achieved With Open-Source Nouveau For NVIDIA GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-24 00:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0" target="_blank">Créer un système d’authentification avec PHP et MySQL (étape par étape)</a></span>
+                <span class="title"><a href="https://dev.to/shakti_mishra_308e9f36b5d/5-markdown-files-that-tame-non-deterministic-ai-in-your-engineering-org-31h3" target="_blank">5 Markdown Files That Tame Non-Deterministic AI in Your Engineering Org</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 22:04</span>
+                <span class="time">2026-04-24 00:08</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/toy.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Congressman wants AI out of kids&#x27; toys after chatbots got weird with children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/23/congressman-wants-ai-out-of-kids-toys-after-chatbots-got-weird-with-children.html" target="_blank">Congressman wants AI out of kids&#x27; toys after chatbots got weird with children</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-23 23:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPWCZNQM7B66X7TBYDC2Z0FV/hero-image.jpg" alt="10 Productivity Hacks Every Apple Reminders User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2026-04-23 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin-1280x720.jpg" alt="New Xbox CEO Is ‘Reevaluating’ Exclusive Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-xbox-ceo-is-revaluating-exclusive-games-gears-ai-2000690180" target="_blank">New Xbox CEO Is ‘Reevaluating’ Exclusive Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-23 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
