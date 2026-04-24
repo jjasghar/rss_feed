@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 14:30:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-24 15:23:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 14:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 15:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jerome-powell-ap-jef-260423_1777036809117_hpMain_4x3t_384.jpg" alt="DOJ dropping criminal probe of Fed Chair Jerome Powell amid pressure from senators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-expected-drop-criminal-probe-fed-chair-jerome/story?id=132344914" target="_blank">DOJ dropping criminal probe of Fed Chair Jerome Powell amid pressure from senators</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-24 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell" target="_blank">Justice Department drops inquiry into Fed Chair Jerome Powell</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-24 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss" target="_blank">Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jerome-powell-ap-jef-260423_1777036809117_hpMain_4x3t_384.jpg" alt="DOJ expected to drop criminal probe of fed chair amid pressure from senators: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +99,29 @@
                 <span class="time">2026-04-24 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hegseth-1-rt-gmh-260424_1777032737069_hpMain_4x3t_384.jpg" alt="Iran live updates: Hegseth says &#x27;blockade is growing and going global&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Hegseth says &#x27;blockade is growing and going global&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-24 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Pentagon holds news conference on Iran war: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Pentagon holds news conference on Iran war: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-24 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket" target="_blank">Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-24 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings" target="_blank">Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/" target="_blank">Nuclear startup X-energy raises $1B in data center-driven IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +158,6 @@
                 <span class="time">2026-04-24 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/" target="_blank">In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip" target="_blank">Elon Musk and Sam Altman’s court showdown will dish the dirt</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.1.2-Released" target="_blank">Fwupd 2.1.2 Brings Support For Firmware Updates On More Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-24 15:12</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/piya__c204c9e90/rust-vs-rue-can-this-claude-built-language-challenge-rusts-memory-safety-crown-1el4" target="_blank">Rust vs Rue: Can This Claude-Built Language Challenge Rust&#x27;s Memory Safety Crown?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/yelp-cassandra-upgrade/en/headerimage/generatedHeaderImage-1776504976286.jpg" alt="Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-24 12:00</span>
             </div>
         </div>
 </div>
@@ -311,6 +305,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/husband_and_wife.png" alt="Husband and Wife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3237/" target="_blank">Husband and Wife</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-24 04:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -319,22 +322,13 @@
                 <span class="time">2026-04-23 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776728486-20260423.png" alt="Saturday Morning Breakfast Cereal - Happiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/happiness-6" target="_blank">Saturday Morning Breakfast Cereal - Happiness</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:30 UTC
+        🔄 Last Updated: 15:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
