@@ -1,7 +1,9 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 00:16:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 01:31:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -10,20 +12,25 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 00:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss" target="_blank">Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +100,29 @@
                 <span class="time">2026-04-23 22:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss" target="_blank">Milei administration in Argentina blocks journalist access to Casa Rosada</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-23 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/" target="_blank">Bob Iger rejoins Thrive Capital as advisor after Disney exit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke" target="_blank">US arrests soldier who allegedly made $400k on Maduro Polymarket bets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-23 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042226a-lg-500x500.jpg" alt="Visitors to this private space station won&#x27;t be wearing shorts and T-shirts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,24 +159,6 @@
                 <span class="time">2026-04-23 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/" target="_blank">Instagram tests a new ‘Instants’ app for sharing disappearing photos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-23 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale" target="_blank">Sonos’ big sale on refurbished speakers is about to end</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/microsoft-fabric-just-exposed-its-mcp-architecture-heres-what-it-actually-changes-for-data-teams-1i4e" target="_blank">Microsoft Fabric Just Exposed Its MCP Architecture. Here&#x27;s What It Actually Changes for Data Teams.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324480/ubuntu-26-04-upgrade-or-not" target="_blank">5 Reasons to Upgrade to Ubuntu 26.04 (and 3 Reasons to Stay Away)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-24 00:36</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0" target="_blank">Créer un système d’authentification avec PHP et MySQL (étape par étape)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-23 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Opera-GX-Flatpak-Snaps" target="_blank">Opera GX Browser Gets Flatpak&#x27;ed &amp; Snap&#x27;ed On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-23 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ling_zhou_cdd0792b313758c/the-most-dangerous-designer-at-a-big-company-is-the-one-who-can-ship-69b" target="_blank">The Most Dangerous Designer at a Big Company Is the One Who Can Ship</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-23 21:09</span>
             </div>
         </div>
 </div>
@@ -312,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
