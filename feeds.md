@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 20:11:51 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-24 21:14:06 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 20:11 UTC</div>
+    <div class="newspaper-date">Friday, April 24, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss" target="_blank">US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,29 @@
                 <span class="time">2026-04-24 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777047148906_now_daily_a_reilly_powell_investigation_260424_S3_1920x1080-5c7mva.jpg" alt="Justice Department drops criminal investigation into Jerome Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/justice-department-drops-criminal-investigation-into-jerome-powell-262061125610" target="_blank">Justice Department drops criminal investigation into Jerome Powell</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-24 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1229912839-500x500.jpg" alt="Europe—not US—first to authorize Moderna&#x27;s combo mRNA flu-COVID vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/" target="_blank">Europe—not US—first to authorize Moderna&#x27;s combo mRNA flu-COVID vaccine</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-24 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/" target="_blank">Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +160,6 @@
                 <span class="time">2026-04-24 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eb9414e922cf32250cd751/master/pass/Our-Favorite-Pool-Cleaning-Robots-Are-on-Sale.jpg" alt="Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/" target="_blank">Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing" target="_blank">BMW is one step closer to selling you a color-changing car</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/_iametornam/bringing-it-to-life-the-real-time-inference-engine-part-3-29fi" target="_blank">Bringing it to Life: The Real-Time Inference Engine (Part 3)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944840&w=600" alt="Preventing Prompt Injection by Design: A Structural Approach in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/preventing-prompt-injection-structural-java" target="_blank">Preventing Prompt Injection by Design: A Structural Approach in Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-24 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -207,20 +219,20 @@
                 <span class="time">2026-04-24 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw7vixezerr1opve261dq.png" alt="10 Common Unity Rendering Issues (And How to Fix Them Like a Pro)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/magithar/10-common-unity-rendering-issues-and-how-to-fix-them-like-a-pro-hcl" target="_blank">10 Common Unity Rendering Issues (And How to Fix Them Like a Pro)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html" target="_blank">Friday Squid Blogging: How Squid Survived Extinction Events</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-24 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/725ae99d385bbe7328c0af763f2ee249-1280x720.jpg" alt="12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-sale-steam-anniversary-update-2000690558" target="_blank">12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-24 20:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQ0CBARZYF8VNVKFQENZ0HYT/hero-image.png" alt="These Adjustable Dumbbells Actually Got Me to Stick to a Lifting Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/vampire-crawlers-survivors-garlic-poe-decks-chests-sponge-2000689719" target="_blank">8 Ridiculous Things I Utterly Love About Vampire Crawlers</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-24 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ0355Q8QFDZAR1GXS3V0HKR/hero-image.jpg" alt="TikTok Is Testing an AI &#x27;Remix&#x27; Feature, but You Can Opt Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tiktok-is-letting-users-remix-some-videos-with-ai?utm_medium=RSS" target="_blank">TikTok Is Testing an AI &#x27;Remix&#x27; Feature, but You Can Opt Out</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 16:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 20:11 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
