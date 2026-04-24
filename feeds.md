@@ -1,34 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 22:12:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 23:11:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 23:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +62,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s envoys Witkoff and Kushner to fly to Pakistan for Iran talks</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-24 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118707/trump-asylum-ban-us-mexico-border-illegal" target="_blank">Appeals court rules that Trump&#x27;s asylum ban at the border is illegal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-24 21:58</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +107,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss" target="_blank">US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-24 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss" target="_blank">Trump government extends Jones Act waiver by 90 days to dampen oil prices</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 18:47</span>
             </div>
         </div>
 </div>
@@ -175,6 +186,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-29cf" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_iametornam/bringing-it-to-life-the-real-time-inference-engine-part-3-29fi" target="_blank">Bringing it to Life: The Real-Time Inference Engine (Part 3)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 20:05</span>
@@ -207,15 +227,6 @@
                 <span class="time">2026-04-24 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developers.openai.com/api/docs/changelog" target="_blank">OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-24 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/crash.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="An editor who read &quot;Crash&quot; called JG Ballard &quot;beyond psychiatric help. Do not publish&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/24/an-editor-who-read-crash-called-jg-ballard-beyond-psychiatric-help-do-not-publish.html" target="_blank">An editor who read &quot;Crash&quot; called JG Ballard &quot;beyond psychiatric help. Do not publish&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-24 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQ03S5YKT55Y3VWRJNGXZP7T/hero-image.png" alt="This Little Device Might Be the Pocket E-Reader of My Dreams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +307,6 @@
                 <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-expansion-ff14-trailer-release-2000690538" target="_blank">Final Fantasy 14 Is Taking Its Next Giant Step With The Evercold Expansion</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-24 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_1950108196.jpeg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="Cops, not bunnies: Newport Beach chooses enforcement over art park" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/24/cops-not-bunnies-newport-beach-chooses-enforcement-over-art-park.html" target="_blank">Cops, not bunnies: Newport Beach chooses enforcement over art park</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-24 18:31</span>
             </div>
         </div>
 </div>
@@ -344,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
