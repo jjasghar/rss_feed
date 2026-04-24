@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 15:23:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 16:16:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 15:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -123,6 +122,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-500x500.jpg" alt="Man faces 5 years in prison for using AI to fake sighting of runaway wolf" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/" target="_blank">Man faces 5 years in prison for using AI to fake sighting of runaway wolf</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-24 15:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,15 +157,6 @@
                 <span class="time">2026-04-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eabb593c3ff89ba77d0275/master/pass/Review--Dyson-PencilVac-Fluffycones.jpg" alt="Dyson PencilVac Review (2026): Limited but Handy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dyson-pencilvac-review/" target="_blank">Dyson PencilVac Review (2026): Limited but Handy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +169,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944804&w=600" alt="50 Claude Code Tips That 10x My Coding Workflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/claude-code-tips-boost-coding-productivity" target="_blank">50 Claude Code Tips That 10x My Coding Workflow</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-24 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +216,6 @@
                 <span class="time">2026-04-24 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/piya__c204c9e90/rust-vs-rue-can-this-claude-built-language-challenge-rusts-memory-safety-crown-1el4" target="_blank">Rust vs Rue: Can This Claude-Built Language Challenge Rust&#x27;s Memory Safety Crown?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPZY60R205D2YK4VFA6X1FJY/hero-image.jpg" alt="Samsung Galaxy Connect Now Works With Even More Windows PCs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-connect-now-works-windows-11?utm_medium=RSS" target="_blank">Samsung Galaxy Connect Now Works With Even More Windows PCs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visual-Studio.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $50 coding bundle might actually change your life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/24/this-50-coding-bundle-might-actually-change-your-life.html" target="_blank">This $50 coding bundle might actually change your life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPZ4DXKGDNWNPMVJ2MVS8GAH/hero-image.png" alt="This Google Pixel Watch 4 Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="time">2026-04-24 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/cannabis.jpg?fit=1500%2C1071&amp;quality=60&amp;ssl=1" alt="DOJ moves cannabis from heroin&#x27;s schedule to Tylenol with codeine&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/23/doj-moves-cannabis-from-heroins-schedule-to-tylenol-with-codeines.html" target="_blank">DOJ moves cannabis from heroin&#x27;s schedule to Tylenol with codeine&#x27;s</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-23 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/toy.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Congressman wants AI out of kids&#x27; toys after chatbots got weird with children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/23/congressman-wants-ai-out-of-kids-toys-after-chatbots-got-weird-with-children.html" target="_blank">Congressman wants AI out of kids&#x27; toys after chatbots got weird with children</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-23 23:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +312,13 @@
                 <span class="time">2026-04-24 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/i-am-snake/" target="_blank">I Am Snake</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-04-23 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
