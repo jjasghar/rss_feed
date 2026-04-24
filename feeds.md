@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 10:28:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 11:22:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 11:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket" target="_blank">Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-24 11:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss" target="_blank">Explosions by Israeli forces in south Lebanon despite ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 10:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,20 @@
                 <span class="time">2026-04-24 05:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/ca02cac0-3f20-11f1-b55d-0f258dce1735.png" alt="Epstein housed abuse victims in London flats, BBC reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss" target="_blank">Epstein housed abuse victims in London flats, BBC reveals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-24 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss" target="_blank">Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 02:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69eab6d7b5958d4a49c4cb8a/master/pass/Review--VMax-New-VX4-Electric-Scooter.jpg" alt="VMax New V4 Electric Scooter Review: Unleash the Beast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/vmax-new-vx4-electric-scooter/" target="_blank">VMax New V4 Electric Scooter Review: Unleash the Beast</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69e2be006e7ba47baf4bda84/master/pass/pol_FTC_getty_final.jpg" alt="The Federal Agency Coming for Gender-Affirming Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +157,6 @@
                 <span class="time">2026-04-24 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/" target="_blank">Bob Iger rejoins Thrive Capital as advisor after Disney exit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-24 00:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine" target="_blank">Firefox Has Quietly Integrated Brave&amp;#x27;s Adblock Engine</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-24 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/deepfakes-ai/en/mediumimage/shuman-ghosemajumder-medium-1776248048343.jpeg" alt="Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/deepfakes-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-24 09:55</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="time">2026-04-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/d_security/how-i-control-my-android-phone-from-a-cloud-server-using-100-lines-of-flask-2fl6" target="_blank">How I Control My Android Phone From a Cloud Server Using 100 Lines of Flask</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/24/lights-camera-open-source/" target="_blank">Lights, camera, open source!</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-24 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html" target="_blank">FBI Extracts Deleted Signal Messages from iPhone Notification Database</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html" target="_blank">Hiding Bluetooth Trackers in Mail</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-23 11:05</span>
+                <span class="time">2026-04-24 11:01</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
