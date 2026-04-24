@@ -1,38 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 04:11:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-24 05:46:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 05:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss" target="_blank">China’s DeepSeek unveils latest model a year after upending global tech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 05:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +90,20 @@
                 <span class="time">2026-04-23 23:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1776986773968_now_hallie_lebanon_refugees_260423_S3_1920x1080-8qv71z.jpg" alt="Lebanese refugees hope to return home as ceasefire with Israel is extended" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/lebanese-refugees-hope-to-return-home-as-ceasefire-with-israel-is-extended-262007877661" target="_blank">Lebanese refugees hope to return home as ceasefire with Israel is extended</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-23 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" alt="Sam&#x27;s Club Promo Codes: 60% Off for April 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sams-club-coupon/" target="_blank">Sam&#x27;s Club Promo Codes: 60% Off for April 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-24 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +149,6 @@
                 <span class="time">2026-04-23 22:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1195493804-500x500-1776978121.jpg" alt="US accuses China of “industrial-scale” AI theft. China says it’s “slander.”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/" target="_blank">US accuses China of “industrial-scale” AI theft. China says it’s “slander.”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-23 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +161,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffedi0hs6b38vrajujtoz.png" alt="20 Penetration Testing Projects Worth Adding to Your Resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/excalibra/20-penetration-testing-projects-worth-adding-to-your-resume-3d34" target="_blank">20 Penetration Testing Projects Worth Adding to Your Resume</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 05:37</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +206,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/HDMI-FRL-On-Nouveau-Linux" target="_blank">HDMI FRL Support Achieved With Open-Source Nouveau For NVIDIA GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-24 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shakti_mishra_308e9f36b5d/5-markdown-files-that-tame-non-deterministic-ai-in-your-engineering-org-31h3" target="_blank">5 Markdown Files That Tame Non-Deterministic AI in Your Engineering Org</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 00:08</span>
             </div>
         </div>
 </div>
@@ -321,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
