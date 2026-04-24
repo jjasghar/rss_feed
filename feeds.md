@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 21:14:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 22:12:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70d/live/13fc66d0-4017-11f1-b55d-0f258dce1735.jpg" alt="Trump&#x27;s envoys Witkoff and Kushner to fly to Pakistan for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s envoys Witkoff and Kushner to fly to Pakistan for Iran talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-24 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss" target="_blank">Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-24 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg" alt="No 10 says Falklands sovereignty rests with UK after report of US &#x27;review&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 says Falklands sovereignty rests with UK after report of US &#x27;review&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-24 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +98,20 @@
                 <span class="time">2026-04-24 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-9-rt-gmh-260420_1776708421816_hpMain_4x3t_384.jpg" alt="Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-24 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon" target="_blank">US millionaire big-game hunter dies after being crushed by elephants</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-24 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d89d/live/10fb2170-3fda-11f1-9365-9d68a044e038.jpg" alt="Chris Mason: A grim week for Starmer – but things could be about to get worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg423lnlp5o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: A grim week for Starmer – but things could be about to get worse</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-24 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/" target="_blank">Palantir is reportedly helping the IRS investigate financial crimes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-24 21:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1229912839-500x500.jpg" alt="Europe—not US—first to authorize Moderna&#x27;s combo mRNA flu-COVID vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,6 +134,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days" target="_blank">Microsoft will let you pause Windows Updates indefinitely, 35 days at a time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker" target="_blank">Alex Jones has uncovered another massive conspiracy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-24 20:10</span>
@@ -140,24 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/" target="_blank">Why are top university websites serving porn? It comes down to shoddy housekeeping.</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ebb572c24af9e77dc96bcc/master/pass/Ember's-Smart-Coffee-Mug-Is-Back-to-Its-Lowest-Price.jpg" alt="Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ember-mug-2-deal-april-2026/" target="_blank">Give Mom Warm Coffee All Year Long With This Ember Smart Mug Deal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/" target="_blank">Google to invest up to $40B in Anthropic in cash and compute</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-24 18:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +245,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQ03S5YKT55Y3VWRJNGXZP7T/hero-image.png" alt="This Little Device Might Be the Pocket E-Reader of My Dreams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/xteink-s4-e-reader-announced?utm_medium=RSS" target="_blank">This Little Device Might Be the Pocket E-Reader of My Dreams</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/diskdrive.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Inside DriveSavers, where data loss becomes a grief crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/24/inside-drivesavers-where-data-loss-becomes-a-grief-crisis.html" target="_blank">Inside DriveSavers, where data loss becomes a grief crisis</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-24 21:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/725ae99d385bbe7328c0af763f2ee249-1280x720.jpg" alt="12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -281,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/24/cops-not-bunnies-newport-beach-chooses-enforcement-over-art-park.html" target="_blank">Cops, not bunnies: Newport Beach chooses enforcement over art park</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-24 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ09GVS48ADY0Y5HPR075WMK/hero-image.png" alt="These Sony Noise-Canceling Headphones Are Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/these-sony-noise-canceling-headphones-deal-april-2026?utm_medium=RSS" target="_blank">These Sony Noise-Canceling Headphones Are Nearly Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/08-vampire-crawlers-1280x720.jpg" alt="8 Ridiculous Things I Utterly Love About Vampire Crawlers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vampire-crawlers-survivors-garlic-poe-decks-chests-sponge-2000689719" target="_blank">8 Ridiculous Things I Utterly Love About Vampire Crawlers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-24 17:12</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
