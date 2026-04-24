@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 08:36:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 09:30:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 08:36 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 09:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/ca02cac0-3f20-11f1-b55d-0f258dce1735.png" alt="Epstein housed abuse victims in London flats, BBC reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss" target="_blank">Epstein housed abuse victims in London flats, BBC reveals</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-24 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -90,20 +100,20 @@
                 <span class="time">2026-04-24 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-donald-trump-president_7228726.jpg?20260424045508" alt="Trump hits out at Prince Harry over Ukraine war comments and asks &#x27;how&#x27;s his wife? Give her my regards&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-harry-is-not-speaking-for-the-uk-after-princes-comments-about-us-role-in-ukraine-war-13535704" target="_blank">Trump hits out at Prince Harry over Ukraine war comments and asks &#x27;how&#x27;s his wife? Give her my regards&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-23 23:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ea22cb7c6d09c92685b0af/master/pass/financial-advice-chat-gpt.jpg" alt="5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/" target="_blank">5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-24 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +159,6 @@
                 <span class="time">2026-04-23 22:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke" target="_blank">US arrests soldier who allegedly made $400k on Maduro Polymarket bets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-23 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkqr1matuy2mbjmae9qv9.png" alt="Chargeback vs showback team level cloud cost accountability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/riya_mittal_cdd264250ad45/chargeback-vs-showback-team-level-cloud-cost-accountability-3bo5" target="_blank">Chargeback vs showback team level cloud cost accountability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/en/headerimage/orchestrating-agentic-multimodal-ai-pipelines-apache-camel-header-1776763980414.jpg" alt="Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/orchestrating-agentic-multimodal-ai-pipelines-apache-camel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Orchestrating Agentic and Multimodal AI Pipelines with Apache Camel</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-24 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="time">2026-04-24 07:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Vault 2.0 Marks Shift to IBM Lifecycle with New Identity Federation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-24 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffedi0hs6b38vrajujtoz.png" alt="20 Penetration Testing Projects Worth Adding to Your Resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/excalibra/20-penetration-testing-projects-worth-adding-to-your-resume-3d34" target="_blank">20 Penetration Testing Projects Worth Adding to Your Resume</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 05:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/saros-review-lead-1280x720.jpg" alt="Saros: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saros-review-ps5-housemarque-returnal-sony-playstation-2000690119" target="_blank">Saros: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-24 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/07/4625f6c201e8be94fe947b269f962288-1280x720.jpg" alt="A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +291,6 @@
                 <span class="time">2026-04-23 20:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPXMRBCBSR4Q7Y02N3DKB7WA/hero-image.jpg" alt="&#x27;Runfluencers&#x27; Want you to Breathe Through Your Nose, but Here&#x27;s What the Science Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-runfluencers-want-you-to-breathe-through-your-nose?utm_medium=RSS" target="_blank">&#x27;Runfluencers&#x27; Want you to Breathe Through Your Nose, but Here&#x27;s What the Science Says</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 08:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
