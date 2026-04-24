@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-24 13:28:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-24 14:30:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, April 24, 2026 - 13:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, April 24, 2026 - 14:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jerome-powell-ap-jef-260423_1777036809117_hpMain_4x3t_384.jpg" alt="DOJ expected to drop criminal probe of fed chair amid pressure from senators: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-expected-drop-criminal-probe-fed-chair-jerome/story?id=132344914" target="_blank">DOJ expected to drop criminal probe of fed chair amid pressure from senators: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-24 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-benjamin-netanyahu_7226199.jpg?20260421130146" alt="Netanyahu successfully treated for prostate cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israels-benjamin-netanyahu-successfully-treated-for-prostate-cancer-13535945" target="_blank">Netanyahu successfully treated for prostate cancer</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-24 13:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/03/1920x1080/skynews-vinicius-junior-gianluca-prestianni_7179472.jpg?20260424142829" alt="Benfica player handed six-game ban for homophobic conduct towards Real star Vinicius Junior" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +105,29 @@
                 <span class="time">2026-04-24 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss" target="_blank">Explosions by Israeli forces in south Lebanon despite ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg" alt="Nato says &#x27;no provision&#x27; to expel members after report US could seek to suspend Spain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss" target="_blank">Nato says &#x27;no provision&#x27; to expel members after report US could seek to suspend Spain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-24 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date" target="_blank">The Trump phone still isn’t real</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/02-BUGATTI_French-Racing-Blue-500x500.jpg" alt="As electric aspirations fade, Porsche sells its stake in Bugatti" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/as-electric-aspirations-fade-porsche-sells-its-stake-in-bugatti/" target="_blank">As electric aspirations fade, Porsche sells its stake in Bugatti</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-24 13:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +164,6 @@
                 <span class="time">2026-04-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eab6d7b5958d4a49c4cb8a/master/pass/Review--VMax-New-VX4-Electric-Scooter.jpg" alt="VMax New V4 Electric Scooter Review: Unleash the Beast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/vmax-new-vx4-electric-scooter/" target="_blank">VMax New V4 Electric Scooter Review: Unleash the Beast</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e2be006e7ba47baf4bda84/master/pass/pol_FTC_getty_final.jpg" alt="The Federal Agency Coming for Gender-Affirming Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/" target="_blank">The Federal Agency Coming for Gender-Affirming Care</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +176,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zczne6rx36xf4fu53xx.png" alt="🛡️ Lirix v1.3.0: Deterministic Security for AI Agents in the Dark Forest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lokii_ding/lirix-v130-deterministic-security-for-ai-agents-in-the-dark-forest-1ilf" target="_blank">🛡️ Lirix v1.3.0: Deterministic Security for AI Agents in the Dark Forest</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-24 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942832&w=600" alt="AWS vs GCP Security: Best Practices for Protecting Infrastructure, Data, and Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-shared-responsibility-model-security" target="_blank">AWS vs GCP Security: Best Practices for Protecting Infrastructure, Data, and Networks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-24 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,30 +215,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17324714/firefox-ships-brave-adblock-engine" target="_blank">Firefox Has Quietly Integrated Brave&amp;#x27;s Adblock Engine</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-24 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bmj.com/content/393/bmj.s781" target="_blank">UK Biobank leak: Health details of 500 000 people are offered for sale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-24 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/deepfakes-ai/en/mediumimage/shuman-ghosemajumder-medium-1776248048343.jpeg" alt="Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2026/04/yelp-cassandra-upgrade/en/headerimage/generatedHeaderImage-1776504976286.jpg" alt="Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/deepfakes-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Deepfakes, Disinformation, and AI Content Are Taking Over the Internet</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Yelp Achieves Zero-Downtime Upgrade of Over 1,000 Cassandra Nodes</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-04-24 09:55</span>
+                <span class="time">2026-04-24 12:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KPZ4DXKGDNWNPMVJ2MVS8GAH/hero-image.png" alt="This Google Pixel Watch 4 Is Over $100 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-watch-4-lte-sale-april-2026?utm_medium=RSS" target="_blank">This Google Pixel Watch 4 Is Over $100 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KPZ44Q2NK3K0HJDM8JF1KQ6P/hero-image.png" alt="These Third-Generation Apple AirPods Are $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +296,6 @@
                 <span class="time">2026-04-23 23:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPWCZNQM7B66X7TBYDC2Z0FV/hero-image.jpg" alt="10 Productivity Hacks Every Apple Reminders User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-productivity-hacks-every-apple-reminders-user-should-know?utm_medium=RSS" target="_blank">10 Productivity Hacks Every Apple Reminders User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-23 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 13:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
