@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 00:13:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-25 01:30:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 00:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss" target="_blank">Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70d/live/13fc66d0-4017-11f1-b55d-0f258dce1735.jpg" alt="Trump&#x27;s envoys Witkoff and Kushner to fly to Pakistan for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +105,6 @@
                 <span class="time">2026-04-24 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/mojtaba-khamenei-gty-jt-260424_1777045821158_hpMain_4x3t_384.jpg" alt="Who is running Iran right now? Trump, security officials offer different accounts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/running-iran-now-trump-security-officials-offer-accounts/story?id=132349794" target="_blank">Who is running Iran right now? Trump, security officials offer different accounts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-24 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +117,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/" target="_blank">Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-24 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8i-rack-500x500.jpg" alt="Google will invest as much as $40 billion in Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/" target="_blank">Google will invest as much as $40 billion in Anthropic</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-24 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +164,6 @@
                 <span class="time">2026-04-24 20:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker" target="_blank">Alex Jones has uncovered another massive conspiracy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-24 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiyoyok/why-i-use-argon2id-instead-of-bcrypt-for-pdf-encryption-keys-1kim" target="_blank">Why I Use Argon2id Instead of bcrypt for PDF Encryption Keys</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 01:18</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +223,6 @@
                 <span class="time">2026-04-24 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nathanielc85523/40-cents-a-day-three-weeks-of-corrupted-writes-zero-alerts-fired-54i0" target="_blank">40 cents a day, three weeks of corrupted writes, zero alerts fired</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-24 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tempest.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="A free book explains Tempest by reading every line of the source code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/24/a-free-book-explains-tempest-by-reading-every-line-of-the-source-code.html" target="_blank">A free book explains Tempest by reading every line of the source code</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-24 23:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/crash.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="An editor who read &quot;Crash&quot; called JG Ballard &quot;beyond psychiatric help. Do not publish&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +303,6 @@
                 <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-sale-steam-anniversary-update-2000690558" target="_blank">12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-24 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ0CBARZYF8VNVKFQENZ0HYT/hero-image.png" alt="These Adjustable Dumbbells Actually Got Me to Stick to a Lifting Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/adjustable-dumbbells-helped-me-to-stick-to-lifting-routine?utm_medium=RSS" target="_blank">These Adjustable Dumbbells Actually Got Me to Stick to a Lifting Routine</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 19:30</span>
             </div>
         </div>
 </div>
@@ -347,7 +352,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 00:14 UTC
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
