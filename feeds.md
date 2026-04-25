@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 15:12:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-25 16:09:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 16:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg" alt="Explosions and gunfire as armed groups launch co-ordinated attacks across Mali" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss" target="_blank">Explosions and gunfire as armed groups launch co-ordinated attacks across Mali</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-25 15:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -58,9 +71,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss" target="_blank">After years of avoidance, Trump to attend first White House press dinner</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss" target="_blank">Iran’s Infowar: Lego, AI and ever tightening control</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-25 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260422-khan-younis-mb-1739-141710.jpg" alt="Disease, hunger and Israeli strikes: Six months after Trump’s ceasefire in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/gaza/disease-hunger-israeli-strikes-six-months-trumps-ceasefire-gaza-rcna341013" target="_blank">Disease, hunger and Israeli strikes: Six months after Trump’s ceasefire in Gaza</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-25 10:08</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +103,20 @@
                 <span class="time">2026-04-25 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss" target="_blank">Palestinians cast their ballots as Gaza holds first election in 21 years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-25 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria" target="_blank">‘Astonishing’ discovery could help save children from deadly disfiguring condition</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-25 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/g-s1-118356/justice-department-ethics-rules-state-bar" target="_blank">DOJ wants to shield its lawyers from outside scrutiny. Critics worry about oversight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/" target="_blank">Why Cohere is merging with Aleph Alpha</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +162,6 @@
                 <span class="time">2026-04-25 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ea9aa67d137721e24f3f99/master/pass/Online-Civil-War-Around-the-Michael-Biopic-Is-Completely-Predictable-Culture-001-mkt-001-cin-v0037-cnpt-1002.jpg" alt="The Online Civil War About ‘Michael’ Is a Battle Over Truth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-online-civil-war-about-michael-is-a-battle-over-truth/" target="_blank">The Online Civil War About ‘Michael’ Is a Battle Over Truth</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-25 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arhamqureshi/1-devlog-meta-research-i-got-tired-of-tab-chaos-while-reading-research-papers-3alm" target="_blank">#1 DevLog Meta-research: I Got Tired of Tab Chaos While Reading Research Papers.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 16:03</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +221,6 @@
                 <span class="time">2026-04-25 11:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043" target="_blank">AeroCraft: Less CSS, Faster UI Delivery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/far-cry-fx-story-adaptation-noah-hawley-2000690639" target="_blank">Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Screenshot-from-Modded-Hardwares-video-on-supposed-PlayStation-DRM-1280x664.jpeg" alt="A Surprise DRM Issue For Digital PlayStation Games Has Fans Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +294,20 @@
                 <span class="time">2026-04-24 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/diskdrive.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Inside DriveSavers, where data loss becomes a grief crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/24/inside-drivesavers-where-data-loss-becomes-a-grief-crisis.html" target="_blank">Inside DriveSavers, where data loss becomes a grief crisis</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-24 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1776970195-20260425.png" alt="Saturday Morning Breakfast Cereal - End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/end-2" target="_blank">Saturday Morning Breakfast Cereal - End</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-25 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -304,22 +317,13 @@
                 <span class="time">2026-04-24 17:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776970156-20260424.png" alt="Saturday Morning Breakfast Cereal - Slap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/slap" target="_blank">Saturday Morning Breakfast Cereal - Slap</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 16:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
