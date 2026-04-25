@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 12:08:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-25 13:26:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 12:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 13:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69eba9e408042dab5165a470/master/pass/3-Focus-Timer-Apps-Will-Keep-You-on-Task-Culture.jpg" alt="Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller/" target="_blank">Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-25 11:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69ea811fba58a984aa33d001/master/pass/SAROS%20KEYART_PRIMARY_SIMPLIFIED_MASTER_LOGO.jpg" alt="‘Saros’ Shows Off the PS5’s DualSense Tricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,15 +162,6 @@
                 <span class="time">2026-04-25 02:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/" target="_blank">Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-24 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adioof/your-test-suite-is-the-only-thing-that-makes-ai-agents-useful-5ch5" target="_blank">Your test suite is the only thing that makes AI agents useful</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/New-NTFS-Driver-Fixes-Linux-7.1" target="_blank">New NTFS Driver Sees A Number Of Fixes Ahead Of Linux 7.1-rc1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-25 11:26</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/webdevpuneet/i-built-a-free-in-browser-api-tester-no-postman-install-needed-38j7" target="_blank">I Built a Free In-Browser API Tester — No Postman Install Needed</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 06:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cache-parallelism-cloudflare/en/headerimage/generatedHeaderImage-1775160711037.jpg" alt="Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-25 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/" target="_blank">New 10 GbE USB adapters are cooler, smaller, cheaper</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-25 05:56</span>
             </div>
         </div>
 </div>
@@ -320,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:08 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
