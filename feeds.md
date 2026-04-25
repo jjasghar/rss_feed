@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 10:12:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-25 11:13:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 10:12 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss" target="_blank">Iran’s Infowar: Lego, AI and ever tightening control</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +102,20 @@
                 <span class="time">2026-04-25 07:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates" target="_blank">Iran&#x27;s foreign minister awaits U.S. delegation to Pakistan for peace talks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-25 06:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ea811fba58a984aa33d001/master/pass/SAROS%20KEYART_PRIMARY_SIMPLIFIED_MASTER_LOGO.jpg" alt="‘Saros’ Shows Off the PS5’s DualSense Tricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/" target="_blank">‘Saros’ Shows Off the PS5’s DualSense Tricks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-25 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ea9aa67d137721e24f3f99/master/pass/Online-Civil-War-Around-the-Michael-Biopic-Is-Completely-Predictable-Culture-001-mkt-001-cin-v0037-cnpt-1002.jpg" alt="The Online Civil War About ‘Michael’ Is a Battle Over Truth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,15 +161,6 @@
                 <span class="time">2026-04-24 23:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/TPU-8i-rack-500x500.jpg" alt="Google will invest as much as $40 billion in Anthropic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/" target="_blank">Google will invest as much as $40 billion in Anthropic</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-24 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043" target="_blank">AeroCraft: Less CSS, Faster UI Delivery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LoongArch-Linux-7.1" target="_blank">LoongArch Improvements Land In Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-25 10:54</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +220,6 @@
                 <span class="time">2026-04-25 05:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcitn99c0c8uhdl4kku2e.png" alt="The Fastest Way to Land Solana Transactions in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techmystique_/the-fastest-way-to-land-solana-transactions-in-2026-5gg9" target="_blank">The Fastest Way to Land Solana Transactions in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an" target="_blank">How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 02:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,15 +232,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html" target="_blank">Friday Squid Blogging: How Squid Survived Extinction Events</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-04-24 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html" target="_blank">Hiding Bluetooth Trackers in Mail</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-24 11:01</span>
             </div>
         </div>
 </div>
@@ -334,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
