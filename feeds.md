@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 13:26:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-25 14:14:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 13:26 UTC</div>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 14:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease" target="_blank">The Govee smart lamp brightened up my room, and then my life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-25 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69eba9e408042dab5165a470/master/pass/3-Focus-Timer-Apps-Will-Keep-You-on-Task-Culture.jpg" alt="Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -153,15 +154,6 @@
                 <span class="time">2026-04-25 03:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2269444130-500x500.jpg" alt="This is who&#x27;s developing Golden Dome&#x27;s orbital interceptors—if they&#x27;re ever built" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/" target="_blank">This is who&#x27;s developing Golden Dome&#x27;s orbital interceptors—if they&#x27;re ever built</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-25 02:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +166,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmedateffekt/showing-my-notion-onboarding-flow-would-love-feedback-3o91" target="_blank">Showing my Notion onboarding flow; would love feedback</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 14:08</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LoongArch-Linux-7.1" target="_blank">LoongArch Improvements Land In Linux 7.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-25 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/webdevpuneet/i-built-a-free-in-browser-api-tester-no-postman-install-needed-38j7" target="_blank">I Built a Free In-Browser API Tester — No Postman Install Needed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 06:19</span>
             </div>
         </div>
 </div>
@@ -322,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 14:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
