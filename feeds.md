@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 16:09:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-25 17:12:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 16:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a437/live/5cbcdfd0-3c9d-11f1-bfee-83c7643042f8.jpg" alt="Influencer dies days after being hit by car in London&#x27;s Soho" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx29w1z1lkzo?at_medium=RSS&at_campaign=rss" target="_blank">Influencer dies days after being hit by car in London&#x27;s Soho</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-25 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss" target="_blank">US to allow Venezuelan government to cover Maduro’s lawyer fees</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 16:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg" alt="Explosions and gunfire as armed groups launch co-ordinated attacks across Mali" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +104,20 @@
                 <span class="time">2026-04-25 10:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260422-khan-younis-mb-1739-141710.jpg" alt="Disease, hunger and Israeli strikes: Six months after Trump’s ceasefire in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/gaza/disease-hunger-israeli-strikes-six-months-trumps-ceasefire-gaza-rcna341013" target="_blank">Disease, hunger and Israeli strikes: Six months after Trump’s ceasefire in Gaza</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-25 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5798943/justice-department-makes-it-easier-to-deport-those-with-daca-status" target="_blank">Justice Department makes it easier to deport those with DACA status</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-25 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/" target="_blank">The climate tech IPO window could finally be cracking open</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-25 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +163,6 @@
                 <span class="time">2026-04-25 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ea811fba58a984aa33d001/master/pass/SAROS%20KEYART_PRIMARY_SIMPLIFIED_MASTER_LOGO.jpg" alt="‘Saros’ Shows Off the PS5’s DualSense Tricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks/" target="_blank">‘Saros’ Shows Off the PS5’s DualSense Tricks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-25 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Niri-26.04-Released" target="_blank">Niri 26.04 Wayland Compositor Adds Much Sought After Blur Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-25 16:59</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/adioof/your-test-suite-is-the-only-thing-that-makes-ai-agents-useful-5ch5" target="_blank">Your test suite is the only thing that makes AI agents useful</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/New-NTFS-Driver-Fixes-Linux-7.1" target="_blank">New NTFS Driver Sees A Number Of Fixes Ahead Of Linux 7.1-rc1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-25 11:26</span>
             </div>
         </div>
 </div>
@@ -259,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Babbel.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Human-crafted language lessons definitely hit different" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/25/human-crafted-language-lessons-definitely-hit-different.html" target="_blank">Human-crafted language lessons definitely hit different</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-25 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tempest.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="A free book explains Tempest by reading every line of the source code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-youtube-music-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every YouTube Music User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-24 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ03S5YKT55Y3VWRJNGXZP7T/hero-image.png" alt="This Little Device Might Be the Pocket E-Reader of My Dreams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/xteink-s4-e-reader-announced?utm_medium=RSS" target="_blank">This Little Device Might Be the Pocket E-Reader of My Dreams</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 21:30</span>
             </div>
         </div>
 </div>
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 16:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
