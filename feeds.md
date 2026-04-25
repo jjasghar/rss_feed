@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 21:09:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-04-25 22:06:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 22:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250d/live/9bd36ce0-40ec-11f1-bd52-e755d604ece4.jpg" alt="Giuffre family hold anniversary vigil ahead of King&#x27;s US visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2w7z8zj54o?at_medium=RSS&at_campaign=rss" target="_blank">Giuffre family hold anniversary vigil ahead of King&#x27;s US visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-25 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss" target="_blank">Explosion in southwest Colombia kills at leat seven, state governor says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali" target="_blank">Militants and separatists launch coordinated attacks across Mali</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-25 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +95,20 @@
                 <span class="time">2026-04-25 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kushner-witkoff-ap-jt-260425_1777135422453_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump cancels Witkoff, Kushner trip to Islamabad for peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152" target="_blank">Iran live updates: Trump cancels Witkoff, Kushner trip to Islamabad for peace talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-25 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss" target="_blank">Reported US CIA agents killed in crash not authorised to operate: Mexico</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-25 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/trump_pakistan-0qb5yh.jpg" alt="President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/president-trump-cancels-witkoff-kushner-trip-to-pakistan-for-iran-talks-262118469751" target="_blank">President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-25 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" target="_blank">Anthropic created a test marketplace for agent-on-agent commerce</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-25 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/" target="_blank">Why Cohere is merging with Aleph Alpha</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/" target="_blank">Why Tokyo is the most important tech destination of 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 15:03</span>
             </div>
         </div>
 </div>
@@ -298,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
