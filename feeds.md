@@ -1,36 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 18:09:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-25 19:15:15 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 1 new posts out of 15 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 19:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +33,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss" target="_blank">Arsenal narrowly beat Newcastle to regain Premier League lead over Man City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kushner-witkoff-ap-jt-260425_1777135422453_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump cancels Witkoff, Kushner trip to Islamabad for peace talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +85,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss" target="_blank">Explosions and gunfire as armed groups launch co-ordinated attacks across Mali</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-25 15:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups" target="_blank">Mali hit by wave of coordinated attacks from armed groups</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-25 14:57</span>
             </div>
         </div>
 </div>
@@ -310,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 18:10 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 19:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
