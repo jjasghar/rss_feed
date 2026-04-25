@@ -1,23 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 19:15:15 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-25 20:08:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 15 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 19:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 20:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe?traffic_source=rss" target="_blank">Barcelona on the brink of defending La Liga title after beating Getafe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss" target="_blank">Arsenal narrowly beat Newcastle to regain Premier League lead over Man City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-25 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/25/g-s1-118767/pope-leo-trump-death-penalty" target="_blank">Pope Leo reiterates opposition to death penalty on same day U.S. approves firing squads</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-25 17:51</span>
             </div>
         </div>
 <div class="story">
@@ -61,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a437/live/5cbcdfd0-3c9d-11f1-bfee-83c7643042f8.jpg" alt="Influencer dies days after being hit by car in London&#x27;s Soho" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/trump_pakistan-0qb5yh.jpg" alt="President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx29w1z1lkzo?at_medium=RSS&at_campaign=rss" target="_blank">Influencer dies days after being hit by car in London&#x27;s Soho</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-25 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss" target="_blank">US to allow Venezuelan government to cover Maduro’s lawyer fees</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-25 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg" alt="Explosions and gunfire as armed groups launch co-ordinated attacks across Mali" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss" target="_blank">Explosions and gunfire as armed groups launch co-ordinated attacks across Mali</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-25 15:32</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/president-trump-cancels-witkoff-kushner-trip-to-pakistan-for-iran-talks-262118469751" target="_blank">President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-25 17:18</span>
             </div>
         </div>
 </div>
@@ -225,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1280x720.jpg" alt="A Controversial Boss That Led To Slay The Spire 2’s Latest Round Of Review Bombing Wasn’t Even The Game’s Strongest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-controversial-boss-that-led-to-slay-the-spire-2s-latest-round-of-review-bombing-wasnt-even-the-games-strongest-2000690638" target="_blank">A Controversial Boss That Led To Slay The Spire 2’s Latest Round Of Review Bombing Wasn’t Even The Game’s Strongest</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-25 18:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,15 +291,6 @@
                 <span class="time">2026-04-24 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KPV1G077ZN1KYGXBRMY8PJQP/hero-image.jpg" alt="10 Hacks Every YouTube Music User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-youtube-music-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every YouTube Music User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-24 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 19:15 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 20:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
