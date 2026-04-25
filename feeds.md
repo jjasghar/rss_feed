@@ -1,45 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 06:25:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-25 07:28:01 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 36 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 06:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 07:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates" target="_blank">Iran&#x27;s foreign minister awaits U.S. delegation to Pakistan for peace talks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-25 06:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3182/live/4522c360-4055-11f1-ac78-2112837ce2aa.png" alt="Falklands veteran hopes King can persuade Trump to &#x27;back down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss" target="_blank">Falklands veteran hopes King can persuade Trump to &#x27;back down&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-25 06:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/24/nx-s1-5798990/doj-firing-squads-executions-trump-capital-punishment" target="_blank">Justice Department to allow firing squads for executions in move to ramp up capital punishment</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-25 03:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f93f/live/14a617b0-4040-11f1-ac78-2112837ce2aa.png" alt="Falklands  veteran hopes King can persuade Trump to &#x27;back down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss" target="_blank">Falklands  veteran hopes King can persuade Trump to &#x27;back down&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-25 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss" target="_blank">OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-25 02:07</span>
             </div>
         </div>
 </div>
@@ -192,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cache-parallelism-cloudflare/en/headerimage/generatedHeaderImage-1775160711037.jpg" alt="Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Optimizes Edge Stack for High-Core CPUs Instead of Large Cache</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-25 06:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcitn99c0c8uhdl4kku2e.png" alt="The Fastest Way to Land Solana Transactions in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -216,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/hiyoyok/why-i-use-argon2id-instead-of-bcrypt-for-pdf-encryption-keys-1kim" target="_blank">Why I Use Argon2id Instead of bcrypt for PDF Encryption Keys</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pranith_m_05c4bc7561a6ffd/algorithminstant-on-aurora-which-alter-table-operations-are-truly-zero-downtime-49g8" target="_blank">ALGORITHM=INSTANT on Aurora: Which ALTER TABLE Operations Are Truly Zero-Downtime</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 00:01</span>
             </div>
         </div>
 </div>
@@ -332,22 +328,13 @@
                 <span class="time">2026-04-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/24/modernoir" target="_blank">Modernoir</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-24 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 07:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
