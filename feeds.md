@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 20:08:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-25 21:09:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 20:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +111,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/" target="_blank">Maine’s governor vetoes data center moratorium</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-25 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board" target="_blank">Trump fires the entire National Science Board</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-25 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/" target="_blank">OpenAI CEO apologizes to Tumbler Ridge community</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-25 17:17</span>
@@ -141,24 +161,6 @@
                 <span class="time">2026-04-25 15:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease" target="_blank">The Govee smart lamp brightened up my room, and then my life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-25 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/SSC-20211207-s00284orig-500x500.jpg" alt="Artemis II broke Fred Haise&#x27;s distance record, but he is happy to pass it on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/" target="_blank">Artemis II broke Fred Haise&#x27;s distance record, but he is happy to pass it on</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-25 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzz2ecr53imfk6a9bkz7.png" alt="Taming MCPs, Skills, and Agent Chaos with ToolHive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e" target="_blank">Taming MCPs, Skills, and Agent Chaos with ToolHive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.9-Released" target="_blank">LACT 0.9 Released With UI Updates, Voltage-Frequency Curve Editor For NVIDIA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-25 20:10</span>
             </div>
         </div>
 <div class="story">
@@ -200,43 +220,20 @@
                 <span class="time">2026-04-25 14:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MS-Azure-Linux-Fedora-Based" target="_blank">Microsoft Reportedly Looking At Rebasing Azure Linux On Fedora</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-25 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adioof/your-test-suite-is-the-only-thing-that-makes-ai-agents-useful-5ch5" target="_blank">Your test suite is the only thing that makes AI agents useful</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 13:16</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html" target="_blank">Friday Squid Blogging: How Squid Survived Extinction Events</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-24 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/11/ea7a6fe538b4b2f1adba46a349528ff4-1280x719.jpg" alt="Spider-Man: Miles Morales Actor Talks About That Missing Venom Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/venom-tony-todd-insomniac-canceled-spider-man-2000690649" target="_blank">Spider-Man: Miles Morales Actor Talks About That Missing Venom Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-25 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1280x720.jpg" alt="A Controversial Boss That Led To Slay The Spire 2’s Latest Round Of Review Bombing Wasn’t Even The Game’s Strongest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +279,6 @@
                 <span class="time">2026-04-24 23:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/crash.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="An editor who read &quot;Crash&quot; called JG Ballard &quot;beyond psychiatric help. Do not publish&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/24/an-editor-who-read-crash-called-jg-ballard-beyond-psychiatric-help-do-not-publish.html" target="_blank">An editor who read &quot;Crash&quot; called JG Ballard &quot;beyond psychiatric help. Do not publish&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-24 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 20:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
