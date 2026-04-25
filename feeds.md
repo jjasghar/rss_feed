@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 14:14:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-25 15:12:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 14:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups" target="_blank">Mali hit by wave of coordinated attacks from armed groups</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-25 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +99,6 @@
                 <span class="time">2026-04-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-dnipro-ukraine-russia_7229902.jpg?20260425101202" alt="Seven killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173" target="_blank">Seven killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-25 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,10 +107,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/" target="_blank">Why Tokyo is the most important tech destination of 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-25 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease" target="_blank">The Govee smart lamp brightened up my room, and then my life</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-25 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/SSC-20211207-s00284orig-500x500.jpg" alt="Artemis II broke Fred Haise&#x27;s distance record, but he is happy to pass it on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/" target="_blank">Artemis II broke Fred Haise&#x27;s distance record, but he is happy to pass it on</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-25 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +158,6 @@
                 <span class="time">2026-04-25 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" alt="Altra Promo Codes: Get 20% Off Plus Free Shipping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/altra-promo-code/" target="_blank">Altra Promo Codes: Get 20% Off Plus Free Shipping</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/" target="_blank">Lachy Groom to back India startup Pronto at a $200M valuation, sources say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/ahmedateffekt/showing-my-notion-onboarding-flow-would-love-feedback-3o91" target="_blank">Showing my Notion onboarding flow; would love feedback</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MS-Azure-Linux-Fedora-Based" target="_blank">Microsoft Reportedly Looking At Rebasing Azure Linux On Fedora</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-25 13:53</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +217,6 @@
                 <span class="time">2026-04-25 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LoongArch-Linux-7.1" target="_blank">LoongArch Improvements Land In Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-25 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Screenshot-from-Modded-Hardwares-video-on-supposed-PlayStation-DRM-1280x664.jpeg" alt="A Surprise DRM Issue For Digital PlayStation Games Has Fans Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-surprise-drm-issue-for-digital-playstation-games-has-fans-worried-2000690624" target="_blank">A Surprise DRM Issue For Digital PlayStation Games Has Fans Worried</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-25 15:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/tempest.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="A free book explains Tempest by reading every line of the source code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2026-04-24 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/725ae99d385bbe7328c0af763f2ee249-1280x720.jpg" alt="12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-sale-steam-anniversary-update-2000690558" target="_blank">12 Months And Dozens Of Awards Later You Now Have No Excuse Not To Play Clair Obscur, Which Is On Sale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-24 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 14:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
