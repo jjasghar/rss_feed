@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-25 01:30:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-25 02:58:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, April 25, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, April 25, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f93f/live/14a617b0-4040-11f1-ac78-2112837ce2aa.png" alt="Falklands  veteran hopes King can persuade Trump to &#x27;back down&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss" target="_blank">Falklands  veteran hopes King can persuade Trump to &#x27;back down&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-25 02:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss" target="_blank">OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-25 02:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss" target="_blank">Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777071736130_nn_ksi_Iran_offer_260424_S3_1920x1080-1o2b9j.jpg" alt="Trump says Iran is ‘making an offer’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-says-iran-is-making-an-offer-262087749864" target="_blank">Trump says Iran is ‘making an offer’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-24 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -76,33 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/24/g-s1-118707/trump-asylum-ban-us-mexico-border-illegal" target="_blank">Appeals court rules that Trump&#x27;s asylum ban at the border is illegal</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-24 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss" target="_blank">Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3360/live/0dc581d0-3fee-11f1-ac78-2112837ce2aa.jpg" alt="No 10 says Falklands sovereignty rests with UK after report of US &#x27;review&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 says Falklands sovereignty rests with UK after report of US &#x27;review&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-24 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss" target="_blank">US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-24 20:54</span>
             </div>
         </div>
 </div>
@@ -182,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an" target="_blank">How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-25 02:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hiyoyok/why-i-use-argon2id-instead-of-bcrypt-for-pdf-encryption-keys-1kim" target="_blank">Why I Use Argon2id Instead of bcrypt for PDF Encryption Keys</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 01:18</span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/_iametornam/bringing-it-to-life-the-real-time-inference-engine-part-3-29fi" target="_blank">Bringing it to Life: The Real-Time Inference Engine (Part 3)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-24 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18944840&w=600" alt="Preventing Prompt Injection by Design: A Structural Approach in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/preventing-prompt-injection-structural-java" target="_blank">Preventing Prompt Injection by Design: A Structural Approach in Java</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-24 20:00</span>
             </div>
         </div>
 </div>
@@ -351,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
