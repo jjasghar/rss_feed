@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 01:31:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 02:59:23 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks after shooting incident outside White House Correspondents&#x27; Dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump speaks after shooting incident outside White House Correspondents&#x27; Dinner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-26 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss" target="_blank">Trump live: US president safe after shots fired near correspondents’ dinner</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner" target="_blank">Watch: President Trump speaks about shooting incident at correspondents&#x27; dinner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 01:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799519/dirk-kempthorne-obit" target="_blank">Dirk Kempthorne, former Idaho governor and U.S. Interior secretary, dies at 74</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-25 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg" alt="Trump cancels US envoys&#x27; trip to Pakistan for talks on Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss" target="_blank">Trump cancels US envoys&#x27; trip to Pakistan for talks on Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-25 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250d/live/9bd36ce0-40ec-11f1-bd52-e755d604ece4.jpg" alt="Giuffre family hold anniversary vigil ahead of King&#x27;s US visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2w7z8zj54o?at_medium=RSS&at_campaign=rss" target="_blank">Giuffre family hold anniversary vigil ahead of King&#x27;s US visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-25 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss" target="_blank">Explosion in southwest Colombia kills at least seven, state governor says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-25 21:03</span>
             </div>
         </div>
 </div>
@@ -176,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yakhilesh/filtering-rows-and-selecting-columns-the-right-way-2d30" target="_blank">Filtering Rows and Selecting Columns (The Right Way)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2pd2" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 23:00</span>
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LACT-0.9-Released" target="_blank">LACT 0.9 Released With UI Updates, Voltage-Frequency Curve Editor For NVIDIA</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-25 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Niri-26.04-Released" target="_blank">Niri 26.04 Wayland Compositor Adds Much Sought After Blur Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-25 16:59</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
