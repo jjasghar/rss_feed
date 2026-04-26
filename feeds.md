@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 09:17:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 10:13:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 09:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 10:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump" target="_blank">King Charles U.S. visit comes at tense moment in transatlantic relationship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss" target="_blank">Yemen’s landmine crisis endures despite truce and de-mining efforts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 09:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +105,20 @@
                 <span class="time">2026-04-26 06:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260425-shooting-ww-2008-8f3f3e.jpg" alt="Suspect in Correspondents&#x27; Dinner shooting identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146" target="_blank">Suspect in Correspondents&#x27; Dinner shooting identified</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-26 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260425-wh-dinner-ww-1830-d51f76.jpg" alt="Suspect in White House Correspondents&#x27; Association dinner shooting identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146" target="_blank">Suspect in White House Correspondents&#x27; Association dinner shooting identified</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-26 06:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69eb8c88322e0f7cc8492862/master/pass/042426_IKEA's%20New%20Blow-Up%20Chair%20Was%20Tested%20By%20Cats.jpg" alt="Ikea&#x27;s New Blow-Up Chair Was Tested by Cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/" target="_blank">Ikea&#x27;s New Blow-Up Chair Was Tested by Cats</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +164,6 @@
                 <span class="time">2026-04-25 16:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/" target="_blank">Why Cohere is merging with Aleph Alpha</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +176,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snappy_tools/url-encoding-explained-why-20-appears-in-urls-and-how-to-decode-it-5c10" target="_blank">URL Encoding Explained: Why %20 Appears in URLs (and How to Decode It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 10:06</span>
             </div>
         </div>
 <div class="story">
@@ -210,20 +223,20 @@
                 <span class="time">2026-04-25 21:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzz2ecr53imfk6a9bkz7.png" alt="Taming MCPs, Skills, and Agent Chaos with ToolHive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e" target="_blank">Taming MCPs, Skills, and Agent Chaos with ToolHive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/allen-arrest-1280x720.jpg" alt="Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697" target="_blank">Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-26 09:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Assassins-Creed-Hexe-1280x758.jpg" alt="Assassin’s Creed Hexe Loses Its Second Director In Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +282,6 @@
                 <span class="time">2026-04-25 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/farcrytvshow.jpg" alt="Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/far-cry-fx-story-adaptation-noah-hawley-2000690639" target="_blank">Far Cry Showrunner Sounds Like He Doesn’t Understand How Games Work</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 09:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
