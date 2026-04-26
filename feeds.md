@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 19:16:24 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-26 20:08:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 19:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260425_1777163409081_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect planned to target multiple people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect planned to target multiple people</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-26 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777230814031_now_brk_alba_writings_260426_S3_1920x1080-7sc96s.jpg" alt="WHCD shooting suspect displayed anti-Trump sentiments in writings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/whcd-shooting-suspect-displayed-anti-trump-sentiments-in-writings-262139973524" target="_blank">WHCD shooting suspect displayed anti-Trump sentiments in writings</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-26 19:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss" target="_blank">Kenya’s Sawe shatters two-hour marathon barrier</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-26 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9d/live/566dacb0-41aa-11f1-ac78-2112837ce2aa.jpg" alt="Trump and officials &#x27;likely&#x27; targets of press dinner shooting suspect, authorities believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and officials &#x27;likely&#x27; targets of press dinner shooting suspect, authorities believe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-26 18:37</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +104,20 @@
                 <span class="time">2026-04-26 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting" target="_blank">Photos: The aftermath of the White House Correspondents&#x27; Dinner shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="Palace holding talks over plans for King&#x27;s US visit after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">Palace holding talks over plans for King&#x27;s US visit after DC shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-26 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-260425_1777165844544_hpMain_4x3t_384.jpg" alt="What we know about the suspect in the White House Correspondents&#x27; Dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/suspect-white-house-correspondents-dinner-shooting/story?id=132393780" target="_blank">What we know about the suspect in the White House Correspondents&#x27; Dinner shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-26 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/trekkie1-500x500-1777225052.jpg" alt="Strange New Worlds S4 teaser strikes a more serious tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/" target="_blank">Strange New Worlds S4 teaser strikes a more serious tone</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-26 19:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +163,6 @@
                 <span class="time">2026-04-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ed4db0d025248dcc4c84fd/master/pass/The-Best-Kindle-Accessories.jpg" alt="The Best Kindle Accessories (2026): Cases, Page Turners, Stickers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-kindle-accessories/" target="_blank">The Best Kindle Accessories (2026): Cases, Page Turners, Stickers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-26 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +175,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/firefox-vpn-1.webp?resize=406%2C232&amp;ssl=1" alt="Firefox’s free VPN is getting the one feature it was missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-free-vpn-select-server" target="_blank">Firefox’s free VPN is getting the one feature it was missing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-26 19:47</span>
             </div>
         </div>
 <div class="story">
@@ -198,28 +207,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-April-2026" target="_blank">CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-26 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdpto80yf9p9bu8w1ukaj.png" alt="From Broke Bots to Streaming Economies: Building the Agent Economy Wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb" target="_blank">From Broke Bots to Streaming Economies: Building the Agent Economy Wallet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 14:57</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/" target="_blank">GoDaddy Gave a Domain to a Stranger Without Any Documentation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-26 16:57</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Nearly-40M" target="_blank">The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-April-2026" target="_blank">CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-04-26 14:48</span>
+                <span class="time">2026-04-26 16:50</span>
             </div>
         </div>
 </div>
@@ -300,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 19:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
