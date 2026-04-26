@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 20:08:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 21:09:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 21:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations" target="_blank">A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss" target="_blank">Israeli settler attacks Hebron activist’s home as soldier looks on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260425_1777163409081_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect planned to target multiple people" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,24 +96,6 @@
                 <span class="time">2026-04-26 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="King&#x27;s US visit will go ahead as planned, Buckingham Palace says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">King&#x27;s US visit will go ahead as planned, Buckingham Palace says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-26 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-260425_1777165844544_hpMain_4x3t_384.jpg" alt="What we know about the suspect in the White House correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/suspect-white-house-correspondents-dinner-shooting/story?id=132393780" target="_blank">What we know about the suspect in the White House correspondents&#x27; dinner shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-26 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +108,15 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/" target="_blank">Strange New Worlds S4 teaser strikes a more serious tone</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-26 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps" target="_blank">Google’s new gradient icon design is coming to more apps</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-26 18:34</span>
             </div>
         </div>
 <div class="story">
@@ -154,15 +155,6 @@
                 <span class="time">2026-04-26 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs" target="_blank">The plan to quietly kill Coyote v. Acme blew up in David Zaslav&amp;#8217;s face</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +167,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/" target="_blank">Fast16: Cyberweapon that predates Stuxnet by five years</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-26 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/" target="_blank">GoDaddy Gave a Domain to a Stranger Without Any Documentation</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-26 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-April-2026" target="_blank">CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-26 16:50</span>
             </div>
         </div>
 </div>
@@ -300,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
