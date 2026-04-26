@@ -1,26 +1,22 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 10:13:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 11:13:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
@@ -28,14 +24,13 @@
 <!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 10:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +53,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump" target="_blank">King Charles U.S. visit comes at tense moment in transatlantic relationship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-26 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e770/live/74d53e30-414f-11f1-9d1f-0d69b57ee6a5.jpg" alt="Higher prices could last for eight months after Iran war, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss" target="_blank">Higher prices could last for eight months after Iran war, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-26 09:54</span>
             </div>
         </div>
 <div class="story">
@@ -96,20 +100,20 @@
                 <span class="time">2026-04-26 07:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260425_1777163409081_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect armed with multiple guns and knives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect armed with multiple guns and knives</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-26 06:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg" alt="&quot;Kinematic intelligence&quot; helps robots learn their limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/" target="_blank">&quot;Kinematic intelligence&quot; helps robots learn their limits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-26 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69eb8c88322e0f7cc8492862/master/pass/042426_IKEA's%20New%20Blow-Up%20Chair%20Was%20Tested%20By%20Cats.jpg" alt="Ikea&#x27;s New Blow-Up Chair Was Tested by Cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +159,6 @@
                 <span class="time">2026-04-25 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/" target="_blank">The climate tech IPO window could finally be cracking open</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +171,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max" target="_blank">The New Linux Kernel AI Bot Uncovering Bugs Is A Local LLM On Framework Desktop + AMD Ryzen AI Max</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-26 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2pd2" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fabiensanglard.net/usbcheat/index.html" target="_blank">USB Cheat Sheet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-25 21:51</span>
             </div>
         </div>
 </div>
@@ -301,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
