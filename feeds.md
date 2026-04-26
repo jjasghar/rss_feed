@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 07:29:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 08:23:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 07:29 UTC</div>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 08:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss" target="_blank">Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260425_1777163409081_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect armed with multiple guns and knives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect armed with multiple guns and knives</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-26 06:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260425-shooting-ww-2008-8f3f3e.jpg" alt="Suspect in Correspondents&#x27; Dinner shooting identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146" target="_blank">Suspect in Correspondents&#x27; Dinner shooting identified</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-26 06:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260425-wh-dinner-ww-1830-d51f76.jpg" alt="Suspect in White House Correspondents&#x27; Association dinner shooting identified" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,33 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump speaks after shooting incident outside White House Correspondents&#x27; Dinner</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-26 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss" target="_blank">Trump live: US president safe after shots fired near correspondents’ dinner</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-26 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner" target="_blank">A suspect is in custody after Trump is rushed from correspondents&#x27; dinner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner" target="_blank">Watch: President Trump speaks about shooting incident at correspondents&#x27; dinner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 01:18</span>
             </div>
         </div>
 </div>
@@ -297,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 08:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
