@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 21:09:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-26 22:08:05 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 21:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 22:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss" target="_blank">Iran’s foreign minister leaves Pakistan, heads to Russia for more talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +102,20 @@
                 <span class="time">2026-04-26 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9d/live/566dacb0-41aa-11f1-ac78-2112837ce2aa.jpg" alt="Trump and officials &#x27;likely&#x27; targets of press dinner shooting suspect, authorities believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and officials &#x27;likely&#x27; targets of press dinner shooting suspect, authorities believe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-26 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/" target="_blank">The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-26 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/trekkie1-500x500-1777225052.jpg" alt="Strange New Worlds S4 teaser strikes a more serious tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,21 +153,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/69ee12df88c288459fa0cb80/master/pass/2272612956" alt="‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#x27; Dinner Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/69ee12df88c288459fa0cb80/master/pass/2272612956" alt="‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/" target="_blank">‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#x27; Dinner Shooting</a></span>
+                <span class="title"><a href="https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/" target="_blank">‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-26 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale" target="_blank">Skylight’s 15-inch smart calendar is down to its lowest price to date</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-26 14:05</span>
             </div>
         </div>
 </div>
@@ -167,6 +173,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniruddhaadak/i-watched-google-cloud-next-26-so-you-dont-have-to-here-is-what-actually-matters-for-developers-54h6" target="_blank">I Watched Google Cloud NEXT &#x27;26 ~ Here Is What Actually Matters for Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/" target="_blank">Fast16: High-precision software sabotage 5 years before Stuxnet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-26 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +220,29 @@
                 <span class="time">2026-04-26 19:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6" target="_blank">angling text fill</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/" target="_blank">GoDaddy Gave a Domain to a Stranger Without Any Documentation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-26 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visio-2021-Professional-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft Visio might be the fix for overcomplicated workflows, now $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/26/microsoft-visio-might-be-the-fix-for-overcomplicated-workflows-now-15.html" target="_blank">Microsoft Visio might be the fix for overcomplicated workflows, now $15</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/alien-1280x723.jpg" alt="A Surprise Teaser For Alien: Isolation 2 Gives Fans Fresh Hope For The Sequel 14 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/alien-isolation-2-teaser-trailer-sega-2000690735" target="_blank">A Surprise Teaser For Alien: Isolation 2 Gives Fans Fresh Hope For The Sequel 14 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-26 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/dekus.jpg" alt="My Hero Academia Voice Actor Dubs Streamer’s Apology For Cheating On His Girlfriend And It Doesn’t Go Well" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +279,6 @@
                 <span class="time">2026-04-26 09:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Assassins-Creed-Hexe-1280x758.jpg" alt="Assassin’s Creed Hexe Loses Its Second Director In Two Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-hexe-benoit-richer-ubisoft-2000690656" target="_blank">Assassin’s Creed Hexe Loses Its Second Director In Two Months</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-25 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ39PV4D2786QB7YFA610RXV/hero-image.png" alt="This Buzzy Pocket-Sized E-Reader Is Under $60 on Amazon for the Next Few Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/xteink-x4-ereader-is-under-60-on-amazon-april-2026?utm_medium=RSS" target="_blank">This Buzzy Pocket-Sized E-Reader Is Under $60 on Amazon for the Next Few Hours</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-25 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,7 +299,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:09 UTC
+        🔄 Last Updated: 22:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
