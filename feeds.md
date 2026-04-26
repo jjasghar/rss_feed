@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 17:12:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 18:10:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 17:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 18:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -222,12 +223,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/dekus.jpg" alt="My Hero Academia Voice Actor Dubs Streamer’s Apology For Cheating On His Girlfriend And It Doesn’t Go Well" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/my-hero-academia-voice-actor-dubs-streamers-apology-for-cheating-on-his-girlfriend-and-it-doesnt-go-well-2000690726" target="_blank">My Hero Academia Voice Actor Dubs Streamer’s Apology For Cheating On His Girlfriend And It Doesn’t Go Well</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-26 17:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Final-Fantasy-XIV-Fan-Festival-2026-Livestream-image-Square-Enix-e1777216814148-1280x633.jpg" alt="Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711" target="_blank">Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-26 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Lenovo-300e-Chromebook.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Work and play with this deal on a 2-in-1 touchscreen laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/26/work-and-play-with-this-deal-on-a-2-in-1-touchscreen-laptop.html" target="_blank">Work and play with this deal on a 2-in-1 touchscreen laptop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-26 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -257,22 +276,18 @@
                 <span class="time">2026-04-25 21:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ChatPlayground-AI-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pay $75 once and use any AI model (almost) forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1776970356-20260426.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/25/pay-75-once-and-use-any-ai-model-almost-forever.html" target="_blank">Pay $75 once and use any AI model (almost) forever</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-25 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/11/ea7a6fe538b4b2f1adba46a349528ff4-1280x719.jpg" alt="Spider-Man: Miles Morales Actor Talks About That Missing Venom Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/venom-tony-todd-insomniac-canceled-spider-man-2000690649" target="_blank">Spider-Man: Miles Morales Actor Talks About That Missing Venom Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-25 20:55</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/quantum-6" target="_blank">Saturday Morning Breakfast Cereal - Quantum</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-26 15:20</span>
             </div>
         </div>
 </div>
@@ -280,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 17:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
