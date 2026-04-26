@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 18:10:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-26 19:16:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 18:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 19:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss" target="_blank">Kenya’s Sawe shatters two-hour marathon barrier</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="King&#x27;s US visit will go ahead as planned, Buckingham Palace says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">King&#x27;s US visit will go ahead as planned, Buckingham Palace says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-26 18:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-260425_1777165844544_hpMain_4x3t_384.jpg" alt="What we know about the suspect in the White House correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://abcnews.com/US/suspect-white-house-correspondents-dinner-shooting/story?id=132393780" target="_blank">What we know about the suspect in the White House Correspondents&#x27; Dinner shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-26 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="Palace holding talks over plans for King&#x27;s US visit after Washington shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">Palace holding talks over plans for King&#x27;s US visit after Washington shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-26 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners" target="_blank">World Press Photo Contest winners cast a lens on resilience, pain and bliss</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 11:44</span>
             </div>
         </div>
 </div>
@@ -173,6 +178,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7y79wex07okl8lxwil2.png" alt="Shortcut &amp; Mirroring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sankalp_fabric_data_architect/shortcut-mirroring-jma" target="_blank">Shortcut &amp; Mirroring</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 19:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Nearly-40M" target="_blank">The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-26 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avinash431/building-a-complete-developer-terminal-setup-for-claude-code-part-6-dotfiles-and-wrap-up-54c0" target="_blank">Building a Complete Developer Terminal Setup for Claude Code — Part 6: Dotfiles and Wrap-up</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 11:55</span>
             </div>
         </div>
 </div>
@@ -296,7 +301,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:10 UTC
+        🔄 Last Updated: 19:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
