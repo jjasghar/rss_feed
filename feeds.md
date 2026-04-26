@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 08:23:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 09:17:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 08:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 09:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video" target="_blank">The Supreme Court case that could redefine your digital privacy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss" target="_blank">Chernobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 08:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146" target="_blank">Suspect in White House Correspondents&#x27; Association dinner shooting identified</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-26 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-trump-truth-social-image_7230874.jpg?20260426052330" alt="A &#x27;lone wolf whack job&#x27;: What we know so far about suspected gunman at dinner attended by Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/a-lone-wolf-whack-job-what-we-know-so-far-about-the-suspected-gunman-13536655" target="_blank">A &#x27;lone wolf whack job&#x27;: What we know so far about suspected gunman at dinner attended by Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-26 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks after shooting incident outside White House Correspondents&#x27; Dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump speaks after shooting incident outside White House Correspondents&#x27; Dinner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-26 02:19</span>
             </div>
         </div>
 </div>
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 08:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 09:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
