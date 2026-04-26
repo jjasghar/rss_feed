@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 14:13:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-26 15:12:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 14:13 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 15:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="Palace holding talks over plans for King&#x27;s US visit after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">Palace holding talks over plans for King&#x27;s US visit after DC shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-26 13:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-260425_1777165844544_hpMain_4x3t_384.jpg" alt="What we know about the suspect in the White House Correspondents&#x27; Dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump" target="_blank">King Charles U.S. visit comes at tense moment in transatlantic relationship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e770/live/74d53e30-414f-11f1-9d1f-0d69b57ee6a5.jpg" alt="Higher prices could last for eight months after Iran war, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss" target="_blank">Higher prices could last for eight months after Iran war, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-26 09:54</span>
             </div>
         </div>
 </div>
@@ -173,6 +173,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdpto80yf9p9bu8w1ukaj.png" alt="From Broke Bots to Streaming Economies: Building the Agent Economy Wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb" target="_blank">From Broke Bots to Streaming Economies: Building the Agent Economy Wallet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Nearly-40M" target="_blank">The Linux Kernel Tree About To Hit 40 Million Lines, AMD Driver Above 6 Million Lines</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-26 14:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://asahilinux.org/2026/04/progress-report-7-0/" target="_blank">Asahi Linux Progress Linux 7.0</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-26 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snappy_tools/url-encoding-explained-why-20-appears-in-urls-and-how-to-decode-it-5c10" target="_blank">URL Encoding Explained: Why %20 Appears in URLs (and How to Decode It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://statecharts.dev/" target="_blank">Statecharts: hierarchical state machines</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-26 09:32</span>
             </div>
         </div>
 </div>
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 14:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 15:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
