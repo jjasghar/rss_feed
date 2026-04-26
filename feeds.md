@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 15:12:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-04-26 16:10:36 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 15:12 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 16:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting" target="_blank">Photos: The aftermath of the White House Correspondents&#x27; Dinner shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 15:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="Palace holding talks over plans for King&#x27;s US visit after DC shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +97,29 @@
                 <span class="time">2026-04-26 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump" target="_blank">King Charles U.S. visit comes at tense moment in transatlantic relationship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/" target="_blank">TechCrunch Mobility: Elon’s admission</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-26 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ee12df88c288459fa0cb80/master/pass/2272612956" alt="‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#x27; Dinner Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/" target="_blank">‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents&#x27; Dinner Shooting</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-26 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,30 +148,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg" alt="&quot;Kinematic intelligence&quot; helps robots learn their limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg" alt="New robotic control software avoids jamming their joints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/" target="_blank">&quot;Kinematic intelligence&quot; helps robots learn their limits</a></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/" target="_blank">New robotic control software avoids jamming their joints</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-26 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eb8c88322e0f7cc8492862/master/pass/042426_IKEA's%20New%20Blow-Up%20Chair%20Was%20Tested%20By%20Cats.jpg" alt="Ikea&#x27;s New Blow-Up Chair Was Tested by Cats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/" target="_blank">Ikea&#x27;s New Blow-Up Chair Was Tested by Cats</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" target="_blank">Anthropic created a test marketplace for agent-on-agent commerce</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 21:43</span>
             </div>
         </div>
 </div>
@@ -223,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Final-Fantasy-XIV-Fan-Festival-2026-Livestream-image-Square-Enix-e1777216814148-1280x633.jpg" alt="Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711" target="_blank">Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-26 15:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/allen-arrest-1280x720.jpg" alt="Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,36 +274,13 @@
                 <span class="time">2026-04-25 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1280x720.jpg" alt="A Controversial Boss That Led To Slay The Spire 2’s Latest Round Of Review Bombing Wasn’t Even The Game’s Strongest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-controversial-boss-that-led-to-slay-the-spire-2s-latest-round-of-review-bombing-wasnt-even-the-games-strongest-2000690638" target="_blank">A Controversial Boss That Led To Slay The Spire 2’s Latest Round Of Review Bombing Wasn’t Even The Game’s Strongest</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-25 18:25</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776970195-20260425.png" alt="Saturday Morning Breakfast Cereal - End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/end-2" target="_blank">Saturday Morning Breakfast Cereal - End</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:12 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 16:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
