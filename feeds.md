@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 11:13:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-26 12:09:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 12:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0d/live/dd4fe010-414e-11f1-9d1f-0d69b57ee6a5.jpg" alt="Palace holding talks over plans for King&#x27;s US visit after Washington shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss" target="_blank">Palace holding talks over plans for King&#x27;s US visit after Washington shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-26 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners" target="_blank">World Press Photo Contest winners cast a lens on resilience, pain and bliss</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss" target="_blank">Kenya’s Sawe is world’s first man to run a sub-two-hour marathon in London</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-26 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +99,29 @@
                 <span class="time">2026-04-26 09:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video" target="_blank">The Supreme Court case that could redefine your digital privacy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss" target="_blank">Chernobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-26 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss" target="_blank">Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-26 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs" target="_blank">The plan to quietly kill Coyote v. Acme blew up in David Zaslav&amp;#8217;s face</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69ed4db0d025248dcc4c84fd/master/pass/The-Best-Kindle-Accessories.jpg" alt="The Best Kindle Accessories (2026): Cases, Page Turners, Stickers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-kindle-accessories/" target="_blank">The Best Kindle Accessories (2026): Cases, Page Turners, Stickers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-26 11:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg" alt="&quot;Kinematic intelligence&quot; helps robots learn their limits" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +158,6 @@
                 <span class="time">2026-04-25 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board" target="_blank">Trump fires the entire National Science Board</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-25 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/" target="_blank">OpenAI CEO apologizes to Tumbler Ridge community</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-25 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +170,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avinash431/building-a-complete-developer-terminal-setup-for-claude-code-part-6-dotfiles-and-wrap-up-54c0" target="_blank">Building a Complete Developer Terminal Setup for Claude Code — Part 6: Dotfiles and Wrap-up</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 11:55</span>
             </div>
         </div>
 <div class="story">
@@ -194,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/the_bookmaster/the-taste-problem-when-your-ai-agent-starts-having-preferences-1i33" target="_blank">The Taste Problem: When Your AI Agent Starts Having Preferences</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 04:04</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://statecharts.dev/" target="_blank">Statecharts: hierarchical state machines</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-26 09:32</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/en/headerimage/generatedHeaderImage-1777096878479.jpg" alt="AWS Ends WorkMail and Moves App Runner to Maintenance Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yakhilesh/filtering-rows-and-selecting-columns-the-right-way-2d30" target="_blank">Filtering Rows and Selecting Columns (The Right Way)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2pd2" target="_blank">Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-25 23:00</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Ends WorkMail and Moves App Runner to Maintenance Mode</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-26 06:53</span>
             </div>
         </div>
 </div>
@@ -296,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 12:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
