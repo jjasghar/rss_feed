@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 02:59:23 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-26 04:15:22 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +69,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner" target="_blank">A suspect is in custody after Trump is rushed from correspondents&#x27; dinner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-26 01:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner" target="_blank">Watch: President Trump speaks about shooting incident at correspondents&#x27; dinner</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-26 01:18</span>
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss" target="_blank">UK steps up plans for potential shortages caused by Iran war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-25 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/25/nx-s1-5799519/dirk-kempthorne-obit" target="_blank">Dirk Kempthorne, former Idaho governor and U.S. Interior secretary, dies at 74</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-25 21:49</span>
             </div>
         </div>
 </div>
@@ -175,6 +178,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/the_bookmaster/the-taste-problem-when-your-ai-agent-starts-having-preferences-1i33" target="_blank">The Taste Problem: When Your AI Agent Starts Having Preferences</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yakhilesh/filtering-rows-and-selecting-columns-the-right-way-2d30" target="_blank">Filtering Rows and Selecting Columns (The Right Way)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-26 02:52</span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e" target="_blank">Taming MCPs, Skills, and Agent Chaos with ToolHive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-25 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.9-Released" target="_blank">LACT 0.9 Released With UI Updates, Voltage-Frequency Curve Editor For NVIDIA</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-25 20:10</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
