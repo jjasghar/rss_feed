@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 16:10:36 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-26 17:12:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 16:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, April 26, 2026 - 17:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-15-rt-gmh-260425_1777165844544_hpMain_4x3t_384.jpg" alt="What we know about the suspect in the White House correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/suspect-white-house-correspondents-dinner-shooting/story?id=132393780" target="_blank">What we know about the suspect in the White House correspondents&#x27; dinner shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-26 16:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2026-04-26 11:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss" target="_blank">Kenya’s Sawe is world’s first man to run a sub-two-hour marathon in London</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-26 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom" target="_blank">Trump turns the WHCD shooting into a pitch for the White House ballroom</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-26 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +157,6 @@
                 <span class="time">2026-04-26 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-500x500.jpg" alt="New robotic control software avoids jamming their joints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/" target="_blank">New robotic control software avoids jamming their joints</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-26 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6" target="_blank">angling text fill</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-26 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-April-2026" target="_blank">CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-26 16:50</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/avinash431/building-a-complete-developer-terminal-setup-for-claude-code-part-6-dotfiles-and-wrap-up-54c0" target="_blank">Building a Complete Developer Terminal Setup for Claude Code — Part 6: Dotfiles and Wrap-up</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-26 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max" target="_blank">The New Linux Kernel AI Bot Uncovering Bugs Is A Local LLM On Framework Desktop + AMD Ryzen AI Max</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://asahilinux.org/2026/04/progress-report-7-0/" target="_blank">Asahi Linux Progress Linux 7.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-26 10:50</span>
             </div>
         </div>
 </div>
@@ -280,7 +281,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 16:10 UTC
+        🔄 Last Updated: 17:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
