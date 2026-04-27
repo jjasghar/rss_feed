@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 19:29:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-27 20:20:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 20:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +49,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/king-charles-abc-gmh-260424_1777047649669_hpMain_4x3t_384.jpg" alt="LIVE:  King Charles and Queen Camilla arrive at White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  King Charles and Queen Camilla arrive at White House: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss" target="_blank">Hezbollah and Israel swap threats and strikes across Lebanon’s border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777318350160_nbc_spec_blanche_timeline_260427_S3_1920x1080-ouagsv.jpg" alt="Blanche gives timeline of suspect&#x27;s movements ahead of correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/blanche-gives-timeline-of-suspect-s-movements-ahead-of-correspondents-dinner-shooting-262191173723" target="_blank">Blanche gives timeline of suspect&#x27;s movements ahead of correspondents&#x27; dinner shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-27 19:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  DOJ briefing on White House correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  DOJ briefing on White House correspondents&#x27; dinner shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-27 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump" target="_blank">Here&#x27;s a look inside security at the White House Correspondents&#x27; Association Dinner</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-27 19:15</span>
             </div>
         </div>
 <div class="story">
@@ -65,47 +102,20 @@
                 <span class="time">2026-04-27 17:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss" target="_blank">Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt" target="_blank">German tourist dies after being bitten at snake show on family holiday in Egypt</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-27 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss" target="_blank">Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss" target="_blank">Will the Iran war push millions back into poverty?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg" alt="Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/" target="_blank">Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-27 20:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +161,6 @@
                 <span class="time">2026-04-27 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/" target="_blank">DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-27 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +185,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhpndt6fpfe6mt77i83n4.png" alt="Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ritam369/mastering-destructuring-in-javascript-3le0" target="_blank">Mastering Destructuring in JavaScript: Extract Smarter, Code Cleaner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-27 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RADV-Protected-Memory" target="_blank">RADV Vulkan Driver Adds Memory Protection Using AMD Trusted Memory Zone</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 19:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947925&w=600" alt="When Events Move Faster Than Your Database: A Resilient Design Pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/api-first-development-why-modern-apps" target="_blank">API-First Development: Why Modern Applications Depend on It</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Controller-4-May" target="_blank">Valve Confirms Steam Controller Release Date, $99 Price</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949137&w=600" alt="The LLM Selection War Story: Part 2 - The Six LLM Failure Archetypes That Will Wreck Your Production System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-llm-selection-war-story-part-2" target="_blank">The LLM Selection War Story: Part 2 - The Six LLM Failure Archetypes That Will Wreck Your Production System</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-27 17:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 20:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
