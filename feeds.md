@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 12:25:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 13:30:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 12:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="MPs to vote on launching inquiry into PM&#x27;s Mandelson claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss" target="_blank">MPs to vote on launching inquiry into PM&#x27;s Mandelson claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss" target="_blank">How does targeting water supply during war worsen the scarcity crisis?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg" alt="What we&#x27;re learning about suspected Washington press dinner gunman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss" target="_blank">What we&#x27;re learning about suspected Washington press dinner gunman</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 11:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777289169012_tdy_news_7a_odonnell_security_corr_dinner_260427_S3_1920x1080-key8lm.jpg" alt="Correspondents’ Dinner Shooting Suspect to be Arraigned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect descended 10 flights with duffel: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-27 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss" target="_blank">Iran’s foreign minister in Russia for talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 10:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg" alt="Suspected gunman at Washington press dinner identified as 31-year-old Californian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss" target="_blank">Suspected gunman at Washington press dinner identified as 31-year-old Californian</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd1/live/75057c40-421b-11f1-ac78-2112837ce2aa.jpg" alt="Trump says King will be &#x27;very safe&#x27; during US visit after security talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says King will be &#x27;very safe&#x27; during US visit after security talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 09:19</span>
             </div>
         </div>
 </div>
@@ -169,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/OpenTelemetry-instrumentation/en/mediumimage/DanGomezBlanco-WayneBell-medium-1776170464094.jpg" alt="Presentation: Building a Future-Proof Observability Platform to Empower Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building a Future-Proof Observability Platform to Empower Engineers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-27 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/XWayland-24.1.11-Released" target="_blank">XWayland 24.1.11 Brings Crash Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 12:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83198r8ttol9y4eb5re6.png" alt="Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,29 +215,20 @@
                 <span class="time">2026-04-27 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/pgbackrest/pgbackrest" target="_blank">Pgbackrest is no longer being maintained</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-27 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz-one-month-in.html" target="_blank">httpxyz one month in</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-27 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQ7CPBRZNRYJG20EWHKZ4E5E/hero-image.png" alt="The Samsung Galaxy S26+ Is $175 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-plus-sale-april-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S26+ Is $175 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visio-2021-Professional-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft Visio might be the fix for overcomplicated workflows, now $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
