@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 17:28:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-27 18:22:41 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 18:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss" target="_blank">Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt" target="_blank">German tourist dies after being bitten at snake show on family holiday in Egypt</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-27 17:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,38 @@
                 <span class="time">2026-04-27 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/27/mali-militant-attacks-putin-russia-africa" target="_blank">Mali’s militant attacks expose limits of Putin’s power in Africa</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-27 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="Starmer faces vote on inquiry over Mandelson vetting claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer faces vote on inquiry over Mandelson vetting claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc" target="_blank">Trump demands ABC fire Jimmy Kimmel</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-27 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Meta-and-Manus-logos-500x500.jpg" alt="China kills Meta’s acquisition of Manus as US-China AI rivalry deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/" target="_blank">China kills Meta’s acquisition of Manus as US-China AI rivalry deepens</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-27 18:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/" target="_blank">OpenAI ends Microsoft legal peril over its $50B Amazon deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-27 17:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,33 +160,6 @@
                 <span class="time">2026-04-27 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability" target="_blank">Govee’s multicolor ceiling light doubles as a low-res screen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-500x500.jpg" alt="Meet the players who lost big money on Peter Molyneux’s failed Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/" target="_blank">Meet the players who lost big money on Peter Molyneux’s failed Legacy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-27 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69edbc789d3ddeb729d16d46/master/pass/Everything-You-Need-to-Know-About-Ethernet.jpg" alt="What Is Ethernet? Everything You Need to Know About Wired Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-ethernet/" target="_blank">What Is Ethernet? Everything You Need to Know About Wired Networks</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-27 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +172,33 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0" target="_blank">Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-04-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942861&w=600" alt="API-First Development: Why Modern Applications Depend on It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/api-first-development-why-modern-apps" target="_blank">API-First Development: Why Modern Applications Depend on It</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Controller-4-May" target="_blank">Valve Confirms Steam Controller Release Date, $99 Price</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon San Francisco 2026: 12 Tracks Announced</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-27 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-5-250k-plus" target="_blank">Intel Core Ultra 5 250K Plus Provides Exceptional Value For Linux Users</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keerthana_696356/we-can-build-ai-agents-after-google-cloud-next-26-but-we-cant-test-or-debug-them-1me1" target="_blank">We Can Build AI Agents After Google Cloud NEXT ‘26 - But We Can’t Test or Debug Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical is ‘ramping up’ AI in Ubuntu this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-ai-features" target="_blank">Canonical is ‘ramping up’ AI in Ubuntu this year</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-27 14:10</span>
             </div>
         </div>
 </div>
@@ -239,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="Trump just killed the Reflecting Pool&#x27;s iconic mirror effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/trump-just-killed-the-reflecting-pools-iconic-mirror-effect.html" target="_blank">Trump just killed the Reflecting Pool&#x27;s iconic mirror effect</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KNHXW090TGXDQ96AQW67PM69/hero-image.png" alt="The New M5 MacBook Air Is on Sale for $950 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-air-deal-april-2026?utm_medium=RSS" target="_blank">The New M5 MacBook Air Is on Sale for $950 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-27 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/steamcontroller1-1280x720.jpg" alt="Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/the-expanse-osiris-reborn-barely-understands-the-series-aesthetic-and-completely-lacks-its-subtlety-2000690730" target="_blank">The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-27 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/astrolabe.jpg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Giant 17th-century astrolabe could fetch millions at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/giant-17th-century-astrolabe-could-fetch-millions-at-auction.html" target="_blank">Giant 17th-century astrolabe could fetch millions at auction</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-27 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ7CPBRZNRYJG20EWHKZ4E5E/hero-image.png" alt="The Samsung Galaxy S26+ Is $175 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s26-plus-sale-april-2026?utm_medium=RSS" target="_blank">The Samsung Galaxy S26+ Is $175 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-27 13:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 18:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
