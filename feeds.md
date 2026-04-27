@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 08:46:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 09:42:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 08:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 09:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg" alt="Suspected gunman at Washington press dinner identified as 31-year-old Californian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss" target="_blank">Suspected gunman at Washington press dinner identified as 31-year-old Californian</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 09:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2026-04-27 01:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss" target="_blank">Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69ebaf903bb8da7a0a20bfa9/master/pass/Pokemon-Anniversary-Merch-You-Can-Still-Buy-Gear-2262176772.jpg" alt="Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pokemon-30th-anniversary-collabs/" target="_blank">Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-27 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom" target="_blank">Trump turns the WHCD shooting into a pitch for the White House ballroom</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-26 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/" target="_blank">TechCrunch Mobility: Elon’s admission</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-26 16:03</span>
             </div>
         </div>
 </div>
@@ -267,15 +267,6 @@
                 <span class="time">2026-04-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/allen-arrest-1280x720.jpg" alt="Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/white-house-correspondents-dinner-shooter-indie-games-developer-2000690697" target="_blank">Alleged White House Correspondents’ Dinner Shooter Was An Indie Games Developer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-26 09:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 08:46 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 09:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
