@@ -1,26 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 16:29:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 17:28:04 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss" target="_blank">Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +102,29 @@
                 <span class="time">2026-04-27 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss" target="_blank">What does Trump shooting at White House dinner mean for World Cup security?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/" target="_blank">DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-27 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-500x500-1753287220.jpg" alt="National Science Board eviscerated; Trump admin fires all 22 members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/" target="_blank">National Science Board eviscerated; Trump admin fires all 22 members</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-27 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg" alt="The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,24 +161,6 @@
                 <span class="time">2026-04-27 10:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/" target="_blank">Meta inks deal for solar power at night, beamed from space</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-27 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ebaf903bb8da7a0a20bfa9/master/pass/Pokemon-Anniversary-Merch-You-Can-Still-Buy-Gear-2262176772.jpg" alt="Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pokemon-30th-anniversary-collabs/" target="_blank">Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-27 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,6 +173,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949137&w=600" alt="The LLM Selection War Story: Part 2 - The Six LLM Failure Archetypes That Will Wreck Your Production System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-llm-selection-war-story-part-2" target="_blank">The LLM Selection War Story: Part 2 - The Six LLM Failure Archetypes That Will Wreck Your Production System</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-27 17:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,15 +220,6 @@
                 <span class="time">2026-04-27 14:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/uber-junit4-junit5-migration/en/headerimage/generatedHeaderImage-1776546803798.jpg" alt="Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/steamcontroller1-1280x720.jpg" alt="Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/why-valves-new-100-controller-rings-like-a-phone-lacks-a-3-5-jack-and-isnt-called-the-steam-controller-2-2000690568" target="_blank">Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HFMQN5M1T0Z1CD4MG2FQJ/hero-image.png" alt="Last Year&#x27;s Sunscreen Is (Probably) Still Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/when-does-sunscreen-expire?utm_medium=RSS" target="_blank">Last Year&#x27;s Sunscreen Is (Probably) Still Good</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-27 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Complete-2026-CompTIA-Certification-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into IT with this $50 training bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,29 +293,20 @@
                 <span class="time">2026-04-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visio-2021-Professional-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft Visio might be the fix for overcomplicated workflows, now $15" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/26/microsoft-visio-might-be-the-fix-for-overcomplicated-workflows-now-15.html" target="_blank">Microsoft Visio might be the fix for overcomplicated workflows, now $15</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-26 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/alien-1280x723.jpg" alt="A Surprise Teaser For Alien: Isolation 2 Gives Fans Fresh Hope For The Sequel 14 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/alien-isolation-2-teaser-trailer-sega-2000690735" target="_blank">A Surprise Teaser For Alien: Isolation 2 Gives Fans Fresh Hope For The Sequel 14 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-26 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/27/microboned" target="_blank">Microboned</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-27 17:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1777252661-20260427.png" alt="Saturday Morning Breakfast Cereal - Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -309,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
