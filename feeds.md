@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 13:30:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 14:37:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 14:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="Starmer faces vote on inquiry over Mandelson vetting claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer faces vote on inquiry over Mandelson vetting claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss" target="_blank">What does Trump shooting at White House dinner mean for World Cup security?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 13:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="MPs to vote on launching inquiry into PM&#x27;s Mandelson claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss" target="_blank">MPs to vote on launching inquiry into PM&#x27;s Mandelson claims</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-27 13:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260425_1777164173648_hpMain_4x3t_384.jpg" alt="White House correspondents&#x27; dinner shooting latest: Suspect to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-suspect-arraigned-monday/story?id=132410865" target="_blank">White House correspondents&#x27; dinner shooting latest: Suspect to appear in court</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 13:13</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +96,20 @@
                 <span class="time">2026-04-27 11:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777289169012_tdy_news_7a_odonnell_security_corr_dinner_260427_S3_1920x1080-key8lm.jpg" alt="Correspondents’ Dinner Shooting Suspect to be Arraigned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/suspect-in-correspondents-dinner-shooting-sent-email-of-targets-262154309721" target="_blank">Correspondents’ Dinner Shooting Suspect to be Arraigned</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-27 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss" target="_blank">Varoufakis on Palantir, AI warfare, and the rise of tech lordism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/hilton-main_1777282616263_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect descended 10 flights with duffel: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect descended 10 flights with duffel: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-27 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg" alt="The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/" target="_blank">The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +155,6 @@
                 <span class="time">2026-04-27 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/" target="_blank">Truecaller faces mounting pressures as its growth matures</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-27 03:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +167,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keerthana_696356/we-can-build-ai-agents-after-google-cloud-next-26-but-we-cant-test-or-debug-them-1me1" target="_blank">We Can Build AI Agents After Google Cloud NEXT ‘26 - But We Can’t Test or Debug Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-27 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-ARM-RT" target="_blank">With Linux 7.1 The Mainline Kernel Now Supports Real-Time &quot;RT&quot; On ARM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 13:27</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +214,29 @@
                 <span class="time">2026-04-27 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1iqpubvw7t3gkxkxi9w.png" alt="I Tired of Trusting Bash Scripts With My Backups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nomad4tech/i-tired-of-trusting-bash-scripts-with-my-backups-4ke4" target="_blank">I Tired of Trusting Bash Scripts With My Backups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/en/headerimage/mcp-java-architectural-strategy-llm-integrations-header-1776772947180.jpg" alt="Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/The-Expanse-Osiris-Reborn-official-image-from-Steam-Owlcat-Games-1280x720.jpg" alt="The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-expanse-osiris-reborn-barely-understands-the-series-aesthetic-and-completely-lacks-its-subtlety-2000690730" target="_blank">The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-27 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/astrolabe.jpg?fit=1536%2C864&amp;quality=60&amp;ssl=1" alt="Giant 17th-century astrolabe could fetch millions at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/giant-17th-century-astrolabe-could-fetch-millions-at-auction.html" target="_blank">Giant 17th-century astrolabe could fetch millions at auction</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQ7CPBRZNRYJG20EWHKZ4E5E/hero-image.png" alt="The Samsung Galaxy S26+ Is $175 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +273,6 @@
                 <span class="time">2026-04-26 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Final-Fantasy-XIV-Fan-Festival-2026-Livestream-image-Square-Enix-e1777216814148-1280x633.jpg" alt="Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711" target="_blank">Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-26 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Lenovo-300e-Chromebook.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Work and play with this deal on a 2-in-1 touchscreen laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/26/work-and-play-with-this-deal-on-a-2-in-1-touchscreen-laptop.html" target="_blank">Work and play with this deal on a 2-in-1 touchscreen laptop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-26 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 14:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
