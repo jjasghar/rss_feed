@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 14:37:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-27 15:30:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 14:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 15:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/aje-onl-aje_onl_lebanon_wrap-270426?traffic_source=rss" target="_blank">Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="Starmer faces vote on inquiry over Mandelson vetting claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss" target="_blank">How does targeting water supply during war worsen the scarcity crisis?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg" alt="What we&#x27;re learning about suspected Washington press dinner gunman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss" target="_blank">What we&#x27;re learning about suspected Washington press dinner gunman</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 11:56</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-core-ultra-5-250k-plus" target="_blank">Intel Core Ultra 5 250K Plus Provides Exceptional Value For Linux Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/keerthana_696356/we-can-build-ai-agents-after-google-cloud-next-26-but-we-cant-test-or-debug-them-1me1" target="_blank">We Can Build AI Agents After Google Cloud NEXT ‘26 - But We Can’t Test or Debug Them</a></span>
                 <span class="feed">DEV Community</span>
@@ -179,39 +189,30 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical is ‘ramping up’ AI in Ubuntu this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-ARM-RT" target="_blank">With Linux 7.1 The Mainline Kernel Now Supports Real-Time &quot;RT&quot; On ARM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 13:27</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ubuntu-ai-features" target="_blank">Canonical is ‘ramping up’ AI in Ubuntu this year</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-27 14:10</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/OpenTelemetry-instrumentation/en/mediumimage/DanGomezBlanco-WayneBell-medium-1776170464094.jpg" alt="Presentation: Building a Future-Proof Observability Platform to Empower Engineers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2026/04/uber-junit4-junit5-migration/en/headerimage/generatedHeaderImage-1776546803798.jpg" alt="Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/OpenTelemetry-instrumentation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building a Future-Proof Observability Platform to Empower Engineers</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Migrates 75,000+ Test Classes from Junit 4 to Junit 5 Using Automated Code Transformation</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 13:14</span>
+                <span class="time">2026-04-27 14:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/XWayland-24.1.11-Released" target="_blank">XWayland 24.1.11 Brings Crash Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83198r8ttol9y4eb5re6.png" alt="Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/seekdb/harness-engineering-from-ai-assisted-to-ai-driven-what-is-software-engineering-undergoing-l6n" target="_blank">Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 12:22</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/" target="_blank">Welcome to the “find out” stage of AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-27 13:56</span>
             </div>
         </div>
 </div>
@@ -219,6 +220,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Complete-2026-CompTIA-Certification-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into IT with this $50 training bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/pivot-into-it-with-this-50-training-bundle.html" target="_blank">Pivot into IT with this $50 training bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/The-Expanse-Osiris-Reborn-official-image-from-Steam-Owlcat-Games-1280x720.jpg" alt="The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,20 +274,20 @@
                 <span class="time">2026-04-26 20:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/dekus.jpg" alt="My Hero Academia Voice Actor Dubs Streamer’s Apology For Cheating On His Girlfriend And It Doesn’t Go Well" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/my-hero-academia-voice-actor-dubs-streamers-apology-for-cheating-on-his-girlfriend-and-it-doesnt-go-well-2000690726" target="_blank">My Hero Academia Voice Actor Dubs Streamer’s Apology For Cheating On His Girlfriend And It Doesn’t Go Well</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-26 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777252661-20260427.png" alt="Saturday Morning Breakfast Cereal - Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/set" target="_blank">Saturday Morning Breakfast Cereal - Set</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -287,22 +297,13 @@
                 <span class="time">2026-04-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1776970356-20260426.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/quantum-6" target="_blank">Saturday Morning Breakfast Cereal - Quantum</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 14:37 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 15:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
