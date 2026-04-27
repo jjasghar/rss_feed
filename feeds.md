@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 20:20:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-27 21:19:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 20:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 21:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/whca-5-ap-gmh-260426_1777207011961_hpMain_4x3t_384.jpg" alt="Correspondents&#x27; dinner shooting suspect charged with attempted assassination of Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-suspect-arraigned-monday/story?id=132410865" target="_blank">Correspondents&#x27; dinner shooting suspect charged with attempted assassination of Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 19:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777318350160_nbc_spec_blanche_timeline_260427_S3_1920x1080-ouagsv.jpg" alt="Blanche gives timeline of suspect&#x27;s movements ahead of correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -93,20 +103,29 @@
                 <span class="time">2026-04-27 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c5c/live/3845fc00-4255-11f1-a8e5-d31af761243a.jpg" alt="Melania Trump urges ABC to &#x27;take stand&#x27; on Jimmy Kimmel after widow joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss" target="_blank">Melania Trump urges ABC to &#x27;take stand&#x27; on Jimmy Kimmel after widow joke</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 17:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-500x500.jpg" alt="Open source package with 1 million monthly downloads stole user credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/" target="_blank">Open source package with 1 million monthly downloads stole user credentials</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-27 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69efb9ef92ae3f4f1e6069d9/master/pass/The-M5-MacBook-Air-Returns-to-Its-Lowest-Price-Since-Being-Launched.jpg" alt="The M5 MacBook Air Has Never Been Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/m5-macbook-air-never-been-cheaper/" target="_blank">The M5 MacBook Air Has Never Been Cheaper</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-27 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg" alt="Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc" target="_blank">Trump demands ABC fire Jimmy Kimmel</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-27 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Meta-and-Manus-logos-500x500.jpg" alt="China kills Meta’s acquisition of Manus as US-China AI rivalry deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/" target="_blank">China kills Meta’s acquisition of Manus as US-China AI rivalry deepens</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-27 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/" target="_blank">OpenAI ends Microsoft legal peril over its $50B Amazon deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-27 17:40</span>
             </div>
         </div>
 </div>
@@ -240,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/11/9da3a7c02920fbba4f8ebe746b569104-1280x720.jpg" alt="Call Of Duty Movie Director Previously Called Playing Video Games ‘Weak’ And ‘Pathetic’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-movie-director-previously-called-playing-video-games-weak-and-pathetic-2000690955" target="_blank">Call Of Duty Movie Director Previously Called Playing Video Games ‘Weak’ And ‘Pathetic’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-27 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Widecreen-Salamander.jpg?fit=1080%2C668&amp;quality=60&amp;ssl=1" alt="Legendary emulator ZSNES rewritten from scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/legendary-emulator-zsnes-rewritten-from-scratch.html" target="_blank">Legendary emulator ZSNES rewritten from scratch</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 20:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/godaddy.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="GoDaddy handed a 27-year-old nonprofit domain to a stranger 2,000 miles away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -273,24 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-air-deal-april-2026?utm_medium=RSS" target="_blank">The New M5 MacBook Air Is on Sale for $950 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-27 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/steamcontroller1-1280x720.jpg" alt="Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/why-valves-new-100-controller-rings-like-a-phone-lacks-a-3-5-jack-and-isnt-called-the-steam-controller-2-2000690568" target="_blank">Why Valve’s New $100 Controller Rings Like A Phone, Lacks A 3.5 Jack, And Isn’t Called The Steam Controller 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HFMQN5M1T0Z1CD4MG2FQJ/hero-image.png" alt="Last Year&#x27;s Sunscreen Is (Probably) Still Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/when-does-sunscreen-expire?utm_medium=RSS" target="_blank">Last Year&#x27;s Sunscreen Is (Probably) Still Good</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-27 16:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 20:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 21:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
