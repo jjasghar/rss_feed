@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 15:30:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-27 16:29:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 15:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 16:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +40,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss" target="_blank">Will the Iran war push millions back into poverty?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5797938/floridas-desantis-unveils-a-voting-map-that-could-add-to-trumps-gop-redistricting" target="_blank">Florida&#x27;s DeSantis unveils a voting map that could add to Trump&#x27;s GOP redistricting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-27 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/aje-onl-aje_onl_lebanon_wrap-270426?traffic_source=rss" target="_blank">Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/27/mali-militant-attacks-putin-russia-africa" target="_blank">Mali’s militant attacks expose limits of Putin’s power in Africa</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-27 14:35</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +88,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security?traffic_source=rss" target="_blank">What does Trump shooting at White House dinner mean for World Cup security?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e58/live/6f4e7b30-422a-11f1-bd52-e755d604ece4.jpg" alt="MPs to vote on launching inquiry into PM&#x27;s Mandelson claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss" target="_blank">MPs to vote on launching inquiry into PM&#x27;s Mandelson claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260425_1777164173648_hpMain_4x3t_384.jpg" alt="White House correspondents&#x27; dinner shooting latest: Suspect to appear in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-suspect-arraigned-monday/story?id=132410865" target="_blank">White House correspondents&#x27; dinner shooting latest: Suspect to appear in court</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-27 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss" target="_blank">How does targeting water supply during war worsen the scarcity crisis?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 13:00</span>
             </div>
         </div>
 </div>
@@ -171,6 +164,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/qconsf-2026-tracks-announced/en/headerimage/generatedHeaderImage-1777290052491.jpg" alt="QCon San Francisco 2026: 12 Tracks Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon San Francisco 2026: 12 Tracks Announced</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-27 15:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,13 +208,18 @@
                 <span class="time">2026-04-27 14:07</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/" target="_blank">Welcome to the “find out” stage of AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-27 13:56</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html" target="_blank">Medieval Encrypted Letter Decoded</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-27 11:04</span>
             </div>
         </div>
 </div>
@@ -302,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
