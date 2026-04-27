@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 05:58:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-27 07:08:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 05:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 07:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss" target="_blank">Pro-Palestine group accused of raiding Elbit factory face trial in Germany</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 06:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank" target="_blank">Palestinian officials hail local elections in a Gaza community and the West Bank</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-27 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc3/live/871038a0-41fb-11f1-bd52-e755d604ece4.jpg" alt="Trump says he &#x27;wasn&#x27;t worried&#x27; during Washington press dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;wasn&#x27;t worried&#x27; during Washington press dinner shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 04:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss" target="_blank">Iran war live: Araghchi to meet Putin, Trump says Tehran can call for talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777245868585_wnn_spa_WHCDShootingSuspect_260426_S3_1920x1080-nwt2am.jpg" alt="Investigators search California home connected to suspected shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/-investigators-search-california-home-connected-to-suspected-shooter-262142533850" target="_blank">Investigators search California home connected to suspected shooter</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-26 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777245584191_wnn_gha_WHCDShootingDetails_260426_S3_1920x1080-9fjfva.jpg" alt="New details on shooting at WH Correspondents’ Dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/new-details-on-shooting-at-wh-correspondents-dinner-262142533815" target="_blank">New details on shooting at WH Correspondents’ Dinner</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-26 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks" target="_blank">Mali defence minister killed amid flurry of insurgent attacks</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-26 22:55</span>
             </div>
         </div>
 </div>
@@ -170,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/salimcodes/i-wasnt-going-to-write-for-the-openclaw-challenge-then-2026424-dropped-36oa" target="_blank">I Wasn&#x27;t Going to Write for the OpenClaw Challenge. Then 2026.4.24 Dropped.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-27 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.8-Released" target="_blank">D7VK v1.8 Continues Improving Legacy Direct3D Atop The Vulkan API</a></span>
                 <span class="feed">Phoronix</span>
@@ -201,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/aniruddhaadak/i-watched-google-cloud-next-26-so-you-dont-have-to-here-is-what-actually-matters-for-developers-54h6" target="_blank">I Watched Google Cloud NEXT &#x27;26 ~ Here Is What Actually Matters for Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-26 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc1" target="_blank">Linux 7.1-rc1 Released With New NTFS Driver, FRED By Default &amp; Much More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-26 21:37</span>
             </div>
         </div>
 </div>
@@ -290,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 05:58 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 07:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
