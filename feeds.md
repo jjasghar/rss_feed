@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 10:36:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 11:30:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss" target="_blank">Varoufakis on Palantir, AI warfare, and the rise of tech lordism</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/hilton-main_1777282616263_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting live updates: Suspect descended 10 flights with duffel: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect descended 10 flights with duffel: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss" target="_blank">Iran’s foreign minister in Russia for talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 10:23</span>
@@ -68,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-heavy-rain-extreme-weather_7231893.jpg?20260427095346" alt="Lightning strikes in Bangladesh kill 14 - including 10-year-old boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/boy-10-among-14-killed-by-lightning-strikes-in-bangladesh-13537067" target="_blank">Lightning strikes in Bangladesh kill 14 - including 10-year-old boy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-27 08:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -76,38 +95,20 @@
                 <span class="time">2026-04-27 06:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-general-sadio-camara_7231800.jpg?20260427081958" alt="Mali defence minister killed during major assault by insurgents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mali-defence-minister-killed-during-major-assault-by-insurgents-13536997" target="_blank">Mali defence minister killed during major assault by insurgents</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-27 05:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank" target="_blank">Palestinian officials hail local elections in a Gaza community and the West Bank</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc3/live/871038a0-41fb-11f1-bd52-e755d604ece4.jpg" alt="Trump says he &#x27;wasn&#x27;t worried&#x27; during Washington press dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;wasn&#x27;t worried&#x27; during Washington press dinner shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 04:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-500x500.jpg" alt="Meet the players who lost big money on Peter Molyneux’s failed Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/" target="_blank">Meet the players who lost big money on Peter Molyneux’s failed Legacy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-27 10:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69edbc789d3ddeb729d16d46/master/pass/Everything-You-Need-to-Know-About-Ethernet.jpg" alt="What Is Ethernet? Everything You Need to Know About Wired Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +154,6 @@
                 <span class="time">2026-04-26 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/trekkie1-500x500-1777225052.jpg" alt="Strange New Worlds S4 teaser strikes a more serious tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/" target="_blank">Strange New Worlds S4 teaser strikes a more serious tone</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-26 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +166,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1iqpubvw7t3gkxkxi9w.png" alt="I Tired of Trusting Bash Scripts With My Backups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nomad4tech/i-tired-of-trusting-bash-scripts-with-my-backups-4ke4" target="_blank">I Tired of Trusting Bash Scripts With My Backups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-27 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/pgbackrest/pgbackrest" target="_blank">Pgbackrest is no longer being maintained</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-27 10:56</span>
             </div>
         </div>
 <div class="story">
@@ -195,30 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F78cc2ap12p6wd5v0gles.png" alt="Building Smart Fairness Analyzer: An AI-Powered Bias Detection App with MongoDB &amp; NLP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lasyareddipatlolla/building-smart-fairness-analyzer-an-ai-powered-bias-detection-app-with-mongodb-nlp-85" target="_blank">Building Smart Fairness Analyzer: An AI-Powered Bias Detection App with MongoDB &amp; NLP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/en/headerimage/generatedHeaderImage-1777071600599.jpg" alt="GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Adds Flat-Rate Code Reviews, Free-Tier AI Access, and Spending Caps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 08:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/salimcodes/i-wasnt-going-to-write-for-the-openclaw-challenge-then-2026424-dropped-36oa" target="_blank">I Wasn&#x27;t Going to Write for the OpenClaw Challenge. Then 2026.4.24 Dropped.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 07:01</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-16-04-lts-has-reached-the-end-of-standard-expanded-security-maintenance-with-ubuntu-pro-here-are-your-options" target="_blank">Ubuntu 16.04 LTS has reached the end of standard Expanded Security Maintenance with Ubuntu Pro. Here are your options.</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-04-27 10:28</span>
             </div>
         </div>
 </div>
@@ -299,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
