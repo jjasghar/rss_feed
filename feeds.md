@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-26 23:11:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 00:15:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, April 26, 2026 - 23:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 00:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss" target="_blank">Iran war live: Araghchi to meet Putin, Trump says Tehran can call for talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks" target="_blank">Mali defence minister killed amid flurry of insurgent attacks</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-26 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623" target="_blank">WHCA dinner shooting live updates: Suspect planned to target multiple people</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-26 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777230814031_now_brk_alba_writings_260426_S3_1920x1080-7sc96s.jpg" alt="WHCD shooting suspect displayed anti-Trump sentiments in writings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/whcd-shooting-suspect-displayed-anti-trump-sentiments-in-writings-262139973524" target="_blank">WHCD shooting suspect displayed anti-Trump sentiments in writings</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-26 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss" target="_blank">Kenya’s Sawe shatters two-hour marathon barrier</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-26 18:43</span>
             </div>
         </div>
 </div>
@@ -184,6 +188,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d" target="_blank">I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-26 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/" target="_blank">Fast16: High-precision software sabotage 5 years before Stuxnet</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-26 20:18</span>
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/firefox-free-vpn-select-server" target="_blank">Firefox’s free VPN is getting the one feature it was missing</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-26 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7y79wex07okl8lxwil2.png" alt="Shortcut &amp; Mirroring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sankalp_fabric_data_architect/shortcut-mirroring-jma" target="_blank">Shortcut &amp; Mirroring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-26 19:01</span>
             </div>
         </div>
 </div>
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 23:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 251 |
+        🔄 Last Updated: 00:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
