@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 09:42:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-27 10:36:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 09:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 10:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss" target="_blank">Iran’s foreign minister in Russia for talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 10:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg" alt="Suspected gunman at Washington press dinner identified as 31-year-old Californian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2026-04-27 04:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/26/nx-s1-5800196/alleged-colorado-attacker-family-released-detention" target="_blank">Alleged Colorado attacker&#x27;s family released after nearly a year in detention</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69edbc789d3ddeb729d16d46/master/pass/Everything-You-Need-to-Know-About-Ethernet.jpg" alt="What Is Ethernet? Everything You Need to Know About Wired Networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-ethernet/" target="_blank">What Is Ethernet? Everything You Need to Know About Wired Networks</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-27 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/" target="_blank">Meta inks deal for solar power at night, beamed from space</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-27 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ebaf903bb8da7a0a20bfa9/master/pass/Pokemon-Anniversary-Merch-You-Can-Still-Buy-Gear-2262176772.jpg" alt="Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="time">2026-04-26 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps" target="_blank">Google’s new gradient icon design is coming to more apps</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-26 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom" target="_blank">Trump turns the WHCD shooting into a pitch for the White House ballroom</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-26 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz-one-month-in.html" target="_blank">httpxyz one month in</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-04-27 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-AI-Features-2026" target="_blank">Ubuntu Linux Will Begin Landing AI Features Throughout The Next Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-27 10:30</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/salimcodes/i-wasnt-going-to-write-for-the-openclaw-challenge-then-2026424-dropped-36oa" target="_blank">I Wasn&#x27;t Going to Write for the OpenClaw Challenge. Then 2026.4.24 Dropped.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-27 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.8-Released" target="_blank">D7VK v1.8 Continues Improving Legacy Direct3D Atop The Vulkan API</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/en/headerimage/java-istock-image-01-1777241266425.jpg" alt="Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 02:30</span>
             </div>
         </div>
 </div>
@@ -273,6 +277,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/27/microboned" target="_blank">Microboned</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-27 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1776970356-20260426.png" alt="Saturday Morning Breakfast Cereal - Quantum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -286,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 09:42 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 10:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
