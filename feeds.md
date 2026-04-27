@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 21:19:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-27 22:14:05 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 21:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss" target="_blank">Bahrain strips 69 people of citizenship over Iran support</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-27 21:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/king-charles-abc-gmh-260424_1777047649669_hpMain_4x3t_384.jpg" alt="LIVE:  King Charles and Queen Camilla arrive at White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +104,6 @@
                 <span class="time">2026-04-27 19:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump" target="_blank">Here&#x27;s a look inside security at the White House Correspondents&#x27; Association Dinner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/" target="_blank">Open source package with 1 million monthly downloads stole user credentials</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-27 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/" target="_blank">Letterboxd, the social platform for film buffs, reportedly looking for new owner</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-27 20:37</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +163,6 @@
                 <span class="time">2026-04-27 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc" target="_blank">Trump demands ABC fire Jimmy Kimmel</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-27 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -183,6 +184,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0" target="_blank">Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-04-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://status.npmjs.org" target="_blank">NPM Website Is Down</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-27 21:26</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +222,6 @@
                 <span class="time">2026-04-27 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18942861&w=600" alt="API-First Development: Why Modern Applications Depend on It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/api-first-development-why-modern-apps" target="_blank">API-First Development: Why Modern Applications Depend on It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/SEphiorth-.jpg" alt="Here Is Sephiroth Knocking Back A Cold One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/here-is-sephiroth-knocking-back-a-cold-one-2000690980" target="_blank">Here Is Sephiroth Knocking Back A Cold One</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-27 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/11/9da3a7c02920fbba4f8ebe746b569104-1280x720.jpg" alt="Call Of Duty Movie Director Previously Called Playing Video Games ‘Weak’ And ‘Pathetic’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2026-04-27 17:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KNHXW090TGXDQ96AQW67PM69/hero-image.png" alt="The New M5 MacBook Air Is on Sale for $950 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-air-deal-april-2026?utm_medium=RSS" target="_blank">The New M5 MacBook Air Is on Sale for $950 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-27 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 21:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
