@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 11:30:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-27 12:25:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 11:31 UTC</div>
+    <div class="newspaper-date">Monday, April 27, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777289169012_tdy_news_7a_odonnell_security_corr_dinner_260427_S3_1920x1080-key8lm.jpg" alt="Correspondents’ Dinner Shooting Suspect to be Arraigned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/suspect-in-correspondents-dinner-shooting-sent-email-of-targets-262154309721" target="_blank">Correspondents’ Dinner Shooting Suspect to be Arraigned</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-27 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,21 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-heavy-rain-extreme-weather_7231893.jpg?20260427095346" alt="Lightning strikes in Bangladesh kill 14 - including 10-year-old boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd1/live/75057c40-421b-11f1-ac78-2112837ce2aa.jpg" alt="Trump says King will be &#x27;very safe&#x27; during US visit after security talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/boy-10-among-14-killed-by-lightning-strikes-in-bangladesh-13537067" target="_blank">Lightning strikes in Bangladesh kill 14 - including 10-year-old boy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-27 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss" target="_blank">Pro-Palestine group accused of raiding Elbit factory face trial in Germany</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 06:36</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says King will be &#x27;very safe&#x27; during US visit after security talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 09:19</span>
             </div>
         </div>
 </div>
@@ -100,6 +100,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability" target="_blank">Govee’s multicolor ceiling light doubles as a low-res screen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-500x500.jpg" alt="Meet the players who lost big money on Peter Molyneux’s failed Legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +154,6 @@
                 <span class="time">2026-04-27 03:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/" target="_blank">The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-26 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,12 +169,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F83198r8ttol9y4eb5re6.png" alt="Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/seekdb/harness-engineering-from-ai-assisted-to-ai-driven-what-is-software-engineering-undergoing-l6n" target="_blank">Harness Engineering: From AI-Assisted to AI-Driven, What Is Software Engineering Undergoing?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-27 12:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1iqpubvw7t3gkxkxi9w.png" alt="I Tired of Trusting Bash Scripts With My Backups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nomad4tech/i-tired-of-trusting-bash-scripts-with-my-backups-4ke4" target="_blank">I Tired of Trusting Bash Scripts With My Backups</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-27 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/en/headerimage/mcp-java-architectural-strategy-llm-integrations-header-1776772947180.jpg" alt="Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/mcp-java-architectural-strategy-llm-integrations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: MCP in the Java World: Bringing Architectural Strategy to LLM Integrations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-27 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +211,6 @@
                 <span class="title"><a href="https://tildeweb.nl/~michiel/httpxyz-one-month-in.html" target="_blank">httpxyz one month in</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-04-27 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-AI-Features-2026" target="_blank">Ubuntu Linux Will Begin Landing AI Features Throughout The Next Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-16-04-lts-has-reached-the-end-of-standard-expanded-security-maintenance-with-ubuntu-pro-here-are-your-options" target="_blank">Ubuntu 16.04 LTS has reached the end of standard Expanded Security Maintenance with Ubuntu Pro. Here are your options.</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-27 10:28</span>
             </div>
         </div>
 </div>
@@ -291,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 11:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
