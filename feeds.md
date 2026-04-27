@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 18:22:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-27 19:29:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 18:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, April 27, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  DOJ briefing on White House correspondents&#x27; dinner shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  DOJ briefing on White House correspondents&#x27; dinner shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 19:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c5c/live/3845fc00-4255-11f1-a8e5-d31af761243a.jpg" alt="Melania Trump urges ABC to &#x27;take stand&#x27; on Jimmy Kimmel after widow joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss" target="_blank">Melania Trump urges ABC to &#x27;take stand&#x27; on Jimmy Kimmel after widow joke</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 17:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-04-27 16:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5797938/floridas-desantis-unveils-a-voting-map-that-could-add-to-trumps-gop-redistricting" target="_blank">Florida&#x27;s DeSantis unveils a voting map that could add to Trump&#x27;s GOP redistricting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/27/aje-onl-aje_onl_lebanon_wrap-270426?traffic_source=rss" target="_blank">Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/" target="_blank">Consumers lost $2.1 billion to social media scams in 2025, FTC reports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-27 19:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-500x500.png" alt="&quot;Super ZSNES&quot; is a stab at a modern SNES emulator from the original developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/" target="_blank">&quot;Super ZSNES&quot; is a stab at a modern SNES emulator from the original developers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-27 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="time">2026-04-27 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-500x500-1753287220.jpg" alt="National Science Board eviscerated; Trump admin fires all 22 members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/" target="_blank">National Science Board eviscerated; Trump admin fires all 22 members</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-27 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eba31172fa130deff56162/master/pass/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg" alt="The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/" target="_blank">The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-27 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +181,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0" target="_blank">Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-04-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947925&w=600" alt="When Events Move Faster Than Your Database: A Resilient Design Pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/when-events-move-faster-than-your-database" target="_blank">When Events Move Faster Than Your Database: A Resilient Design Pattern</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-27 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="time">2026-04-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/qconsf-2026-tracks-announced/en/headerimage/generatedHeaderImage-1777290052491.jpg" alt="QCon San Francisco 2026: 12 Tracks Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">QCon San Francisco 2026: 12 Tracks Announced</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-27 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/godaddy.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="GoDaddy handed a 27-year-old nonprofit domain to a stranger 2,000 miles away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/godaddy-handed-a-27-year-old-nonprofit-domain-to-a-stranger-2000-miles-away.html" target="_blank">GoDaddy handed a 27-year-old nonprofit domain to a stranger 2,000 miles away</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQ7Z6SCZS1ZWETPTQ5YZQ64K/hero-image.jpg" alt="Some iPhone 17 Devices Won&#x27;t Turn on After Their Batteries Run Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/iphone-17-wont-turn-on-after-batteries-run-out?utm_medium=RSS" target="_blank">Some iPhone 17 Devices Won&#x27;t Turn on After Their Batteries Run Out</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-27 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg?fit=1261%2C806&amp;quality=60&amp;ssl=1" alt="Trump just killed the Reflecting Pool&#x27;s iconic mirror effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/when-does-sunscreen-expire?utm_medium=RSS" target="_blank">Last Year&#x27;s Sunscreen Is (Probably) Still Good</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-27 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-Complete-2026-CompTIA-Certification-Training-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Pivot into IT with this $50 training bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/pivot-into-it-with-this-50-training-bundle.html" target="_blank">Pivot into IT with this $50 training bundle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/The-Expanse-Osiris-Reborn-official-image-from-Steam-Owlcat-Games-1280x720.jpg" alt="The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-expanse-osiris-reborn-barely-understands-the-series-aesthetic-and-completely-lacks-its-subtlety-2000690730" target="_blank">The Expanse: Osiris Reborn Barely Understands The Series’ Aesthetic And Completely Lacks Its Subtlety</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-27 14:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 41 | 📸 With Images: 247 |
-        🔄 Last Updated: 18:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
