@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 11:31:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 12:29:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 11:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 12:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/28/atletico-madrid-vs-arsenal-champions-league-team-news-start?traffic_source=rss" target="_blank">Atletico Madrid vs Arsenal: Champions League – team news, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm" target="_blank">WHCA dinner shooter charged. And, Charles III to address Congress</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 11:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,29 @@
                 <span class="time">2026-04-28 09:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-athens-greece-shooting_7233080.jpg?20260428122204" alt="Hunt for 89-year-old suspect after gunman opens fire in Athens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gunman-opens-fire-in-athens-several-people-wounded-13535677" target="_blank">Hunt for 89-year-old suspect after gunman opens fire in Athens</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-28 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-athens-greece-court-of-appeal_7232948.jpg?20260428103953" alt="Gunman opens fire in Athens - several people wounded" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gunman-opens-fire-in-athens-several-people-wounded-13535677" target="_blank">Gunman opens fire in Athens - several people wounded</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-28 09:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/" target="_blank">Otter’s new feature lets users search across their enterprise tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69eb7d52322e0f7cc84926c2/master/pass/Inkpost%20Tala%20press%20image%20landscape%20copy.jpg" alt="InkPoster Tela 28.5 Review: A Luxe Home Digital Frame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/inkposter-tela/" target="_blank">InkPoster Tela 28.5 Review: A Luxe Home Digital Frame</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-28 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,29 @@
                 <span class="time">2026-04-28 05:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg" alt="Hulu Promo Codes &amp; Discounts: 20% Off in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hulu-promo-code/" target="_blank">Hulu Promo Codes &amp; Discounts: 20% Off in April</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-28 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/" target="_blank">India’s Snabbit closes $56M round as investor interest in on-demand home services heats up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kanta13jp1/indie-dev-landing-page-optimization-6-changes-that-tripled-my-cvr-3omc" target="_blank">Indie Dev Landing Page Optimization: 6 Changes That Tripled My CVR</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 12:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/localsend/localsend" target="_blank">Localsend: An open-source cross-platform alternative to AirDrop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-28 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fod7oxkhurlc1b8ge5w4o.png" alt="Open Source Retool Alternative: A Code-First, AI-Native Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://www.theideasletter.org/essay/the-social-edge-of-intelligence/" target="_blank">The Social Edge of Intelligence: Individual Gain, Collective Loss</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-28 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/an-update-on-github-availability/" target="_blank">An update on GitHub availability</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-28 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/en/headerimage/kerrison-clyburn-llm-performance-header--1777288853060.jpg" alt="Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-28 09:05</span>
             </div>
         </div>
 </div>
@@ -301,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
