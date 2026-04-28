@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-27 23:15:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-28 00:18:25 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, April 27, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 00:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7a/live/212c5be0-4278-11f1-b55d-0f258dce1735.jpg" alt="King to defend &#x27;democratic values&#x27; as US state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">King to defend &#x27;democratic values&#x27; as US state visit begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-27 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777331435722_nn_kod_shooting_suspect_260427_S3_1920x1080-lnqbku.jpg" alt="New details on shooting suspect’s alleged planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-on-shooting-suspect-s-alleged-planning-262207557550" target="_blank">New details on shooting suspect’s alleged planning</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-27 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,39 +89,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/whcd-pearlman-trump-20260426-ap-jh_1777224364949_hpMain_4x3t_384.jpg" alt="White House correspondents&#x27; dinner shooting: Timeline of chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-timeline-chaos/story?id=132413783" target="_blank">White House correspondents&#x27; dinner shooting: Timeline of chaos</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss" target="_blank">Bahrain strips 69 people of citizenship over Iran support</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-27 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments" target="_blank">Supreme Court heard case on how to label risks of popular weed killer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/king-charles-abc-gmh-260424_1777047649669_hpMain_4x3t_384.jpg" alt="LIVE:  King Charles and Queen Camilla arrive at White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  King Charles and Queen Camilla arrive at White House: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-27 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss" target="_blank">Hezbollah and Israel swap threats and strikes across Lebanon’s border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 19:58</span>
             </div>
         </div>
 </div>
@@ -242,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/wallstare.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Engineer&#x27;s anti-brain-fog routine: stare at a wall for 10 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/engineers-anti-brain-fog-routine-stare-at-a-wall-for-10-minutes.html" target="_blank">Engineer&#x27;s anti-brain-fog routine: stare at a wall for 10 minutes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-27 23:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQ8EE134TRGZ13NR3966YAGP/hero-image.png" alt="DirecTV Just Released an App for Meta Quest Headsets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -286,15 +297,6 @@
                 <span class="time">2026-04-27 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ7Z6SCZS1ZWETPTQ5YZQ64K/hero-image.jpg" alt="Some iPhone 17 Devices Won&#x27;t Turn on After Their Batteries Run Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/iphone-17-wont-turn-on-after-batteries-run-out?utm_medium=RSS" target="_blank">Some iPhone 17 Devices Won&#x27;t Turn on After Their Batteries Run Out</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-27 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 00:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
