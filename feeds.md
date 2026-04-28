@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 17:31:09 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-28 18:27:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 17:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 18:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/2b4e6140-39ef-11f1-a10f-5774d1029b81.jpg" alt="PM won&#x27;t face inquiry over claims he misled MPs on Mandelson vetting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21lx9ne83o?at_medium=RSS&at_campaign=rss" target="_blank">PM won&#x27;t face inquiry over claims he misled MPs on Mandelson vetting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comey-ap-jef-260427_1777315065709_hpMain_4x3t_384.jpg" alt="James Comey indicted again, this time over seashell Instagram post" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/grand-jury-indicts-former-fbi-director-james-comey/story?id=132425678" target="_blank">James Comey indicted again, this time over seashell Instagram post</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss" target="_blank">From exile to judge: Symbolism in Syria’s trial of Assad, former officials</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns" target="_blank">Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-28 17:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777393904216_now_daily_a_opec_uae_withdraw_260428_S3_1920x1080-wdg84y.jpg" alt="UAE announces it will leave OPEC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/uae-announces-it-will-leave-opec-262286405936" target="_blank">UAE announces it will leave OPEC</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-28 16:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Business/gas-pump-gty-jef-260428_1777392433649_hpMain_4x3t_384.jpg" alt="US gasoline prices hit highest level in 4 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -49,56 +100,29 @@
                 <span class="time">2026-04-28 16:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president" target="_blank">South Korean court extends prison sentence for wife of ousted president</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0874/live/78b19140-4300-11f1-b538-f34ed0c59bce.jpg" alt="I made &#x27;serious mistake&#x27; advising Starmer to appoint Mandelson, PM&#x27;s ex-top adviser says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&at_campaign=rss" target="_blank">I made &#x27;serious mistake&#x27; advising Starmer to appoint Mandelson, PM&#x27;s ex-top adviser says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss" target="_blank">What’s in Iran’s latest proposal – and how has the US responded?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/2604238-dubai-uae-skyline-mn-0845-2abd49.jpg" alt="United Arab Emirates quits OPEC as Iran war raises Gulf tensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/energy/uae-quits-opec-oil-iran-talks-rcna342465" target="_blank">United Arab Emirates quits OPEC as Iran war raises Gulf tensions</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-28 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/28/atletico-madrid-vs-arsenal-champions-league-team-news-start?traffic_source=rss" target="_blank">Atletico Madrid vs Arsenal: Champions League – team news, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 11:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/" target="_blank">Match Group invests $100 million in Sniffies, a cruising app for gay men</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-28 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-500x500-1777400750.jpg" alt="Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/" target="_blank">Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-28 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +159,38 @@
                 <span class="time">2026-04-28 15:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/" target="_blank">BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/master/pass/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg" alt="Get Ready for More Brain-Scanning Consumer Gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank">Get Ready for More Brain-Scanning Consumer Gadgets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itsmarydan/what-is-record-ttl-database-time-to-live-explained-263c" target="_blank">What Is Record TTL? Database Time-to-Live Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 18:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/" target="_blank">GitHub for Beginners: Getting started with Markdown</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-28 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/agents-cli-google-cloud/en/headerimage/generatedHeaderImage-1777398240597.jpg" alt="Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/agents-cli-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-28 17:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +218,6 @@
                 <span class="time">2026-04-28 16:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949999&w=600" alt="Java Backend Development in the Era of Kubernetes and Docker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-backend-kubernetes-docker" target="_blank">Java Backend Development in the Era of Kubernetes and Docker</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qasim157/star-or-flag-an-email-from-the-command-line-1525" target="_blank">Star or flag an email from the Command Line</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/" target="_blank">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-28 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/office.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="How to skip a year of work without anyone noticing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/how-to-skip-a-year-of-work-without-anyone-noticing.html" target="_blank">How to skip a year of work without anyone noticing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/02/kitkat.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Take a break from your phone with a KitKat wrapper that is also a Faraday cage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +291,6 @@
                 <span class="time">2026-04-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/ff7-demo.jpg" alt="Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ff7-rebirth-switch-2-demo-xbox-free-progress-2000691235" target="_blank">Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-28 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 17:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 18:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
