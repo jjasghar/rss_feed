@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 22:16:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 23:16:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +51,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ac/live/c284d420-4347-11f1-bd52-e755d604ece4.png" alt="Comey charged with threatening Trump&#x27;s life in Instagram post" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss" target="_blank">Comey charged with threatening Trump&#x27;s life in Instagram post</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss" target="_blank">Israeli soldier shows Gaza’s Beit Hanoon completely flattened</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5801465/national-science-board-trump-firing" target="_blank">Scientists see Trump&#x27;s firing of the National Science Board as an attack on research</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 22:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss" target="_blank">The biggest military spenders</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-28 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04dd/live/4be42d20-4347-11f1-92c0-150b8e44bb63.jpg" alt="Five takeaways from the King&#x27;s historic address to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss" target="_blank">Five takeaways from the King&#x27;s historic address to Congress</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -67,47 +104,20 @@
                 <span class="time">2026-04-28 21:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5801467/cole-allen-suspect-washington-correspondents-dinner-shooting" target="_blank">With no radical footprint, what drove suspect to try and assassinate Trump?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/king-charles-52-rt-gmh-260428_1777404306765_hpMain_4x3t_384.jpg" alt="King Charles III visit updates: Applause for Charles&#x27; comments on exec power checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/live-updates-king-charles-state-visit-2026/?id=132358438" target="_blank">King Charles III visit updates: Applause for Charles&#x27; comments on exec power checks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/trump-hails-us-uk-bond-as-he-welcomes-british-royals?traffic_source=rss" target="_blank">Trump hails US-UK bond as he welcomes British royals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5803167/james-comey-indictment" target="_blank">Justice Department indicts former FBI director James Comey for a second time</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump" target="_blank">James Comey indicted over Instagram seashell photo that allegedly threatened Trump</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 21:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +163,6 @@
                 <span class="time">2026-04-28 19:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/" target="_blank">Match Group invests $100 million in Sniffies, a cruising app for gay men</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/gad_ofir_076c468dd15d483b/introducing-the-agent-platform-40-complete-2026-04-28-2321-47ko" target="_blank">Introducing the Agent Platform - 40% Complete (2026-04-28 23:21)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-28 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949643&w=600" alt="The Bill You Didn&#x27;t See Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-bill-you-didnt-see-coming" target="_blank">The Bill You Didn&#x27;t See Coming</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-28 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +222,6 @@
                 <span class="time">2026-04-28 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/agents-cli-google-cloud/en/headerimage/generatedHeaderImage-1777398240597.jpg" alt="Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/agents-cli-google-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Agents CLI to Streamline AI Agent Development Lifecycle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-28 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/dawn-walker.jpg" alt="9 Things We Just Learned About The Witcher 3 Director’s New Open-World Vampire RPG Blood Of The Dawnwalker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/blood-dawnwalker-vampire-rpg-witcher-gameplay-specs-2000691377" target="_blank">9 Things We Just Learned About The Witcher 3 Director’s New Open-World Vampire RPG Blood Of The Dawnwalker</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-28 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot-2026-04-28-at-6.34.08-PM.png?fit=966%2C466&amp;quality=55&amp;ssl=1" alt="Tom the Dancing Bug nominated for Reuben Award for editorial cartooning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/tom-the-dancing-bug-nominated-for-reuben-award-for-editorial-cartooning.html" target="_blank">Tom the Dancing Bug nominated for Reuben Award for editorial cartooning</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/tomodachilifereasonable.jpg" alt="‘I Don’t Wanna See Anymore G*d D*mn r/tomodachilife On This Subreddit ANYMORE!’ – Rupaul’s Drag Race Subreddit Is Fed Up With Tomodachi Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +295,6 @@
                 <span class="time">2026-04-28 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/office.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="How to skip a year of work without anyone noticing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/28/how-to-skip-a-year-of-work-without-anyone-noticing.html" target="_blank">How to skip a year of work without anyone noticing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-28 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/wwallbreeak-1280x720.jpg" alt="Hackers Have Bypassed Denuvo DRM In Every Game And Now 2K Is Reportedly Fighting Back With 14-Day Online Check-Ins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hackers-have-bypassed-denuvo-drm-in-every-game-and-now-2k-is-reportedly-fighting-back-with-14-day-online-check-ins-2000691311" target="_blank">Hackers Have Bypassed Denuvo DRM In Every Game And Now 2K Is Reportedly Fighting Back With 14-Day Online Check-Ins</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-28 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
