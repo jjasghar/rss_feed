@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 04:22:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-28 06:00:22 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 04:22 UTC</div>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 06:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption" target="_blank">Pompeii archaeologists use AI to reconstruct man killed in volcano&#x27;s eruption</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 05:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-mexico-drug-lord-el-jardinero_7232762.png?20260428041431" alt="Cartel leader tipped to succeed &#x27;El Mencho&#x27; captured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mexican-army-captures-cartel-leader-tipped-to-succeed-el-mencho-13537431" target="_blank">Cartel leader tipped to succeed &#x27;El Mencho&#x27; captured</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-28 03:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/whcd-pearlman-trump-20260426-ap-jh_1777224364949_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting timeline: Suspect captured trying to get in" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,39 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1399/live/708eb230-42c0-11f1-bd52-e755d604ece4.jpg" alt="King to defend democratic values as US state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">King to defend democratic values as US state visit begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 01:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/king-charles-iii-arrives-at-white-house-for-four-day-us-visit?traffic_source=rss" target="_blank">King Charles III arrives at White House for four-day US visit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-28 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7a/live/212c5be0-4278-11f1-b55d-0f258dce1735.jpg" alt="King to defend &#x27;democratic values&#x27; as US state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">King to defend &#x27;democratic values&#x27; as US state visit begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-27 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination" target="_blank">South Carolina&#x27;s measles outbreak is over. But more are brewing around the country</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-27 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777331435722_nn_kod_shooting_suspect_260427_S3_1920x1080-lnqbku.jpg" alt="New details on shooting suspect’s alleged planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-on-shooting-suspect-s-alleged-planning-262207557550" target="_blank">New details on shooting suspect’s alleged planning</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-27 23:10</span>
             </div>
         </div>
 </div>
@@ -164,12 +163,12 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flh80j67fthibbgdpztxf.png" alt="Architecting Agentic AI Applications: The Complete Engineering Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/building-center-excellence-ansible" target="_blank">Building a Center of Excellence for Ansible</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-05-08 00:00</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c" target="_blank">Architecting Agentic AI Applications: The Complete Engineering Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 05:45</span>
             </div>
         </div>
 <div class="story">
@@ -237,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/c585da47956ae43491150055ea2e35d5a7e8781305e33a11b087066bf19ec080.webp?fit=1140%2C760&amp;quality=55&amp;ssl=1" alt="French teen arrested for licking vending machine straw in Singapore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/27/french-teen-arrested-for-licking-vending-machine-straw-in-singapore.html" target="_blank">French teen arrested for licking vending machine straw in Singapore</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 00:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/wallstare.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Engineer&#x27;s anti-brain-fog routine: stare at a wall for 10 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,15 +289,6 @@
                 <span class="time">2026-04-27 20:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/godaddy.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="GoDaddy handed a 27-year-old nonprofit domain to a stranger 2,000 miles away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/godaddy-handed-a-27-year-old-nonprofit-domain-to-a-stranger-2000-miles-away.html" target="_blank">GoDaddy handed a 27-year-old nonprofit domain to a stranger 2,000 miles away</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-27 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 251 |
-        🔄 Last Updated: 04:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 06:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
