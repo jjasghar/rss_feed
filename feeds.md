@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 12:29:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 13:31:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 12:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss" target="_blank">What’s in Iran’s latest proposal – and how has the US responded?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 12:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +105,38 @@
                 <span class="time">2026-04-28 09:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-8-ap-gmh-260424_1777046897685_hpMain_4x3t_384.jpg" alt="Iran live updates: Rubio dismisses Iran peace proposal, stresses nuclear issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Rubio dismisses Iran peace proposal, stresses nuclear issue</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 09:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/" target="_blank">BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-28 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/master/pass/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg" alt="Get Ready for More Brain-Scanning Consumer Gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/" target="_blank">Get Ready for More Brain-Scanning Consumer Gadgets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review" target="_blank">Behold the crown jewel of outrageous gaming laptops</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,39 +156,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Zoox-Las-Vegas-6-500x500.jpg" alt="Start with the sensors, then design the rest: How Zoox built its robotaxi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox" target="_blank">It’s a busy time for sci-fi, but don’t miss Aphelion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e8f8b80a0e9a68acb2cc2c/master/pass/Bloomberg-Overhauls-Terminal-With-AI-Business-AP-22088642035693.jpg" alt="The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/" target="_blank">The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-28 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion" target="_blank">Microsoft Office can now be controlled with Logitech’s MX Creative Console</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/" target="_blank">Drizzle on top: a new high-end dog food brand is coming for the 1%</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 05:02</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/" target="_blank">Start with the sensors, then design the rest: How Zoox built its robotaxi</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-28 11:20</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Error-Messages" target="_blank">GCC 16&#x27;s Improved Error Messages, Experimental HTML Output</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-28 13:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/" target="_blank">Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,22 +223,18 @@
                 <span class="time">2026-04-28 11:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17326955/ubuntu-is-getting-ai" target="_blank">Ubuntu is Going Big on AI (But Not The Copilot Kind You Dread)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-28 10:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theideasletter.org/essay/the-social-edge-of-intelligence/" target="_blank">The Social Edge of Intelligence: Individual Gain, Collective Loss</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-28 10:08</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html" target="_blank">What Anthropic’s Mythos Means for the Future of Cybersecurity</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-28 11:06</span>
             </div>
         </div>
 </div>
@@ -223,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/ff7-demo.jpg" alt="Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ff7-rebirth-switch-2-demo-xbox-free-progress-2000691235" target="_blank">Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-28 12:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,20 +296,20 @@
                 <span class="time">2026-04-27 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/11/9da3a7c02920fbba4f8ebe746b569104-1280x720.jpg" alt="Call Of Duty Movie Director Previously Called Playing Video Games ‘Weak’ And ‘Pathetic’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/call-of-duty-movie-director-previously-called-playing-video-games-weak-and-pathetic-2000690955" target="_blank">Call Of Duty Movie Director Previously Called Playing Video Games ‘Weak’ And ‘Pathetic’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-27 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777343494-parentingkickstarterlaunchcomic.png" alt="Saturday Morning Breakfast Cereal - Kickstarter Launch!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/kickstarter-launch" target="_blank">Saturday Morning Breakfast Cereal - Kickstarter Launch!</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-28 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
