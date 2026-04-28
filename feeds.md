@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 06:00:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 07:08:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 06:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 07:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss" target="_blank">At least 20 killed in Colombia highway blast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/686c/live/8dbc7e00-42cf-11f1-9cf2-2b2a184d3db3.jpg" alt="Jimmy Kimmel rejects White House criticism over Melania widow joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss" target="_blank">Jimmy Kimmel rejects White House criticism over Melania widow joke</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 06:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +106,38 @@
                 <span class="time">2026-04-28 02:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1399/live/708eb230-42c0-11f1-bd52-e755d604ece4.jpg" alt="King to defend democratic values as US state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">King to defend democratic values as US state visit begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/king-charles-iii-arrives-at-white-house-for-four-day-us-visit?traffic_source=rss" target="_blank">King Charles III arrives at White House for four-day US visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion" target="_blank">Microsoft Office can now be controlled with Logitech’s MX Creative Console</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/" target="_blank">Drizzle on top: a new high-end dog food brand is coming for the 1%</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-28 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg" alt="Hulu Promo Codes &amp; Discounts: 20% Off in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hulu-promo-code/" target="_blank">Hulu Promo Codes &amp; Discounts: 20% Off in April</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-28 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +165,47 @@
                 <span class="time">2026-04-28 00:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-500x500.jpg" alt="Open source package with 1 million monthly downloads stole user credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/" target="_blank">Open source package with 1 million monthly downloads stole user credentials</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-27 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/" target="_blank">Letterboxd, the social platform for film buffs, reportedly looking for new owner</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-27 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69efb9ef92ae3f4f1e6069d9/master/pass/The-M5-MacBook-Air-Returns-to-Its-Lowest-Price-Since-Being-Launched.jpg" alt="The M5 MacBook Air Has Never Been Cheaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/m5-macbook-air-never-been-cheaper/" target="_blank">The M5 MacBook Air Has Never Been Cheaper</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-27 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/" target="_blank">Your LLM issues are really data issues</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-28 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xiami9378389/competitive-map-10-ai-agent-bounty-task-platforms-vs-agenthansa-3888" target="_blank">Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/npmx-browser-alpha/en/headerimage/generatedHeaderImage-1777297340370.jpg" alt="npmx Reaches Alpha: Community Driven Alternative Browser for the npm Registry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/npmx-browser-alpha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">npmx Reaches Alpha: Community Driven Alternative Browser for the npm Registry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-28 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gtfobins.org/" target="_blank">GTFOBins</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-28 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flh80j67fthibbgdpztxf.png" alt="Architecting Agentic AI Applications: The Complete Engineering Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,42 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-28 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/passandscore/if-youre-running-multiple-coding-agents-superset-is-the-ide-you-want-4jbn" target="_blank">If You&#x27;re Running Multiple Coding Agents, Superset Is the IDE You Want</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Stratis-Storage-3.9-Released" target="_blank">Red Hat&#x27;s Stratis Storage 3.9 Released With Online Encryption/Decryption/Reencryption</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-28 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-daniel-aw-vice-president-general-manager-red-hat-apac-0" target="_blank">Getting to know Daniel Aw, Vice President &amp; General Manager, Red Hat APAC</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-04-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robertatkinson3570/what-structured-data-your-product-page-needs-in-2026-3234" target="_blank">What Structured Data Your Product Page Needs in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-27 23:04</span>
             </div>
         </div>
 </div>
@@ -235,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-28 04:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/c585da47956ae43491150055ea2e35d5a7e8781305e33a11b087066bf19ec080.webp?fit=1140%2C760&amp;quality=55&amp;ssl=1" alt="French teen arrested for licking vending machine straw in Singapore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +297,6 @@
                 <span class="time">2026-04-27 21:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Widecreen-Salamander.jpg?fit=1080%2C668&amp;quality=60&amp;ssl=1" alt="Legendary emulator ZSNES rewritten from scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/legendary-emulator-zsnes-rewritten-from-scratch.html" target="_blank">Legendary emulator ZSNES rewritten from scratch</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-27 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +320,13 @@
                 <span class="time">2026-04-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/27/microboned" target="_blank">Microboned</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-27 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 07:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
