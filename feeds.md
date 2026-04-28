@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 01:31:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 03:00:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Error processing https://itsfoss.com/rss/: Remote end closed connection without response -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/whcd-pearlman-trump-20260426-ap-jh_1777224364949_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting timeline: Suspect captured trying to get in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-timeline-chaos/story?id=132413783" target="_blank">WHCA dinner shooting timeline: Suspect captured trying to get in</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/italy-extradites-alleged-chinese-cyber-espionage-suspect-to-us?traffic_source=rss" target="_blank">Italy extradites alleged Chinese cyber-espionage suspect to US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 02:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination" target="_blank">South Carolina&#x27;s measles outbreak is over. But more are brewing around the country</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-27 23:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777331435722_nn_kod_shooting_suspect_260427_S3_1920x1080-lnqbku.jpg" alt="New details on shooting suspect’s alleged planning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/new-details-on-shooting-suspect-s-alleged-planning-262207557550" target="_blank">New details on shooting suspect’s alleged planning</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-27 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/27/gunmen-kill-at-least-29-at-football-pitch-in-north-east-nigeria-governor-says" target="_blank">Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-27 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss" target="_blank">US Supreme Court reinstates Republican-favoured Texas electoral map</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-27 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/whcd-pearlman-trump-20260426-ap-jh_1777224364949_hpMain_4x3t_384.jpg" alt="White House correspondents&#x27; dinner shooting: Timeline of chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-timeline-chaos/story?id=132413783" target="_blank">White House correspondents&#x27; dinner shooting: Timeline of chaos</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-27 21:53</span>
             </div>
         </div>
 </div>
@@ -176,12 +174,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/java-news-roundup-apr20-2026/en/headerimage/java-news-roundup-image-1777324638353.jpg" alt="Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK, Oracle Critical Patches, Open Liberty, Testcontainers, IntelliJ IDEA</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-28 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/passandscore/if-youre-running-multiple-coding-agents-superset-is-the-ide-you-want-4jbn" target="_blank">If You&#x27;re Running Multiple Coding Agents, Superset Is the IDE You Want</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-28 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Stratis-Storage-3.9-Released" target="_blank">Red Hat&#x27;s Stratis Storage 3.9 Released With Online Encryption/Decryption/Reencryption</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-28 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/robertatkinson3570/what-structured-data-your-product-page-needs-in-2026-3234" target="_blank">What Structured Data Your Product Page Needs in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-27 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/" target="_blank">What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-04-27 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://status.npmjs.org" target="_blank">NPM Website Is Down</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-27 21:26</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
