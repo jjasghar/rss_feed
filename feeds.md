@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 16:32:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-04-28 17:31:09 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 16:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 17:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +102,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview" target="_blank">Apple TV’s new horror series is scarier because it’s also hilarious</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/" target="_blank">US Supreme Court appears split over controversial use of ‘geofence’ search warrants</a></span>
                 <span class="feed">TechCrunch</span>
@@ -148,15 +153,6 @@
                 <span class="time">2026-04-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review" target="_blank">Behold the crown jewel of outrageous gaming laptops</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/johalputt/postmortem-hashicorp-vault-116-secret-rotation-failure-caused-4-hour-outage-for-payment-services-e83" target="_blank">Postmortem: HashiCorp Vault 1.16 Secret Rotation Failure Caused 4-Hour Outage for Payment Services</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-28 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers" target="_blank">AI uncovers 38 vulnerabilities in largest open source medical record software</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-28 16:06</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +212,6 @@
                 <span class="time">2026-04-28 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-windows-11" target="_blank">Ubuntu 26.04 LTS Leads Over Windows 11 In Creator Workstation Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/02/kitkat.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Take a break from your phone with a KitKat wrapper that is also a Faraday cage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/take-a-break-from-your-phone-with-a-kitkat-wrapper-that-is-also-a-faraday-cage.html" target="_blank">Take a break from your phone with a KitKat wrapper that is also a Faraday cage</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQA75WH5912QZCCARFNF4AA4/hero-image.jpg" alt="Apple&#x27;s New Subscription Payment Option Isn&#x27;t Coming to the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-pay-for-annual-apple-subscriptions-on-a-monthly-basis?utm_medium=RSS" target="_blank">Apple&#x27;s New Subscription Payment Option Isn&#x27;t Coming to the US</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-28 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="OpenAI reports &quot;incredibly positive&quot; vibe as shareholder value sinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +285,6 @@
                 <span class="time">2026-04-28 12:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-28 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/c585da47956ae43491150055ea2e35d5a7e8781305e33a11b087066bf19ec080.webp?fit=1140%2C760&amp;quality=55&amp;ssl=1" alt="French teen arrested for licking vending machine straw in Singapore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/french-teen-arrested-for-licking-vending-machine-straw-in-singapore.html" target="_blank">French teen arrested for licking vending machine straw in Singapore</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-28 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +308,13 @@
                 <span class="time">2026-04-28 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/27/microboned" target="_blank">Microboned</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-27 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
