@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 20:26:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-04-28 21:20:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 20:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/904016d0-432b-11f1-b55a-69833a1ab7a9.jpg" alt="Former FBI director James Comey charged with threatening Trump&#x27;s life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss" target="_blank">Former FBI director James Comey charged with threatening Trump&#x27;s life</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5801467/cole-allen-suspect-washington-correspondents-dinner-shooting" target="_blank">With no radical footprint, what drove suspect to try and assassinate Trump?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 21:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/trump-hails-us-uk-bond-as-he-welcomes-british-royals?traffic_source=rss" target="_blank">Trump hails US-UK bond as he welcomes British royals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +94,29 @@
                 <span class="time">2026-04-28 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/2b4e6140-39ef-11f1-a10f-5774d1029b81.jpg" alt="PM won&#x27;t face inquiry over claims he misled MPs on Mandelson vetting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21lx9ne83o?at_medium=RSS&at_campaign=rss" target="_blank">PM won&#x27;t face inquiry over claims he misled MPs on Mandelson vetting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comey-ap-jef-260427_1777315065709_hpMain_4x3t_384.jpg" alt="James Comey indicted again, this time over seashell Instagram post" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/grand-jury-indicts-former-fbi-director-james-comey/story?id=132425678" target="_blank">James Comey indicted again, this time over seashell Instagram post</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss" target="_blank">From exile to judge: Symbolism in Syria’s trial of Assad, former officials</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity" target="_blank">Elon Musk tells the jury that all he wants to do is save humanity</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69eff45f1faeb9a8527c45be/master/pass/Sniffies-Users-Worry-About-Straightification-of-App-Culture.jpg" alt="Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/" target="_blank">Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-28 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-151039025-500x500.jpg" alt="Flesh-eating bacteria devour man&#x27;s arm and leg in just three days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/" target="_blank">Match Group invests $100 million in Sniffies, a cruising app for gay men</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-28 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2272048837-500x500-1777400750.jpg" alt="Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/" target="_blank">Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-28 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview" target="_blank">Apple TV’s new horror series is scarier because it’s also hilarious</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 17:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 20:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
