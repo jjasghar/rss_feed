@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 10:36:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 11:31:10 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates" target="_blank">Deadlock over Iran&#x27;s nuclear program and the Strait of Hormuz cripples peace efforts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 10:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +79,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-athens-greece-shooting_7233080.jpg?20260428122204" alt="Hunt for 89-year-old suspect after gunman opens fire in Athens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gunman-opens-fire-in-athens-several-people-wounded-13535677" target="_blank">Hunt for 89-year-old suspect after gunman opens fire in Athens</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-28 09:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-athens-greece-court-of-appeal_7232948.jpg?20260428103953" alt="Gunman opens fire in Athens - several people wounded" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/gunman-opens-fire-in-athens-several-people-wounded-13535677" target="_blank">Gunman opens fire in Athens - several people wounded</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-04-28 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1399/live/708eb230-42c0-11f1-bd52-e755d604ece4.jpg" alt="UK and US always find ways to come together, King to tell Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">UK and US always find ways to come together, King to tell Congress</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss" target="_blank">Down but not out: In war with Israel, Hezbollah shows it is still powerful</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 08:20</span>
             </div>
         </div>
 </div>
@@ -167,12 +161,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fod7oxkhurlc1b8ge5w4o.png" alt="Open Source Retool Alternative: A Code-First, AI-Native Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tkarwatka/open-source-retool-alternative-a-code-first-ai-native-approach-21di" target="_blank">Open Source Retool Alternative: A Code-First, AI-Native Approach</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Proton-11.0-Beta-2" target="_blank">Proton 11.0 Beta 2 Updates VKD3D-Proton</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-28 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17326955/ubuntu-is-getting-ai" target="_blank">Ubuntu is Going Big on AI (But Not The Copilot Kind You Dread)</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-28 10:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theideasletter.org/essay/the-social-edge-of-intelligence/" target="_blank">The Social Edge of Intelligence: Individual Gain, Collective Loss</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-28 10:08</span>
             </div>
         </div>
 <div class="story">
@@ -191,47 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-04-28 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/openchoreo-10/en/headerimage/generatedHeaderImage-1777153499975.jpg" alt="OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/openchoreo-10/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/" target="_blank">Your LLM issues are really data issues</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-28 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xiami9378389/competitive-map-10-ai-agent-bounty-task-platforms-vs-agenthansa-3888" target="_blank">Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 07:01</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html" target="_blank">Medieval Encrypted Letter Decoded</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-27 11:04</span>
             </div>
         </div>
 </div>
@@ -321,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
