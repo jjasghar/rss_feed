@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 21:20:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 22:16:56 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/the-biggest-military-spenders?traffic_source=rss" target="_blank">The biggest military spenders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/904016d0-432b-11f1-b55a-69833a1ab7a9.jpg" alt="Former FBI director James Comey charged with threatening Trump&#x27;s life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -59,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/king-charles-52-rt-gmh-260428_1777404306765_hpMain_4x3t_384.jpg" alt="King Charles III visit updates: Applause for Charles&#x27; comments on exec power checks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/News/live-updates/live-updates-king-charles-state-visit-2026/?id=132358438" target="_blank">King Charles III visit updates: Applause for Charles&#x27; comments on exec power checks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 20:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -74,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5803167/james-comey-indictment" target="_blank">Justice Department indicts former FBI director James Comey for a second time</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-28 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss" target="_blank">Trump approval dips to record low amid Iran war, inflation woes: Poll</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777402288122_now_daily_b_reilly_comey_indicted_260428_S3_1920x1080-pdcpii.jpg" alt="James Comey indicted over seashell photo that officials say threatened Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/james-comey-indicted-over-seashell-photo-that-officials-say-threatened-trump-262298693591" target="_blank">James Comey indicted over seashell photo that officials say threatened Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-28 18:51</span>
             </div>
         </div>
 </div>
@@ -232,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/tomodachilifereasonable.jpg" alt="‘I Don’t Wanna See Anymore G*d D*mn r/tomodachilife On This Subreddit ANYMORE!’ – Rupaul’s Drag Race Subreddit Is Fed Up With Tomodachi Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rupauls-drag-race-subreddit-banned-tomodachi-life-2000691381" target="_blank">‘I Don’t Wanna See Anymore G*d D*mn r/tomodachilife On This Subreddit ANYMORE!’ – Rupaul’s Drag Race Subreddit Is Fed Up With Tomodachi Life</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-28 22:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Developers can now get Visual Studio Pro for life for under $40 (was $499.99)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/developers-can-now-get-visual-studio-pro-for-life-for-under-40-was-499-99.html" target="_blank">Developers can now get Visual Studio Pro for life for under $40 (was $499.99)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="All The Evidence That GTA 6‘s Next Trailer Is Nearly Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -267,24 +294,6 @@
                 <span class="time">2026-04-28 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/02/kitkat.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Take a break from your phone with a KitKat wrapper that is also a Faraday cage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/28/take-a-break-from-your-phone-with-a-kitkat-wrapper-that-is-also-a-faraday-cage.html" target="_blank">Take a break from your phone with a KitKat wrapper that is also a Faraday cage</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-28 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQA75WH5912QZCCARFNF4AA4/hero-image.jpg" alt="Apple&#x27;s New Subscription Payment Option Isn&#x27;t Coming to the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-pay-for-annual-apple-subscriptions-on-a-monthly-basis?utm_medium=RSS" target="_blank">Apple&#x27;s New Subscription Payment Option Isn&#x27;t Coming to the US</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-28 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
