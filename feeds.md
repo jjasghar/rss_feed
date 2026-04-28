@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 18:27:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-28 19:29:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 18:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss" target="_blank">Trump approval dips to record low amid Iran war, inflation woes: Poll</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-28 19:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/2b4e6140-39ef-11f1-a10f-5774d1029b81.jpg" alt="PM won&#x27;t face inquiry over claims he misled MPs on Mandelson vetting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/uae-announces-it-will-leave-opec-262286405936" target="_blank">UAE announces it will leave OPEC</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-04-28 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/gas-pump-gty-jef-260428_1777392433649_hpMain_4x3t_384.jpg" alt="US gasoline prices hit highest level in 4 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/us-gasoline-prices-hit-highest-level-4-years/story?id=132459162" target="_blank">US gasoline prices hit highest level in 4 years</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 16:21</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwqch95hes73nhxgo4a9.png" alt="Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm" target="_blank">Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 19:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,28 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ARM64-On-s390-IBM-Z-v2" target="_blank">IBM Updates Linux Patches For Introducing ARM64 KVM Virtualization On s390</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-28 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/johalputt/postmortem-hashicorp-vault-116-secret-rotation-failure-caused-4-hour-outage-for-payment-services-e83" target="_blank">Postmortem: HashiCorp Vault 1.16 Secret Rotation Failure Caused 4-Hour Outage for Payment Services</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-28 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers" target="_blank">AI uncovers 38 vulnerabilities in largest open source medical record software</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-28 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-nemotron-3-nano-omni" target="_blank">Run NVIDIA Nemotron 3 Nano Omni locally in a single command</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-04-28 16:04</span>
             </div>
         </div>
 </div>
@@ -244,6 +245,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/28/how-to-skip-a-year-of-work-without-anyone-noticing.html" target="_blank">How to skip a year of work without anyone noticing</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-28 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wwallbreeak-1280x720.jpg" alt="Hackers Have Bypassed Denuvo DRM In Every Game And Now 2K Is Reportedly Fighting Back With 14-Day Online Check-Ins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hackers-have-bypassed-denuvo-drm-in-every-game-and-now-2k-is-reportedly-fighting-back-with-14-day-online-check-ins-2000691311" target="_blank">Hackers Have Bypassed Denuvo DRM In Every Game And Now 2K Is Reportedly Fighting Back With 14-Day Online Check-Ins</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-28 17:39</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +292,6 @@
                 <span class="time">2026-04-28 15:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQA7RD0535H212CGKWK928SH/hero-image.png" alt="This Mid-Range Portable Projector With Detachable Speakers Is $160 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-nebula-p1-portable-projector-sale-april-2026?utm_medium=RSS" target="_blank">This Mid-Range Portable Projector With Detachable Speakers Is $160 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,7 +321,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 18:27 UTC
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
