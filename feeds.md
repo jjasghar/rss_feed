@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 15:44:44 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-28 16:32:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 15:44 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 16:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Business/gas-pump-gty-jef-260428_1777392433649_hpMain_4x3t_384.jpg" alt="US gasoline prices hit highest level in 4 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/us-gasoline-prices-hit-highest-level-4-years/story?id=132459162" target="_blank">US gasoline prices hit highest level in 4 years</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 16:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-119050/south-korean-court-extends-prison-sentence-for-wife-of-ousted-president" target="_blank">South Korean court extends prison sentence for wife of ousted president</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-28 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0874/live/78b19140-4300-11f1-b538-f34ed0c59bce.jpg" alt="I made &#x27;serious mistake&#x27; advising Starmer to appoint Mandelson, PM&#x27;s ex-top adviser says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&at_campaign=rss" target="_blank">I made &#x27;serious mistake&#x27; advising Starmer to appoint Mandelson, PM&#x27;s ex-top adviser says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 14:11</span>
             </div>
         </div>
 <div class="story">
@@ -63,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/2604238-dubai-uae-skyline-mn-0845-2abd49.jpg" alt="United Arab Emirates quits OPEC as Iran war raises Gulf tensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/energy/uae-quits-opec-oil-iran-talks-rcna342465" target="_blank">United Arab Emirates quits OPEC as Iran war raises Gulf tensions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-28 12:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -71,38 +98,20 @@
                 <span class="time">2026-04-28 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm" target="_blank">WHCA dinner shooter charged. And, Charles III to address Congress</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates" target="_blank">Deadlock over Iran&#x27;s nuclear program and the Strait of Hormuz cripples peace efforts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/28/the-process-of-uranium-enrichment?traffic_source=rss" target="_blank">The Process of Uranium Enrichment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-28 09:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/" target="_blank">US Supreme Court appears split over controversial use of ‘geofence’ search warrants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-28 16:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/copilot-500x500-1777389464.png" alt="GitHub will start charging Copilot users based on their actual AI usage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +157,38 @@
                 <span class="time">2026-04-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/" target="_blank">Otter’s new feature lets users search across their enterprise tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johalputt/postmortem-hashicorp-vault-116-secret-rotation-failure-caused-4-hour-outage-for-payment-services-e83" target="_blank">Postmortem: HashiCorp Vault 1.16 Secret Rotation Failure Caused 4-Hour Outage for Payment Services</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-28 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/nvidia-nemotron-3-nano-omni" target="_blank">Run NVIDIA Nemotron 3 Nano Omni locally in a single command</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-04-28 16:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949999&w=600" alt="Java Backend Development in the Era of Kubernetes and Docker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-backend-kubernetes-docker" target="_blank">Java Backend Development in the Era of Kubernetes and Docker</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,36 +211,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Error-Messages" target="_blank">GCC 16&#x27;s Improved Error Messages, Experimental HTML Output</a></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2604-windows-11" target="_blank">Ubuntu 26.04 LTS Leads Over Windows 11 In Creator Workstation Performance</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-04-28 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/" target="_blank">Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kanta13jp1/indie-dev-landing-page-optimization-6-changes-that-tripled-my-cvr-3omc" target="_blank">Indie Dev Landing Page Optimization: 6 Changes That Tripled My CVR</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/github-ebpf-deployment/en/headerimage/generatedHeaderImage-1777219003623.jpg" alt="GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/github-ebpf-deployment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Uses eBPF to Eliminate Deployment Risks and Prevent Circular Failures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-28 12:00</span>
+                <span class="time">2026-04-28 15:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2366323233-e1775492481156.jpg?fit=768%2C433&amp;quality=60&amp;ssl=1" alt="OpenAI reports &quot;incredibly positive&quot; vibe as shareholder value sinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/openai-reports-incredibly-positive-vibe-as-shareholder-value-sinks.html" target="_blank">OpenAI reports &quot;incredibly positive&quot; vibe as shareholder value sinks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/steelrising-1280x720.jpg" alt="Studio Behind Unique RPGs Steelrising And GreedFall Reportedly Shutting Down After 18 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2026-04-28 00:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/wallstare.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="Engineer&#x27;s anti-brain-fog routine: stare at a wall for 10 minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/27/engineers-anti-brain-fog-routine-stare-at-a-wall-for-10-minutes.html" target="_blank">Engineer&#x27;s anti-brain-fog routine: stare at a wall for 10 minutes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-27 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
