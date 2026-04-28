@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 08:45:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-28 09:43:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 08:45 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, April 28, 2026 - 09:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5801468/home-insurance-disasters-climate-change" target="_blank">Millions of homes in the U.S. are uninsured. NPR wants to hear your story</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-28 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-8-ap-gmh-260424_1777046897685_hpMain_4x3t_384.jpg" alt="Iran live updates: Rubio dismisses Iran peace proposal, stresses nuclear issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Rubio dismisses Iran peace proposal, stresses nuclear issue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1399/live/708eb230-42c0-11f1-bd52-e755d604ece4.jpg" alt="UK and US always find ways to come together, King to tell Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss" target="_blank">UK and US always find ways to come together, King to tell Congress</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-28 08:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss" target="_blank">Jimmy Kimmel rejects White House criticism over Melania widow joke</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-28 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption" target="_blank">Pompeii archaeologists use AI to reconstruct man killed in volcano&#x27;s eruption</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-mexico-drug-lord-el-jardinero_7232762.png?20260428041431" alt="Cartel leader tipped to succeed &#x27;El Mencho&#x27; captured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mexican-army-captures-cartel-leader-tipped-to-succeed-el-mencho-13537431" target="_blank">Cartel leader tipped to succeed &#x27;El Mencho&#x27; captured</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-28 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/whcd-pearlman-trump-20260426-ap-jh_1777224364949_hpMain_4x3t_384.jpg" alt="WHCA dinner shooting timeline: Suspect captured trying to get in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-correspondents-dinner-shooting-timeline-chaos/story?id=132413783" target="_blank">WHCA dinner shooting timeline: Suspect captured trying to get in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 02:55</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/en/headerimage/kerrison-clyburn-llm-performance-header--1777288853060.jpg" alt="Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Legare Kerrison and Cedric Clyburn on LLM Performance and Evaluations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-28 09:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/04/openchoreo-10/en/headerimage/generatedHeaderImage-1777153499975.jpg" alt="OpenChoreo 1.0 Brings AI Agents and GitOps to Kubernetes Developer Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://gtfobins.org/" target="_blank">GTFOBins</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-28 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flh80j67fthibbgdpztxf.png" alt="Architecting Agentic AI Applications: The Complete Engineering Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c" target="_blank">Architecting Agentic AI Applications: The Complete Engineering Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 05:45</span>
             </div>
         </div>
 </div>
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 08:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 09:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
