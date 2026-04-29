@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 13:31:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-29 14:41:27 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 12 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 14:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/scotus-1-rt-gmh-260429_1777468671085_hpMain_4x3t_384.jpg" alt="Supreme Court limits Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-limits-voting-rights-act/story?id=132122248" target="_blank">Supreme Court limits Voting Rights Act</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-29 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss" target="_blank">Israeli strike kills five family members in Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,29 @@
                 <span class="time">2026-04-29 11:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5773107/bald-eagle-cameras-spring" target="_blank">Like soap operas, 75 feet up: How bald eagle nest cams hook online communities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/kazakh-man-accused-of-spying-for-russia-arrested-in-germany?traffic_source=rss" target="_blank">Germany arrests Kazakhstan citizen accused of spying for Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/" target="_blank">Apple loses bid to pause App Store fee changes as case heads to Supreme Court</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-500x500.jpg" alt="Attempt to repeal Colorado&#x27;s right-to-repair law fails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/" target="_blank">Attempt to repeal Colorado&#x27;s right-to-repair law fails</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,30 +147,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/" target="_blank">Jack Dorsey-backed Vine reboot Divine launches to the public</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f14714d98ff026bfabf2fd/master/pass/The-13-Best-Coolers-We%E2%80%99ve-Tested-for-Every-Kind-of-Adventure.jpg" alt="13 Best Coolers for Sunshine and Nighttime (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/69b1ef8740236eed04df3b5d/master/pass/What-Should-Be-in-Your-Emergency-Kit-Before-Disaster-Strikes-.jpg" alt="Essential Gear for an Emergency Kit—for Cars or Go-Bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-coolers/" target="_blank">13 Best Coolers for Sunshine and Nighttime (2026)</a></span>
+                <span class="title"><a href="https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/" target="_blank">Essential Gear for an Emergency Kit—for Cars or Go-Bags</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg" alt="Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/" target="_blank">Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-29 11:00</span>
+                <span class="time">2026-04-29 12:33</span>
             </div>
         </div>
 </div>
@@ -166,12 +161,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19003972&w=600" alt="Implementing Effective Document Fraud Detection in C#" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/document-fraud-detection-in-c" target="_blank">Implementing Effective Document Fraud Detection in C#</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 14:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sahilkhurana/cursor-ai-2026-the-complete-guide-to-the-ai-native-ide-3n4h" target="_blank">Cursor AI 2026: The Complete Guide to the AI-Native IDE</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-29 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hygon-C86-4G-CPU-GCC-17" target="_blank">Hygon C86-4G CPU Support Added To The GCC 17 Compiler</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-29 13:14</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="time">2026-04-29 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/sauce-labs-ai-test-creation/en/headerimage/generatedHeaderImage-1777279390184.jpg" alt="Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johalputt/benchmark-top-5-cities-for-software-engineers-in-2026-sf-vs-nyc-vs-austin-vs-remote-salary-data-552n" target="_blank">Benchmark: Top 5 Cities for Software Engineers in 2026: SF vs. NYC vs. Austin vs. Remote Salary Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/12/e223cfbbf0195f07ac0f70ce43a92e02-1280x703.jpg" alt="Take-Two CEO Asked Again About GTA 6 Pricing, Says Company Will Charge An Amount Of Money That It Thinks Customers Will Consider ‘Reasonable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/take-two-ceo-says-gta-6-will-cost-money-2000691676" target="_blank">Take-Two CEO Asked Again About GTA 6 Pricing, Says Company Will Charge An Amount Of Money That It Thinks Customers Will Consider ‘Reasonable’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-10.01.59-AM.png?fit=1206%2C710&amp;quality=55&amp;ssl=1" alt="Rip.so, the graveyard of dead internet things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/rip-so-the-graveyard-of-dead-internet-things.html" target="_blank">Rip.so, the graveyard of dead internet things</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQCB4T9ZY6S3AV4CAD1HTFHE/hero-image.png" alt="This Solar-Powered Eufy Home Security Camera Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/28/beloved-windows-text-editor-notepad-now-on-mac.html" target="_blank">Beloved Windows text editor Notepad++ now on Mac</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-28 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/dawn-walker.jpg" alt="9 Things We Just Learned About The Witcher 3 Director’s New Open-World Vampire RPG Blood Of The Dawnwalker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blood-dawnwalker-vampire-rpg-witcher-gameplay-specs-2000691377" target="_blank">9 Things We Just Learned About The Witcher 3 Director’s New Open-World Vampire RPG Blood Of The Dawnwalker</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-28 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot-2026-04-28-at-6.34.08-PM.png?fit=966%2C466&amp;quality=55&amp;ssl=1" alt="Tom the Dancing Bug nominated for Reuben Award for editorial cartooning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/28/tom-the-dancing-bug-nominated-for-reuben-award-for-editorial-cartooning.html" target="_blank">Tom the Dancing Bug nominated for Reuben Award for editorial cartooning</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-28 22:35</span>
             </div>
         </div>
 </div>
@@ -329,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 14:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
