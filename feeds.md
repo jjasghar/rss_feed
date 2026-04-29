@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 03:00:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-04-29 04:19:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 03:00 UTC</div>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 04:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/" target="_blank">How one venture firm is investing in an increasingly fragmented world</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 03:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69f144197df9442e8d9b4623/master/pass/biz_gremlin_GettyImages-163004531.jpg" alt="OpenAI Really Wants Codex to Shut Up About Goblins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -154,20 +161,29 @@
                 <span class="time">2026-04-28 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69eff45f1faeb9a8527c45be/master/pass/Sniffies-Users-Worry-About-Straightification-of-App-Culture.jpg" alt="Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/" target="_blank">Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-28 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iprajapatiparesh/why-soft-deletes-are-breaking-your-saas-database-and-how-to-fix-it-2heg" target="_blank">Why Soft Deletes Are Breaking Your SaaS Database (And How to Fix It) 🛑</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/slack-agent-context-management/en/headerimage/slack-context-management-agents-1777407896875.jpeg" alt="How Slack Manages Context in Long-running Multi-agent Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Slack Manages Context in Long-running Multi-agent Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm" target="_blank">Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-28 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itsmarydan/what-is-record-ttl-database-time-to-live-explained-263c" target="_blank">What Is Record TTL? Database Time-to-Live Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/" target="_blank">GitHub for Beginners: Getting started with Markdown</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-28 18:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 04:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
