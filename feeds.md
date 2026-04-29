@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 01:32:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 03:00:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69f144197df9442e8d9b4623/master/pass/biz_gremlin_GettyImages-163004531.jpg" alt="OpenAI Really Wants Codex to Shut Up About Goblins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/" target="_blank">OpenAI Really Wants Codex to Shut Up About Goblins</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-28 23:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -143,15 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/" target="_blank">Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-28 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-151039025-500x500.jpg" alt="Flesh-eating bacteria devour man&#x27;s arm and leg in just three days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/" target="_blank">Flesh-eating bacteria devour man&#x27;s arm and leg in just three days</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-28 20:15</span>
             </div>
         </div>
 </div>
@@ -233,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Notepad_2B_2B-for-MacOS.jpg?fit=1080%2C550&amp;quality=60&amp;ssl=1" alt="Beloved Windows text editor Notepad++ now on Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/28/beloved-windows-text-editor-notepad-now-on-mac.html" target="_blank">Beloved Windows text editor Notepad++ now on Mac</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-28 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/dawn-walker.jpg" alt="9 Things We Just Learned About The Witcher 3 Director’s New Open-World Vampire RPG Blood Of The Dawnwalker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -277,15 +295,6 @@
                 <span class="time">2026-04-28 20:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQAT3M5TJS3AAVYB0STKDQCJ/hero-image.jpg" alt="Iyaz Akhtar Wants You to Stop Cleaning Your Phone Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/ad/tech/iyaz-akhtar-wants-you-to-stop-cleaning-your-phone-wrong?utm_medium=RSS" target="_blank">Iyaz Akhtar Wants You to Stop Cleaning Your Phone Wrong</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
