@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-28 23:16:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-29 00:19:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, April 28, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/king-charles-63-rt-gmh-260428_1777405867930_hpMain_4x3t_384.jpg" alt="&#x27;Our collective strength&#x27; -- 4 takeaways from King Charles III&#x27;s address to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/king-charles-address-joint-meeting-congress/story?id=132419685" target="_blank">&#x27;Our collective strength&#x27; -- 4 takeaways from King Charles III&#x27;s address to Congress</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-28 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777417064629_nn_odonnell_comey_indictment_260428_S3_1920x1080-vx08nw.jpg" alt="Grand jury indicts Comey for alleged threat against Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/grand-jury-indicts-comey-for-alleged-threat-against-trump-262319685541" target="_blank">Grand jury indicts Comey for alleged threat against Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-28 22:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ac/live/c284d420-4347-11f1-bd52-e755d604ece4.png" alt="Comey charged with threatening Trump&#x27;s life in Instagram post" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +103,29 @@
                 <span class="time">2026-04-28 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04dd/live/4be42d20-4347-11f1-92c0-150b8e44bb63.jpg" alt="Five takeaways from the King&#x27;s historic address to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss" target="_blank">Five takeaways from the King&#x27;s historic address to Congress</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/904016d0-432b-11f1-b55a-69833a1ab7a9.jpg" alt="Former FBI director James Comey charged with threatening Trump&#x27;s life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss" target="_blank">Former FBI director James Comey charged with threatening Trump&#x27;s life</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-28 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag" target="_blank">It’s primetime for conspiracy theorist video creators</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-28 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/department-of-clowns-500x500-1777416838.jpg" alt="Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/" target="_blank">Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-28 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/" target="_blank">Flesh-eating bacteria devour man&#x27;s arm and leg in just three days</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-28 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/" target="_blank">Amazon is already offering new OpenAI products on AWS</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-28 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel" target="_blank">Now YouTube TV lets you multiview any channel you want</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 19:46</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
