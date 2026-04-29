@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 21:20:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-29 22:16:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss" target="_blank">Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome" target="_blank">The Austrian nuns who fled their care home are now in Rome and visited the Vatican</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="time">2026-04-29 19:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss" target="_blank">Indonesian soldiers on trial after acid attack on activist</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price soars above $118 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price soars above $118 after reports of &#x27;extended&#x27; Iran blockade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-29 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +109,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/" target="_blank">Google gains 25M subscriptions in Q1, driven by YouTube and Google One</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f2023315173e86b113088a/master/pass/GettyImages-2259269133.jpg" alt="Emergency First Responders Say Waymos Are Getting Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/" target="_blank">Emergency First Responders Say Waymos Are Getting Worse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69f236661563e1f0e3b4ee95/master/pass/Clavicular-Being-Sued-Culture-h_16458124.jpg" alt="Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -119,39 +136,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-500x500-1734382753.jpg" alt="ABC can beat Trump FCC&#x27;s license threat if owner Disney is willing to fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/" target="_blank">ABC can beat Trump FCC&#x27;s license threat if owner Disney is willing to fight</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-29 19:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/" target="_blank">Parallel Web Systems hits $2B valuation five months after its last big raise</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-04-29 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial" target="_blank">All the evidence unveiled so far in Musk v. Altman</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg" alt="Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/" target="_blank">Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability" target="_blank">Motorola just revealed the Razr Fold’s price and hoo boy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 16:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/2151211a080fe399309cca70ff1df3af-1280x720.jpg" alt="Final Fantasy 7 Rebirth Director Promises Part 3 Is On Schedule And He Feels ‘No Negativity’ To A Project He’s Spent 10 Years Working On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-7-rebirth-director-promises-part-3-is-on-schedule-and-he-feels-no-negativity-to-a-project-hes-spent-10-years-working-on-2000691791" target="_blank">Final Fantasy 7 Rebirth Director Promises Part 3 Is On Schedule And He Feels ‘No Negativity’ To A Project He’s Spent 10 Years Working On</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 22:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQDASDFXSRF7NVN67RVECABJ/hero-image.jpg" alt="These New AI Editing Tools May Be Added to the Photos App in iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -275,15 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/29/captain-billys-whiz-bang-gave-a-pastors-egypt-trip-the-pulp-treatment-in-1922.html" target="_blank">Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-29 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2769964639.jpg?fit=1068%2C1200&amp;quality=60&amp;ssl=1" alt="Why the button on top of baseball caps is smarter than it looks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/why-the-button-on-top-of-baseball-caps-is-smarter-than-it-looks.html" target="_blank">Why the button on top of baseball caps is smarter than it looks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 16:46</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
