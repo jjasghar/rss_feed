@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 07:01:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 08:41:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 08:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss" target="_blank">How the Iran war is hitting the UK</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia" target="_blank">Ukraine accuses Israel of importing grain &#x27;stolen&#x27; by Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 08:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid" target="_blank">Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-29 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence" target="_blank">‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-04-29 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/28/nx-s1-5803016/marathon-world-record-yomif-kejelcha" target="_blank">Yomif Kejelcha broke the 2-hour marathon but got 2nd place. He&#x27;s still happy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-28 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/king-charles-63-rt-gmh-260428_1777405867930_hpMain_4x3t_384.jpg" alt="&#x27;Our collective strength&#x27; -- 4 takeaways from King Charles III&#x27;s address to Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/king-charles-address-joint-meeting-congress/story?id=132419685" target="_blank">&#x27;Our collective strength&#x27; -- 4 takeaways from King Charles III&#x27;s address to Congress</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-28 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777417064629_nn_odonnell_comey_indictment_260428_S3_1920x1080-vx08nw.jpg" alt="Grand jury indicts Comey for alleged threat against Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/grand-jury-indicts-comey-for-alleged-threat-against-trump-262319685541" target="_blank">Grand jury indicts Comey for alleged threat against Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-28 22:57</span>
             </div>
         </div>
 </div>
@@ -294,6 +299,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/29/the-rich-roe-of-wisdom" target="_blank">The Rich Roe of Wisdom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/mr-nice-doug/" target="_blank">Mr. Nice Doug</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -314,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 08:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
