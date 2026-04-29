@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 08:41:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 09:38:37 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 08:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 09:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69f14b43423c2e71c99af5dd/master/pass/Justice-Department-Has-Destroyed-Its-Voting-Rights-Section-Politics.jpg" alt="The Justice Department Has Destroyed Its Voting Rights Section" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/" target="_blank">The Justice Department Has Destroyed Its Voting Rights Section</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update" target="_blank">General Motors is adding Gemini to four million cars</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 09:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -141,29 +156,20 @@
                 <span class="time">2026-04-28 23:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/department-of-clowns-500x500-1777416838.jpg" alt="Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/" target="_blank">Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-28 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump" target="_blank">James Comey indicted over Instagram seashell photo that allegedly threatened Trump</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shotatanikawa/webhook-signature-verification-hmac-sha256-in-node-python-ruby-2026-guide-26m" target="_blank">Webhook Signature Verification (HMAC-SHA256) in Node, Python, Ruby — 2026 Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/the-bill-you-didnt-see-coming" target="_blank">The Bill You Didn&#x27;t See Coming</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-04-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mitchellh.com/writing/ghostty-leaving-github" target="_blank">Ghostty is leaving GitHub</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-28 19:44</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 247 |
-        🔄 Last Updated: 08:41 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 247 |
+        🔄 Last Updated: 09:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
