@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 17:29:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 18:25:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 18:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-29 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef0/live/95cd0eb0-43ed-11f1-ac78-2112837ce2aa.jpg" alt="The Jewish security volunteers first on scene of Golders Green attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss" target="_blank">The Jewish security volunteers first on scene of Golders Green attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-29 18:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,20 @@
                 <span class="time">2026-04-29 15:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/us-supreme-court-hears-haiti-syria-tps-case-with-wide-ranging-implications?traffic_source=rss" target="_blank">US Supreme Court hears Haiti, Syria TPS case with wide-ranging implications</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/scotus-rt-jt-260320_1774028325278_hpMain_4x3t_384.jpg" alt="5 things to know about the Supreme Court&#x27;s landmark decision on the Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/5-things-supreme-courts-landmark-decision-voting-rights/story?id=131396119" target="_blank">5 things to know about the Supreme Court&#x27;s landmark decision on the Voting Rights Act</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-29 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg" alt="Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/" target="_blank">Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 17:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +164,20 @@
                 <span class="time">2026-04-29 13:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks" target="_blank">Taylor Swift deepfakes are pushing scams on TikTok</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/den_storksoft/i-signed-my-ai-up-for-agenthansa-and-here-is-what-actually-happened-an6" target="_blank">I Signed My AI Up for AgentHansa and Here Is What Actually Happened</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +223,6 @@
                 <span class="time">2026-04-29 15:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/angular-compiler-rust/en/headerimage/generatedHeaderImage-1777395050023.jpg" alt="VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/angular-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-29 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/captain-billy.jpg?fit=1200%2C1758&amp;quality=60&amp;ssl=1" alt="Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/captain-billys-whiz-bang-gave-a-pastors-egypt-trip-the-pulp-treatment-in-1922.html" target="_blank">Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 18:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2769964639.jpg?fit=1068%2C1200&amp;quality=60&amp;ssl=1" alt="Why the button on top of baseball caps is smarter than it looks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +293,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/04/29/why-pay-monthly-for-cloud-storage-when-8tb-lifetime-subscriptions-like-this-one-are-on-sale-for-280-was-899.html" target="_blank">Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQCV4Y3NF1RJWYXT6VDVCR1Z/hero-image.jpg" alt="This App Lets You Use All Your AirPods&#x27; Features on Any Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/librepod-airpod-app-android?utm_medium=RSS" target="_blank">This App Lets You Use All Your AirPods&#x27; Features on Any Android</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-29 15:00</span>
             </div>
         </div>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 18:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
