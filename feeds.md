@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 14:41:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 15:35:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 14:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 15:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/us-supreme-court-hears-haiti-syria-tps-case-with-wide-ranging-implications?traffic_source=rss" target="_blank">US Supreme Court hears Haiti, Syria TPS case with wide-ranging implications</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/scotus-rt-jt-260320_1774028325278_hpMain_4x3t_384.jpg" alt="5 things to know about the Supreme Court&#x27;s landmark decision on the Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/5-things-supreme-courts-landmark-decision-voting-rights/story?id=131396119" target="_blank">5 things to know about the Supreme Court&#x27;s landmark decision on the Voting Rights Act</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-29 14:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/scotus-1-rt-gmh-260429_1777468671085_hpMain_4x3t_384.jpg" alt="Supreme Court limits Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/supreme-court-limits-voting-rights-act/story?id=132122248" target="_blank">Supreme Court limits Voting Rights Act</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-29 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home" target="_blank">South Africa deports Mugabe’s son for unrelated offences after employee shot at family home</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-04-29 14:12</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +102,20 @@
                 <span class="time">2026-04-29 12:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home" target="_blank">South Africa deports and fines Mugabe’s son after employee shot at family home</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-29 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/1d506fd0-43ad-11f1-9d89-8526d1435c1c.jpg" alt="Six held after religious group modern slavery raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&at_campaign=rss" target="_blank">Six held after religious group modern slavery raid</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-29 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777461880671_tdy_news_7a_romans_gas_prices_high_260429_S3_1920x1080-3qdyqt.jpg" alt="US Gas Prices Surge to a 4-Year High as Iran Stalemate Drags On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-gas-price-average-hits-4-23-highest-level-in-nearly-4-years-262349893853" target="_blank">US Gas Prices Surge to a 4-Year High as Iran Stalemate Drags On</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-29 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f11760364b858d165e91b1/master/pass/InnerLoop-Newsletter-DOJ-Storied-Voting-Section-Has-Been-Destroyed-Politics.jpg" alt="How Trump Weaponized the DOJ Division That Kept Elections Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/" target="_blank">How Trump Weaponized the DOJ Division That Kept Elections Fair</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +161,38 @@
                 <span class="time">2026-04-29 12:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b1ef8740236eed04df3b5d/master/pass/What-Should-Be-in-Your-Emergency-Kit-Before-Disaster-Strikes-.jpg" alt="Essential Gear for an Emergency Kit—for Cars or Go-Bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/" target="_blank">Essential Gear for an Emergency Kit—for Cars or Go-Bags</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-29 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed is 1.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-29 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying" target="_blank">Building Pi, and what makes self-modifying software so fascinating</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-29 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19003972&w=600" alt="Implementing Effective Document Fraud Detection in C#" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +220,6 @@
                 <span class="time">2026-04-29 13:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18943934&w=600" alt="Why Human-in-the-Loop Still Matters in AI-Assisted Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-human-in-the-loop-still-matters-in-ai" target="_blank">Why Human-in-the-Loop Still Matters in AI-Assisted Coding</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yu-min/my-1-year-journey-from-failing-cka-to-joining-the-240-golden-kubestronauts-back-then-27g3" target="_blank">My 1-Year Journey From Failing CKA to Joining the ~240 Golden Kubestronauts Back Then</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18938197&w=600" alt="The Art of Logging: How to Write Effective Logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-art-of-logging-how-to-write-effective-logs" target="_blank">The Art of Logging: How to Write Effective Logs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/why-pay-monthly-for-cloud-storage-when-8tb-lifetime-subscriptions-like-this-one-are-on-sale-for-280-was-899.html" target="_blank">Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQCV4Y3NF1RJWYXT6VDVCR1Z/hero-image.jpg" alt="This App Lets You Use All Your AirPods&#x27; Features on Any Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/librepod-airpod-app-android?utm_medium=RSS" target="_blank">This App Lets You Use All Your AirPods&#x27; Features on Any Android</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/12/e223cfbbf0195f07ac0f70ce43a92e02-1280x703.jpg" alt="Take-Two CEO Asked Again About GTA 6 Pricing, Says Company Will Charge An Amount Of Money That It Thinks Customers Will Consider ‘Reasonable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,29 +293,20 @@
                 <span class="time">2026-04-29 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/MindsEye-offical-artwork-Build-a-Rocket-Boy.jpg" alt="Sabotage, Crunch Culture, And Spying: Meet The Ex-MindsEye Developer Speaking Out About The Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mindseye-build-a-rocket-boy-leslie-benzies-mark-gerhard-cyber-boi-layoffs-teramind-2000691386" target="_blank">Sabotage, Crunch Culture, And Spying: Meet The Ex-MindsEye Developer Speaking Out About The Chaos</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Notepad_2B_2B-for-MacOS.jpg?fit=1080%2C550&amp;quality=60&amp;ssl=1" alt="Beloved Windows text editor Notepad++ now on Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/28/beloved-windows-text-editor-notepad-now-on-mac.html" target="_blank">Beloved Windows text editor Notepad++ now on Mac</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-28 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777341680-20260429-edit.png" alt="Saturday Morning Breakfast Cereal - Spoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/spoon" target="_blank">Saturday Morning Breakfast Cereal - Spoon</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5811.png" alt="Parental Approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,22 +325,13 @@
                 <span class="time">2026-04-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/mr-nice-doug/" target="_blank">Mr. Nice Doug</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-04-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 14:41 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 254 |
+        🔄 Last Updated: 15:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
