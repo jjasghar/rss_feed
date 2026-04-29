@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 16:29:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-29 17:29:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/man-carries-deceased-sister-into-indian-bank-amid-paperwork-difficulty?traffic_source=rss" target="_blank">Man carries deceased sister into Indian bank amid paperwork difficulty</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price soars to $119 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/5-things-supreme-courts-landmark-decision-voting-rights/story?id=131396119" target="_blank">5 things to know about the Supreme Court&#x27;s landmark decision on the Voting Rights Act</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-29 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/scotus-1-rt-gmh-260429_1777468671085_hpMain_4x3t_384.jpg" alt="Supreme Court limits Voting Rights Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-limits-voting-rights-act/story?id=132122248" target="_blank">Supreme Court limits Voting Rights Act</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-29 14:24</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b" target="_blank">Why the First Turn in a Coding Agent Can Use So Many Input Tokens — and Why That Gets Better Over Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949689&w=600" alt="Exploring Databricks Genie: Conversational Analytics with Unity Catalog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/exploring-databricks-genie-conversational" target="_blank">Exploring Databricks Genie: Conversational Analytics with Unity Catalog</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn" target="_blank">Vibe Code Your First Midnight dApp with AI Agent Skills</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-29 16:24</span>
@@ -188,30 +207,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2026/04/angular-compiler-rust/en/headerimage/generatedHeaderImage-1777395050023.jpg" alt="VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/dotnet-11-preview-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/angular-compiler-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">VoidZero’s Experimental Oxc Angular Compiler with Up to 20x Faster Build Performance</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-04-29 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed 1.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-29 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed is 1.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-29 14:34</span>
+                <span class="time">2026-04-29 15:32</span>
             </div>
         </div>
 </div>
@@ -233,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2769964639.jpg?fit=1068%2C1200&amp;quality=60&amp;ssl=1" alt="Why the button on top of baseball caps is smarter than it looks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/why-the-button-on-top-of-baseball-caps-is-smarter-than-it-looks.html" target="_blank">Why the button on top of baseball caps is smarter than it looks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/psplus-may-1280x720.jpg" alt="PlayStation Plus Games For May Include A Must-Play Sidescrolling Soulslike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-plus-games-for-may-include-a-must-play-sidescrolling-soulslike-2000691711" target="_blank">PlayStation Plus Games For May Include A Must-Play Sidescrolling Soulslike</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-29-at-11.51.01-AM-1280x720.jpg" alt="No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/librepod-airpod-app-android?utm_medium=RSS" target="_blank">This App Lets You Use All Your AirPods&#x27; Features on Any Android</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/12/e223cfbbf0195f07ac0f70ce43a92e02-1280x703.jpg" alt="Take-Two CEO Asked Again About GTA 6 Pricing, Says Company Will Charge An Amount Of Money That It Thinks Customers Will Consider ‘Reasonable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/take-two-ceo-says-gta-6-will-cost-money-2000691676" target="_blank">Take-Two CEO Asked Again About GTA 6 Pricing, Says Company Will Charge An Amount Of Money That It Thinks Customers Will Consider ‘Reasonable’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Screenshot-2026-04-29-at-10.01.59-AM.png?fit=1206%2C710&amp;quality=55&amp;ssl=1" alt="Rip.so, the graveyard of dead internet things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/rip-so-the-graveyard-of-dead-internet-things.html" target="_blank">Rip.so, the graveyard of dead internet things</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 14:13</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
