@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 20:21:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 21:20:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 20:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5802789/tb-tuberculosis-rapid-test" target="_blank">Long a dream, it&#x27;s now real: a fast and accurate TB test that doesn&#x27;t need phlegm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss" target="_blank">What’s behind Israel’s plan to move the Bnei Menashe?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 20:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +95,20 @@
                 <span class="time">2026-04-29 19:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777489416361_f_mo_powell_press_conference_260429_S3_1920x1080-tjn73q.jpg" alt="Jerome Powell calls his time as Fed chair a &#x27;privilege&#x27; during last press conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/jerome-powell-calls-his-time-as-fed-chair-a-privilege-during-last-press-conference-262382661882" target="_blank">Jerome Powell calls his time as Fed chair a &#x27;privilege&#x27; during last press conference</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-29 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-29 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale" target="_blank">Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 21:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f236661563e1f0e3b4ee95/master/pass/Clavicular-Being-Sued-Culture-h_16458124.jpg" alt="Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability" target="_blank">Motorola just revealed the Razr Fold’s price and hoo boy</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f11760364b858d165e91b1/master/pass/InnerLoop-Newsletter-DOJ-Storied-Voting-Section-Has-Been-Destroyed-Politics.jpg" alt="How Trump Weaponized the DOJ Division That Kept Elections Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/" target="_blank">How Trump Weaponized the DOJ Division That Kept Elections Fair</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 15:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQDASDFXSRF7NVN67RVECABJ/hero-image.jpg" alt="These New AI Editing Tools May Be Added to the Photos App in iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ios-27-may-add-these-new-ai-editing-tools-to-the-photos-app?utm_medium=RSS" target="_blank">These New AI Editing Tools May Be Added to the Photos App in iOS 27</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-29 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/image-69-1280x722.jpg" alt="Costco Makes PC Gamer An Unbelievable RAM Deal They Can’t Refuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -283,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/29/why-the-button-on-top-of-baseball-caps-is-smarter-than-it-looks.html" target="_blank">Why the button on top of baseball caps is smarter than it looks</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-29 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/psplus-may-1280x720.jpg" alt="PlayStation Plus Games For May Include A Must-Play Sidescrolling Soulslike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-plus-games-for-may-include-a-must-play-sidescrolling-soulslike-2000691711" target="_blank">PlayStation Plus Games For May Include A Must-Play Sidescrolling Soulslike</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 16:35</span>
             </div>
         </div>
 </div>
@@ -340,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
