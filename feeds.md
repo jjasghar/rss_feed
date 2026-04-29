@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 19:29:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-29 20:21:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 20:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss" target="_blank">Ex-FBI chief Comey appears in court over alleged Trump threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date" target="_blank">The Iran war now has a price tag ($25 billion), but still no end date</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-29 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef0/live/95cd0eb0-43ed-11f1-ac78-2112837ce2aa.jpg" alt="The Jewish security volunteers first on scene of Golders Green attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss" target="_blank">The Jewish security volunteers first on scene of Golders Green attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-29 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/man-carries-deceased-sister-into-indian-bank-amid-paperwork-difficulty?traffic_source=rss" target="_blank">Man carries deceased sister into Indian bank amid paperwork difficulty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 16:51</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18952129&w=600" alt="The LLM Selection War Story: Part 4 - Your Production Failure Testing Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-llm-selection-war-story-part-4" target="_blank">The LLM Selection War Story: Part 4 - Your Production Failure Testing Suite</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b" target="_blank">Why the First Turn in a Coding Agent Can Use So Many Input Tokens — and Why That Gets Better Over Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949689&w=600" alt="Exploring Databricks Genie: Conversational Analytics with Unity Catalog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/exploring-databricks-genie-conversational" target="_blank">Exploring Databricks Genie: Conversational Analytics with Unity Catalog</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 17:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-lunar-lake-ubuntu-2604" target="_blank">The Intel Lunar Lake CPU Performance Gains On Linux Over The Past Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-29 17:30</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn" target="_blank">Vibe Code Your First Midnight dApp with AI Agent Skills</a></span>
+                <span class="title"><a href="https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b" target="_blank">Why the First Turn in a Coding Agent Can Use So Many Input Tokens — and Why That Gets Better Over Time</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 16:24</span>
+                <span class="time">2026-04-29 17:22</span>
             </div>
         </div>
 </div>
@@ -261,6 +259,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ice.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Scientists found ice with a 304-molecule repeating pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/scientists-found-ice-with-a-304-molecule-repeating-pattern.html" target="_blank">Scientists found ice with a 304-molecule repeating pattern</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 18:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/captain-billy.jpg?fit=1200%2C1758&amp;quality=60&amp;ssl=1" alt="Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -285,15 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-plus-games-for-may-include-a-must-play-sidescrolling-soulslike-2000691711" target="_blank">PlayStation Plus Games For May Include A Must-Play Sidescrolling Soulslike</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-29 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-29-at-11.51.01-AM-1280x720.jpg" alt="No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/robot-dog-elon-musk-mark-zuckerberg-jeff-bezos-beeple-2000691713" target="_blank">No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 16:24</span>
             </div>
         </div>
 </div>
@@ -342,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
