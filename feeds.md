@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 10:33:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 11:29:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 10:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +100,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69f14714d98ff026bfabf2fd/master/pass/The-13-Best-Coolers-We%E2%80%99ve-Tested-for-Every-Kind-of-Adventure.jpg" alt="13 Best Coolers for Sunshine and Nighttime (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-coolers/" target="_blank">13 Best Coolers for Sunshine and Nighttime (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg" alt="Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/" target="_blank">Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-29 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification" target="_blank">Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 10:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg" alt="When Robots Have Their ChatGPT Moment, Remember These Pincers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -134,33 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/" target="_blank">The Justice Department Has Destroyed Its Voting Rights Section</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-29 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update" target="_blank">General Motors is adding Gemini to four million cars</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="20% Off LG Promo Code &amp; Coupons | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">20% Off LG Promo Code &amp; Coupons | May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/" target="_blank">How one venture firm is investing in an increasingly fragmented world</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 03:00</span>
             </div>
         </div>
 </div>
@@ -236,15 +226,6 @@
                 <span class="time">2026-04-29 10:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html" target="_blank">What Anthropic’s Mythos Means for the Future of Cybersecurity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-28 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -310,6 +291,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5811.png" alt="Parental Approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5811" target="_blank">Parental Approval</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-29 10:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -341,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 245 |
-        🔄 Last Updated: 10:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 248 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
