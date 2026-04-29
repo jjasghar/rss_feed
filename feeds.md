@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 22:16:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 23:16:24 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 22:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price rises above $120 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price rises above $120 after reports of &#x27;extended&#x27; Iran blockade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-29 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss" target="_blank">Carney ‘strong’ in year one, now must deliver on promises in Canada</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps" target="_blank">Supreme Court appears to lean toward ending TPS for some migrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +94,29 @@
                 <span class="time">2026-04-29 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss" target="_blank">What’s behind Israel’s plan to move the Bnei Menashe?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss" target="_blank">Ex-FBI chief Comey appears in court over alleged Trump threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date" target="_blank">The Iran war now has a price tag ($25 billion), but still no end date</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/" target="_blank">Microsoft says it has over 20M paid Copilot users, and they really are using it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 23:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/920845/grindr-whcd-party-2026" target="_blank">Grindr — yes, Grindr — won the WHCD party circuit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +153,29 @@
                 <span class="time">2026-04-29 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-500x500-1734382753.jpg" alt="ABC can beat Trump FCC&#x27;s license threat if owner Disney is willing to fight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/" target="_blank">ABC can beat Trump FCC&#x27;s license threat if owner Disney is willing to fight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-29 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/" target="_blank">Parallel Web Systems hits $2B valuation five months after its last big raise</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj" target="_blank">The Missing Link: Securing Gemini Agents with the Model Context Protocol (MCP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/enable-ubuntu-pro-security-center.webp?resize=406%2C232&amp;ssl=1" alt="Enabling Ubuntu Pro in Security Center is super easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/enable-ubuntu-pro-security-center" target="_blank">Enabling Ubuntu Pro in Security Center is super easy</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-29 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18952129&w=600" alt="The LLM Selection War Story: Part 4 - Your Production Failure Testing Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/den_storksoft/i-signed-my-ai-up-for-agenthansa-and-here-is-what-actually-happened-an6" target="_blank">I Signed My AI Up for AgentHansa and Here Is What Actually Happened</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-29 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-lunar-lake-ubuntu-2604" target="_blank">The Intel Lunar Lake CPU Performance Gains On Linux Over The Past Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-29 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b" target="_blank">Why the First Turn in a Coding Agent Can Use So Many Input Tokens — and Why That Gets Better Over Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 17:22</span>
             </div>
         </div>
 </div>
@@ -291,6 +291,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/29/the-rich-roe-of-wisdom" target="_blank">The Rich Roe of Wisdom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-04-29 21:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1777341680-20260429-edit.png" alt="Saturday Morning Breakfast Cereal - Spoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -331,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
