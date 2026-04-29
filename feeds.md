@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 18:25:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 19:29:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 18:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss" target="_blank">Indonesian soldiers on trial after acid attack on activist</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price soars above $118 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price soars above $118 after reports of &#x27;extended&#x27; Iran blockade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-29 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1777489416361_f_mo_powell_press_conference_260429_S3_1920x1080-tjn73q.jpg" alt="Jerome Powell calls his time as Fed chair a &#x27;privilege&#x27; during last press conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/jerome-powell-calls-his-time-as-fed-chair-a-privilege-during-last-press-conference-262382661882" target="_blank">Jerome Powell calls his time as Fed chair a &#x27;privilege&#x27; during last press conference</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-29 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump hosts Artemis II crew at the White House: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,38 +105,38 @@
                 <span class="time">2026-04-29 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price soars to $119 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price soars to $119 after reports of &#x27;extended&#x27; Iran blockade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-29 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/why-8647-landed-ex-fbi-chief-comey-in-trumps-crosshairs?traffic_source=rss" target="_blank">Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5804483/8647-meaning-comey-indictment" target="_blank">&#x27;8647&#x27; got James Comey indicted. What exactly does it mean?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f236661563e1f0e3b4ee95/master/pass/Clavicular-Being-Sued-Culture-h_16458124.jpg" alt="Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/" target="_blank">Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/" target="_blank">Parallel Web Systems hits $2B valuation five months after its last big raise</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial" target="_blank">All the evidence unveiled so far in Musk v. Altman</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 18:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f11e18364b858d165e91bf/master/pass/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg" alt="Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +164,29 @@
                 <span class="time">2026-04-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/" target="_blank">Apple loses bid to pause App Store fee changes as case heads to Supreme Court</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-500x500.jpg" alt="Attempt to repeal Colorado&#x27;s right-to-repair law fails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/" target="_blank">Attempt to repeal Colorado&#x27;s right-to-repair law fails</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/" target="_blank">Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drewmullen/fully-migrate-secrets-out-of-terraform-module-state-without-breaking-existing-users-1jc5" target="_blank">Fully Migrate Secrets Out Of Terraform Module State Without Breaking Existing Users</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18945552&w=600" alt="Beyond Big Data: Designing Agentic Data Pipelines for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beyond-big-data-designing-agentic-data-pipe" target="_blank">Beyond Big Data: Designing Agentic Data Pipelines for AI Workloads</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +223,6 @@
                 <span class="time">2026-04-29 16:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949681&w=600" alt="Modernizing Cloud Data Automation for Faster Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modernizing-cloud-data-automation-faster-insights" target="_blank">Modernizing Cloud Data Automation for Faster Insights</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-AI-Sched-Ext-Fixes" target="_blank">Linux&#x27;s sched_ext Sees A Bunch Of Bug Fixes Following Increased AI Code Review</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-29 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/image-69-1280x722.jpg" alt="Costco Makes PC Gamer An Unbelievable RAM Deal They Can’t Refuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gaming-news-pc-deal-costco-injustice-3-rugrats-2000691702" target="_blank">Costco Makes PC Gamer An Unbelievable RAM Deal They Can’t Refuse</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQD345QXGZ7XDDMNGPWFF0J8/hero-image.jpg" alt="Google Translate Now Helps You Practice Your Pronunciation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-translate-pronunciation-practice-feature?utm_medium=RSS" target="_blank">Google Translate Now Helps You Practice Your Pronunciation</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/captain-billy.jpg?fit=1200%2C1758&amp;quality=60&amp;ssl=1" alt="Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/robot-dog-elon-musk-mark-zuckerberg-jeff-bezos-beeple-2000691713" target="_blank">No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-29 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Comets_Kick_up_Dust_in_Helix_Nebula_PIA09178.jpg?fit=1920%2C1597&amp;quality=60&amp;ssl=1" alt="A space cat with a rainbow exhaust wants nothing from you" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/a-space-cat-with-a-rainbow-exhaust-wants-nothing-from-you.html" target="_blank">A space cat with a rainbow exhaust wants nothing from you</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/why-pay-monthly-for-cloud-storage-when-8tb-lifetime-subscriptions-like-this-one-are-on-sale-for-280-was-899.html" target="_blank">Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 15:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 18:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
