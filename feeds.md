@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 09:38:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 10:33:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 09:38 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 10:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +53,45 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5773107/bald-eagle-cameras-spring" target="_blank">Like soap operas, 75 feet up: How bald eagle nest cams hook online communities</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/kazakh-man-accused-of-spying-for-russia-arrested-in-germany?traffic_source=rss" target="_blank">Germany arrests Kazakhstan citizen accused of spying for Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260428-gas-us-prices-vsb-1949-144d2d.jpg" alt="Gas prices hit $4.23 per gallon, a new high for the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/energy/gas-prices-new-high-iran-war-rcna342578" target="_blank">Gas prices hit $4.23 per gallon, a new high for the year</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-29 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss" target="_blank">How the Iran war is hitting the UK</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-flag-DB-260428_1777372502148_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;no more Mr. Nice Guy&#x27; if Iran refuses nuclear deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Trump says &#x27;no more Mr. Nice Guy&#x27; if Iran refuses nuclear deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-29 08:25</span>
             </div>
         </div>
@@ -61,47 +104,29 @@
                 <span class="time">2026-04-29 08:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid" target="_blank">Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-29 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/29/psg-vs-bayern-munich-football-experts-fans-react-to-champions-league-semi?traffic_source=rss" target="_blank">PSG vs Bayern Munich: Football experts, fans react to Champions League semi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119149/red-cards-cover-mouths" target="_blank">Red cards can be given to players who cover their mouths while confronting opponents</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 06:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence" target="_blank">‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg" alt="When Robots Have Their ChatGPT Moment, Remember These Pincers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/" target="_blank">When Robots Have Their ChatGPT Moment, Remember These Pincers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" target="_blank">Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 09:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f14b43423c2e71c99af5dd/master/pass/Justice-Department-Has-Destroyed-Its-Voting-Rights-Section-Politics.jpg" alt="The Justice Department Has Destroyed Its Voting Rights Section" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +163,20 @@
                 <span class="time">2026-04-29 03:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f144197df9442e8d9b4623/master/pass/biz_gremlin_GettyImages-163004531.jpg" alt="OpenAI Really Wants Codex to Shut Up About Goblins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/" target="_blank">OpenAI Really Wants Codex to Shut Up About Goblins</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-28 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag" target="_blank">It’s primetime for conspiracy theorist video creators</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-28 23:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johalputt/benchmark-top-5-cities-for-software-engineers-in-2026-sf-vs-nyc-vs-austin-vs-remote-salary-data-552n" target="_blank">Benchmark: Top 5 Cities for Software Engineers in 2026: SF vs. NYC vs. Austin vs. Remote Salary Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +222,20 @@
                 <span class="time">2026-04-28 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949643&w=600" alt="The Bill You Didn&#x27;t See Coming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-bill-you-didnt-see-coming" target="_blank">The Bill You Didn&#x27;t See Coming</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html" target="_blank">Claude Mythos Has Found 271 Zero-Days in Firefox</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-04-29 10:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 247 |
-        🔄 Last Updated: 09:38 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 245 |
+        🔄 Last Updated: 10:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
