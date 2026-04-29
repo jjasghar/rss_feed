@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 15:35:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-29 16:29:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 15:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 16:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price soars to $119 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price soars to $119 after reports of &#x27;extended&#x27; Iran blockade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-29 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/29/why-8647-landed-ex-fbi-chief-comey-in-trumps-crosshairs?traffic_source=rss" target="_blank">Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-29 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5804483/8647-meaning-comey-indictment" target="_blank">&#x27;8647&#x27; got James Comey indicted. What exactly does it mean?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-29 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +96,20 @@
                 <span class="time">2026-04-29 14:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home" target="_blank">South Africa deports Mugabe’s son for unrelated offences after employee shot at family home</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-04-29 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss" target="_blank">Israeli strike kills five family members in Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/29/sri-lanka-cricket-board-quits-at-governments-request-officials?traffic_source=rss" target="_blank">Sri Lanka’s government ‘temporarily’ takes over cricket board</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability" target="_blank">Motorola just revealed the Razr Fold’s price and hoo boy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-29 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f11760364b858d165e91b1/master/pass/InnerLoop-Newsletter-DOJ-Storied-Voting-Section-Has-Been-Destroyed-Politics.jpg" alt="How Trump Weaponized the DOJ Division That Kept Elections Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +155,38 @@
                 <span class="time">2026-04-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28-500x500.jpg" alt="A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" target="_blank">A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-29 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn" target="_blank">Vibe Code Your First Midnight dApp with AI Agent Skills</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18949681&w=600" alt="Modernizing Cloud Data Automation for Faster Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modernizing-cloud-data-automation-faster-insights" target="_blank">Modernizing Cloud Data Automation for Faster Insights</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-AI-Sched-Ext-Fixes" target="_blank">Linux&#x27;s sched_ext Sees A Bunch Of Bug Fixes Following Increased AI Code Review</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-29 15:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Microsoft Releases .NET 11 Preview 3 with Updates Across Runtime, SDK, MAUI, and ASP.NET Core" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,7 +200,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed is 1.0</a></span>
+                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed 1.0</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-29 14:34</span>
             </div>
@@ -187,37 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-pi-and-what-makes-self-modifying" target="_blank">Building Pi, and what makes self-modifying software so fascinating</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-29 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19003972&w=600" alt="Implementing Effective Document Fraud Detection in C#" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/document-fraud-detection-in-c" target="_blank">Implementing Effective Document Fraud Detection in C#</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sahilkhurana/cursor-ai-2026-the-complete-guide-to-the-ai-native-ide-3n4h" target="_blank">Cursor AI 2026: The Complete Guide to the AI-Native IDE</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hygon-C86-4G-CPU-GCC-17" target="_blank">Hygon C86-4G CPU Support Added To The GCC 17 Compiler</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-29 13:14</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zed.dev/blog/zed-1-0" target="_blank">Zed is 1.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-29 14:34</span>
             </div>
         </div>
 </div>
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-29-at-11.51.01-AM-1280x720.jpg" alt="No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/robot-dog-elon-musk-mark-zuckerberg-jeff-bezos-beeple-2000691713" target="_blank">No Horror Game Can Compete With Real-Life Robot Dogs That Look Like Elon Musk And Mark Zuckerberg</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/Comets_Kick_up_Dust_in_Helix_Nebula_PIA09178.jpg?fit=1920%2C1597&amp;quality=60&amp;ssl=1" alt="A space cat with a rainbow exhaust wants nothing from you" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/a-space-cat-with-a-rainbow-exhaust-wants-nothing-from-you.html" target="_blank">A space cat with a rainbow exhaust wants nothing from you</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 16:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Drime-Secure-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Why pay monthly for cloud storage when 8TB lifetime subscriptions like this one are on sale for $280 (was $899)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +287,6 @@
                 <span class="time">2026-04-29 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQCB4T9ZY6S3AV4CAD1HTFHE/hero-image.png" alt="This Solar-Powered Eufy Home Security Camera Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-solocam-s340-sale-april-2026?utm_medium=RSS" target="_blank">This Solar-Powered Eufy Home Security Camera Is 40% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/MindsEye-offical-artwork-Build-a-Rocket-Boy.jpg" alt="Sabotage, Crunch Culture, And Spying: Meet The MindsEye Developer Speaking Out About The Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mindseye-build-a-rocket-boy-leslie-benzies-mark-gerhard-cyber-boi-layoffs-teramind-2000691386" target="_blank">Sabotage, Crunch Culture, And Spying: Meet The MindsEye Developer Speaking Out About The Chaos</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,13 +319,22 @@
                 <span class="time">2026-04-29 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/simple_machines.png" alt="Simple Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3239/" target="_blank">Simple Machines</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-04-29 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:35 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 255 |
+        🔄 Last Updated: 16:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
