@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 11:29:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-29 12:25:19 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 11:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, April 29, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/1d506fd0-43ad-11f1-9d89-8526d1435c1c.jpg" alt="Six held after religious group modern slavery raid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&at_campaign=rss" target="_blank">Six held after religious group modern slavery raid</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-29 11:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +103,20 @@
                 <span class="time">2026-04-29 08:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119153/ukraine-accuses-israel-of-importing-grain-stolen-by-russia" target="_blank">Ukraine accuses Israel of importing grain &#x27;stolen&#x27; by Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/" target="_blank">Jack Dorsey-backed Vine reboot Divine launches to the public</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f14714d98ff026bfabf2fd/master/pass/The-13-Best-Coolers-We%E2%80%99ve-Tested-for-Every-Kind-of-Adventure.jpg" alt="13 Best Coolers for Sunshine and Nighttime (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +162,38 @@
                 <span class="time">2026-04-29 09:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f14b43423c2e71c99af5dd/master/pass/Justice-Department-Has-Destroyed-Its-Voting-Rights-Section-Politics.jpg" alt="The Justice Department Has Destroyed Its Voting Rights Section" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/" target="_blank">The Justice Department Has Destroyed Its Voting Rights Section</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yu-min/my-1-year-journey-from-failing-cka-to-joining-the-240-golden-kubestronauts-back-then-27g3" target="_blank">My 1-Year Journey From Failing CKA to Joining the ~240 Golden Kubestronauts Back Then</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-29 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18938197&w=600" alt="The Art of Logging: How to Write Effective Logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-art-of-logging-how-to-write-effective-logs" target="_blank">The Art of Logging: How to Write Effective Logs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/sauce-labs-ai-test-creation/en/headerimage/generatedHeaderImage-1777279390184.jpg" alt="Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Sauce Labs Launches AI Agent to Automate Test Creation and Close the DevOps “Velocity Gap”</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-29 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,46 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/libcamera-0.7.1-Released" target="_blank">Libcamera 0.7.1 Released With Improved Software ISP</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-29 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shotatanikawa/webhook-signature-verification-hmac-sha256-in-node-python-ruby-2026-guide-26m" target="_blank">Webhook Signature Verification (HMAC-SHA256) in Node, Python, Ruby — 2026 Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-29 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iprajapatiparesh/why-soft-deletes-are-breaking-your-saas-database-and-how-to-fix-it-2heg" target="_blank">Why Soft Deletes Are Breaking Your SaaS Database (And How to Fix It) 🛑</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Halo-Box-RGB-LED-Driver" target="_blank">AMD Introducing New Linux Driver For Their Halo Box: For Its RGB LED Light Bar</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-29 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/slack-agent-context-management/en/headerimage/slack-context-management-agents-1777407896875.jpeg" alt="How Slack Manages Context in Long-running Multi-agent Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/slack-agent-context-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Slack Manages Context in Long-running Multi-agent Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-28 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gad_ofir_076c468dd15d483b/introducing-the-agent-platform-40-complete-2026-04-28-2321-47ko" target="_blank">Introducing the Agent Platform - 40% Complete (2026-04-28 23:21)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-28 20:21</span>
             </div>
         </div>
 </div>
@@ -231,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/MindsEye-offical-artwork-Build-a-Rocket-Boy.jpg" alt="Sabotage, Crunch Culture, And Spying: Meet The Ex-MindsEye Developer Speaking Out About The Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mindseye-build-a-rocket-boy-leslie-benzies-mark-gerhard-cyber-boi-layoffs-teramind-2000691386" target="_blank">Sabotage, Crunch Culture, And Spying: Meet The Ex-MindsEye Developer Speaking Out About The Chaos</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 12:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Notepad_2B_2B-for-MacOS.jpg?fit=1080%2C550&amp;quality=60&amp;ssl=1" alt="Beloved Windows text editor Notepad++ now on Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/28/developers-can-now-get-visual-studio-pro-for-life-for-under-40-was-499-99.html" target="_blank">Developers can now get Visual Studio Pro for life for under $40 (was $499.99)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-28 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/adbafffe54439bcfbfc6e78ceeff473d-1280x720.jpg" alt="All The Evidence That GTA 6‘s Next Trailer Is Nearly Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/all-the-evidence-that-gta-6s-next-trailer-is-nearly-here-2000691342" target="_blank">All The Evidence That GTA 6‘s Next Trailer Is Nearly Here</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-28 20:10</span>
             </div>
         </div>
 </div>
@@ -331,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 248 |
-        🔄 Last Updated: 11:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 249 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
