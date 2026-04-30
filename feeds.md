@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 03:00:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 05:03:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss" target="_blank">New Zealand court denies bid by mosque mass shooter to appeal conviction</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg" alt="Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss" target="_blank">Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 04:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/D4vd-burke-2-ht-gmh-260420_1776705079147_hpMain_4x3t_384.jpg" alt="D4vd case: Prosecutors reveal &#x27;horrifying&#x27; details of teen&#x27;s alleged murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/124a/live/a84a22d0-43f7-11f1-a314-cde9f81d6d3e.jpg" alt="Police declare terrorist incident after two Jewish men stabbed in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss" target="_blank">Police declare terrorist incident after two Jewish men stabbed in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 00:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,38 +102,29 @@
                 <span class="time">2026-04-30 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/whca-7-gty-gmh-260426_1777207012737_hpMain_4x3t_384.jpg" alt="DC shooting prompts alarm about threat posed by attackers crossing state lines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/correspondents-dinner-shooting-prompts-alarm-threat-posed-attackers/story?id=132470320" target="_blank">DC shooting prompts alarm about threat posed by attackers crossing state lines</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-29 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price rises above $120 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price rises above $120 after reports of &#x27;extended&#x27; Iran blockade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-29 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss" target="_blank">Carney ‘strong’ in year one, now must deliver on promises in Canada</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Deals: 30% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/" target="_blank">SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 03:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +161,29 @@
                 <span class="time">2026-04-29 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale" target="_blank">Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/" target="_blank">Google gains 25M subscriptions in Q1, driven by YouTube and Google One</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-29 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arshtechpro/claude-code-routines-put-your-ai-agent-on-autopilot-51d1" target="_blank">Claude Code Routines: Put Your AI Agent on Autopilot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/where-the-goblins-came-from/" target="_blank">Where the goblins came from</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-30 03:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48jmx5ctnlsvie9lwec0.png" alt="Building a High-Performance Movie Portal with Next.js and TMDB: The Kinoshrot Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9" target="_blank">Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj" target="_blank">The Missing Link: Securing Gemini Agents with the Model Context Protocol (MCP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/enable-ubuntu-pro-security-center.webp?resize=406%2C232&amp;ssl=1" alt="Enabling Ubuntu Pro in Security Center is super easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/enable-ubuntu-pro-security-center" target="_blank">Enabling Ubuntu Pro in Security Center is super easy</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-29 21:59</span>
             </div>
         </div>
 </div>
@@ -343,22 +343,13 @@
                 <span class="time">2026-04-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/simple_machines.png" alt="Simple Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3239/" target="_blank">Simple Machines</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-04-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
