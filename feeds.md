@@ -1,42 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 06:46:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 07:43:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 06:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 07:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss" target="_blank">Could the US-Iran war become a protracted ‘frozen’ conflict?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 07:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5775794/fuel-costs-iran-war-wildfires" target="_blank">How rising jet fuel prices are driving up the cost of fighting wildfires</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss" target="_blank">Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-04-30 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/D4vd-burke-2-ht-gmh-260420_1776705079147_hpMain_4x3t_384.jpg" alt="D4vd case: Prosecutors reveal &#x27;horrifying&#x27; details of teen&#x27;s alleged murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/d4vd-allegedly-amputated-teens-finger-tattooed-part-horrifying/story?id=132516581" target="_blank">D4vd case: Prosecutors reveal &#x27;horrifying&#x27; details of teen&#x27;s alleged murder</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss" target="_blank">Hundreds of Ultra-Orthodox Jews protest Israel’s military draft</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 01:16</span>
             </div>
         </div>
 </div>
@@ -338,22 +334,13 @@
                 <span class="time">2026-04-29 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/04/29/the-rich-roe-of-wisdom" target="_blank">The Rich Roe of Wisdom</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-29 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
