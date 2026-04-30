@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 00:19:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-04-30 01:32:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss" target="_blank">Hundreds of Ultra-Orthodox Jews protest Israel’s military draft</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 01:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps" target="_blank">Supreme Court appears to lean toward ending TPS for some migrants</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-29 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss" target="_blank">Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-29 21:59</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudbnbmfms6d8ojrl3agl.png" alt="Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9" target="_blank">Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 01:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +218,6 @@
                 <span class="time">2026-04-29 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/den_storksoft/i-signed-my-ai-up-for-agenthansa-and-here-is-what-actually-happened-an6" target="_blank">I Signed My AI Up for AgentHansa and Here Is What Actually Happened</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_1976484428.jpg?fit=747%2C584&amp;quality=60&amp;ssl=1" alt="Loveland Frogman could become Ohio&#x27;s official state cryptid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/loveland-frogman-could-become-ohios-official-state-cryptid.html" target="_blank">Loveland Frogman could become Ohio&#x27;s official state cryptid</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 00:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2013/09/Duncan-Rawlinson-Photo-41153-XOXO-2013-Portland-Oregon-USA-20130920-IMG_7198-994x662.jpg?fit=994%2C662&amp;quality=60&amp;ssl=1" alt="XOXO festival archived online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +291,20 @@
                 <span class="time">2026-04-29 19:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQD345QXGZ7XDDMNGPWFF0J8/hero-image.jpg" alt="Google Translate Now Helps You Practice Your Pronunciation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-translate-pronunciation-practice-feature?utm_medium=RSS" target="_blank">Google Translate Now Helps You Practice Your Pronunciation</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5819.png" alt="Coming Clean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5819" target="_blank">Coming Clean</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-04-30 00:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -341,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
