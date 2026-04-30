@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 11:29:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 12:25:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 11:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 12:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz?traffic_source=rss" target="_blank">Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-9-ap-gmh-260424_1777046898119_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei says Iran will &#x27;guard&#x27; nuclear, missile technologies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +99,29 @@
                 <span class="time">2026-04-30 07:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5775794/fuel-costs-iran-war-wildfires" target="_blank">How rising jet fuel prices are driving up the cost of fighting wildfires</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups" target="_blank">Instagram says it doesn’t want your tweet round ups</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg" alt="Florida Republicans reject plan to weaken childhood vaccine requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/" target="_blank">Florida Republicans reject plan to weaken childhood vaccine requirements</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg" alt="GOP-led Florida House junks DeSantis plan to ease vaccine mandates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,35 +158,35 @@
                 <span class="time">2026-04-30 09:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nike-promo-code/" target="_blank">Nike Promo Codes and Deals: 30% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/" target="_blank">SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 03:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvtyipwobe55m4nr10oet.webp" alt="They said AI Would Kill SaaS Boilerplates. It&#x27;s Doing the Opposite." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba" target="_blank">They said AI Would Kill SaaS Boilerplates. It&#x27;s Doing the Opposite.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 12:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/johalputt/case-study-how-stripe-uses-go-124-and-grpc-160-for-high-throughput-payment-apis-334m" target="_blank">Case Study: How Stripe Uses Go 1.24 and gRPC 1.60 for High-Throughput Payment APIs</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/measure-platform-engineering/en/headerimage/measure-platform-engineering-header-1776687178658.jpg" alt="Driving and Measuring the Impact of Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Driving and Measuring the Impact of Platform Engineering</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2026-04-30 11:22</span>
             </div>
         </div>
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/benjifisher/is-my-store-ucp-ready-how-to-check-in-60-seconds-4fco" target="_blank">Is My Store UCP Ready? How to Check in 60 Seconds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/cloudflare-agent-memory-beta/en/headerimage/generatedHeaderImage-1777209282399.jpg" alt="Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-30 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eferhire/the-2026-mandate-from-model-velocity-to-algorithmic-governance-h8c" target="_blank">The 2026 Mandate: From Model Velocity to Algorithmic Governance</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 09:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
