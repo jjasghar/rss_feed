@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 10:31:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-30 11:29:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 10:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 11:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-9-ap-gmh-260424_1777046898119_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei says Iran will &#x27;guard&#x27; nuclear, missile technologies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Khamenei says Iran will &#x27;guard&#x27; nuclear, missile technologies</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,29 @@
                 <span class="time">2026-04-30 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss" target="_blank">Iran football officials to miss FIFA Congress over mistreatment in Canada</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 06:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg" alt="GOP-led Florida House junks DeSantis plan to ease vaccine mandates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/" target="_blank">GOP-led Florida House junks DeSantis plan to ease vaccine mandates</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber" target="_blank">OpenAI’s new security model is for ‘critical cyber defenders’ only</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f29f9f65348cc78c80cf33/master/pass/042926-exposed-data-stalkerware.jpg" alt="Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +161,38 @@
                 <span class="time">2026-04-30 03:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman" target="_blank">Elon Musk’s worst enemy in court is Elon Musk</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f2443b51254f9508013a9a/master/pass/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg" alt="How Elon Musk Squeezed OpenAI: They &#x27;Are Gonna Want to Kill Me’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/" target="_blank">How Elon Musk Squeezed OpenAI: They &#x27;Are Gonna Want to Kill Me’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johalputt/case-study-how-stripe-uses-go-124-and-grpc-160-for-high-throughput-payment-apis-334m" target="_blank">Case Study: How Stripe Uses Go 1.24 and gRPC 1.60 for High-Throughput Payment APIs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16.1-Released" target="_blank">GCC 16.1 Released With AMD Zen 6 Support, Algol 68 &amp; Many C/C++ Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-30 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://firethering.com/granite-4-1-ibm-open-source-model-family/" target="_blank">Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-30 10:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,48 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/04/cloudflare-agent-memory-beta/en/headerimage/generatedHeaderImage-1777209282399.jpg" alt="Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Announces Agent Memory, a Managed Persistent Memory Service for AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-30 10:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/eferhire/the-2026-mandate-from-model-velocity-to-algorithmic-governance-h8c" target="_blank">The 2026 Mandate: From Model Velocity to Algorithmic Governance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/dropbox-tiered-compaction/en/headerimage/generatedHeaderImage-1776799745799.jpg" alt="Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-30 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dragspas/i-built-a-invoice-generator-that-collects-zero-data-heres-the-tech-stack-4ihh" target="_blank">I Built a Invoice Generator That Collects Zero Data — Here&#x27;s the Tech Stack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/netflix-live-human-ops-scale/en/headerimage/header-1777364196733.jpeg" alt="Netflix Scales &quot;Human Infrastructure&quot; to Manage Global Live Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Scales &quot;Human Infrastructure&quot; to Manage Global Live Operations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-30 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arshtechpro/claude-code-routines-put-your-ai-agent-on-autopilot-51d1" target="_blank">Claude Code Routines: Put Your AI Agent on Autopilot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 04:39</span>
             </div>
         </div>
 </div>
@@ -320,22 +325,13 @@
                 <span class="time">2026-04-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5811.png" alt="Parental Approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5811" target="_blank">Parental Approval</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-29 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
