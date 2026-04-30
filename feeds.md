@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 08:42:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 09:38:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 08:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 09:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5786543/veteran-bourbon-mindfulness" target="_blank">The Iraq vet redefining mindfulness, one bourbon at a time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg" alt="Oil price hits highest since 2022 after report Trump to be briefed on new Iran options" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2026-04-30 06:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys" target="_blank">How a father and daughter duped NYC&#x27;s art world with fake Warhols and Banksys</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 05:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f2eb9db9af2f8a25a718be/master/pass/Review--Eve-Aqua-Smart-Water-Controller.jpg" alt="The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/review-eve-aqua-smart-water-controller/" target="_blank">The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 09:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" alt="Nike Promo Codes and Deals: 30% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2026-04-29 23:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/920845/grindr-whcd-party-2026" target="_blank">Grindr — yes, Grindr — won the WHCD party circuit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-29 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eferhire/the-2026-mandate-from-model-velocity-to-algorithmic-governance-h8c" target="_blank">The 2026 Mandate: From Model Velocity to Algorithmic Governance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/dropbox-tiered-compaction/en/headerimage/generatedHeaderImage-1776799745799.jpg" alt="Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dropbox Redesigns Compaction to Reclaim Space from Underfilled Storage Volumes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-30 09:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://openai.com/index/where-the-goblins-came-from/" target="_blank">Where the goblins came from</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-30 03:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48jmx5ctnlsvie9lwec0.png" alt="Building a High-Performance Movie Portal with Next.js and TMDB: The Kinoshrot Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ljresetl/building-a-high-performance-movie-portal-with-nextjs-and-tmdb-the-kinoshrot-case-study-44ea" target="_blank">Building a High-Performance Movie Portal with Next.js and TMDB: The Kinoshrot Case Study</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ps5-linux.webp?resize=406%2C232&amp;ssl=1" alt="You can run Ubuntu on your PS5 (and play Steam games)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ps5-linux-steam" target="_blank">You can run Ubuntu on your PS5 (and play Steam games)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-30 02:37</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 08:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
