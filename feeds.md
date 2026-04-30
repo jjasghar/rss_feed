@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 07:43:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-04-30 08:42:17 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 07:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 08:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg" alt="Oil price hits highest since 2022 after report Trump to be briefed on new Iran options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price hits highest since 2022 after report Trump to be briefed on new Iran options</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 08:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119486/israel-intercept-gaza-aid-flotilla" target="_blank">Activists say Israel has intercepted their Gaza aid flotilla near Crete</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 07:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys" target="_blank">How a father and daughter duped NYC&#x27;s art world with fake Warhols and Banksys</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-04-30 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss" target="_blank">New Zealand court denies bid by mosque mass shooter to appeal conviction</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg" alt="Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss" target="_blank">Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-30 04:06</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dragspas/i-built-a-invoice-generator-that-collects-zero-data-heres-the-tech-stack-4ihh" target="_blank">I Built a Invoice Generator That Collects Zero Data — Here&#x27;s the Tech Stack</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/netflix-live-human-ops-scale/en/headerimage/header-1777364196733.jpeg" alt="Netflix Scales &quot;Human Infrastructure&quot; to Manage Global Live Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Scales &quot;Human Infrastructure&quot; to Manage Global Live Operations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-30 08:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arshtechpro/claude-code-routines-put-your-ai-agent-on-autopilot-51d1" target="_blank">Claude Code Routines: Put Your AI Agent on Autopilot</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 04:39</span>
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ps5-linux-steam" target="_blank">You can run Ubuntu on your PS5 (and play Steam games)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-04-30 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79" target="_blank">Craig Venter has died</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-30 01:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudbnbmfms6d8ojrl3agl.png" alt="Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9" target="_blank">Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 01:21</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:43 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 08:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
