@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 15:31:54 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-30 16:27:56 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 15:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 16:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be20/live/7f15ba90-4457-11f1-bd52-e755d604ece4.jpg" alt="What we know about the Golders Green stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the Golders Green stabbings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/virginian-main_1777545878342_hpMain_4x3t_384.jpg" alt="Trump doubles down on &#x27;86&#x27; as mob term after Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251221-jeff-landry-cc-1031p-57fb05.jpg" alt="Louisiana will delay House primaries after Supreme Court redistricting ruling, governor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/louisiana-delay-house-primaries-supreme-court-redistricting-ruling-rcna342858" target="_blank">Louisiana will delay House primaries after Supreme Court redistricting ruling, governor says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-30 13:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251221-jeff-landry-cc-1031p-57fb05.jpg" alt="Louisiana plans to delay House primaries after Supreme Court redistricting ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -83,29 +97,20 @@
                 <span class="time">2026-04-30 13:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz?traffic_source=rss" target="_blank">Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-9-ap-gmh-260424_1777046898119_hpMain_4x3t_384.jpg" alt="Iran live updates: Khamenei says Iran will &#x27;guard&#x27; nuclear, missile technologies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Khamenei says Iran will &#x27;guard&#x27; nuclear, missile technologies</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="RFK Jr. appeals ruling that wiped out his vaccine advisory panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/" target="_blank">RFK Jr. appeals ruling that wiped out his vaccine advisory panel</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2026-04-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/691d003e6dccde5821e66581/master/pass/19%20Adventurous%20Gifts%20for%20Hikers,%20Backpackers,%20and%20Outdoorsy%20People.png" alt="Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/" target="_blank">Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/04/nestjs-12-roadmap-esm/en/headerimage/generatedHeaderImage-1777478248947.jpg" alt="NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-04-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +177,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/" target="_blank">The Worst Coder in the World goes agentic: building a leaderboard cracking AI</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-04-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44" target="_blank">CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-30 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17328655/ms-dos-early-code-open-sourced" target="_blank">Microsoft Marks 45 Years of DOS by Open-Sourcing Its Oldest-Known Source Code</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-04-30 15:43</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/lukaswalter/use-the-aspire-dashboard-standalone-gb0" target="_blank">Use the Aspire Dashboard Standalone</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!-ulG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c82f3a-7b40-49ca-8171-b709a9e8167d_1666x1050.png" alt="The Pulse: AI load breaks GitHub – why not other vendors?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks" target="_blank">The Pulse: AI load breaks GitHub – why not other vendors?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-04-30 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bittobuild/6-open-source-gadgets-you-can-actually-build-in-2026-21dk" target="_blank">6 Open-Source Gadgets You Can Actually Build in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc1-Threadripper" target="_blank">Linux 7.1-rc1 Showing Off Some Wins On AMD Ryzen Threadripper</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-30 12:23</span>
             </div>
         </div>
 </div>
@@ -248,12 +244,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/IMG_3282-1280x720.jpg" alt="You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saros-story-passage-death-roguelike-arjun-kayla-sheridan-2000692091" target="_blank">You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 16:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/bond-hands-on-1280x700.jpg" alt="Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/over-3-hours-with-007-first-light-a-bond-game-thats-a-ton-of-fun-despite-playing-it-safe-2000692050" target="_blank">Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-30 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Philips-4000-Series-Touchscreen-Fingerprint-Smart-Deadbolt.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="The Philips 4000 Series Touchscreen Deadbolt is a smarter way to lock up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/the-philips-4000-series-touchscreen-deadbolt-is-a-smarter-way-to-lock-up.html" target="_blank">The Philips 4000 Series Touchscreen Deadbolt is a smarter way to lock up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -281,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/29/maryland-the-first-state-to-regulate-grocery-surveillance-pricing.html" target="_blank">Maryland the first state to regulate grocery surveillance pricing</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-30 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_1976484428.jpg?fit=747%2C584&amp;quality=60&amp;ssl=1" alt="Loveland Frogman could become Ohio&#x27;s official state cryptid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/loveland-frogman-could-become-ohios-official-state-cryptid.html" target="_blank">Loveland Frogman could become Ohio&#x27;s official state cryptid</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2013/09/Duncan-Rawlinson-Photo-41153-XOXO-2013-Portland-Oregon-USA-20130920-IMG_7198-994x662.jpg?fit=994%2C662&amp;quality=60&amp;ssl=1" alt="XOXO festival archived online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/xoxo-festival-archived-online.html" target="_blank">XOXO festival archived online</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 22:54</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
