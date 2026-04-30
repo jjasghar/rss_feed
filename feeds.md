@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 16:27:56 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-04-30 17:28:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 16:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 17:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260420_1776715264115_hpMain_4x3t_384.jpg" alt="House approves bill to fund DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961" target="_blank">House approves bill to fund DHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be20/live/7f15ba90-4457-11f1-bd52-e755d604ece4.jpg" alt="What we know about the Golders Green stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +76,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5805891/craig-venter-decoding-human-genome-dies-79" target="_blank">Craig Venter, pioneering human genome decoder, dies at 79</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss" target="_blank">Saudi Arabia to end LIV Golf funding, while league appoints new chairman</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -79,29 +100,29 @@
                 <span class="time">2026-04-30 14:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251221-jeff-landry-cc-1031p-57fb05.jpg" alt="Louisiana will delay House primaries after Supreme Court redistricting ruling, governor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/louisiana-delay-house-primaries-supreme-court-redistricting-ruling-rcna342858" target="_blank">Louisiana will delay House primaries after Supreme Court redistricting ruling, governor says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-30 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251221-jeff-landry-cc-1031p-57fb05.jpg" alt="Louisiana plans to delay House primaries after Supreme Court redistricting ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/louisiana-delay-house-primaries-supreme-court-redistricting-ruling-rcna342858" target="_blank">Louisiana plans to delay House primaries after Supreme Court redistricting ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-30 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/" target="_blank">TikTok’s new ‘Campus Hub’ features college group chats and feeds</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank">Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 16:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="RFK Jr. appeals ruling that wiped out his vaccine advisory panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +159,29 @@
                 <span class="time">2026-04-30 13:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/921048/verified-by-spotify-badge" target="_blank">Verified by Spotify badge lets you know this artist isn&amp;#8217;t AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/" target="_blank">Spotify introduces verified artist badges to help distinguish humans from AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954948&w=600" alt="Java ProcessBuilder: Deadlocks, Zombies, and the 64 KB Wall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-processbuilder-deadlocks-zombies" target="_blank">Java ProcessBuilder: Deadlocks, Zombies, and the 64 KB Wall</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Mint-HWE-ISOs" target="_blank">Linux Mint To Begin Publishing HWE ISOs For Better Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-30 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/04/nestjs-12-roadmap-esm/en/headerimage/generatedHeaderImage-1777478248947.jpg" alt="NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17328655/ms-dos-early-code-open-sourced" target="_blank">Microsoft Marks 45 Years of DOS by Open-Sourcing Its Oldest-Known Source Code</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-04-30 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvindh_httpbot/stop-manually-testing-apis-let-apple-shortcuts-do-it-for-you-592p" target="_blank">Stop Manually Testing APIs: Let Apple Shortcuts Do It For You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.lukaswalter.dev%2Fimages%2Faspire-dashboard.png" alt="Use the Aspire Dashboard Standalone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lukaswalter/use-the-aspire-dashboard-standalone-gb0" target="_blank">Use the Aspire Dashboard Standalone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 14:30</span>
             </div>
         </div>
 </div>
@@ -253,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQFF2WEG4EJ26ZG93ZKBKQX5/hero-image.jpg" alt="No, Sony Isn&#x27;t Forcing Gamers to Connect to the Internet Every 30 Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-playstation-game-drm-policy?utm_medium=RSS" target="_blank">No, Sony Isn&#x27;t Forcing Gamers to Connect to the Internet Every 30 Days</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-30 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/bond-hands-on-1280x700.jpg" alt="Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,20 +300,20 @@
                 <span class="time">2026-04-30 14:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2681158465.jpg?fit=1000%2C563&amp;quality=60&amp;ssl=1" alt="Maryland the first state to regulate grocery surveillance pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/maryland-the-first-state-to-regulate-grocery-surveillance-pricing.html" target="_blank">Maryland the first state to regulate grocery surveillance pricing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 02:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777341705-20260430-edit.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/meaning-7" target="_blank">Saturday Morning Breakfast Cereal - Meaning</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-04-30 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5819.png" alt="Coming Clean" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
