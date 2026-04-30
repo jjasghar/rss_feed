@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-04-29 23:16:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-04-30 00:19:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, April 29, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss" target="_blank">Iran war live: Trump urges Tehran to ‘just give up’ as oil prices surge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/whca-7-gty-gmh-260426_1777207012737_hpMain_4x3t_384.jpg" alt="DC shooting prompts alarm about threat posed by attackers crossing state lines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/correspondents-dinner-shooting-prompts-alarm-threat-posed-attackers/story?id=132470320" target="_blank">DC shooting prompts alarm about threat posed by attackers crossing state lines</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-29 23:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2891/live/ab550cf0-43b7-11f1-a5aa-c74cdbf526ae.jpg" alt="Oil price rises above $120 after reports of &#x27;extended&#x27; Iran blockade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +95,20 @@
                 <span class="time">2026-04-29 21:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome" target="_blank">The Austrian nuns who fled their care home are now in Rome and visited the Vatican</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5802789/tb-tuberculosis-rapid-test" target="_blank">Long a dream, it&#x27;s now real: a fast and accurate TB test that doesn&#x27;t need phlegm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman" target="_blank">Elon Musk’s worst enemy in court is Elon Musk</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/" target="_blank">Emergency First Responders Say Waymos Are Getting Worse</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-29 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f236661563e1f0e3b4ee95/master/pass/Clavicular-Being-Sued-Culture-h_16458124.jpg" alt="Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/" target="_blank">Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 19:20</span>
             </div>
         </div>
 </div>
@@ -232,6 +233,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2013/09/Duncan-Rawlinson-Photo-41153-XOXO-2013-Portland-Oregon-USA-20130920-IMG_7198-994x662.jpg?fit=994%2C662&amp;quality=60&amp;ssl=1" alt="XOXO festival archived online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/xoxo-festival-archived-online.html" target="_blank">XOXO festival archived online</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-29 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg" alt="After Days Of Panic, Sony Sets The Record Straight On PlayStation DRM: ‘A One-Time Online Check Is Required’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/after-days-of-panic-sony-sets-the-record-straight-on-playstation-drm-a-one-time-online-check-is-required-2000691803" target="_blank">After Days Of Panic, Sony Sets The Record Straight On PlayStation DRM: ‘A One-Time Online Check Is Required’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-29 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/2151211a080fe399309cca70ff1df3af-1280x720.jpg" alt="Final Fantasy 7 Rebirth Director Promises Part 3 Is On Schedule And He Feels ‘No Negativity’ To A Project He’s Spent 10 Years Working On" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,24 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-translate-pronunciation-practice-feature?utm_medium=RSS" target="_blank">Google Translate Now Helps You Practice Your Pronunciation</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/ice.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Scientists found ice with a 304-molecule repeating pattern" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/scientists-found-ice-with-a-304-molecule-repeating-pattern.html" target="_blank">Scientists found ice with a 304-molecule repeating pattern</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/captain-billy.jpg?fit=1200%2C1758&amp;quality=60&amp;ssl=1" alt="Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/29/captain-billys-whiz-bang-gave-a-pastors-egypt-trip-the-pulp-treatment-in-1922.html" target="_blank">Captain Billy&#x27;s Whiz Bang gave a pastor&#x27;s Egypt trip the pulp treatment in 1922</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-29 18:02</span>
             </div>
         </div>
 </div>
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
