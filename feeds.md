@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 17:28:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 18:24:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 17:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 18:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss" target="_blank">UN chief calls for immediate reopening of the Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260420_1776715264115_hpMain_4x3t_384.jpg" alt="House approves bill to fund DHS, ending record-long partial shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961" target="_blank">House approves bill to fund DHS, ending record-long partial shutdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 17:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260420_1776715264115_hpMain_4x3t_384.jpg" alt="House approves bill to fund DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961" target="_blank">House approves bill to fund DHS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-30 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260417-capitol-hill-ch-1528-1fd938.jpg" alt="Congress votes to end record shutdown, sending DHS funding bill to Trump&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/congress-expected-end-record-75-day-partial-government-shutdown-rcna342903" target="_blank">Congress votes to end record shutdown, sending DHS funding bill to Trump&#x27;s desk</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-30 16:30</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +98,47 @@
                 <span class="time">2026-04-30 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5805891/craig-venter-decoding-human-genome-dies-79" target="_blank">Craig Venter, pioneering human genome decoder, dies at 79</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss" target="_blank">Saudi Arabia to end LIV Golf funding, while league appoints new chairman</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/vonn-not-ready-to-decide-if-shell-ski-again-after-winter-olympics-crash?traffic_source=rss" target="_blank">Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 14:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/" target="_blank">OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation" target="_blank">Elon Musk confirms xAI used OpenAI’s models to train Grok</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-500x500.jpg" alt="Beijing bans drone sales even as rest of world buys Chinese drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/" target="_blank">Beijing bans drone sales even as rest of world buys Chinese drones</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683e41777a72d53a3adfb36f/master/pass/Adjustable%20Mattress%20vs.%20Adjustable%20Frame.png" alt="Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/" target="_blank">Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,42 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank">Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-30 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="RFK Jr. appeals ruling that wiped out his vaccine advisory panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/" target="_blank">RFK Jr. appeals ruling that wiped out his vaccine advisory panel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/921101/ar-mobile-pixi" target="_blank">After working on the Vision Pro, this AR veteran is going back to phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-500x500.jpg" alt="Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank">Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-500x500.jpg" alt="More than half of all  Polymarket &quot;long shot&quot; bets on military action pay off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/" target="_blank">More than half of all  Polymarket &quot;long shot&quot; bets on military action pay off</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 13:16</span>
             </div>
         </div>
 </div>
@@ -180,6 +178,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Mint-HWE-ISOs" target="_blank">Linux Mint To Begin Publishing HWE ISOs For Better Hardware Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-30 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/" target="_blank">GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-04-30 16:09</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44" target="_blank">CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-30 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17328655/ms-dos-early-code-open-sourced" target="_blank">Microsoft Marks 45 Years of DOS by Open-Sourcing Its Oldest-Known Source Code</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-04-30 15:43</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/truckkun-1280x720.jpg" alt="New Fantasy Driving Game Has An Absurd Name And An Even More Absurd Premise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/truck-kun-is-supporting-me-from-another-world-isekai-pedestrians-2000692108" target="_blank">New Fantasy Driving Game Has An Absurd Name And An Even More Absurd Premise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemisdog.webp?fit=1344%2C896&amp;quality=55&amp;ssl=1" alt="Pasadena shelter closes the book on Eaton Fire rescues with one final, very good dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/pasadena-shelter-closes-the-book-on-eaton-fire-rescues-with-one-final-very-good-dog.html" target="_blank">Pasadena shelter closes the book on Eaton Fire rescues with one final, very good dog</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/IMG_3282-1280x720.jpg" alt="You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/04/30/the-philips-4000-series-touchscreen-deadbolt-is-a-smarter-way-to-lock-up.html" target="_blank">The Philips 4000 Series Touchscreen Deadbolt is a smarter way to lock up</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-04-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQCW8PJ0BYKPC6BE7PRXNTN3/hero-image.jpg" alt="15 Shows Like &#x27;Nobody Wants This&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-nobody-wants-this?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Nobody Wants This&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-30 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/image-16.png?fit=706%2C380&amp;quality=55&amp;ssl=1" alt="Costco hot dog combo stays at $1.50, and now you can have a bottle of water with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/costco-hot-dog-combo-stays-at-1-50-and-now-you-can-have-a-bottle-of-water-with-it.html" target="_blank">Costco hot dog combo stays at $1.50, and now you can have a bottle of water with it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 14:14</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
