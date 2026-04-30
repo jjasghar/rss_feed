@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 01:32:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 03:00:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/D4vd-burke-2-ht-gmh-260420_1776705079147_hpMain_4x3t_384.jpg" alt="D4vd case: Prosecutors reveal &#x27;horrifying&#x27; details of teen&#x27;s alleged murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/d4vd-allegedly-amputated-teens-finger-tattooed-part-horrifying/story?id=132516581" target="_blank">D4vd case: Prosecutors reveal &#x27;horrifying&#x27; details of teen&#x27;s alleged murder</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 02:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +102,6 @@
                 <span class="time">2026-04-29 22:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/29/nx-s1-5804707/supreme-court-tps" target="_blank">Supreme Court appears to lean toward ending TPS for some migrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-29 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman" target="_blank">Elon Musk’s worst enemy in court is Elon Musk</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-30 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f2443b51254f9508013a9a/master/pass/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg" alt="How Elon Musk Squeezed OpenAI: They &#x27;Are Gonna Want to Kill Me’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/" target="_blank">How Elon Musk Squeezed OpenAI: They &#x27;Are Gonna Want to Kill Me’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-29 23:41</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +161,38 @@
                 <span class="time">2026-04-29 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f2023315173e86b113088a/master/pass/GettyImages-2259269133.jpg" alt="Emergency First Responders Say Waymos Are Getting Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/" target="_blank">Emergency First Responders Say Waymos Are Getting Worse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-29 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48jmx5ctnlsvie9lwec0.png" alt="Building a High-Performance Movie Portal with Next.js and TMDB: The Kinoshrot Case Study" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ljresetl/building-a-high-performance-movie-portal-with-nextjs-and-tmdb-the-kinoshrot-case-study-44ea" target="_blank">Building a High-Performance Movie Portal with Next.js and TMDB: The Kinoshrot Case Study</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/ps5-linux.webp?resize=406%2C232&amp;ssl=1" alt="You can run Ubuntu on your PS5 (and play Steam games)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/ps5-linux-steam" target="_blank">You can run Ubuntu on your PS5 (and play Steam games)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-30 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79" target="_blank">Craig Venter has died</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-30 01:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudbnbmfms6d8ojrl3agl.png" alt="Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +220,6 @@
                 <span class="time">2026-04-29 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18952129&w=600" alt="The LLM Selection War Story: Part 4 - Your Production Failure Testing Suite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-llm-selection-war-story-part-4" target="_blank">The LLM Selection War Story: Part 4 - Your Production Failure Testing Suite</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drewmullen/fully-migrate-secrets-out-of-terraform-module-state-without-breaking-existing-users-1jc5" target="_blank">Fully Migrate Secrets Out Of Terraform Module State Without Breaking Existing Users</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-29 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18945552&w=600" alt="Beyond Big Data: Designing Agentic Data Pipelines for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-big-data-designing-agentic-data-pipe" target="_blank">Beyond Big Data: Designing Agentic Data Pipelines for AI Workloads</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2681158465.jpg?fit=1000%2C563&amp;quality=60&amp;ssl=1" alt="Maryland the first state to regulate grocery surveillance pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/29/maryland-the-first-state-to-regulate-grocery-surveillance-pricing.html" target="_blank">Maryland the first state to regulate grocery surveillance pricing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 02:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_1976484428.jpg?fit=747%2C584&amp;quality=60&amp;ssl=1" alt="Loveland Frogman could become Ohio&#x27;s official state cryptid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/ios-27-may-add-these-new-ai-editing-tools-to-the-photos-app?utm_medium=RSS" target="_blank">These New AI Editing Tools May Be Added to the Photos App in iOS 27</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-29 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/image-69-1280x722.jpg" alt="Costco Makes PC Gamer An Unbelievable RAM Deal They Can’t Refuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gaming-news-pc-deal-costco-injustice-3-rugrats-2000691702" target="_blank">Costco Makes PC Gamer An Unbelievable RAM Deal They Can’t Refuse</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 19:19</span>
             </div>
         </div>
 </div>
@@ -355,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
