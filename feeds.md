@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 14:38:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-04-30 15:31:54 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 14:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 15:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/virginian-main_1777545878342_hpMain_4x3t_384.jpg" alt="Trump doubles down on &#x27;86&#x27; as mob term after Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-doubles-86-mob-term-murder-after-comey/story?id=132526395" target="_blank">Trump doubles down on &#x27;86&#x27; as mob term after Comey indictment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss" target="_blank">Saudi Arabia to end LIV Golf funding, while league appoints new chairman</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 14:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/vonn-not-ready-to-decide-if-shell-ski-again-after-winter-olympics-crash?traffic_source=rss" target="_blank">Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-04-30 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-12/251221-jeff-landry-cc-1031p-57fb05.jpg" alt="Louisiana plans to delay House primaries after Supreme Court redistricting ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/louisiana-delay-house-primaries-supreme-court-redistricting-ruling-rcna342858" target="_blank">Louisiana plans to delay House primaries after Supreme Court redistricting ruling</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-30 13:37</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +101,20 @@
                 <span class="time">2026-04-30 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5786543/veteran-bourbon-mindfulness" target="_blank">The Iraq vet redefining mindfulness, one bourbon at a time</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg" alt="Oil price hits highest since 2022 after report Trump to be briefed on new Iran options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss" target="_blank">Oil price hits highest since 2022 after report Trump to be briefed on new Iran options</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-30 08:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119486/israel-intercept-gaza-aid-flotilla" target="_blank">Activists say Israel has intercepted their Gaza aid flotilla near Crete</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 07:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/921101/ar-mobile-pixi" target="_blank">After working on the Vision Pro, this AR veteran is going back to phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-500x500.jpg" alt="Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +160,6 @@
                 <span class="time">2026-04-30 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups" target="_blank">Instagram says it doesn’t want your tweet round ups</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvindh_httpbot/stop-manually-testing-apis-let-apple-shortcuts-do-it-for-you-592p" target="_blank">Stop Manually Testing APIs: Let Apple Shortcuts Do It For You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 15:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.lukaswalter.dev%2Fimages%2Faspire-dashboard.png" alt="Use the Aspire Dashboard Standalone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lukaswalter/use-the-aspire-dashboard-standalone-gb0" target="_blank">Use the Aspire Dashboard Standalone</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!-ulG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c82f3a-7b40-49ca-8171-b709a9e8167d_1666x1050.png" alt="The Pulse: AI load breaks GitHub – why not other vendors?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks" target="_blank">The Pulse: AI load breaks GitHub – why not other vendors?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-04-30 14:23</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +219,20 @@
                 <span class="time">2026-04-30 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvtyipwobe55m4nr10oet.webp" alt="They said AI Would Kill SaaS Boilerplates. It&#x27;s Doing the Opposite." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba" target="_blank">They said AI Would Kill SaaS Boilerplates. It&#x27;s Doing the Opposite.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/" target="_blank">Belgium stops decommissioning nuclear power plants</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-04-30 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/" target="_blank">Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-04-30 14:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/bond-hands-on-1280x700.jpg" alt="Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/over-3-hours-with-007-first-light-a-bond-game-thats-a-ton-of-fun-despite-playing-it-safe-2000692050" target="_blank">Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQCW8PJ0BYKPC6BE7PRXNTN3/hero-image.jpg" alt="15 Shows Like &#x27;Nobody Wants This&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-nobody-wants-this?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Nobody Wants This&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-30 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/image-16.png?fit=706%2C380&amp;quality=55&amp;ssl=1" alt="Costco hot dog combo stays at $1.50, and now you can have a bottle of water with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +301,6 @@
                 <span class="time">2026-04-29 22:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg" alt="After Days Of Panic, Sony Sets The Record Straight On PlayStation DRM: ‘A One-Time Online Check Is Required’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/after-days-of-panic-sony-sets-the-record-straight-on-playstation-drm-a-one-time-online-check-is-required-2000691803" target="_blank">After Days Of Panic, Sony Sets The Record Straight On PlayStation DRM: ‘A One-Time Online Check Is Required’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/06/2151211a080fe399309cca70ff1df3af-1280x720.jpg" alt="Final Fantasy 7 Rebirth Director Promises Part 3 Is On Schedule And He Feels ‘No Negativity’ To A Project He’s Spent 10 Years Working On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-7-rebirth-director-promises-part-3-is-on-schedule-and-he-feels-no-negativity-to-a-project-hes-spent-10-years-working-on-2000691791" target="_blank">Final Fantasy 7 Rebirth Director Promises Part 3 Is On Schedule And He Feels ‘No Negativity’ To A Project He’s Spent 10 Years Working On</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-29 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,22 +324,13 @@
                 <span class="time">2026-04-29 21:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777341680-20260429-edit.png" alt="Saturday Morning Breakfast Cereal - Spoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/spoon" target="_blank">Saturday Morning Breakfast Cereal - Spoon</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
