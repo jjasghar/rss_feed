@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 20:21:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 21:18:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
-<!-- Processing: InfoQ -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 20:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 21:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-bayesian-superyacht_6946955.jpg?20250620190631" alt="Bayesian superyacht sinking didn&#x27;t happen due to storm, investigators find" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/bayesian-superyacht-sinking-did-not-happen-due-to-storm-investigators-find-13538648" target="_blank">Bayesian superyacht sinking didn&#x27;t happen due to storm, investigators find</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-04-30 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent" target="_blank">Will.i.am wants to future-proof a new generation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +100,20 @@
                 <span class="time">2026-04-30 18:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260420_1776715264115_hpMain_4x3t_384.jpg" alt="House approves bill to fund DHS, ending record-long partial shutdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961" target="_blank">House approves bill to fund DHS, ending record-long partial shutdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/capitol-1-gty-gmh-260420_1776715264115_hpMain_4x3t_384.jpg" alt="House approves bill to fund DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961" target="_blank">House approves bill to fund DHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension" target="_blank">Congress keeps kicking surveillance reform down the road</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg" alt="As the most severe Linux threat in years surfaces, the world scrambles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +121,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/" target="_blank">As the most severe Linux threat in years surfaces, the world scrambles</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-04-30 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/" target="_blank">Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 20:14</span>
             </div>
         </div>
 <div class="story">
@@ -143,29 +159,20 @@
                 <span class="time">2026-04-30 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/" target="_blank">OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation" target="_blank">Elon Musk confirms xAI used OpenAI’s models to train Grok</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947441&w=600" alt="How AI Is Transforming Software Engineering and How Developers Can Take Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-ai-is-transforming-software-engineering" target="_blank">How AI Is Transforming Software Engineering and How Developers Can Take Advantage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-04-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954948&w=600" alt="Java ProcessBuilder: Deadlocks, Zombies, and the 64 KB Wall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +218,6 @@
                 <span class="time">2026-04-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/" target="_blank">The Worst Coder in the World goes agentic: building a leaderboard cracking AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-04-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/wowtreehouse-1280x720.jpg" alt="World Of Warcraft Finally Has a Nice-Looking Housing Exterior, But It Costs $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/blizzard-world-of-warcraft-housing-exterior-40-2000692152" target="_blank">World Of Warcraft Finally Has a Nice-Looking Housing Exterior, But It Costs $40</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQFRN0VR14QABAQN4B9WWJ9C/hero-image.jpg" alt="Samsung Says the Memory Crisis Will Get Worse, so You Have Two Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-says-memory-crisis-will-get-worse?utm_medium=RSS" target="_blank">Samsung Says the Memory Crisis Will Get Worse, so You Have Two Choices</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-30 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/02134.jpg?fit=1200%2C700&amp;quality=60&amp;ssl=1" alt="Ad-Free Weather Website Offers Clean, Custom Forecasts With Air Quality, Pollen, and 10-Day Outlook" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-oled-g93sc-sale-april-2026?utm_medium=RSS" target="_blank">This Ultrawide Samsung Gaming Monitor Is $300 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemisdog.webp?fit=1344%2C896&amp;quality=55&amp;ssl=1" alt="Pasadena shelter closes the book on Eaton Fire rescues with one final, very good dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/pasadena-shelter-closes-the-book-on-eaton-fire-rescues-with-one-final-very-good-dog.html" target="_blank">Pasadena shelter closes the book on Eaton Fire rescues with one final, very good dog</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_3282-1280x720.jpg" alt="You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saros-story-passage-death-roguelike-arjun-kayla-sheridan-2000692091" target="_blank">You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 16:22</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:21 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
