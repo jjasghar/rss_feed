@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 12:25:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-04-30 13:30:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 12:25 UTC</div>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +99,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-500x500.jpg" alt="More than half of all  Polymarket &quot;long shot&quot; bets on military action pay off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/" target="_blank">More than half of all  Polymarket &quot;long shot&quot; bets on military action pay off</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/921048/verified-by-spotify-badge" target="_blank">Verified by Spotify badge lets you know this artist isn&amp;#8217;t AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/691d003e6dccde5821e66581/master/pass/19%20Adventurous%20Gifts%20for%20Hikers,%20Backpackers,%20and%20Outdoorsy%20People.png" alt="Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/" target="_blank">Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -131,38 +152,20 @@
                 <span class="time">2026-04-30 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber" target="_blank">OpenAI’s new security model is for ‘critical cyber defenders’ only</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f29f9f65348cc78c80cf33/master/pass/042926-exposed-data-stalkerware.jpg" alt="Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/" target="_blank">Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f2eb9db9af2f8a25a718be/master/pass/Review--Eve-Aqua-Smart-Water-Controller.jpg" alt="The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/review-eve-aqua-smart-water-controller/" target="_blank">The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bittobuild/6-open-source-gadgets-you-can-actually-build-in-2026-21dk" target="_blank">6 Open-Source Gadgets You Can Actually Build in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 13:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvtyipwobe55m4nr10oet.webp" alt="They said AI Would Kill SaaS Boilerplates. It&#x27;s Doing the Opposite." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +209,6 @@
                 <span class="title"><a href="https://firethering.com/granite-4-1-ibm-open-source-model-family/" target="_blank">Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-30 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/benjifisher/is-my-store-ucp-ready-how-to-check-in-60-seconds-4fco" target="_blank">Is My Store UCP Ready? How to Check in 60 Seconds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 10:25</span>
             </div>
         </div>
 </div>
@@ -327,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
