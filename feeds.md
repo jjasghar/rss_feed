@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 13:30:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 14:38:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 14:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/vonn-not-ready-to-decide-if-shell-ski-again-after-winter-olympics-crash?traffic_source=rss" target="_blank">Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 14:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +97,20 @@
                 <span class="time">2026-04-30 07:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss" target="_blank">Could the US-Iran war become a protracted ‘frozen’ conflict?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 07:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-500x500.jpg" alt="Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank">Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-500x500.jpg" alt="More than half of all  Polymarket &quot;long shot&quot; bets on military action pay off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +127,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/921048/verified-by-spotify-badge" target="_blank">Verified by Spotify badge lets you know this artist isn&amp;#8217;t AI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-04-30 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/" target="_blank">Spotify introduces verified artist badges to help distinguish humans from AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -134,24 +156,6 @@
                 <span class="time">2026-04-30 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg" alt="Florida Republicans reject plan to weaken childhood vaccine requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/" target="_blank">Florida Republicans reject plan to weaken childhood vaccine requirements</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-500x500.jpg" alt="GOP-led Florida House junks DeSantis plan to ease vaccine mandates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/" target="_blank">GOP-led Florida House junks DeSantis plan to ease vaccine mandates</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -160,10 +164,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/" target="_blank">The Worst Coder in the World goes agentic: building a leaderboard cracking AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-04-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.lukaswalter.dev%2Fimages%2Faspire-dashboard.png" alt="Use the Aspire Dashboard Standalone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lukaswalter/use-the-aspire-dashboard-standalone-gb0" target="_blank">Use the Aspire Dashboard Standalone</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-04-30 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bittobuild/6-open-source-gadgets-you-can-actually-build-in-2026-21dk" target="_blank">6 Open-Source Gadgets You Can Actually Build in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-04-30 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc1-Threadripper" target="_blank">Linux 7.1-rc1 Showing Off Some Wins On AMD Ryzen Threadripper</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-30 12:23</span>
             </div>
         </div>
 <div class="story">
@@ -178,37 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johalputt/case-study-how-stripe-uses-go-124-and-grpc-160-for-high-throughput-payment-apis-334m" target="_blank">Case Study: How Stripe Uses Go 1.24 and gRPC 1.60 for High-Throughput Payment APIs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-04-30 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/measure-platform-engineering/en/headerimage/measure-platform-engineering-header-1776687178658.jpg" alt="Driving and Measuring the Impact of Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/measure-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Driving and Measuring the Impact of Platform Engineering</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-30 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16.1-Released" target="_blank">GCC 16.1 Released With AMD Zen 6 Support, Algol 68 &amp; Many C/C++ Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-30 10:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://firethering.com/granite-4-1-ibm-open-source-model-family/" target="_blank">Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></span>
+                <span class="title"><a href="https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/" target="_blank">Belgium stops decommissioning nuclear power plants</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-04-30 10:31</span>
+                <span class="time">2026-04-30 12:17</span>
             </div>
         </div>
 </div>
@@ -230,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/image-16.png?fit=706%2C380&amp;quality=55&amp;ssl=1" alt="Costco hot dog combo stays at $1.50, and now you can have a bottle of water with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/costco-hot-dog-combo-stays-at-1-50-and-now-you-can-have-a-bottle-of-water-with-it.html" target="_blank">Costco hot dog combo stays at $1.50, and now you can have a bottle of water with it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 14:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/shutterstock_2681158465.jpg?fit=1000%2C563&amp;quality=60&amp;ssl=1" alt="Maryland the first state to regulate grocery surveillance pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +288,6 @@
                 <span class="time">2026-04-29 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQDASDFXSRF7NVN67RVECABJ/hero-image.jpg" alt="These New AI Editing Tools May Be Added to the Photos App in iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ios-27-may-add-these-new-ai-editing-tools-to-the-photos-app?utm_medium=RSS" target="_blank">These New AI Editing Tools May Be Added to the Photos App in iOS 27</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-29 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
