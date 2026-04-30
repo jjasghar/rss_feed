@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 18:24:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 19:28:49 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss" target="_blank">Iran confirmed to play at World Cup according to FIFA chief Infantino</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/trump_sit_hand-z08b78.jpg" alt="Trump holds executive order signing at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-trump-holds-executive-order-signing-at-the-white-house-262473797609" target="_blank">Trump holds executive order signing at the White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-04-30 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260417-capitol-hill-ch-1528-1fd938.jpg" alt="Congress votes to end record shutdown, sending DHS funding bill to Trump&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg" alt="Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/congress-expected-end-record-75-day-partial-government-shutdown-rcna342903" target="_blank">Congress votes to end record shutdown, sending DHS funding bill to Trump&#x27;s desk</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-30 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be20/live/7f15ba90-4457-11f1-bd52-e755d604ece4.jpg" alt="What we know about the Golders Green stabbings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss" target="_blank">What we know about the Golders Green stabbings</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss" target="_blank">Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-04-30 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/virginian-main_1777545878342_hpMain_4x3t_384.jpg" alt="Trump doubles down on &#x27;86&#x27; as mob term after Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-doubles-86-mob-term-murder-after-comey/story?id=132526395" target="_blank">Trump doubles down on &#x27;86&#x27; as mob term after Comey indictment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 15:30</span>
+                <span class="time">2026-04-30 16:38</span>
             </div>
         </div>
 </div>
@@ -103,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-500x500.jpg" alt="Blue Origin certainly has ambitious launch targets for New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" target="_blank">Blue Origin certainly has ambitious launch targets for New Glenn</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f2663444afef60af143aae/master/pass/Uncanny-Valley-Musk-v-Altman-Business-2272923137.jpg" alt="Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/" target="_blank">Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 18:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/" target="_blank">Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-04-30 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/" target="_blank">TikTok’s new ‘Campus Hub’ features college group chats and feeds</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank">Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 16:57</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/war-thunder-planes-1280x720.jpg" alt="The War Thunder Community Is In Chaos Over Allegations Of Stolen Data And Classified Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/war-thunder-community-messy-accusations-developer-classified-documents-stealing-user-data-2000691745" target="_blank">The War Thunder Community Is In Chaos Over Allegations Of Stolen Data And Classified Documents</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/truckkun-1280x720.jpg" alt="New Fantasy Driving Game Has An Absurd Name And An Even More Absurd Premise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +301,6 @@
                 <span class="time">2026-04-30 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Philips-4000-Series-Touchscreen-Fingerprint-Smart-Deadbolt.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="The Philips 4000 Series Touchscreen Deadbolt is a smarter way to lock up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/the-philips-4000-series-touchscreen-deadbolt-is-a-smarter-way-to-lock-up.html" target="_blank">The Philips 4000 Series Touchscreen Deadbolt is a smarter way to lock up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
