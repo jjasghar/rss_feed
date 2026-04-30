@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 21:18:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-04-30 22:15:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 21:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss" target="_blank">Arsenal vs Fulham: Premier League – teams, start, lineups, title race</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba4/live/12d58d20-44c4-11f1-9273-a335ca8f6d64.png" alt="UK terrorism threat level raised to severe after Golders Green attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss" target="_blank">UK terrorism threat level raised to severe after Golders Green attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/06/1920x1080/skynews-bayesian-superyacht_6946955.jpg?20250620190631" alt="Bayesian superyacht sinking didn&#x27;t happen due to storm, investigators find" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +100,38 @@
                 <span class="time">2026-04-30 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/trump_sit_hand-z08b78.jpg" alt="Trump holds executive order signing at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-trump-holds-executive-order-signing-at-the-white-house-262473797609" target="_blank">Trump holds executive order signing at the White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-04-30 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss" target="_blank">UN chief calls for immediate reopening of the Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/" target="_blank">Apple was surprised by AI-driven demand for Macs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-500x500.jpg" alt="Trump nominates Fox News doctor to be the next surgeon general" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/" target="_blank">Trump nominates Fox News doctor to be the next surgeon general</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau" target="_blank">Roblox’s daily users continue to drop as age-checks slow growth</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-04-30 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +159,29 @@
                 <span class="time">2026-04-30 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/" target="_blank">Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-500x500.jpg" alt="Blue Origin certainly has ambitious launch targets for New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" target="_blank">Blue Origin certainly has ambitious launch targets for New Glenn</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f2663444afef60af143aae/master/pass/Uncanny-Valley-Musk-v-Altman-Business-2272923137.jpg" alt="Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/" target="_blank">Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.4-Released" target="_blank">Shotcut 26.4 Released With Timeline Improvements, Vulkan Accelerated Speech-To-Text</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-04-30 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle" target="_blank">Rivian allows you to disable all internet connectivity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-30 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947441&w=600" alt="How AI Is Transforming Software Engineering and How Developers Can Take Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2026-04-30 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/" target="_blank">GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-04-30 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/04/nestjs-12-roadmap-esm/en/headerimage/generatedHeaderImage-1777478248947.jpg" alt="NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">NestJS v12 Roadmap: Full ESM Migration, Standard Schema Validation and Modernised Toolchain</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-04-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Don&#x27;t be filled with regret—get this Office &amp; Windows 11 Pro bundle while it&#x27;s $22" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/dont-be-filled-with-regret-get-this-office-windows-11-pro-bundle-while-its-22.html" target="_blank">Don&#x27;t be filled with regret—get this Office &amp; Windows 11 Pro bundle while it&#x27;s $22</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/wowtreehouse-1280x720.jpg" alt="World Of Warcraft Finally Has a Nice-Looking Housing Exterior, But It Costs $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +300,6 @@
                 <span class="time">2026-04-30 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K07M51JBHCWEW964PCDFEKPW/hero-image.png" alt="This Ultrawide Samsung Gaming Monitor Is $300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-oled-g93sc-sale-april-2026?utm_medium=RSS" target="_blank">This Ultrawide Samsung Gaming Monitor Is $300 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-30 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +323,13 @@
                 <span class="time">2026-04-30 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/04/29/the-rich-roe-of-wisdom" target="_blank">The Rich Roe of Wisdom</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-04-29 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
