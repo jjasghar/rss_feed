@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 19:28:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-04-30 20:21:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, April 30, 2026 - 20:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss" target="_blank">Trump says Tennessee next to redistrict after US Voting Rights Act ruling</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-04-30 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,29 @@
                 <span class="time">2026-04-30 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg" alt="Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss" target="_blank">Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-30 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg" alt="As the most severe Linux threat in years surfaces, the world scrambles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/" target="_blank">As the most severe Linux threat in years surfaces, the world scrambles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-04-30 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/" target="_blank">Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 20:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-500x500.jpg" alt="Blue Origin certainly has ambitious launch targets for New Glenn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +161,6 @@
                 <span class="time">2026-04-30 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-500x500.jpg" alt="Beijing bans drone sales even as rest of world buys Chinese drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/" target="_blank">Beijing bans drone sales even as rest of world buys Chinese drones</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683e41777a72d53a3adfb36f/master/pass/Adjustable%20Mattress%20vs.%20Adjustable%20Frame.png" alt="Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/" target="_blank">Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-04-30 17:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +182,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Mint-HWE-ISOs" target="_blank">Linux Mint To Begin Publishing HWE ISOs For Better Hardware Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-04-30 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/" target="_blank">How Mark Klein told the EFF about Room 641A [book excerpt]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-04-30 16:41</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/" target="_blank">The Worst Coder in the World goes agentic: building a leaderboard cracking AI</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-04-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44" target="_blank">CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-30 15:45</span>
             </div>
         </div>
 </div>
@@ -248,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/02134.jpg?fit=1200%2C700&amp;quality=60&amp;ssl=1" alt="Ad-Free Weather Website Offers Clean, Custom Forecasts With Air Quality, Pollen, and 10-Day Outlook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/ad-free-weather-website-offers-clean-custom-forecasts-with-air-quality-pollen-and-10-day-outlook.html" target="_blank">Ad-Free Weather Website Offers Clean, Custom Forecasts With Air Quality, Pollen, and 10-Day Outlook</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-04-30 19:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/war-thunder-planes-1280x720.jpg" alt="The War Thunder Community Is In Chaos Over Allegations Of Stolen Data And Classified Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -266,6 +276,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K07M51JBHCWEW964PCDFEKPW/hero-image.png" alt="This Ultrawide Samsung Gaming Monitor Is $300 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-oled-g93sc-sale-april-2026?utm_medium=RSS" target="_blank">This Ultrawide Samsung Gaming Monitor Is $300 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/artemisdog.webp?fit=1344%2C896&amp;quality=55&amp;ssl=1" alt="Pasadena shelter closes the book on Eaton Fire rescues with one final, very good dog" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/saros-story-passage-death-roguelike-arjun-kayla-sheridan-2000692091" target="_blank">You’ll Miss Some Of The Best Parts Of Saros If You Don’t Die Enough</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-04-30 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQFF2WEG4EJ26ZG93ZKBKQX5/hero-image.jpg" alt="No, Sony Isn&#x27;t Forcing Gamers to Connect to the Internet Every 30 Days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-playstation-game-drm-policy?utm_medium=RSS" target="_blank">No, Sony Isn&#x27;t Forcing Gamers to Connect to the Internet Every 30 Days</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-30 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/bond-hands-on-1280x700.jpg" alt="Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/over-3-hours-with-007-first-light-a-bond-game-thats-a-ton-of-fun-despite-playing-it-safe-2000692050" target="_blank">Over 3 Hours With 007 First Light: A Bond Game That’s A Ton Of Fun Despite Playing It Safe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 15:01</span>
             </div>
         </div>
 </div>
@@ -338,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
