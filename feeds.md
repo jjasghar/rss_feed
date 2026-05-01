@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 11:22:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-01 12:14:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 11:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss" target="_blank">Gaza aid flotilla vessels taken to Crete after Israeli interception</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 11:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a3/live/b0550970-44ad-11f1-a323-5fb501c33fac.jpg" alt="Man appears in court charged with attempted murder of two Jewish men" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,38 @@
                 <span class="time">2026-05-01 07:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119670/republicans-defer-to-trump-on-iran-war-despite-deadline" target="_blank">Republicans say they will defer to Trump on Iran war despite arrival of deadline</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-01 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/" target="_blank">People are finally using Reddit’s search</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai" target="_blank">Microsoft wants lawyers to trust its new AI agent in Word documents</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-01 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-500x500.png" alt="There&#x27;s a lot of hype about Chinese EVs—is any of it true?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/" target="_blank">There&#x27;s a lot of hype about Chinese EVs—is any of it true?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f402b2b7efe293da9dea8a/master/pass/The-Kung-Food-Starter-Pack--Inside-Chef-Jon-Kung%E2%80%99s-Kitchen.jpg" alt="What Chef Jon Kung Swears By in the Kitchen (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +159,38 @@
                 <span class="time">2026-05-01 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Top Google Workspace Promo Codes for May" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-workspace-promo-code/" target="_blank">Top Google Workspace Promo Codes for May</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="50% Off Home Depot Promo Codes | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">50% Off Home Depot Promo Codes | May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/" target="_blank">ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-01 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iliaa/phpclickhouse-081-three-releases-later-stable-1aid" target="_blank">php_clickhouse 0.8.1: Three Releases Later, Stable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 12:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954968&w=600" alt="Clean Code: Concurrency Patterns, Context Management, and Goroutine Safety, Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/go-clean-concurrency-patterns" target="_blank">Clean Code: Concurrency Patterns, Context Management, and Goroutine Safety, Part 5</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/meta-ai-agents-hyperscale/en/headerimage/generatedHeaderImage-1777275523688.jpg" alt="Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-Considering-Amber-2" target="_blank">Mesa Developers Consider Branching Off Some Older GPU Drivers - Including AMD R300/R600</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-01 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-products/en/mediumimage/hilary-mason-medium-1776947360498.jpeg" alt="Presentation: The Next Generation of AI Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Next Generation of AI Products</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-01 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/broadcom-velero-cncf/en/headerimage/generatedHeaderImage-1777157417934.jpg" alt="Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-01 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/ubuntu-server.webp?resize=406%2C232&amp;ssl=1" alt="Attack knocks Ubuntu websites, services and Snap store offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-websites-ddos-attack" target="_blank">Attack knocks Ubuntu websites, services and Snap store offline</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-01 07:54</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
