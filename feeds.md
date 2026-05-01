@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 13:28:17 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-01 14:21:45 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 14:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time" target="_blank">Several states — and the LA public schools — are setting limits on screen time</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-01 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/1/benficas-mourinho-says-no-contact-with-real-madrid-about-managers-job?traffic_source=rss" target="_blank">Benfica’s Mourinho says no contact with Real Madrid about manager’s job</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +101,29 @@
                 <span class="time">2026-05-01 10:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119353/trump-kimmel-king-charles-comey-musk-news-quiz" target="_blank">Fill in the blank for the quiz: The Trump admin took aim at _____ this week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-01 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings" target="_blank">Man charged with attempted murder after stabbings of Jewish men in London</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-01 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-500x500.jpeg" alt="Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/" target="_blank">Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-01 14:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia" target="_blank">Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-01 14:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,29 @@
                 <span class="time">2026-05-01 11:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/image-3-500x500.png" alt="There&#x27;s a lot of hype about Chinese EVs—is any of it true?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/" target="_blank">There&#x27;s a lot of hype about Chinese EVs—is any of it true?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f402b2b7efe293da9dea8a/master/pass/The-Kung-Food-Starter-Pack--Inside-Chef-Jon-Kung%E2%80%99s-Kitchen.jpg" alt="What Chef Jon Kung Swears By in the Kitchen (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jon-kung-starter-pack/" target="_blank">What Chef Jon Kung Swears By in the Kitchen (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fslotowl.app%2Fassets%2Fog-card.png" alt="I built a &quot;polite scraper&quot; Chrome extension instead of a server-side scraper. Here&#x27;s why." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/greythinkinglab/i-built-a-polite-scraper-chrome-extension-instead-of-a-server-side-scraper-heres-why-254h" target="_blank">I built a &quot;polite scraper&quot; Chrome extension instead of a server-side scraper. Here&#x27;s why.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18955447&w=600" alt="6 Integration Patterns That Look Good on Paper and What Happens When They Hit Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integration-patterns-fail-production" target="_blank">6 Integration Patterns That Look Good on Paper and What Happens When They Hit Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n" target="_blank">Secure File Uploads: Seven Checks and Why Each One Exists</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ASUS-ROG-RAIKIRI-II-Linux" target="_blank">Linux Support Coming For The ASUS ROG RAIKIRI II: A $160 High-End Gaming Controller</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 13:12</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +219,6 @@
                 <span class="time">2026-05-01 12:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954968&w=600" alt="Clean Code: Concurrency Patterns, Context Management, and Goroutine Safety, Part 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/go-clean-concurrency-patterns" target="_blank">Clean Code: Concurrency Patterns, Context Management, and Goroutine Safety, Part 5</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/meta-ai-agents-hyperscale/en/headerimage/generatedHeaderImage-1777275523688.jpg" alt="Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Meta Deploys Unified AI Agents to Automate Performance Optimization at Hyperscale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://websmith.studio/blog/your-website-is-not-for-you/" target="_blank">Your Website Is Not for You</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-01 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,20 +233,29 @@
                 <span class="time">2026-05-01 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/" target="_blank">Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-04-30 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQH7715N6XKA1GFG8KRVG6MY/hero-image.png" alt="These Soundcore Open-Ear Earbuds Are $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/soundcore-c50i-open-ear-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Soundcore Open-Ear Earbuds Are $40 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/IMG_0969-scaled-e1777637789641-1280x734.jpg" alt="Sweeping Changes Have Final Fantasy 14 Fans Buzzing About The Future Again: ‘I Was Blown Away’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-14-evercold-ff14-fan-fest-2026-yoshi-p-2000692409" target="_blank">Sweeping Changes Have Final Fantasy 14 Fans Buzzing About The Future Again: ‘I Was Blown Away’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-01 12:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/clones-e1745246791292.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Star Wars: Galactic Racer has a release date" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/what-we-expect-to-see-google-io-2026?utm_medium=RSS" target="_blank">Here&#x27;s What We Expect to See at Google I/O 2026</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-04-30 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Don&#x27;t be filled with regret—get this Office &amp; Windows 11 Pro bundle while it&#x27;s $22" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/dont-be-filled-with-regret-get-this-office-windows-11-pro-bundle-while-its-22.html" target="_blank">Don&#x27;t be filled with regret—get this Office &amp; Windows 11 Pro bundle while it&#x27;s $22</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/wowtreehouse-1280x720.jpg" alt="World Of Warcraft Finally Has a Nice-Looking Housing Exterior, But It Costs $40" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blizzard-world-of-warcraft-housing-exterior-40-2000692152" target="_blank">World Of Warcraft Finally Has a Nice-Looking Housing Exterior, But It Costs $40</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 20:46</span>
             </div>
         </div>
 </div>
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
