@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 00:19:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 01:32:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +112,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69f3d20465348cc78c80dfb1/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg" alt="How Shivon Zilis Operated as Elon Musk’s OpenAI Insider" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/" target="_blank">How Shivon Zilis Operated as Elon Musk’s OpenAI Insider</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 00:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +165,20 @@
                 <span class="time">2026-04-30 21:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension" target="_blank">Congress keeps kicking surveillance reform down the road</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Initial-DRM-Misc-Next" target="_blank">Linux 7.2 To Set Default DRM Scheduler Priority To &quot;Fair&quot;, New AIE4 Hardware In AMDXDNA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 00:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe6pxsjvtywl7fe0kosjc.png" alt="🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/ahirtonlopes/tensorcraft-playbook-de-cnns-de-sala-de-aula-a-cloud-tpus-com-keras-2gma" target="_blank">🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-1-2026-red-hat" target="_blank">Friday Five — May 1, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-01 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +222,6 @@
                 <span class="title"><a href="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle" target="_blank">Rivian allows you to disable all internet connectivity</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-04-30 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947441&w=600" alt="How AI Is Transforming Software Engineering and How Developers Can Take Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-ai-is-transforming-software-engineering" target="_blank">How AI Is Transforming Software Engineering and How Developers Can Take Advantage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint’s new HWE ISOs improve hardware support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-mint-hwe-isos-announced" target="_blank">Linux Mint’s new HWE ISOs improve hardware support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-04-30 19:50</span>
             </div>
         </div>
 </div>
@@ -248,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/cesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A hobbyist mounted a cesium atomic clock on his Raspberry Pi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/a-hobbyist-mounted-a-cesium-atomic-clock-on-his-raspberry-pi.html" target="_blank">A hobbyist mounted a cesium atomic clock on his Raspberry Pi</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 00:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/Grogui-1280x720.jpg" alt="This New Baby Yoda Toy Costs $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,20 +306,20 @@
                 <span class="time">2026-04-30 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/02134.jpg?fit=1200%2C700&amp;quality=60&amp;ssl=1" alt="Ad-Free Weather Website Offers Clean, Custom Forecasts With Air Quality, Pollen, and 10-Day Outlook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/ad-free-weather-website-offers-clean-custom-forecasts-with-air-quality-pollen-and-10-day-outlook.html" target="_blank">Ad-Free Weather Website Offers Clean, Custom Forecasts With Air Quality, Pollen, and 10-Day Outlook</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-04-30 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5820.png" alt="Disappearing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5820" target="_blank">Disappearing Act</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2026-05-01 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1777341705-20260430-edit.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,22 +329,13 @@
                 <span class="time">2026-04-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5819.png" alt="Coming Clean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5819" target="_blank">Coming Clean</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2026-04-30 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
