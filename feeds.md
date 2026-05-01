@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-04-30 23:16:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 00:19:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, April 30, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_4x3t_384.jpg" alt="Ex-cellmate says he found suicide note from Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/cellmate-found-suicide-note-jeffrey-epstein-earlier-suicide/story?id=132552825" target="_blank">Ex-cellmate says he found suicide note from Jeffrey Epstein</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-04-30 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e4c26360-44da-11f1-ac78-2112837ce2aa.jpg" alt="Violence in Australian town after arrest of man over girl&#x27;s murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss" target="_blank">Violence in Australian town after arrest of man over girl&#x27;s murder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-04-30 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260306-missile-launched-from-iran-ew-1205p-975fb4.jpg" alt="Iran is accelerating efforts to dig out missiles and munitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +102,29 @@
                 <span class="time">2026-04-30 20:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/nx-s1-5803133/black-eyed-peas-will-i-am-profile-arizona-state-ai-agent" target="_blank">Will.i.am wants to future-proof a new generation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss" target="_blank">Trump says Tennessee next to redistrict after US Voting Rights Act ruling</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/" target="_blank">As Tim Cook steps down, Apple hit record sales — but a chip shortage looms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-04-30 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f3d1f6fd3259b38c3421e7/master/pass/You-Bought-All-MacMinis-Business.jpg" alt="Good Luck Getting a Mac Mini for the Next ‘Several Months’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/" target="_blank">Good Luck Getting a Mac Mini for the Next ‘Several Months’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-04-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,20 @@
                 <span class="time">2026-04-30 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg" alt="As the most severe Linux threat in years surfaces, the world scrambles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/" target="_blank">As the most severe Linux threat in years surfaces, the world scrambles</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/" target="_blank">Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe6pxsjvtywl7fe0kosjc.png" alt="🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahirtonlopes/tensorcraft-playbook-de-cnns-de-sala-de-aula-a-cloud-tpus-com-keras-2gma" target="_blank">🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,21 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954948&w=600" alt="Java ProcessBuilder: Deadlocks, Zombies, and the 64 KB Wall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/01/linux-mint-22.3-on-a-laptop.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint’s new HWE ISOs improve hardware support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-processbuilder-deadlocks-zombies" target="_blank">Java ProcessBuilder: Deadlocks, Zombies, and the 64 KB Wall</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-04-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Mint-HWE-ISOs" target="_blank">Linux Mint To Begin Publishing HWE ISOs For Better Hardware Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-30 16:53</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/04/linux-mint-hwe-isos-announced" target="_blank">Linux Mint’s new HWE ISOs improve hardware support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-04-30 19:50</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/Grogui-1280x720.jpg" alt="This New Baby Yoda Toy Costs $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-wonders-if-youll-pay-600-for-this-ultimate-interactive-baby-yoda-star-wars-toy-2000692231" target="_blank">This New Baby Yoda Toy Costs $600</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-04-30 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQFZEE6D8E2FX04CRQG0CNGW/hero-image.jpg" alt="Here&#x27;s What We Expect to See at Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-we-expect-to-see-google-io-2026?utm_medium=RSS" target="_blank">Here&#x27;s What We Expect to See at Google I/O 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-04-30 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Don&#x27;t be filled with regret—get this Office &amp; Windows 11 Pro bundle while it&#x27;s $22" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +302,6 @@
                 <span class="time">2026-04-30 19:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/war-thunder-planes-1280x720.jpg" alt="The War Thunder Community Is In Chaos Over Allegations Of Stolen Data And Classified Documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/war-thunder-community-messy-accusations-developer-classified-documents-stealing-user-data-2000691745" target="_blank">The War Thunder Community Is In Chaos Over Allegations Of Stolen Data And Classified Documents</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/truckkun-1280x720.jpg" alt="New Fantasy Driving Game Has An Absurd Name And An Even More Absurd Premise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/truck-kun-is-supporting-me-from-another-world-isekai-pedestrians-2000692108" target="_blank">New Fantasy Driving Game Has An Absurd Name And An Even More Absurd Premise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
