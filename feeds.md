@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 15:18:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 16:17:25 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 15:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss" target="_blank">EU trade deal with South America’s Mercosur bloc takes provisional effect</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/01/nx-s1-5692750/kneecap-fenian-album-hip-hop" target="_blank">Kneecap is used to controversy. On new album &#x27;Fenian,&#x27; they&#x27;re leaning further in</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general" target="_blank">Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-01 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss" target="_blank">Gaza aid flotilla vessels taken to Crete after Israeli interception</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-01 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a3/live/b0550970-44ad-11f1-a323-5fb501c33fac.jpg" alt="Man appears in court charged with attempted murder of two Jewish men" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss" target="_blank">Man appears in court charged with attempted murder of two Jewish men</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 11:10</span>
             </div>
         </div>
 </div>
@@ -172,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-HDMI-2.1-FRL-Patches" target="_blank">AMD Posts HDMI 2.1 FRL Patches For Their AMDGPU Linux Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 14:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fslotowl.app%2Fassets%2Fog-card.png" alt="I built a &quot;polite scraper&quot; Chrome extension instead of a server-side scraper. Here&#x27;s why." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="time">2026-05-01 13:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ASUS-ROG-RAIKIRI-II-Linux" target="_blank">Linux Support Coming For The ASUS ROG RAIKIRI II: A $160 High-End Gaming Controller</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/IMG_3157-1280x720.jpg" alt="Saros Hides A Surprise Tribute To Clair Obscur: Expedition 33" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saros-clair-obscur-expedition-33-reference-trophy-list-2000692458" target="_blank">Saros Hides A Surprise Tribute To Clair Obscur: Expedition 33</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-01 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Internxt-Cloud-Storage-Lifetime-Subscription-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This is how to get a 10TB cloud storage lifetime subscription worth $2,900 for only $350" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/01/this-is-how-to-get-a-10tb-cloud-storage-lifetime-subscription-worth-2900-for-only-350.html" target="_blank">This is how to get a 10TB cloud storage lifetime subscription worth $2,900 for only $350</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/antman-1280x721.jpg" alt="Marvel Actor Still In Disbelief Over Disney’s Sweeping Layoffs, Claims Artists ‘Are Now Being Replaced By AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +288,6 @@
                 <span class="time">2026-05-01 03:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/cesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A hobbyist mounted a cesium atomic clock on his Raspberry Pi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/04/30/a-hobbyist-mounted-a-cesium-atomic-clock-on-his-raspberry-pi.html" target="_blank">A hobbyist mounted a cesium atomic clock on his Raspberry Pi</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-01 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/Grogui-1280x720.jpg" alt="This New Baby Yoda Toy Costs $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-wonders-if-youll-pay-600-for-this-ultimate-interactive-baby-yoda-star-wars-toy-2000692231" target="_blank">This New Baby Yoda Toy Costs $600</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-04-30 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +311,13 @@
                 <span class="time">2026-05-01 00:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777341705-20260430-edit.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/meaning-7" target="_blank">Saturday Morning Breakfast Cereal - Meaning</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-04-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:18 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
