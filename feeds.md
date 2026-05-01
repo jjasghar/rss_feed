@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 22:14:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 23:15:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss" target="_blank">US said to be withdrawing 5,000 troops from Germany over Iran war spat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mifepristone-01-gty-jt-251209_1765303392723_hpMain_4x3t_384.jpg" alt="Court issues nationwide order blocking distribution of abortion pill by mail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239" target="_blank">Court issues nationwide order blocking distribution of abortion pill by mail</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-01 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8dd/live/e72463a0-45a8-11f1-8b1d-7de6bec82bf2.jpg" alt="US to cut troop levels in Germany by 5,000 amid Trump spat with Merz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss" target="_blank">US to cut troop levels in Germany by 5,000 amid Trump spat with Merz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 22:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260501_1777653767894_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump tells Congress hostilities &#x27;have terminated&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,38 +100,29 @@
                 <span class="time">2026-05-01 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-donald-trump-eu_7236443.jpg?20260501191258" alt="EU hits back at &#x27;unacceptable&#x27; Donald Trump over plans to increase tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002" target="_blank">EU hits back at &#x27;unacceptable&#x27; Donald Trump over plans to increase tariffs</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777655894452_now_daily_a_alba_trump_iran_260501_S3_1920x1080-7rxflk.jpg" alt="Trump says Iran wants to make a deal but he is &#x27;not satisfied&#x27; with proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-iran-wants-to-make-a-deal-but-he-is-not-satisfied-with-proposal-262542917617" target="_blank">Trump says Iran wants to make a deal but he is &#x27;not satisfied&#x27; with proposal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-01 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e53/live/942afb50-4549-11f1-bd52-e755d604ece4.jpg" alt="Hegseth says clock paused on deadline to seek approval for Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss" target="_blank">Hegseth says clock paused on deadline to seek approval for Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f4d0da8a7c7f2bddbf2531/master/pass/GettyImages-2259268884.jpg" alt="Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/" target="_blank">Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-500x500.jpg" alt="Study: AI models that consider user&#x27;s feeling are more likely to make errors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/" target="_blank">Study: AI models that consider user&#x27;s feeling are more likely to make errors</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-01 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/" target="_blank">This Eye-Catching Indoor Garden Is 20 Percent Off Right Now</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-01 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/" target="_blank">Coatue has a plan to buy up land for data centers, possibly for Anthropic</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-01 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank">Amazon&amp;#8217;s built-in AI price history expands to show the entire last year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-01 17:55</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/11/gamestop-1280x720.jpg" alt="Struggling Video Game Retailer GameStop Is Reportedly Trying To Buy…EBay?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/struggling-video-game-retailer-gamestop-reportedly-buy-ebay-2000692553" target="_blank">Struggling Video Game Retailer GameStop Is Reportedly Trying To Buy…EBay?!</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-01 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="City &quot;where everything grows&quot; fines homeowner&#x27;s edible garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/01/city-where-everything-grows-fines-homeowners-edible-garden.html" target="_blank">City &quot;where everything grows&quot; fines homeowner&#x27;s edible garden</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -273,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-google-chat-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Chat User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-01 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-70-1280x672.jpg" alt="Kingdom Come Studio Declines To Shut Down Rumors Its Working On A Lord Of The Rings RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-come-studio-declines-to-shut-down-rumors-its-working-on-a-lord-of-the-rings-rpg-2000692421" target="_blank">Kingdom Come Studio Declines To Shut Down Rumors Its Working On A Lord Of The Rings RPG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-01 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/public-domain-duck.jpg?fit=1080%2C786&amp;quality=60&amp;ssl=1" alt="Bizarre indie animation about ducks is absolutely delightful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/01/bizarre-indie-animation-about-ducks-is-absolutely-delightful.html" target="_blank">Bizarre indie animation about ducks is absolutely delightful</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-01 18:50</span>
             </div>
         </div>
 </div>
@@ -357,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
