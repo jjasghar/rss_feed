@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 10:28:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 11:22:42 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 11:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a3/live/b0550970-44ad-11f1-a323-5fb501c33fac.jpg" alt="Man appears in court charged with attempted murder of two Jewish men" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss" target="_blank">Man appears in court charged with attempted murder of two Jewish men</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss" target="_blank">Has the US-Iran ceasefire reset the clock on War Powers Act deadline?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 10:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +101,20 @@
                 <span class="time">2026-05-01 07:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg" alt="Fertiliser boss says Iran war puts 10 billion meals a week at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss" target="_blank">Fertiliser boss says Iran war puts 10 billion meals a week at risk</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a3/live/b0550970-44ad-11f1-a323-5fb501c33fac.jpg" alt="Man charged with attempted murder of two Jewish men in Golders Green" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss" target="_blank">Man charged with attempted murder of two Jewish men in Golders Green</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 06:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f402b2b7efe293da9dea8a/master/pass/The-Kung-Food-Starter-Pack--Inside-Chef-Jon-Kung%E2%80%99s-Kitchen.jpg" alt="What Chef Jon Kung Swears By in the Kitchen (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jon-kung-starter-pack/" target="_blank">What Chef Jon Kung Swears By in the Kitchen (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f41e91d930532bf6f1efdd/master/pass/Review--Soundcore-Nebula-P1.jpg" alt="Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +160,20 @@
                 <span class="time">2026-05-01 02:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f3d20465348cc78c80dfb1/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg" alt="How Shivon Zilis Operated as Elon Musk’s OpenAI Insider" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/" target="_blank">How Shivon Zilis Operated as Elon Musk’s OpenAI Insider</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 00:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Crescent-Island-7.2" target="_blank">Intel Making More GPU Driver Improvements For Crescent Island With Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 10:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8oxnbnmkwat36elzmd8.png" alt="Valorisation 4 dimensions : ma méthode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,20 +219,20 @@
                 <span class="time">2026-05-01 07:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/" target="_blank">Time is a construct but it can still break your software</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-01 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html" target="_blank">A Ransomware Negotiator Was Working for a Ransomware Gang</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-01 11:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -333,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
