@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 14:21:45 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-01 15:18:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 15:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-3-ht-gmh-260427_1777307019881_hpMain_4x3t_384.jpg" alt="The 60-day War Powers deadline is up on Friday. What could happen next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/60-day-war-powers-deadline-falls-friday-happen/story?id=132554486" target="_blank">The 60-day War Powers deadline is up on Friday. What could happen next?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-01 13:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -92,20 +98,20 @@
                 <span class="time">2026-05-01 11:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss" target="_blank">Has the US-Iran ceasefire reset the clock on War Powers Act deadline?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-01 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f3d9715755e1b7d0bc974e/master/pass/Backchannel-Satoshi-Bitcoin-Business.jpg" alt="You Found Satoshi? Let’s See the Receipts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/" target="_blank">You Found Satoshi? Let’s See the Receipts</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-500x500.jpeg" alt="Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2026-05-01 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai" target="_blank">Microsoft wants lawyers to trust its new AI agent in Word documents</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-01 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/clawrunr/en/headerimage/generatedHeaderImage-1777644148544.jpg" alt="JobRunr Introduces ClawRunr, an Open-Source Java AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/clawrunr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JobRunr Introduces ClawRunr, an Open-Source Java AI Agent</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-01 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fslotowl.app%2Fassets%2Fog-card.png" alt="I built a &quot;polite scraper&quot; Chrome extension instead of a server-side scraper. Here&#x27;s why." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/greythinkinglab/i-built-a-polite-scraper-chrome-extension-instead-of-a-server-side-scraper-heres-why-254h" target="_blank">I built a &quot;polite scraper&quot; Chrome extension instead of a server-side scraper. Here&#x27;s why.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 14:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/" target="_blank">Dispatches from O&#x27;Reilly: Fast Paths and Slow Paths</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-01 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="time">2026-05-01 13:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954987&w=600" alt="From SDLC to ADLC in AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-sdlc-to-adlc" target="_blank">From SDLC to ADLC in AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iliaa/phpclickhouse-081-three-releases-later-stable-1aid" target="_blank">php_clickhouse 0.8.1: Three Releases Later, Stable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/antman-1280x721.jpg" alt="Marvel Actor Still In Disbelief Over Disney’s Sweeping Layoffs, Claims Artists ‘Are Now Being Replaced By AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-actor-still-in-disbelief-over-disneys-sweeping-layoffs-claims-artists-are-now-being-replaced-by-ai-2000692436" target="_blank">Marvel Actor Still In Disbelief Over Disney’s Sweeping Layoffs, Claims Artists ‘Are Now Being Replaced By AI’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-01 14:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQH7715N6XKA1GFG8KRVG6MY/hero-image.png" alt="These Soundcore Open-Ear Earbuds Are $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +289,6 @@
                 <span class="time">2026-04-30 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQFZEE6D8E2FX04CRQG0CNGW/hero-image.jpg" alt="Here&#x27;s What We Expect to See at Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-we-expect-to-see-google-io-2026?utm_medium=RSS" target="_blank">Here&#x27;s What We Expect to See at Google I/O 2026</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-30 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
