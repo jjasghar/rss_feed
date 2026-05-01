@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 19:25:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 20:15:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 19:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 20:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +50,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260501_1777653767894_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump tells Congress hostilities &#x27;have terminated&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Trump tells Congress hostilities &#x27;have terminated&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-01 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized?traffic_source=rss" target="_blank">Rebel checkpoints reported around Mali’s capital, northern town seized</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75d/live/a54621c0-4590-11f1-bd52-e755d604ece4.jpg" alt="Trump repeats that he is &#x27;not happy&#x27; with Iran as deadline to seek approval for war looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss" target="_blank">Trump repeats that he is &#x27;not happy&#x27; with Iran as deadline to seek approval for war looms</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-01 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-donald-trump-eu_7236443.jpg?20260501191258" alt="EU hits back at &#x27;unacceptable&#x27; Donald Trump over plans to increase tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002" target="_blank">EU hits back at &#x27;unacceptable&#x27; Donald Trump over plans to increase tariffs</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777655894452_now_daily_a_alba_trump_iran_260501_S3_1920x1080-7rxflk.jpg" alt="Trump says Iran wants to make a deal but he is &#x27;not satisfied&#x27; with proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-iran-wants-to-make-a-deal-but-he-is-not-satisfied-with-proposal-262542917617" target="_blank">Trump says Iran wants to make a deal but he is &#x27;not satisfied&#x27; with proposal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-01 17:18</span>
             </div>
         </div>
 <div class="story">
@@ -69,47 +103,20 @@
                 <span class="time">2026-05-01 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon" target="_blank">Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-01 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon" target="_blank">Sabastian Sawe given hero’s welcome in Kenya after sub-two marathon feat</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-01 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260501-iran-strait-hormuz-mn-1250-3978a1.jpg" alt="U.S. asks for help with opening Strait of Hormuz while Trump attacks allies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/us-asks-help-opening-strait-hormuz-trump-attacks-allies-rcna343082" target="_blank">U.S. asks for help with opening Strait of Hormuz while Trump attacks allies</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-01 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-260501_1777652945040_hpMain_4x3t_384.jpg" alt="Trump announces 25% tariff on cars, trucks from EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-announces-25-tariff-cars-trucks-eu/story?id=132576722" target="_blank">Trump announces 25% tariff on cars, trucks from EU</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-01 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial" target="_blank">All the evidence revealed so far in Musk v. Altman</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-01 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-500x500-1777661362.jpg" alt="Ubuntu infrastructure has been down for more than a day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,6 +138,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/" target="_blank">Coatue has a plan to buy up land for data centers, possibly for Anthropic</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-01 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/922302/amazon-price-tracker-year" target="_blank">Amazon&amp;#8217;s built-in AI price history expands to show the entire last year</a></span>
                 <span class="feed">The Verge</span>
@@ -146,29 +162,29 @@
                 <span class="time">2026-05-01 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/" target="_blank">Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-01 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f3d9715755e1b7d0bc974e/master/pass/Backchannel-Satoshi-Bitcoin-Business.jpg" alt="You Found Satoshi? Let’s See the Receipts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/" target="_blank">You Found Satoshi? Let’s See the Receipts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o" target="_blank">Base64 en JavaScript: codificación, decodificación y casos de uso reales</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 20:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954567&w=600" alt="Understanding MCP Architecture: LLM + API vs Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-mcp-architecture-llm-api-vs-mcp" target="_blank">Understanding MCP Architecture: LLM + API vs Model Context Protocol</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-01 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk2srlo6f93poix7hdj.png" alt="People Follow Incentives -Not Instructions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +221,6 @@
                 <span class="time">2026-05-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/" target="_blank">AI uses less water than the public thinks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-01 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lawrence_murithi/the-data-behind-your-screen-a-simple-guide-to-databases-data-warehouses-oltp-and-olap-1bj" target="_blank">The Data Behind Your Screen: A Simple Guide to Databases, Data Warehouses, OLTP, and OLAP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 17:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQAVC94G2FA50YEQXZ2EHGME/hero-image.jpg" alt="10 Hacks Every Google Chat User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-google-chat-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Chat User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-01 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-70-1280x672.jpg" alt="Kingdom Come Studio Declines To Shut Down Rumors Its Working On A Lord Of The Rings RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/saros-clair-obscur-expedition-33-reference-trophy-list-2000692458" target="_blank">Saros Hides A Surprise Tribute To Clair Obscur: Expedition 33</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-01 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQJ241WVS81JWD356785JWPB/hero-image.jpg" alt="You&#x27;re About to See Less Slop on Instagram" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youre-about-to-see-less-slop-on-instagram?utm_medium=RSS" target="_blank">You&#x27;re About to See Less Slop on Instagram</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-01 16:00</span>
             </div>
         </div>
 </div>
@@ -351,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:25 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
