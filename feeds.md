@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 09:30:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-01 10:28:11 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 09:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 10:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -94,12 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a3/live/b0550970-44ad-11f1-a323-5fb501c33fac.jpg" alt="Man charged with attempted murder of two Jewish men in Golders Green" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/01/nx-s1-5807081/prosecutors-release-video-of-armed-man-storming-correspondents-dinner" target="_blank">Prosecutors release video of armed man storming correspondents&#x27; dinner</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-01 05:41</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss" target="_blank">Man charged with attempted murder of two Jewish men in Golders Green</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 06:57</span>
             </div>
         </div>
 </div>
@@ -107,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f41e91d930532bf6f1efdd/master/pass/Review--Soundcore-Nebula-P1.jpg" alt="Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/soundcore-nebula-p1/" target="_blank">Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 10:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69ea5ff5aa364ad0224c15a7/master/pass/YouTube-Promoting-Russian-Language-Videos-in-Kyrgyzstan-Business.jpg" alt="This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +164,38 @@
                 <span class="time">2026-05-01 00:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/" target="_blank">As Tim Cook steps down, Apple hit record sales — but a chip shortage looms</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-04-30 23:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8oxnbnmkwat36elzmd8.png" alt="Valorisation 4 dimensions : ma méthode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michelfaure/valorisation-4-dimensions-ma-methode-3nka" target="_blank">Valorisation 4 dimensions : ma méthode</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 10:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Considering-Amber-2" target="_blank">Mesa Developers Consider Branching Off Some Older GPU Drivers - Including AMD R300/R600</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 10:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-products/en/mediumimage/hilary-mason-medium-1776947360498.jpeg" alt="Presentation: The Next Generation of AI Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Next Generation of AI Products</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-01 09:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/broadcom-velero-cncf/en/headerimage/generatedHeaderImage-1777157417934.jpg" alt="Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +223,6 @@
                 <span class="time">2026-05-01 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcelo_earth/hello-everyone-how-do-you-spend-your-thursday-night-511p" target="_blank">Hello everyone! How do you spend your Thursday night?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/lrr-april-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (April 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-release-roundup-april-2026" target="_blank">Linux App Release Roundup (April 2026)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-01 03:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6af1p2xkns5616kzo2m1.png" alt="The State of AI Agent Memory in 2026: What the Research Actually Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/the-state-of-ai-agent-memory-in-2026-what-the-research-actually-shows-3aja" target="_blank">The State of AI Agent Memory in 2026: What the Research Actually Shows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +235,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/" target="_blank">Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-04-30 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/04/fast16-malware.html" target="_blank">Fast16 Malware</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-04-30 10:22</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 09:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
