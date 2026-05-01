@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 03:00:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-01 04:30:17 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 04:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/1/new-banksy-sculpture-appears-to-show-politician-blinded-by-his-own-flag?traffic_source=rss" target="_blank">New Banksy sculpture appears to show politician blinded by his own flag</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-01 04:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-the-king-bermuda_7235872.jpg?20260501043822" alt="King lands in Bermuda after US state visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/king-lands-in-bermuda-after-us-state-visit-as-trump-announces-removal-of-whisky-tariff-in-honour-of-royals-13538726" target="_blank">King lands in Bermuda after US state visit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-01 03:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_4x3t_384.jpg" alt="Ex-cellmate says he found suicide note from Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/cellmate-found-suicide-note-jeffrey-epstein-earlier-suicide/story?id=132552825" target="_blank">Ex-cellmate says he found suicide note from Jeffrey Epstein</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-04-30 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion" target="_blank">Trump gives the go-ahead for a major new Canada-U.S. oil pipeline</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-04-30 23:18</span>
             </div>
         </div>
 <div class="story">
@@ -80,38 +100,20 @@
                 <span class="time">2026-04-30 22:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss" target="_blank">Arsenal vs Fulham: Premier League – teams, start, lineups, title race</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-04-30 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba4/live/12d58d20-44c4-11f1-9273-a335ca8f6d64.png" alt="UK terrorism threat level raised to severe after Golders Green attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss" target="_blank">UK terrorism threat level raised to severe after Golders Green attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-04-30 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-bayesian-superyacht_6946955.jpg?20250620190631" alt="Bayesian superyacht sinking didn&#x27;t happen due to storm, investigators find" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/bayesian-superyacht-sinking-did-not-happen-due-to-storm-investigators-find-13538648" target="_blank">Bayesian superyacht sinking didn&#x27;t happen due to storm, investigators find</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-04-30 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/" target="_blank">ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-01 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f3d20465348cc78c80dfb1/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg" alt="How Shivon Zilis Operated as Elon Musk’s OpenAI Insider" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,20 +159,20 @@
                 <span class="time">2026-04-30 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-500x500.jpg" alt="Trump nominates Fox News doctor to be the next surgeon general" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/" target="_blank">Trump nominates Fox News doctor to be the next surgeon general</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-04-30 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcelo_earth/hello-everyone-how-do-you-spend-your-thursday-night-511p" target="_blank">Hello everyone! How do you spend your Thursday night?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 04:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6af1p2xkns5616kzo2m1.png" alt="The State of AI Agent Memory in 2026: What the Research Actually Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,15 +218,6 @@
                 <span class="time">2026-05-01 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-26.4-Released" target="_blank">Shotcut 26.4 Released With Timeline Improvements, Vulkan Accelerated Speech-To-Text</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-04-30 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/clones-e1745246791292.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Star Wars: Galactic Racer has a release date" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/04/30/star-wars-galactic-racer-has-a-release-date.html" target="_blank">Star Wars: Galactic Racer has a release date</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 03:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/cesium.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A hobbyist mounted a cesium atomic clock on his Raspberry Pi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +300,6 @@
                 <span class="time">2026-04-30 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQFRN0VR14QABAQN4B9WWJ9C/hero-image.jpg" alt="Samsung Says the Memory Crisis Will Get Worse, so You Have Two Choices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-says-memory-crisis-will-get-worse?utm_medium=RSS" target="_blank">Samsung Says the Memory Crisis Will Get Worse, so You Have Two Choices</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-04-30 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 04:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
