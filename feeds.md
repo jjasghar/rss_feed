@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 20:15:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-01 21:14:38 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 20:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koshirok096/taking-notes-to-forget-the-idea-of-cognitive-offloading-bite-size-article-2l96" target="_blank">Taking Notes to Forget — The Idea of Cognitive Offloading (Bite-size Article)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/toolrapido/base64-en-javascript-codificacion-decodificacion-y-casos-de-uso-reales-g4o" target="_blank">Base64 en JavaScript: codificación, decodificación y casos de uso reales</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 20:09</span>
@@ -212,15 +217,6 @@
                 <span class="time">2026-05-01 18:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18955505&w=600" alt="Unlocking Smart Meter Insights with Smart Datastream" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/smart-meter-insights-with-smart-datastream" target="_blank">Unlocking Smart Meter Insights with Smart Datastream</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-01 20:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Fortnite-Star-Wars-Darth-Jar-Jar_png-e1746634980609.png?fit=600%2C400&amp;quality=55&amp;ssl=1" alt="Star Wars and Fortnite go for it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/01/star-wars-and-fortnite-go-for-it.html" target="_blank">Star Wars and Fortnite go for it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQAVC94G2FA50YEQXZ2EHGME/hero-image.jpg" alt="10 Hacks Every Google Chat User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +290,20 @@
                 <span class="time">2026-05-01 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/62ef21b6124683450d381d47ef4dd209.jpg" alt="Kingdom Come: Deliverance 2 AMA On Reddit Turns Into A Disaster Over AI Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kingdom-come-deliverance-ai-warhorse-studios-translation-reddit-ama-2000692465" target="_blank">Kingdom Come: Deliverance 2 AMA On Reddit Turns Into A Disaster Over AI Allegations</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-01 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_3157-1280x720.jpg" alt="Saros Hides A Surprise Tribute To Clair Obscur: Expedition 33" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saros-clair-obscur-expedition-33-reference-trophy-list-2000692458" target="_blank">Saros Hides A Surprise Tribute To Clair Obscur: Expedition 33</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-01 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/01/at-the-speed-of-hell" target="_blank">At The Speed of Hell</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-01 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -349,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
