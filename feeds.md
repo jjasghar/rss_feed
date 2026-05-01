@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 21:14:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-01 22:14:02 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +111,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test" target="_blank">Microsoft tests redesigned Windows 11 Run menu with dark mode and more</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-01 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial" target="_blank">All the evidence revealed so far in Musk v. Altman</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-01 19:14</span>
@@ -149,20 +161,20 @@
                 <span class="time">2026-05-01 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2264958756-500x500.jpg" alt="Amazon stuck with months of repairs after drone strikes on data centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/" target="_blank">Amazon stuck with months of repairs after drone strikes on data centers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-01 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.8-Released" target="_blank">Wine 11.8 Improves VBScript Compatibility, Finally Fixes Microsoft Golf 1999</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo" target="_blank">Ti-84 Evo</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-01 20:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954567&w=600" alt="Understanding MCP Architecture: LLM + API vs Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579" target="_blank">People Follow Incentives -Not Instructions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947385&w=600" alt="How to Log HTTP Incoming Requests in Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-log-http-incoming-requests-in-spring-boot" target="_blank">How to Log HTTP Incoming Requests in Spring Boot</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.350" target="_blank">Vulkan 1.4.350 Released With Three New Extensions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 18:56</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-01 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/01/bizarre-indie-animation-about-ducks-is-absolutely-delightful.html" target="_blank">Bizarre indie animation about ducks is absolutely delightful</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-01 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQJ8ZZEYMY81Z885Q51QACBY/hero-image.png" alt="This LG 4K Portable Projector Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-cinebeam-q-4k-portable-projector-sale-may-2026?utm_medium=RSS" target="_blank">This LG 4K Portable Projector Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-01 18:30</span>
             </div>
         </div>
 </div>
@@ -354,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 274 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
