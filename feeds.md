@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 18:18:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-01 19:25:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 18:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75d/live/a54621c0-4590-11f1-bd52-e755d604ece4.jpg" alt="Trump repeats that he is &#x27;not happy&#x27; with Iran as deadline to seek approval for war looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss" target="_blank">Trump repeats that he is &#x27;not happy&#x27; with Iran as deadline to seek approval for war looms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 18:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e53/live/942afb50-4549-11f1-bd52-e755d604ece4.jpg" alt="Hegseth says clock paused on deadline to seek approval for Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +105,29 @@
                 <span class="time">2026-05-01 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss" target="_blank">EU trade deal with South America’s Mercosur bloc takes provisional effect</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-01 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/error-503-500x500-1777661362.jpg" alt="Ubuntu infrastructure has been down for more than a day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/" target="_blank">Ubuntu infrastructure has been down for more than a day</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-01 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f3fab8a65a1629efd80607/master/pass/The-Most-Dramatic-Indoor-Garden-Is-20-Percent-Off-Right-Now.jpg" alt="This Eye-Catching Indoor Garden Is 20 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/" target="_blank">This Eye-Catching Indoor Garden Is 20 Percent Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 19:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +164,38 @@
                 <span class="time">2026-05-01 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-500x500.jpeg" alt="Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/" target="_blank">Apple may take &quot;several months&quot; to catch up to Mac mini and Studio demand</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-01 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia" target="_blank">Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-01 14:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk2srlo6f93poix7hdj.png" alt="People Follow Incentives -Not Instructions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579" target="_blank">People Follow Incentives -Not Instructions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18947385&w=600" alt="How to Log HTTP Incoming Requests in Spring Boot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-log-http-incoming-requests-in-spring-boot" target="_blank">How to Log HTTP Incoming Requests in Spring Boot</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.350" target="_blank">Vulkan 1.4.350 Released With Three New Extensions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-01 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18955505&w=600" alt="Unlocking Smart Meter Insights with Smart Datastream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,46 +208,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/" target="_blank">AI uses less water than the public thinks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-01 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lawrence_murithi/the-data-behind-your-screen-a-simple-guide-to-databases-data-warehouses-oltp-and-olap-1bj" target="_blank">The Data Behind Your Screen: A Simple Guide to Databases, Data Warehouses, OLTP, and OLAP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18955491&w=600" alt="Designing a Production-Grade Multi-Agent LLM Architecture for Structured Data Extraction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-multi-agent-data-extraction" target="_blank">Designing a Production-Grade Multi-Agent LLM Architecture for Structured Data Extraction</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/" target="_blank">Uber Torches 2026 AI Budget on Claude Code in Four Months</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-01 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=47975571" target="_blank">Ask HN: Who is hiring? (May 2026)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/clawrunr/en/headerimage/generatedHeaderImage-1777644148544.jpg" alt="JobRunr Introduces ClawRunr, an Open-Source Java AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/clawrunr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JobRunr Introduces ClawRunr, an Open-Source Java AI Agent</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-01 15:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-70-1280x672.jpg" alt="Kingdom Come Studio Declines To Shut Down Rumors Its Working On A Lord Of The Rings RPG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kingdom-come-studio-declines-to-shut-down-rumors-its-working-on-a-lord-of-the-rings-rpg-2000692421" target="_blank">Kingdom Come Studio Declines To Shut Down Rumors Its Working On A Lord Of The Rings RPG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-01 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/public-domain-duck.jpg?fit=1080%2C786&amp;quality=60&amp;ssl=1" alt="Bizarre indie animation about ducks is absolutely delightful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/01/bizarre-indie-animation-about-ducks-is-absolutely-delightful.html" target="_blank">Bizarre indie animation about ducks is absolutely delightful</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQJ8ZZEYMY81Z885Q51QACBY/hero-image.png" alt="This LG 4K Portable Projector Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-cinebeam-q-4k-portable-projector-sale-may-2026?utm_medium=RSS" target="_blank">This LG 4K Portable Projector Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-01 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/02/62ef21b6124683450d381d47ef4dd209.jpg" alt="Kingdom Come: Deliverance 2 AMA On Reddit Turns Into A Disaster Over AI Allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/youre-about-to-see-less-slop-on-instagram?utm_medium=RSS" target="_blank">You&#x27;re About to See Less Slop on Instagram</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Internxt-Cloud-Storage-Lifetime-Subscription-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This is how to get a 10TB cloud storage lifetime subscription worth $2,900 for only $350" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/01/this-is-how-to-get-a-10tb-cloud-storage-lifetime-subscription-worth-2900-for-only-350.html" target="_blank">This is how to get a 10TB cloud storage lifetime subscription worth $2,900 for only $350</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/antman-1280x721.jpg" alt="Marvel Actor Still In Disbelief Over Disney’s Sweeping Layoffs, Claims Artists ‘Are Now Being Replaced By AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-actor-still-in-disbelief-over-disneys-sweeping-layoffs-claims-artists-are-now-being-replaced-by-ai-2000692436" target="_blank">Marvel Actor Still In Disbelief Over Disney’s Sweeping Layoffs, Claims Artists ‘Are Now Being Replaced By AI’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-01 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQH7715N6XKA1GFG8KRVG6MY/hero-image.png" alt="These Soundcore Open-Ear Earbuds Are $40 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/soundcore-c50i-open-ear-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Soundcore Open-Ear Earbuds Are $40 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-01 13:00</span>
             </div>
         </div>
 </div>
@@ -326,6 +329,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/bottle.png" alt="Bottle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3240/" target="_blank">Bottle</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-01 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5820.png" alt="Disappearing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -339,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:18 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
