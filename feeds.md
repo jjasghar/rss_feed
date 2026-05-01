@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 12:14:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-05-01 13:28:17 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general" target="_blank">Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-01 11:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2026-05-01 08:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg" alt="Billions of meals at risk due to Iran war, says fertiliser boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss" target="_blank">Billions of meals at risk due to Iran war, says fertiliser boss</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 07:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop" target="_blank">Christian content creators are outsourcing AI slop to gig workers on Fiverr</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-01 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f3f89a219771de40b41637/master/pass/The-Best-Graduation-Gifts-for-the-New-Grad-in-Your-Life.jpg" alt="17 Best Graduation Gifts That Aren&#x27;t Totally Cringe (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-graduation-gifts/" target="_blank">17 Best Graduation Gifts That Aren&#x27;t Totally Cringe (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +156,29 @@
                 <span class="time">2026-05-01 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f41e91d930532bf6f1efdd/master/pass/Review--Soundcore-Nebula-P1.jpg" alt="Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/soundcore-nebula-p1/" target="_blank">Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 10:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69ea5ff5aa364ad0224c15a7/master/pass/YouTube-Promoting-Russian-Language-Videos-in-Kyrgyzstan-Business.jpg" alt="This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/" target="_blank">This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n" target="_blank">Secure File Uploads: Seven Checks and Why Each One Exists</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-01 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954987&w=600" alt="From SDLC to ADLC in AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/from-sdlc-to-adlc" target="_blank">From SDLC to ADLC in AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-01 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,28 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Crescent-Island-7.2" target="_blank">Intel Making More GPU Driver Improvements For Crescent Island With Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8oxnbnmkwat36elzmd8.png" alt="Valorisation 4 dimensions : ma méthode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michelfaure/valorisation-4-dimensions-ma-methode-3nka" target="_blank">Valorisation 4 dimensions : ma méthode</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Considering-Amber-2" target="_blank">Mesa Developers Consider Branching Off Some Older GPU Drivers - Including AMD R300/R600</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 10:17</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://websmith.studio/blog/your-website-is-not-for-you/" target="_blank">Your Website Is Not for You</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-01 11:08</span>
             </div>
         </div>
 </div>
@@ -337,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
