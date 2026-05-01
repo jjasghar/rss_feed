@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 06:00:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-01 07:42:58 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 07:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119670/republicans-defer-to-trump-on-iran-war-despite-deadline" target="_blank">Republicans say they will defer to Trump on Iran war despite arrival of deadline</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-01 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg" alt="Fertiliser boss says Iran war puts 10 billion meals a week at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss" target="_blank">Fertiliser boss says Iran war puts 10 billion meals a week at risk</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 07:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/king-lands-in-bermuda-after-us-state-visit-as-trump-announces-removal-of-whisky-tariff-in-honour-of-royals-13538726" target="_blank">King lands in Bermuda after US state visit</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-01 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_4x3t_384.jpg" alt="Ex-cellmate says he found suicide note from Jeffrey Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/cellmate-found-suicide-note-jeffrey-epstein-earlier-suicide/story?id=132552825" target="_blank">Ex-cellmate says he found suicide note from Jeffrey Epstein</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-04-30 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion" target="_blank">Trump gives the go-ahead for a major new Canada-U.S. oil pipeline</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-04-30 23:18</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/lrr-april-2026.webp?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (April 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-release-roundup-april-2026" target="_blank">Linux App Release Roundup (April 2026)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-01 03:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6af1p2xkns5616kzo2m1.png" alt="The State of AI Agent Memory in 2026: What the Research Actually Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/ahirtonlopes/tensorcraft-playbook-de-cnns-de-sala-de-aula-a-cloud-tpus-com-keras-2gma" target="_blank">🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-1-2026-red-hat" target="_blank">Friday Five — May 1, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-05-01 00:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
