@@ -1,7 +1,8 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 07:42:58 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-01 08:35:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
@@ -10,26 +11,29 @@
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: Remote end closed connection without response -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 07:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 01, 2026 - 08:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings" target="_blank">Man charged with attempted murder after stabbings of Jewish men in London</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-01 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg" alt="Billions of meals at risk due to Iran war, says fertiliser boss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss" target="_blank">Billions of meals at risk due to Iran war, says fertiliser boss</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-01 07:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +103,20 @@
                 <span class="time">2026-05-01 04:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says" target="_blank">Iran war may cause food shortages in Africa, world’s largest fertiliser firm says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-01 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-the-king-bermuda_7235872.jpg?20260501043822" alt="King lands in Bermuda after US state visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/king-lands-in-bermuda-after-us-state-visit-as-trump-announces-removal-of-whisky-tariff-in-honour-of-royals-13538726" target="_blank">King lands in Bermuda after US state visit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-01 03:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" alt="Top Google Workspace Promo Codes for May" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-workspace-promo-code/" target="_blank">Top Google Workspace Promo Codes for May</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="50% Off Home Depot Promo Codes | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +162,38 @@
                 <span class="time">2026-04-30 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai" target="_blank">The craziest part of Musk v. Altman happened while the jury was out of the room</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-04-30 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/broadcom-velero-cncf/en/headerimage/generatedHeaderImage-1777157417934.jpg" alt="Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/broadcom-velero-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Broadcom Donates Velero to CNCF, Shifting Kubernetes Backup to Community Governance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-01 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/ubuntu-server.webp?resize=406%2C232&amp;ssl=1" alt="Attack knocks Ubuntu websites, services and Snap store offline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-websites-ddos-attack" target="_blank">Attack knocks Ubuntu websites, services and Snap store offline</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-01 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/" target="_blank">Time is a construct but it can still break your software</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-01 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/the-state-of-ai-agent-memory-in-2026-what-the-research-actually-shows-3aja" target="_blank">The State of AI Agent Memory in 2026: What the Research Actually Shows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-01 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openwarp.zerx.dev" target="_blank">OpenWarp</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-01 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Initial-DRM-Misc-Next" target="_blank">Linux 7.2 To Set Default DRM Scheduler Priority To &quot;Fair&quot;, New AIE4 Hardware In AMDXDNA</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe6pxsjvtywl7fe0kosjc.png" alt="🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahirtonlopes/tensorcraft-playbook-de-cnns-de-sala-de-aula-a-cloud-tpus-com-keras-2gma" target="_blank">🏈 TensorCraft Playbook: De CNNs de Sala de Aula a Cloud TPUs com Keras</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 00:15</span>
             </div>
         </div>
 </div>
@@ -305,6 +309,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/01/at-the-speed-of-hell" target="_blank">At The Speed of Hell</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5820.png" alt="Disappearing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -327,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:43 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 08:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
