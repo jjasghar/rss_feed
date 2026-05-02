@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-01 23:15:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-02 00:19:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, May 01, 2026 - 23:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/" target="_blank">Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-01 23:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69f4d0da8a7c7f2bddbf2531/master/pass/GettyImages-2259268884.jpg" alt="Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +156,29 @@
                 <span class="time">2026-05-01 19:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f3fab8a65a1629efd80607/master/pass/The-Most-Dramatic-Indoor-Garden-Is-20-Percent-Off-Right-Now.jpg" alt="This Eye-Catching Indoor Garden Is 20 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/" target="_blank">This Eye-Catching Indoor Garden Is 20 Percent Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-April-2026-Survey" target="_blank">Steam On Linux In April Pulled Back From Its Record High Marketshare</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-02 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/juan_allo/ai-gives-you-advice-but-is-it-good-advice-21j6" target="_blank">AI gives you advice. But is it good advice?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 00:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="time">2026-05-01 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954567&w=600" alt="Understanding MCP Architecture: LLM + API vs Model Context Protocol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-mcp-architecture-llm-api-vs-mcp" target="_blank">Understanding MCP Architecture: LLM + API vs Model Context Protocol</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk2srlo6f93poix7hdj.png" alt="People Follow Incentives -Not Instructions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579" target="_blank">People Follow Incentives -Not Instructions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/01/1D274907460659-stretch-armstrong-toy.jpg?fit=575%2C378&amp;quality=60&amp;ssl=1" alt="Stretch Armstrong: the gloriously goo-filled toy that shouldn&#x27;t have worked (but did)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/01/stretch-armstrong-the-gloriously-goo-filled-toy-that-shouldnt-have-worked-but-did.html" target="_blank">Stretch Armstrong: the gloriously goo-filled toy that shouldn&#x27;t have worked (but did)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-01 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/11/gamestop-1280x720.jpg" alt="Struggling Video Game Retailer GameStop Is Reportedly Trying To Buy…EBay?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/01/star-wars-and-fortnite-go-for-it.html" target="_blank">Star Wars and Fortnite go for it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-01 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQAVC94G2FA50YEQXZ2EHGME/hero-image.jpg" alt="10 Hacks Every Google Chat User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-google-chat-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Chat User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-01 19:30</span>
             </div>
         </div>
 </div>
@@ -355,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:15 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
