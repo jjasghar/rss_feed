@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 05:46:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-02 06:34:13 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 05:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 06:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8410/live/97a06370-457f-11f1-806d-8d4b5ff877ff.jpg" alt="Protests may need to be stopped in some cases, PM suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss" target="_blank">Protests may need to be stopped in some cases, PM suggests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-02 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone" target="_blank">Court restricts abortion access across the US by blocking the mailing of mifepristone</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-01 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8dd/live/e72463a0-45a8-11f1-8b1d-7de6bec82bf2.jpg" alt="US to cut troop levels in Germany by 5,000 amid Trump spat with Merz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss" target="_blank">US to cut troop levels in Germany by 5,000 amid Trump spat with Merz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-01 22:35</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal" target="_blank">What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 06:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.ask.com/" target="_blank">Ask.com has closed</a></span>
                 <span class="feed">Hacker News</span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.8-Released" target="_blank">Wine 11.8 Improves VBScript Compatibility, Finally Fixes Microsoft Golf 1999</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-01 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koshirok096/taking-notes-to-forget-the-idea-of-cognitive-offloading-bite-size-article-2l96" target="_blank">Taking Notes to Forget — The Idea of Cognitive Offloading (Bite-size Article)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-01 21:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:47 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
