@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 09:22:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-02 10:16:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 09:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 10:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +48,36 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela" target="_blank">New Netflix documentary reexamines Winnie Mandela&#x27;s divisive legacy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss" target="_blank">Japan’s Takaichi pledges deeper energy cooperation with Vietnam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 09:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss" target="_blank">Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/spirit-airlines-1-gty-jef-260501_1777648914328_hpMain_4x3t_384.jpg" alt="What to know about Spirit Airlines as it says it is &#x27;winding down all operations&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357" target="_blank">What to know about Spirit Airlines as it says it is &#x27;winding down all operations&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-02 08:09</span>
             </div>
         </div>
@@ -69,33 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment" target="_blank">First malaria drug for babies is approved in ‘major public health milestone’</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-05-02 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8410/live/97a06370-457f-11f1-806d-8d4b5ff877ff.jpg" alt="Protests may need to be stopped in some cases, PM suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss" target="_blank">Protests may need to be stopped in some cases, PM suggests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss" target="_blank">Trump says US forces are ‘like pirates’ taking Iranian oil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss" target="_blank">Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 00:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pcornelissen/from-prompt-engineering-to-context-engineering-39ka" target="_blank">From prompt engineering to context engineering</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1" target="_blank">Write Code That&#x27;s Easy to Delete: The Art of Impermanent Software</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 08:22</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://www.ask.com/" target="_blank">Ask.com has closed</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-02 04:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqc6pk3q61ts6exhegkry.png" alt="UPI Architecture: The Story of How NPCI Became India&#x27;s L7 Super Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mr_harshkumar_jha/upi-architecture-the-story-of-how-npci-became-indias-l7-super-switch-5gm" target="_blank">UPI Architecture: The Story of How NPCI Became India&#x27;s L7 Super Switch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 04:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 10:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
