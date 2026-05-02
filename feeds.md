@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 14:17:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-02 15:13:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 14:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss" target="_blank">Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,20 @@
                 <span class="time">2026-05-02 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss" target="_blank">Japan’s Takaichi pledges deeper energy cooperation with Vietnam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 09:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-500x500-1777474096.jpg" alt="Research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/" target="_blank">Research roundup: 6 cool science stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-02 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -118,6 +128,15 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal" target="_blank">Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-02 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f2b27bcb742af5b476ae38/master/pass/Review--Tovala-Family-Meals.jpg" alt="Tovala Family Meals Review: Good Food, Lots of Salt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/tovala-oven-meal-kit-review-2026/" target="_blank">Tovala Family Meals Review: Good Food, Lots of Salt</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-02 13:33</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +157,20 @@
                 <span class="time">2026-05-02 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/" target="_blank">Uber wants to turn its millions of drivers into a sensor grid for self-driving companies</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-02 06:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 15% Off May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Codes: 15% Off May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-02 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiyoyok/storing-a-gemini-api-key-securely-in-a-tauri-app-dont-hardcode-it-4cdk" target="_blank">Storing a Gemini API Key Securely in a Tauri App — Don&#x27;t Hardcode It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 15:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/pcornelissen/from-prompt-engineering-to-context-engineering-39ka" target="_blank">From prompt engineering to context engineering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/" target="_blank">How fast is a macOS VM, and how small could it be?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-02 09:30</span>
             </div>
         </div>
 </div>
@@ -311,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
