@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 11:13:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-02 12:12:57 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 12:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss" target="_blank">NATO assessing details of US troop withdrawal from Germany</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 11:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2026-05-02 08:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/spirit-airlines-1-gty-jef-260501_1777648914328_hpMain_4x3t_384.jpg" alt="What to know about Spirit Airlines as it says it is &#x27;winding down all operations&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357" target="_blank">What to know about Spirit Airlines as it says it is &#x27;winding down all operations&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-02 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472054212-500x500.jpg" alt="Infrasound waves stop kitchen fires, but can they replace sprinklers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/" target="_blank">Infrasound waves stop kitchen fires, but can they replace sprinklers?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-02 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg" alt="What You Need to Know About the Foreign-Made Router Ban in the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-government-foreign-made-router-ban-explained/" target="_blank">What You Need to Know About the Foreign-Made Router Ban in the US</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-02 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="time">2026-05-01 22:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-500x500.jpg" alt="Study: AI models that consider user&#x27;s feeling are more likely to make errors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/" target="_blank">Study: AI models that consider user&#x27;s feeling are more likely to make errors</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-01 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test" target="_blank">Microsoft tests redesigned Windows 11 Run menu with dark mode and more</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-01 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp" target="_blank">Building AI Products That People Actually Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dav2d-Open-Source-AV2-Decode" target="_blank">VideoLAN Publishes Dav2d For Open-Source AV2 Decoder</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-02 11:03</span>
             </div>
         </div>
 <div class="story">
@@ -208,34 +221,20 @@
                 <span class="time">2026-05-02 06:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal" target="_blank">What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 06:27</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html" target="_blank">A Ransomware Negotiator Was Working for a Ransomware Gang</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-01 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/12/06d59ff7092cffad395579602f17927b-1280x720.jpg" alt="Gabe Newell Lobbied Elon Musk To Meet With ‘Visionary’ Designer Hideo Kojima Over Their Mutual Interest In AI And Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gabe-newell-lobbied-elon-musk-to-meet-with-visionary-designer-hideo-kojima-over-their-mutual-interest-in-ai-and-space-2000692556" target="_blank">Gabe Newell Lobbied Elon Musk To Meet With ‘Visionary’ Designer Hideo Kojima Over Their Mutual Interest In AI And Space</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-02 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/01/1D274907460659-stretch-armstrong-toy.jpg?fit=575%2C378&amp;quality=60&amp;ssl=1" alt="Stretch Armstrong: the gloriously goo-filled toy that shouldn&#x27;t have worked (but did)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +280,6 @@
                 <span class="time">2026-05-01 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Fortnite-Star-Wars-Darth-Jar-Jar_png-e1746634980609.png?fit=600%2C400&amp;quality=55&amp;ssl=1" alt="Star Wars and Fortnite go for it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/01/star-wars-and-fortnite-go-for-it.html" target="_blank">Star Wars and Fortnite go for it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-01 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 12:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
