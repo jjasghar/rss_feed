@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 21:12:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-02 22:10:19 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 21:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 22:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +48,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort" target="_blank">Timmy the stranded whale rescued after weekslong effort</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-02 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/iran-ships-gty-jt-260502_1777733142993_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian official says war with US will &#x27;likely&#x27; resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Iranian official says war with US will &#x27;likely&#x27; resume</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-02 20:44</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition" target="_blank">Imprisoned Iranian Nobel Peace Prize winner in critical condition</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-02 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/spirit-airlines-gty-jt-260502_1777728893523_hpMain_2_4x3t_384.jpg" alt="Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089" target="_blank">Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-02 15:37</span>
             </div>
         </div>
 </div>
@@ -170,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxs4y0c764pwt7nq847kl.png" alt="Explaining CSS Specificity Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drprime01/explaining-css-specificity-rules-58i6" target="_blank">Explaining CSS Specificity Rules</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 21:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -212,15 +211,6 @@
                 <span class="title"><a href="https://code.videolan.org/videolan/dav2d" target="_blank">Dav2d</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-02 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://peps.python.org/pep-0661/" target="_blank">PEP 661 – Sentinel Values, accepted 5 years later</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-02 17:26</span>
             </div>
         </div>
 </div>
@@ -301,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
