@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 13:27:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-02 14:17:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 13:28 UTC</div>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss" target="_blank">NATO assessing details of US troop withdrawal from Germany</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-02 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777721237001_now_brk_spirit_shutsdown_260502_S3_1920x1080-3ac9wb.jpg" alt="Spirit Airlines announces all flights are canceled as it shuts down operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/spirit-airlines-says-all-flights-are-canceled-as-it-shuts-down-operations-262582853737" target="_blank">Spirit Airlines announces all flights are canceled as it shuts down operations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-02 11:27</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +97,29 @@
                 <span class="time">2026-05-02 09:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss" target="_blank">Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 08:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/" target="_blank">Beyond Lovable and Mistral: 21 European startups to watch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal" target="_blank">Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-02 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472054212-500x500.jpg" alt="Infrasound waves stop kitchen fires, but can they replace sprinklers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +156,20 @@
                 <span class="time">2026-05-02 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/" target="_blank">Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-01 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4d0da8a7c7f2bddbf2531/master/pass/GettyImages-2259268884.jpg" alt="Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/" target="_blank">Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-01 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8" target="_blank">TextExpander Alternatives for Mac in 2026: An Honest Comparison</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +215,20 @@
                 <span class="time">2026-05-02 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1" target="_blank">Write Code That&#x27;s Easy to Delete: The Art of Impermanent Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 08:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/marvel-snap.jpg" alt="Marvel Snap Dev Says ‘Painful’ Layoffs Needed To ‘Make Sure We Can Keep Going’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-snap-dev-says-painful-layoffs-needed-to-make-sure-we-can-keep-going-2000692674" target="_blank">Marvel Snap Dev Says ‘Painful’ Layoffs Needed To ‘Make Sure We Can Keep Going’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-02 14:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/12/06d59ff7092cffad395579602f17927b-1280x720.jpg" alt="Gabe Newell Lobbied Elon Musk To Meet With ‘Visionary’ Designer Hideo Kojima Over Their Mutual Interest In AI And Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +274,6 @@
                 <span class="time">2026-05-01 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-01 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
