@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 19:20:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-02 20:09:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 19:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 20:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance" target="_blank">Taiwan&#x27;s Lai lands in Eswatini in a trip delayed by lack of overflight clearance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-02 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="time">2026-05-02 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss" target="_blank">NATO assessing details of US troop withdrawal from Germany</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -118,6 +117,15 @@
                 <span class="title"><a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown" target="_blank">Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-02 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/" target="_blank">Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-02 17:05</span>
             </div>
         </div>
 <div class="story">
@@ -147,15 +155,6 @@
                 <span class="time">2026-05-02 14:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/" target="_blank">Beyond Lovable and Mistral: 21 European startups to watch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-02 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7" target="_blank">Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc2-GPU-Driver-Fixes" target="_blank">Linux 7.1-rc2 Bringing Some More Improvements/Fixes For Older AMD GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-02 18:16</span>
             </div>
         </div>
 <div class="story">
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-KMSCON-Experience" target="_blank">KDE Linux Now Using KMSCON For A Better VT Console Experience</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-02 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cybershield/hermes-backchannel-304o" target="_blank">Hermes-Backchannel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 16:07</span>
             </div>
         </div>
 </div>
@@ -276,11 +275,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777600196-20260502-edit.png" alt="Saturday Morning Breakfast Cereal - Nagel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/nagel" target="_blank">Saturday Morning Breakfast Cereal - Nagel</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-02 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
