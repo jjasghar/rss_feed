@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 10:16:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-02 11:13:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 10:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 11:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference" target="_blank">Zambia cancels world’s largest human rights and tech summit days before start</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-02 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation" target="_blank">Can Trump&#x27;s latest pick for surgeon general make it through confirmation?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-02 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357" target="_blank">What to know about Spirit Airlines as it says it is &#x27;winding down all operations&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-02 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds" target="_blank">Spirit Airlines ceases operations after escalating financial struggles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-02 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment" target="_blank">First malaria drug for babies is approved in ‘major public health milestone’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-02 06:00</span>
             </div>
         </div>
 </div>
@@ -167,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp" target="_blank">Building AI Products That People Actually Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pcornelissen/from-prompt-engineering-to-context-engineering-39ka" target="_blank">From prompt engineering to context engineering</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/" target="_blank">How fast is a macOS VM, and how small could it be?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-02 09:30</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal" target="_blank">What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions" target="_blank">Why does it take so long to release black fan versions?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-02 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ask.com/" target="_blank">Ask.com has closed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-02 04:12</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
