@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 17:14:27 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-02 18:13:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 17:14 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 18:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss" target="_blank">Yemen reports hijacked oil tanker headed for Somalia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be1/live/a8b851f0-463c-11f1-aa14-ad910202f501.jpg" alt="Germany says US troop withdrawal &#x27;foreseeable&#x27; as Nato seeks clarification" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss" target="_blank">Germany says US troop withdrawal &#x27;foreseeable&#x27; as Nato seeks clarification</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-02 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +97,20 @@
                 <span class="time">2026-05-02 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777721237001_now_brk_spirit_shutsdown_260502_S3_1920x1080-3ac9wb.jpg" alt="Spirit Airlines announces all flights are canceled as it shuts down operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/spirit-airlines-says-all-flights-are-canceled-as-it-shuts-down-operations-262582853737" target="_blank">Spirit Airlines announces all flights are canceled as it shuts down operations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-02 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference" target="_blank">Zambia cancels world’s largest human rights and tech summit days before start</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-02 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown" target="_blank">Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-02 17:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +156,29 @@
                 <span class="time">2026-05-02 13:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f2b27bcb742af5b476ae38/master/pass/Review--Tovala-Family-Meals.jpg" alt="Tovala Family Meals Review: Good Food, Lots of Salt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/tovala-oven-meal-kit-review-2026/" target="_blank">Tovala Family Meals Review: Good Food, Lots of Salt</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-02 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/justin_joseph_7810a8a112b/built-an-open-source-memory-layer-for-local-llms-single-shot-calls-auto-extracted-constraints-2pk2" target="_blank">Built an open-source memory layer for local LLMs — single-shot calls, auto-extracted constraints, no context degradation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://peps.python.org/pep-0661/" target="_blank">PEP 661 – Sentinel Values, accepted 5 years later</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-02 17:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh59q1q8sx5p75884aitc.png" alt="Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,28 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2509.00462" target="_blank">LLMs consistently pick resumes they generate over ones by humans or other models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-02 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiyoyok/storing-a-gemini-api-key-securely-in-a-tauri-app-dont-hardcode-it-4cdk" target="_blank">Storing a Gemini API Key Securely in a Tauri App — Don&#x27;t Hardcode It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8" target="_blank">TextExpander Alternatives for Mac in 2026: An Honest Comparison</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 14:06</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17330812/ubuntu-official-flavours-shrinking" target="_blank">Ubuntu’s Official Flavour List Is Shrinking, And That’s Not a Bad Thing</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-02 15:32</span>
             </div>
         </div>
 </div>
@@ -217,6 +220,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg" alt="The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-oscars-are-barring-ai-generated-films-gaming-awards-should-do-the-same-2000692691" target="_blank">The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-02 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Apple-MacBook-Air.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="A $290 MacBook Air just entered the chat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,36 +274,13 @@
                 <span class="time">2026-05-01 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="City &quot;where everything grows&quot; fines homeowner&#x27;s edible garden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/01/city-where-everything-grows-fines-homeowners-edible-garden.html" target="_blank">City &quot;where everything grows&quot; fines homeowner&#x27;s edible garden</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-01 22:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/01/at-the-speed-of-hell" target="_blank">At The Speed of Hell</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-01 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:14 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
