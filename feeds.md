@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 18:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-02 19:20:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 18:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 19:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety" target="_blank">Meta&amp;#8217;s historic loss in court could cost a lot more than $375 million</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-02 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown" target="_blank">Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-02 17:51</span>
@@ -147,20 +156,20 @@
                 <span class="time">2026-05-02 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal" target="_blank">Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-02 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhbxo8mppys9eyqg24mr6.png" alt="Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7" target="_blank">Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +215,20 @@
                 <span class="time">2026-05-02 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17330812/ubuntu-official-flavours-shrinking" target="_blank">Ubuntu’s Official Flavour List Is Shrinking, And That’s Not a Bad Thing</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-02 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/infowarstim.jpg" alt="Adult Swim Legend Tim Heidecker Debuts Infowars Takeover With The Onion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/adult-swim-legend-tim-heidecker-debuts-infowars-takeover-with-the-onion-alex-jones-2000692704" target="_blank">Adult Swim Legend Tim Heidecker Debuts Infowars Takeover With The Onion</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg" alt="The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,22 +274,13 @@
                 <span class="time">2026-05-01 23:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/11/gamestop-1280x720.jpg" alt="Struggling Video Game Retailer GameStop Is Reportedly Trying To Buy…EBay?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/struggling-video-game-retailer-gamestop-reportedly-buy-ebay-2000692553" target="_blank">Struggling Video Game Retailer GameStop Is Reportedly Trying To Buy…EBay?!</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-01 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 91 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:13 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
