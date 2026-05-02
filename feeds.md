@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 20:09:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-02 21:12:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 20:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort" target="_blank">Timmy the stranded whale rescued after weekslong effort</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-02 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +103,6 @@
                 <span class="title"><a href="https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089" target="_blank">Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-02 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss" target="_blank">Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 14:23</span>
             </div>
         </div>
 </div>
@@ -161,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.17.5" target="_blank">AMD&#x27;s GAIA Defaults To Better Model, Continued Improvements For Local AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-02 20:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhbxo8mppys9eyqg24mr6.png" alt="Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,28 +208,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://peps.python.org/pep-0661/" target="_blank">PEP 661 – Sentinel Values, accepted 5 years later</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-02 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh59q1q8sx5p75884aitc.png" alt="Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk" target="_blank">Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 17:10</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://code.videolan.org/videolan/dav2d" target="_blank">Dav2d</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-02 17:32</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-KMSCON-Experience" target="_blank">KDE Linux Now Using KMSCON For A Better VT Console Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-02 17:04</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://peps.python.org/pep-0661/" target="_blank">PEP 661 – Sentinel Values, accepted 5 years later</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-02 17:26</span>
             </div>
         </div>
 </div>
@@ -292,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
