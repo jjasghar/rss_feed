@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 07:30:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-02 08:27:13 UTC -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 07:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 08:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss" target="_blank">Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-02 08:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +98,20 @@
                 <span class="time">2026-05-02 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss" target="_blank">US said to be withdrawing 5,000 troops from Germany over Iran war spat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-01 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/" target="_blank">Uber wants to turn its millions of drivers into a sensor grid for self-driving companies</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-02 06:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Codes: 15% Off May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +157,6 @@
                 <span class="time">2026-05-01 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial" target="_blank">All the evidence revealed so far in Musk v. Altman</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-01 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +166,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1" target="_blank">Write Code That&#x27;s Easy to Delete: The Art of Impermanent Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 08:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal" target="_blank">What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 06:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions" target="_blank">Why does it take so long to release black fan versions?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-02 04:38</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-April-2026-Survey" target="_blank">Steam On Linux In April Pulled Back From Its Record High Marketshare</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-02 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/juan_allo/ai-gives-you-advice-but-is-it-good-advice-21j6" target="_blank">AI gives you advice. But is it good advice?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.8-Released" target="_blank">Wine 11.8 Improves VBScript Compatibility, Finally Fixes Microsoft Golf 1999</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-01 21:52</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
