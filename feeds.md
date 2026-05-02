@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-02 16:13:04 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-02 17:14:27 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, May 02, 2026 - 16:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, May 02, 2026 - 17:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +102,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale" target="_blank">Aura’s delightful Aspen photo frame is on sale for $30 off this weekend</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/" target="_blank">The best AI dictation apps, tested and ranked</a></span>
                 <span class="feed">TechCrunch</span>
@@ -152,20 +153,29 @@
                 <span class="time">2026-05-02 13:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472054212-500x500.jpg" alt="Infrasound waves stop kitchen fires, but can they replace sprinklers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/" target="_blank">Infrasound waves stop kitchen fires, but can they replace sprinklers?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-02 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh59q1q8sx5p75884aitc.png" alt="Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk" target="_blank">Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-02 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-KMSCON-Experience" target="_blank">KDE Linux Now Using KMSCON For A Better VT Console Experience</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-02 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8" target="_blank">TextExpander Alternatives for Mac in 2026: An Honest Comparison</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matthias_studiomeyer/three-tools-three-layers-sentry-langfuse-and-langgraph-for-multi-agent-fleets-4c92" target="_blank">Three Tools, Three Layers: Sentry, Langfuse, and LangGraph for Multi-Agent Fleets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 13:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp" target="_blank">Building AI Products That People Actually Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 11:05</span>
             </div>
         </div>
 </div>
@@ -293,22 +285,13 @@
                 <span class="time">2026-05-01 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/01/saros-thoughts" target="_blank">Saros Thoughts</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-01 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
