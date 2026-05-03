@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 03:00:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-03 04:25:07 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: Remote end closed connection without response -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 04:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/" target="_blank">Open Source Does Not Imply Open Community</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-03 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shouvik12/how-i-built-a-go-proxy-that-keeps-your-llm-conversation-alive-when-cloud-quota-runs-out-8k5" target="_blank">How I built a Go proxy that keeps your LLM conversation alive when cloud quota runs out</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Deck-OLED-Audio-Fix" target="_blank">Linux 7.1 Fixes Audio For The Steam Deck OLED After Being Broken 2 Years On The Upstream Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-03 00:33</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/drprime01/explaining-css-specificity-rules-58i6" target="_blank">Explaining CSS Specificity Rules</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-02 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-0.17.5" target="_blank">AMD&#x27;s GAIA Defaults To Better Model, Continued Improvements For Local AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-02 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/microsoft/vscode/pull/310226" target="_blank">VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-02 19:57</span>
             </div>
         </div>
 </div>
@@ -300,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
