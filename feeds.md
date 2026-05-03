@@ -1,33 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 14:16:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-03 15:12:55 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 4 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 14:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 15:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +35,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss" target="_blank">On World Press Freedom Day, Pope honours journalists killed in war zones</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-03 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +87,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5805045/tariff-refunds-small-business" target="_blank">He recorded his quest for tariff refunds. It shows why billions may never get repaid</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-03 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish" target="_blank">Why this tribe is buying up hundreds of acres of farmland — and flooding it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-03 09:00</span>
             </div>
         </div>
 </div>
@@ -164,6 +156,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2" target="_blank">Je lance React Radar, une veille React hebdo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GSoC-2026-Exciting-Projects" target="_blank">Many Exciting Google Summer of Code 2026 Projects &amp; A Lot Of AI</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +205,6 @@
                 <span class="title"><a href="https://dev.to/abrahamparn/my-first-terraform-managed-gcp-resource-provider-vpc-plan-apply-and-state-57lj" target="_blank">From PCA to Terraform: Provisioning My First GCP VPC with Infrastructure as Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/bring-shrubbery/ml-sharp-web" target="_blank">Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 09:14</span>
             </div>
         </div>
 </div>
@@ -256,15 +248,6 @@
                 <span class="time">2026-05-02 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Apple-MacBook-Air.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="A $290 MacBook Air just entered the chat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/02/a-290-macbook-air-just-entered-the-chat.html" target="_blank">A $290 MacBook Air just entered the chat</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,8 +267,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:17 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
