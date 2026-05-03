@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 17:14:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 18:14:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 17:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss" target="_blank">Investigators say Trump assassination suspect shot officer at press gala</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-03 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/Acting_AG_Todd_Blanche_says_Comey_indictment_looks_beyond__E2_80_98a_single_Instagram_post_E2_80_99-27ja1y.jpg" alt="Acting AG Todd Blanche says Comey indictment looks beyond ‘a single Instagram post’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/acting-ag-todd-blanche-says-comey-indictment-looks-beyond-a-single-instagram-post-262615109712" target="_blank">Acting AG Todd Blanche says Comey indictment looks beyond ‘a single Instagram post’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-03 13:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,29 +106,20 @@
                 <span class="time">2026-05-03 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco" target="_blank">Two US service members missing after military exercises in Morocco</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-03 12:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest" target="_blank">&#x27;I just want to see her again&#x27; says son of imprisoned Myanmar ex-leader Aung San Suu Kyi</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-03 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/" target="_blank">In Harvard study, AI offered more accurate diagnoses than emergency room doctors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +165,20 @@
                 <span class="time">2026-05-03 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4f2d666cdcc9a7151d19a/master/pass/The-15-Best-Gifts-for-Plant-Lovers-and-Gardeners.jpg" alt="15 Best Gifts for Plant Lovers and Gardeners (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/" target="_blank">15 Best Gifts for Plant Lovers and Gardeners (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-03 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dan_evans_1/the-ai-intelligence-authority-gap-why-your-agents-need-a-deterministic-handbrake-ca2" target="_blank">The AI &quot;Intelligence-Authority&quot; Gap: Why Your Agents Need a Deterministic Handbrake</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +224,20 @@
                 <span class="time">2026-05-03 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GSoC-2026-Exciting-Projects" target="_blank">Many Exciting Google Summer of Code 2026 Projects &amp; A Lot Of AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-03 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Magic-The-Gathering-The-One-Ring-Original-Artwork.jpg" alt="One Ring Magic: The Gathering Artist Apologizes After Fans Discover Plagiarism: ‘I Made A Mistake And I Feel Awful’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-ring-magic-the-gathering-artist-apologizes-after-fans-discover-plagiarism-i-made-a-mistake-and-i-feel-awful-2000692782" target="_blank">One Ring Magic: The Gathering Artist Apologizes After Fans Discover Plagiarism: ‘I Made A Mistake And I Feel Awful’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/thisisfine.jpg" alt="“This Is Fine” Dog Fights For Overdue Therapy In Official Metroidvania" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,22 +274,13 @@
                 <span class="time">2026-05-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg" alt="The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-oscars-are-barring-ai-generated-films-gaming-awards-should-do-the-same-2000692691" target="_blank">The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-02 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:14 UTC
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
