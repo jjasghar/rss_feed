@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 16:12:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 17:14:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 16:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 17:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,12 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b842/live/ffd561c0-46e7-11f1-bfea-256a0d3b8301.jpg" alt="Polanski says police &#x27;should not be above scrutiny&#x27; over Golders Green response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&at_campaign=rss" target="_blank">Polanski says police &#x27;should not be above scrutiny&#x27; over Golders Green response</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-03 11:24</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest" target="_blank">&#x27;I just want to see her again&#x27; says son of imprisoned Myanmar ex-leader Aung San Suu Kyi</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 12:07</span>
             </div>
         </div>
 </div>
@@ -118,6 +109,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/" target="_blank">TechCrunch Mobility: How do you issue a ticket to a robotaxi?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-03 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal" target="_blank">Reggie Fils-Aimé says Amazon once asked Nintendo to break the law</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-03 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -156,20 +156,29 @@
                 <span class="time">2026-05-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f441c5669c02933c0fd1b7/master/pass/Review--Coway-Airmega-Mighty2.jpg" alt="Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/coway-airmega-mighty2/" target="_blank">Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-03 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg" target="_blank">We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chromium-drift.pages.dev/" target="_blank">What Chromium versions are major browsers are on?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-03 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wahaj30ugp9vrgwrbz3.png" alt="The Quiet Skill That Separates Good Developers from Great Ones: “Debugging Thinking”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GSoC-2026-Exciting-Projects" target="_blank">Many Exciting Google Summer of Code 2026 Projects &amp; A Lot Of AI</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-03 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bittobuild/arduino-ventuno-q-brd-ai-tawaihmcchaak-arduino-thiithamaih-ai-yuuainmuue-maker-thukkhn-36k5" target="_blank">Arduino VENTUNO Q บอร์ด AI ตัวใหม่จาก Arduino ที่ทำให้ AI อยู่ในมือ maker ทุกคน</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/cloudflare-llm-infrastructure/en/headerimage/generatedHeaderImage-1776661318905.jpg" alt="Cloudflare Builds High-Performance Infrastructure for Running LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Builds High-Performance Infrastructure for Running LLMs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-03 10:58</span>
             </div>
         </div>
 </div>
@@ -279,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:12 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 17:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
