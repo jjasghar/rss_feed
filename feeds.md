@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 11:13:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-03 12:11:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 11:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 12:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a5/live/745df6a0-46c6-11f1-8675-51b72e8f4a66.jpg" alt="Germany troop cuts send wrong signal to Russia, say two top US Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss" target="_blank">Germany troop cuts send wrong signal to Russia, say two top US Republicans</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-03 08:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/South-Lebanon-DB-260503_1777793499778_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, Hezbollah exchange attacks as Trump mulls Iran offer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,20 +104,20 @@
                 <span class="time">2026-05-03 08:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-jefferson-lewis-australia_7236722.jpg?20260502094353" alt="Man charged with murder of five-year-old girl whose death sparked riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/man-charged-with-murder-of-five-year-old-australian-indigenous-girl-that-sparked-riot-13539609" target="_blank">Man charged with murder of five-year-old girl whose death sparked riot</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-03 06:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it" target="_blank">AI music is flooding streaming services — but who wants it?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f4f2d666cdcc9a7151d19a/master/pass/The-15-Best-Gifts-for-Plant-Lovers-and-Gardeners.jpg" alt="15 Best Gifts for Plant Lovers and Gardeners (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2026-05-02 18:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/922788/spirit-airlines-shutdown" target="_blank">Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-02 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bittobuild/arduino-ventuno-q-brd-ai-tawaihmcchaak-arduino-thiithamaih-ai-yuuainmuue-maker-thukkhn-36k5" target="_blank">Arduino VENTUNO Q บอร์ด AI ตัวใหม่จาก Arduino ที่ทำให้ AI อยู่ในมือ maker ทุกคน</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 12:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/cloudflare-llm-infrastructure/en/headerimage/generatedHeaderImage-1776661318905.jpg" alt="Cloudflare Builds High-Performance Infrastructure for Running LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +184,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Builds High-Performance Infrastructure for Running LLMs</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-03 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Turtle-Beach-WaveFront-SnR" target="_blank">Turtle Beach WaveFront ISA Sound Cards Seeing Suspend/Resume Support On Linux In 2026</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-03 10:46</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4" target="_blank">Forced to code without AI yesterday</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/" target="_blank">Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/" target="_blank">Open Source Does Not Imply Open Community</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 02:36</span>
             </div>
         </div>
 </div>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
