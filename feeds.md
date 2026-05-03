@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 05:59:38 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-03 07:02:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 05:59 UTC</div>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us" target="_blank">Germany says U.S. troop withdrawal &#x27;anticipated&#x27;, Spain and Italy could be next</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 00:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump reviewing Iran plan, but &#x27;can&#x27;t imagine&#x27; it&#x27;s acceptable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -82,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&at_campaign=rss" target="_blank">King&#x27;s speech was a &#x27;high stakes&#x27; moment of US visit, Palace says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-03 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss" target="_blank">The rise of political violence under Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-02 21:25</span>
             </div>
         </div>
 </div>
@@ -158,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frydwqr2hzm8f2lxhhk1z.jpg" alt="Forced to code without AI yesterday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4" target="_blank">Forced to code without AI yesterday</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 06:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/" target="_blank">Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-03 04:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -191,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/main/shipping-web-apps-to-a-vps-should-be-this-simple-2pdh" target="_blank">Shipping Web Apps to a VPS Should Be This Simple</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnadic6jz0012srjr0hr2.png" alt="From Code to Clouds: Hosting a Professional Resume on GitHub Pages(2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages2-3poi" target="_blank">From Code to Clouds: Hosting a Professional Resume on GitHub Pages(2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxs4y0c764pwt7nq847kl.png" alt="Explaining CSS Specificity Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drprime01/explaining-css-specificity-rules-58i6" target="_blank">Explaining CSS Specificity Rules</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 21:56</span>
             </div>
         </div>
 </div>
@@ -289,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 05:59 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
