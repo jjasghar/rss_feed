@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 09:28:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 10:18:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 10:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5805045/tariff-refunds-small-business" target="_blank">He recorded his quest for tariff refunds. It shows why billions may never get repaid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish" target="_blank">Why this tribe is buying up hundreds of acres of farmland — and flooding it</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/South-Lebanon-DB-260503_1777793499778_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel, Hezbollah exchange attacks as Trump mulls Iran offer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Israel, Hezbollah exchange attacks as Trump mulls Iran offer</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-03 08:27</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss" target="_blank">Germany says US troop withdrawal &#x27;foreseeable&#x27; as Trump warns of more &#x27;cuts&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-03 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss" target="_blank">Trump reviews Iranian peace proposal, warns strikes could resume</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-03 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_4x3t_384.jpg" alt="Iran live updates: Latest on Iran deal; US fast-tracks arms sales to Mideast partners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Latest on Iran deal; US fast-tracks arms sales to Mideast partners</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-03 01:37</span>
             </div>
         </div>
 </div>
@@ -157,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abrahamparn/my-first-terraform-managed-gcp-resource-provider-vpc-plan-apply-and-state-57lj" target="_blank">From PCA to Terraform: Provisioning My First GCP VPC with Infrastructure as Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 10:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fshbib1gdc4dcb1cedv1u.png" alt="29 jours, un ERP de 91k lignes, zéro développeur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/shouvik12/how-i-built-a-go-proxy-that-keeps-your-llm-conversation-alive-when-cloud-quota-runs-out-8k5" target="_blank">How I built a Go proxy that keeps your LLM conversation alive when cloud quota runs out</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Deck-OLED-Audio-Fix" target="_blank">Linux 7.1 Fixes Audio For The Steam Deck OLED After Being Broken 2 Years On The Upstream Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-03 00:33</span>
             </div>
         </div>
 </div>
@@ -288,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
