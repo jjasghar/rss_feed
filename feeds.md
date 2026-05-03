@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 19:20:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 20:09:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 19:20 UTC</div>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 20:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship" target="_blank">Three passengers dead after suspected hantavirus outbreak on cruise ship</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-03 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss" target="_blank">Germany’s Merz downplays rift with Washington despite US troop drawdown</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-03 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82e7/live/10eb2fa0-46f0-11f1-9217-a5b6a670d3f7.jpg" alt="Man and woman die and three injured in house blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&at_campaign=rss" target="_blank">Man and woman die and three injured in house blast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-03 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +102,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/sen-reed-trumps-iran-strategy-dont-president-plan/story?id=132606684" target="_blank">Sen. Reed on Trump’s Iran strategy: ‘I don’t believe the president has a plan’</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-03 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss" target="_blank">On World Press Freedom Day, Pope honours journalists killed in war zones</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-03 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/Acting_AG_Todd_Blanche_says_Comey_indictment_looks_beyond__E2_80_98a_single_Instagram_post_E2_80_99-27ja1y.jpg" alt="Acting AG Todd Blanche says Comey indictment looks beyond ‘a single Instagram post’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/acting-ag-todd-blanche-says-comey-indictment-looks-beyond-a-single-instagram-post-262615109712" target="_blank">Acting AG Todd Blanche says Comey indictment looks beyond ‘a single Instagram post’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-03 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss" target="_blank">Was the Iran war the final blow in the collapse of Spirit Airlines?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-03 13:03</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwl6x6lgphohqgurbx3l.png" alt="FastAPI Quickstart in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dido739/fastapi-quickstart-in-2026-1j93" target="_blank">FastAPI Quickstart in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 20:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/" target="_blank">Why TUIs Are Back</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-03 18:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,29 +222,20 @@
                 <span class="time">2026-05-03 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Brush-0.4-Shell-Released" target="_blank">Brush v0.4 Released As &quot;Significant&quot; Release For This Rust-Based Shell</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-03 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2" target="_blank">Je lance React Radar, une veille React hebdo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/bartrobot.jpg" alt="Studies Suggest Young People Who Use AI Are The Ones Who Hate It The Most" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/studies-suggest-those-who-hate-ai-the-most-are-young-people-using-it-the-most-2000692816" target="_blank">Studies Suggest Young People Who Use AI Are The Ones Who Hate It The Most</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Magic-The-Gathering-The-One-Ring-Original-Artwork.jpg" alt="One Ring Magic: The Gathering Artist Apologizes After Fans Discover Plagiarism: ‘I Made A Mistake And I Feel Awful’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,15 +263,6 @@
                 <span class="time">2026-05-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/forbiddensolitaire.jpg" alt="The Makers Of An Underrated 2024 Horror Game Are Back With Something Even Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/home-safety-hotline-creators-dare-you-to-play-forbidden-solitaire-horror-game-2000692713" target="_blank">The Makers Of An Underrated 2024 Horror Game Are Back With Something Even Better</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-02 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -278,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:20 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
