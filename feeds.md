@@ -1,45 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 08:30:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 09:28:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 36 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 08:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,10 +41,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish" target="_blank">Why this tribe is buying up hundreds of acres of farmland — and flooding it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/game-theory/2026/5/3/aje-onl-wcpassport_v5-030526?traffic_source=rss" target="_blank">The World Cup &amp; Passport privilege</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-03 08:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-jefferson-lewis-australia_7236722.jpg?20260502094353" alt="Man charged with murder of five-year-old girl whose death sparked riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/man-charged-with-murder-of-five-year-old-australian-indigenous-girl-that-sparked-riot-13539609" target="_blank">Man charged with murder of five-year-old girl whose death sparked riot</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-03 06:59</span>
             </div>
         </div>
 <div class="story">
@@ -91,29 +92,20 @@
                 <span class="time">2026-05-03 01:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us" target="_blank">Germany says U.S. troop withdrawal &#x27;anticipated&#x27;, Spain and Italy could be next</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-03 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump reviewing Iran plan, but &#x27;can&#x27;t imagine&#x27; it&#x27;s acceptable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Trump reviewing Iran plan, but &#x27;can&#x27;t imagine&#x27; it&#x27;s acceptable</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-03 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f441c5669c02933c0fd1b7/master/pass/Review--Coway-Airmega-Mighty2.jpg" alt="Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/coway-airmega-mighty2/" target="_blank">Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-03 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Top Rover Promo Codes and Referral Deals for May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,15 +149,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/" target="_blank">Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-02 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale" target="_blank">Aura’s delightful Aspen photo frame is on sale for $30 off this weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-02 17:00</span>
             </div>
         </div>
 </div>
@@ -305,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
