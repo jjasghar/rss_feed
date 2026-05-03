@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 22:10:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 23:12:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 22:10 UTC</div>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 23:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war" target="_blank">Gas prices went up more than 30 cents a gallon last week. How high could they go?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260503-hormuz-ww-1453-b0dd81.jpg" alt="Trump says U.S. will begin guiding ships through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-begin-escorting-ships-strait-hormuz-rcna343364" target="_blank">Trump says U.S. will begin guiding ships through Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-03 21:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260503-hormuz-ww-1453-b0dd81.jpg" alt="Trump says U.S. will begin escorting ships through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says US has responded to its latest peace proposal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-03 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship" target="_blank">Three passengers dead after suspected hantavirus outbreak on cruise ship</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-03 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss" target="_blank">Germany’s Merz downplays rift with Washington despite US troop drawdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-03 19:42</span>
             </div>
         </div>
 </div>
@@ -212,10 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg" target="_blank">We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 17:10</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://partyon.xyz/@nullagent/116499715071759135" target="_blank">BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-03 18:03</span>
             </div>
         </div>
 </div>
@@ -269,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:10 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
