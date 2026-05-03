@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 01:31:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-03 03:00:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Error processing https://itsfoss.com/rss/: Remote end closed connection without response -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss" target="_blank">Trump reviews Iranian peace proposal, warns strikes could resume</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-03 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_4x3t_384.jpg" alt="Iran live updates: Latest on Iran deal; US fast-tracks arms sales to Mideast partners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Latest on Iran deal; US fast-tracks arms sales to Mideast partners</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-03 01:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump reviewing Iran plan, but &#x27;can&#x27;t imagine&#x27; it&#x27;s acceptable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/sports/horse-racing/kentucky-derby-photos-chuchill-downs-horse-racing-rcna343213" target="_blank">Photos from the 152nd Kentucky Derby: The best day in horse racing, the &#x27;sport of kings&#x27;</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-02 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort" target="_blank">Timmy the stranded whale rescued after weekslong effort</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-02 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/iran-ships-gty-jt-260502_1777733142993_hpMain_4x3t_384.jpg" alt="Iran live updates: Iranian official says war with US will &#x27;likely&#x27; resume" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768" target="_blank">Iran live updates: Iranian official says war with US will &#x27;likely&#x27; resume</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-02 20:44</span>
             </div>
         </div>
 </div>
@@ -211,12 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhbxo8mppys9eyqg24mr6.png" alt="Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7" target="_blank">Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-02 19:03</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/microsoft/vscode/pull/310226" target="_blank">VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-02 19:57</span>
             </div>
         </div>
 </div>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
