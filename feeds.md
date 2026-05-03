@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 18:14:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 19:20:33 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 19:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -209,19 +203,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2" target="_blank">Je lance React Radar, une veille React hebdo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 15:05</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Brush-0.4-Shell-Released" target="_blank">Brush v0.4 Released As &quot;Significant&quot; Release For This Rust-Based Shell</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-03 16:02</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/" target="_blank">Mercedes-Benz commits to bringing back physical buttons</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 14:43</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2" target="_blank">Je lance React Radar, une veille React hebdo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-03 15:05</span>
             </div>
         </div>
 </div>
@@ -265,13 +259,18 @@
                 <span class="time">2026-05-02 19:55</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/infowarstim.jpg" alt="Adult Swim Legend Tim Heidecker Debuts Infowars Takeover With The Onion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1777777835-20260503-edit.png" alt="Saturday Morning Breakfast Cereal - Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/adult-swim-legend-tim-heidecker-debuts-infowars-takeover-with-the-onion-alex-jones-2000692704" target="_blank">Adult Swim Legend Tim Heidecker Debuts Infowars Takeover With The Onion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-02 19:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/peace-4" target="_blank">Saturday Morning Breakfast Cereal - Peace</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-03 15:20</span>
             </div>
         </div>
 </div>
@@ -279,8 +278,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
