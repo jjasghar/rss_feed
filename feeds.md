@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 20:09:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 21:12:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 20:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 21:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service" target="_blank">Pellet found in Secret Service agent&#x27;s vest links suspect to WHCD attack, Pirro says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg" alt="Iran says US has responded to its latest peace proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says US has responded to its latest peace proposal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-03 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +103,20 @@
                 <span class="time">2026-05-03 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss" target="_blank">The US vs Latin America: Varsha Gandikota and Susana Muhamad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-03 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/iran-shipping-hormuz-20260503-rt-jh_1777819075476_hpMain_4x3t_384.jpg" alt="Sen. Reed on Trump’s Iran strategy: ‘I don’t believe the president has a plan’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/sen-reed-trumps-iran-strategy-dont-president-plan/story?id=132606684" target="_blank">Sen. Reed on Trump’s Iran strategy: ‘I don’t believe the president has a plan’</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-03 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/" target="_blank">‘This is fine’ creator says AI startup stole his art</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-03 20:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it" target="_blank">AI music is flooding streaming services — but who wants it?</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4ddb6670176ac727e70db/master/pass/Review--Asus-Zenbook-A16-(2026).jpg" alt="Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/asus-zenbook-a16-2026/" target="_blank">Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-03 11:30</span>
             </div>
         </div>
 </div>
@@ -254,15 +253,6 @@
                 <span class="time">2026-05-03 16:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/flowkey-Piano-Learning-App-2.jpg?fit=1400%2C700&amp;quality=60&amp;ssl=1" alt="5 years of unlimited piano lessons at your fingertips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/02/5-years-of-unlimited-piano-lessons-at-your-fingertips.html" target="_blank">5 years of unlimited piano lessons at your fingertips</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-02 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -282,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:10 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 21:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
