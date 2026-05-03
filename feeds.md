@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 13:27:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-03 14:16:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, May 03, 2026 - 14:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GSoC-2026-Exciting-Projects" target="_blank">Many Exciting Google Summer of Code 2026 Projects &amp; A Lot Of AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-03 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bittobuild/arduino-ventuno-q-brd-ai-tawaihmcchaak-arduino-thiithamaih-ai-yuuainmuue-maker-thukkhn-36k5" target="_blank">Arduino VENTUNO Q บอร์ด AI ตัวใหม่จาก Arduino ที่ทำให้ AI อยู่ในมือ maker ทุกคน</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://github.com/bring-shrubbery/ml-sharp-web" target="_blank">Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-03 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fshbib1gdc4dcb1cedv1u.png" alt="29 jours, un ERP de 91k lignes, zéro développeur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michelfaure/29-jours-un-erp-de-91k-lignes-zero-developpeur-57gm" target="_blank">29 jours, un ERP de 91k lignes, zéro développeur</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 08:15</span>
             </div>
         </div>
 </div>
@@ -271,15 +265,6 @@
                 <span class="time">2026-05-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/marvel-snap.jpg" alt="Marvel Snap Dev Says ‘Painful’ Layoffs Needed To ‘Make Sure We Can Keep Going’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-snap-dev-says-painful-layoffs-needed-to-make-sure-we-can-keep-going-2000692674" target="_blank">Marvel Snap Dev Says ‘Painful’ Layoffs Needed To ‘Make Sure We Can Keep Going’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-02 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
