@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 08:46:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 09:41:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 08:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 09:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5801475/forest-service-wildfire-prevention-vegetation-burns" target="_blank">Trump administration falls behind on wildfire prevention with risky fire season ahead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 09:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/02ffd430-478c-11f1-af14-6bc26cdb4d7e.jpg" alt="UK joining Ukraine loan scheme would be good for EU ties, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss" target="_blank">UK joining Ukraine loan scheme would be good for EU ties, Starmer says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-04 08:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-mod-soldiers-royal-regiment-scotland_7238814.jpg?20260504091838" alt="Soldiers prepare for NATO deployment near Russian border with urban combat drills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/scottish-soldiers-prepare-for-nato-deployment-to-estonia-with-urban-combat-drills-13540012" target="_blank">Soldiers prepare for NATO deployment near Russian border with urban combat drills</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-04 08:14</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +103,20 @@
                 <span class="time">2026-05-04 06:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor" target="_blank">Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz" target="_blank">Trump says the U.S will &#x27;guide&#x27; stranded ships from the Strait of Hormuz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 03:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f4eb5971104de85b81eefc/master/pass/cafetaza.jpg" alt="Science Has Found Even More Ways Coffee Is Good for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/" target="_blank">Science Has Found Even More Ways Coffee Is Good for You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,29 @@
                 <span class="time">2026-05-03 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on" target="_blank">These reusable digital Polaroids are a clever way to cover a fridge in memories</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yos/top-web3-crms-of-2026-with-advanced-analytics-features-217p" target="_blank">Top Web3 CRMs of 2026 with Advanced Analytics Features</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/java-news-roundup-apr27-2026/en/headerimage/java-news-roundup-image-1777885944693.jpg" alt="Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-04 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxop68vdnckgx3mo9y7le.png" alt="Best Product Analytics Tools for DeFi Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig" target="_blank">Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/riadhasan11/wordpress-performance-optimization-a-developers-guide-by-riad-hasan-g5a" target="_blank">WordPress Performance Optimization — A Developer&#x27;s Guide by Riad Hasan</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-use-ubuntu-on-windows" target="_blank">How to use Ubuntu on Windows</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-04 00:00</span>
             </div>
         </div>
 </div>
@@ -275,8 +281,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:46 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 09:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
