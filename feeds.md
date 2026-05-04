@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 21:21:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 22:18:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 21:21 UTC</div>
+    <div class="newspaper-date">Monday, May 04, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg" alt="Three dead in suspected hantavirus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in suspected hantavirus outbreak on Atlantic cruise ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-04 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors" target="_blank">Hotels have a big World Cup problem: Bookings are running far below projections</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week?traffic_source=rss" target="_blank">Brazil’s Lula to travel to US to meet with Trump later this week</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 21:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,38 +100,38 @@
                 <span class="time">2026-05-04 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-7-epa-gmh-260507_1777914959078_hpMain_4x3t_384.jpg" alt="Iran live updates: UAE says it intercepted Iranian missiles and drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UAE says it intercepted Iranian missiles and drones</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss" target="_blank">Mali leader Goita takes defence post after minister killed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-04 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777917937953_now_daily_a_iran_attacks_proejctfreedom_260504_S3_1920x1080-5eg2tl.jpg" alt="Iran attacks U.S. ships in the Strait of Hormuz amid ‘Project Freedom’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-attacks-u-s-ships-in-the-strait-of-hormuz-amid-project-freedom-262674501686" target="_blank">Iran attacks U.S. ships in the Strait of Hormuz amid ‘Project Freedom’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-04 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x" target="_blank">Elon Musk will settle the feds’ Twitter lawsuit with pocket change</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-04 22:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/" target="_blank">OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-04 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f8eb00e8aff66a9d072879/master/pass/What-PSN-Lawsuit-Means-for-You-Gear-1252378726.jpg" alt="What to Know About Sony’s $7.85 Million PlayStation Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/" target="_blank">What to Know About Sony’s $7.85 Million PlayStation Settlement</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-500x500-1777922481.jpg" alt="Canadian election databases use &quot;canary traps&quot;—and they work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,38 +159,20 @@
                 <span class="time">2026-05-04 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother’s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mothers-day-deals-2026/" target="_blank">Best Mother’s Day Deals on Mom-Approved Gifts (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother&#x27;s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mothers-day-deals-2026/" target="_blank">Best Mother&#x27;s Day Deals on Mom-Approved Gifts (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch" target="_blank">The creator of Roomba is back with a furry robot companion</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-04 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thedailyagent/building-custom-mcp-servers-a-developers-guide-to-production-grade-ai-agent-tools-53ch" target="_blank">Building Custom MCP Servers: A Developer&#x27;s Guide to Production-Grade AI Agent Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +218,6 @@
                 <span class="time">2026-05-04 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/" target="_blank">How OpenAI delivers low-latency voice AI at scale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-04 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +244,15 @@
                 <span class="title"><a href="https://kotaku.com/call-of-duty-is-finally-ditching-ps4-and-xbox-one-just-as-new-consoles-are-pricier-than-ever-2000693036" target="_blank">Call Of Duty Is Finally Ditching PS4 And Xbox One Just As New Consoles Are Pricier Than Ever</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-04 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQCJAWARG5CRQY42VN4Z6SJB/hero-image.jpg" alt="10 Hacks Every Apple Notes User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-notes-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Notes User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -288,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-is-finally-making-texting-between-iphone-and-android-secure?utm_medium=RSS" target="_blank">Apple Is Finally About to Make Texting Between iPhone and Android Secure</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214174353-1280x720.jpg" alt="Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-death-grace-old-age-chris-jill-2000693009" target="_blank">Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 18:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
