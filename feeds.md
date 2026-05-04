@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 07:54:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 08:46:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 07:54 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 08:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/02ffd430-478c-11f1-af14-6bc26cdb4d7e.jpg" alt="UK joining Ukraine loan scheme would be good for EU ties, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss" target="_blank">UK joining Ukraine loan scheme would be good for EU ties, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-04 08:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss" target="_blank">Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 07:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz" target="_blank">Trump says the U.S will &#x27;guide&#x27; stranded ships from the Strait of Hormuz</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-04 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss" target="_blank">Trump says US to begin escorting ships in Strait of Hormuz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-04 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-odesa-ukraine-russia-war-invasion_7231896.jpg?20260427095510" alt="UK on verge of joining EU&#x27;s &amp;#163;78bn loan for Ukraine as Starmer seeks reset with Brussels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-on-verge-of-joining-eus-16378bn-loan-for-ukraine-as-starmer-seeks-reset-with-brussels-13539984" target="_blank">UK on verge of joining EU&#x27;s &amp;#163;78bn loan for Ukraine as Starmer seeks reset with Brussels</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-04 02:33</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxop68vdnckgx3mo9y7le.png" alt="Best Product Analytics Tools for DeFi Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yos/best-product-analytics-tools-for-defi-teams-2cj1" target="_blank">Best Product Analytics Tools for DeFi Teams</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 08:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjavvj24fmjxe3farfm92.png" alt="Building Atomic Transactions with Rollback for Signals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/how-to-use-ubuntu-on-windows" target="_blank">How to use Ubuntu on Windows</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-05-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility" target="_blank">The text mode lie: why modern TUIs are a nightmare for accessibility</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 23:59</span>
             </div>
         </div>
 </div>
@@ -279,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 07:54 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
