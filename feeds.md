@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 16:29:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 17:29:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 16:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-7-epa-gmh-260507_1777914959078_hpMain_4x3t_384.jpg" alt="Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-04 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/46584a70-47da-11f1-906e-5bd3c4d4c16e.jpg" alt="Two killed and many injured after car driven into crowd in German city of Leipzig" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss" target="_blank">Two killed and many injured after car driven into crowd in German city of Leipzig</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-04 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,38 @@
                 <span class="time">2026-05-04 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch" target="_blank">The many ways Trump wants to change D.C., from buildings to statues to parks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde" target="_blank">Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-04 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother&#x27;s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mothers-day-deals-2026/" target="_blank">Best Mother&#x27;s Day Deals on Mom-Approved Gifts (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch" target="_blank">The creator of Roomba is back with a furry robot companion</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-04 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-500x500.jpeg" alt="AMD is adding HDMI 2.1 support for Linux. That&#x27;s good news for the Steam Machine." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/" target="_blank">AMD is adding HDMI 2.1 support for Linux. That&#x27;s good news for the Steam Machine.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-04 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +164,29 @@
                 <span class="time">2026-05-04 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service" target="_blank">Dara Khosrowshahi on replacing Uber drivers — and himself — with AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-04 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4d1a5af4056c62e8f1ff7/master/pass/Gear_ThisCompanyHasFiguredOutaWaytoHideFaceID.jpg" alt="Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/" target="_blank">Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/03/4991007667_eeca19cf67_b-500x500.jpg" alt="Trump administration cites national security in stalling 165 wind farms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/" target="_blank">Trump administration cites national security in stalling 165 wind farms</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-04 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmf8sj8igz6p4f8dhag0e.png" alt="When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debajyoti_ghosh/when-android-cli-meets-agentforce-the-full-stack-ai-developer-nobody-talked-about-20k2" target="_blank">When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957157&w=600" alt="Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cost-is-an-sli-why-your-system-is-healthy-but" target="_blank">Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-04 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh0k7tdvo4sonh4qnsi4x.png" alt="Deploy Static Sites in Minutes Using AWS CloudFormation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +223,6 @@
                 <span class="time">2026-05-04 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/gcc-16-benchmarks" target="_blank">GCC 16 Compiler Delivering Some Decent Performance Gains Over GCC 15</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17331916/lomiri-tech-meeting" target="_blank">A Free Open Source Mobile Dev Hackathon Is Coming to the Netherlands on May 16</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-04 13:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/kash_patel_shutterstock_2597310033.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="SNL&#x27;s cold open just proves Hegseth and Patel are beyond parody" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/snls-cold-open-just-proves-hegseth-and-patel-are-beyond-parody.html" target="_blank">SNL&#x27;s cold open just proves Hegseth and Patel are beyond parody</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Spirit-Airlines.jpeg?fit=1080%2C689&amp;quality=60&amp;ssl=1" alt="Influencer hopes to crowdfund $1.75bn to buy collapsed Spirit Airlines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +296,6 @@
                 <span class="time">2026-05-04 13:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQJYRJJK577J2S3SE90V2M8N/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Le Snack Demon&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-le-snack-demon?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Le Snack Demon&#x27;?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
