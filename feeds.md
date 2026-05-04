@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 19:29:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 20:25:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 20:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election" target="_blank">Modi&#x27;s party takes control of India&#x27;s West Bengal in key state election</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-7-epa-gmh-260507_1777914959078_hpMain_4x3t_384.jpg" alt="Iran live updates: UAE says it intercepted Iranian missiles and drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UAE says it intercepted Iranian missiles and drones</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-04 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss" target="_blank">Mali leader Goita takes defence post after minister killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777917937953_now_daily_a_iran_attacks_proejctfreedom_260504_S3_1920x1080-5eg2tl.jpg" alt="Iran attacks U.S. ships in the Strait of Hormuz amid ‘Project Freedom’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +100,20 @@
                 <span class="time">2026-05-04 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1bb/live/46584a70-47da-11f1-906e-5bd3c4d4c16e.jpg" alt="Two killed and many injured after car driven into crowd in German city of Leipzig" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss" target="_blank">Two killed and many injured after car driven into crowd in German city of Leipzig</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-04 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss" target="_blank">Lebanon Latest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-04 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-11/241112-abortion-pills-se-320p-6d489f.jpg" alt="Supreme Court temporarily restores full access to abortion pill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-access-abortion-pill-mifepristone-rcna343445" target="_blank">Supreme Court temporarily restores full access to abortion pill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-04 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f42d80facf876e0aad6ac1/master/pass/The-Best-Smart-Locks-for-Every-Kind-of-Door.jpg" alt="7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-locks/" target="_blank">7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 19:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2026-05-04 16:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/" target="_blank">As X shuts down Communities, Acorn debuts an alternative that puts creators in control</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-04 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/konark_13/whats-your-fear-score-as-a-developer-4p2j" target="_blank">What’s Your Fear Score as a Developer?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.2.3" target="_blank">ROCm 7.2.3 Brings Minor Updates, ROCm XIO Documentation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8u06g338m666ck48fnug.png" alt="OneKey Classic 1S Review (vs Ledger) — My Honest Take After 7 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2026-05-04 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dayswithoutgithubincident.com/" target="_blank">Days Without GitHub Incidents</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-04 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/" target="_blank">US healthcare marketplaces shared citizenship and race data with ad tech giants</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-04 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/05/49e196092aa20ed45d2c0c64acc4c018-1280x720.jpg" alt="The 10 Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189" target="_blank">The 10 Best Star Wars Games Ever Made</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ87PX2KM57W75WTK5Q3NND1/hero-image.jpg" alt="Apple Is Finally About to Make Texting Between iPhone and Android Secure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-is-finally-making-texting-between-iphone-and-android-secure?utm_medium=RSS" target="_blank">Apple Is Finally About to Make Texting Between iPhone and Android Secure</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214174353-1280x720.jpg" alt="Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/fallouts-co-creator-worries-that-gamers-are-no-longer-thinking-for-themselves-2000692982" target="_blank">Fallout‘s Co-Creator Worries That Gamers Are No Longer Thinking For Themselves</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-04 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQSW6BKFBYYM1R0Q44Y71KKF/hero-image.png" alt="These Are the Best Apps to Track Your Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/these-are-the-best-apps-to-track-your-flights?utm_medium=RSS" target="_blank">These Are the Best Apps to Track Your Flights</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/kash_patel_shutterstock_2597310033.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="SNL&#x27;s cold open just proves Hegseth and Patel are beyond parody" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/snls-cold-open-just-proves-hegseth-and-patel-are-beyond-parody.html" target="_blank">SNL&#x27;s cold open just proves Hegseth and Patel are beyond parody</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 16:54</span>
             </div>
         </div>
 </div>
@@ -328,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
