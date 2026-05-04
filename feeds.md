@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 04:25:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-04 06:00:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 04:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 06:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-odesa-ukraine-russia-war-invasion_7231896.jpg?20260427095510" alt="UK on verge of joining EU&#x27;s &amp;#163;78bn loan for Ukraine as Starmer seeks reset with Brussels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-on-verge-of-joining-eus-16378bn-loan-for-ukraine-as-starmer-seeks-reset-with-brussels-13539984" target="_blank">UK on verge of joining EU&#x27;s &amp;#163;78bn loan for Ukraine as Starmer seeks reset with Brussels</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-04 02:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean" target="_blank">Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-03 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777849519528_wnn_rsa_trump_and_iran_war_260503_S3_1920x1080-gbrnbp.jpg" alt="Trump says the U.S. will ‘free up’ ships in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-the-u-s-will-free-up-ships-in-the-strait-of-hormuz-262622277898" target="_blank">Trump says the U.S. will ‘free up’ ships in the Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-03 23:05</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjavvj24fmjxe3farfm92.png" alt="Building Atomic Transactions with Rollback for Signals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luciano0322/building-atomic-transactions-with-rollback-for-signals-ab8" target="_blank">Building Atomic Transactions with Rollback for Signals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 05:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9dc7ccfuem5k00sdo6i.png" alt="How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility" target="_blank">The text mode lie: why modern TUIs are a nightmare for accessibility</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-03 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zubairakbar/shared-vs-distributed-memory-why-it-matters-more-than-you-think-4al3" target="_blank">Shared vs Distributed Memory – Why It Matters More Than You Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 22:00</span>
             </div>
         </div>
 </div>
@@ -264,8 +268,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 04:25 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 06:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
