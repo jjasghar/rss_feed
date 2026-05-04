@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 01:31:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 03:00:18 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +75,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean" target="_blank">Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-03 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777849519528_wnn_rsa_trump_and_iran_war_260503_S3_1920x1080-gbrnbp.jpg" alt="Trump says the U.S. will ‘free up’ ships in the Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-the-u-s-will-free-up-ships-in-the-strait-of-hormuz-262622277898" target="_blank">Trump says the U.S. will ‘free up’ ships in the Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-03 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war" target="_blank">Gas prices went up more than 30 cents a gallon last week. How high could they go?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-03 22:24</span>
@@ -79,24 +105,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-begin-escorting-ships-strait-hormuz-rcna343364" target="_blank">Trump says U.S. will begin guiding ships through Strait of Hormuz</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-03 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260503-hormuz-ww-1453-b0dd81.jpg" alt="Trump says U.S. will begin escorting ships through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-begin-escorting-ships-strait-hormuz-rcna343364" target="_blank">Trump says U.S. will begin escorting ships through Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-03 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce37/live/7617f220-4707-11f1-b55d-0f258dce1735.jpg" alt="UK to enter talks to join £78bn EU loan scheme for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss" target="_blank">UK to enter talks to join £78bn EU loan scheme for Ukraine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-03 21:30</span>
             </div>
         </div>
 </div>
@@ -167,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig" target="_blank">Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 02:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/riadhasan11/wordpress-performance-optimization-a-developers-guide-by-riad-hasan-g5a" target="_blank">WordPress Performance Optimization — A Developer&#x27;s Guide by Riad Hasan</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 00:03</span>
@@ -206,15 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc2-Released" target="_blank">Linux 7.1-rc2 Released With Audio Fix For Steam Deck OLED, Other Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-03 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwl6x6lgphohqgurbx3l.png" alt="FastAPI Quickstart in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dido739/fastapi-quickstart-in-2026-1j93" target="_blank">FastAPI Quickstart in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 20:05</span>
             </div>
         </div>
 </div>
@@ -268,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
