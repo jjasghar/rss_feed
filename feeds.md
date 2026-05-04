@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 17:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 18:27:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 18:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +53,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-04 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde" target="_blank">Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-04 17:16</span>
             </div>
         </div>
 <div class="story">
@@ -96,20 +100,20 @@
                 <span class="time">2026-05-04 13:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-united-nations-this-is-why_7238970.jpg?20260504142856" alt="Why the United Nations is no longer fit for purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-the-united-nations-is-no-longer-fit-for-purpose-13540094" target="_blank">Why the United Nations is no longer fit for purpose</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-04 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother’s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mothers-day-deals-2026/" target="_blank">Best Mother’s Day Deals on Mom-Approved Gifts (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 17:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother&#x27;s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +159,38 @@
                 <span class="time">2026-05-04 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f3b2974c4a83683f43ca9b/master/pass/Security_DHSDemandedLocationData_1080x1080_02.jpg" alt="DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/" target="_blank">DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olivia_craft/claudemd-for-redis-13-rules-that-stop-ai-from-writing-cache-anti-patterns-28ih" target="_blank">CLAUDE.md for Redis: 13 Rules That Stop AI From Writing Cache Anti-Patterns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18953377&w=600" alt="AgentOps: The Next Evolution of DevOps for AI-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentops-the-next-evolution-of-devops-for-ai" target="_blank">AgentOps: The Next Evolution of DevOps for AI-Driven Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dayswithoutgithubincident.com/" target="_blank">Days Without GitHub Incidents</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-04 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmf8sj8igz6p4f8dhag0e.png" alt="When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,48 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Controller-Shipping" target="_blank">Valve&#x27;s Steam Controller Now Shipping</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 17:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957157&w=600" alt="Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/cost-is-an-sli-why-your-system-is-healthy-but" target="_blank">Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh0k7tdvo4sonh4qnsi4x.png" alt="Deploy Static Sites in Minutes Using AWS CloudFormation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2" target="_blank">Deploy Static Sites in Minutes Using AWS CloudFormation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/" target="_blank">Removable batteries in smartphones will be mandatory in the EU starting in 2027</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-04 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Omarchy-3.7-Released" target="_blank">Omarchy 3.7 Linux Distribution Overhauls Gaming Support, Adds Unified CLI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/cloudflare-security-dashboard/en/headerimage/cloudflaredashboard-1776822044625.jpeg" alt="Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-04 14:33</span>
             </div>
         </div>
 </div>
@@ -242,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wildfire-e1777916901665.jpg?fit=768%2C466&amp;quality=60&amp;ssl=1" alt="Study finds AI server farms creating their own local heat islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/study-finds-ai-server-farms-creating-their-own-local-heat-islands.html" target="_blank">Study finds AI server farms creating their own local heat islands</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-71.jpg" alt="Fallout‘s Co-Creator Worries That Gamers Are No Longer Thinking For Themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallouts-co-creator-worries-that-gamers-are-no-longer-thinking-for-themselves-2000692982" target="_blank">Fallout‘s Co-Creator Worries That Gamers Are No Longer Thinking For Themselves</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQSW6BKFBYYM1R0Q44Y71KKF/hero-image.png" alt="These Are the Best Apps to Track Your Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/these-are-the-best-apps-to-track-your-flights?utm_medium=RSS" target="_blank">These Are the Best Apps to Track Your Flights</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/kash_patel_shutterstock_2597310033.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="SNL&#x27;s cold open just proves Hegseth and Patel are beyond parody" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/04/cbs-news-ratings-sink.html" target="_blank">CBS News ratings sink further</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-04 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQSJ816J5GVA94XGG6VG6J82/hero-image.jpg" alt="I Let Alexa+ and Gemini Power My Smart Home, and They Were Both Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-let-alexa-plus-and-gemini-power-smart-home?utm_medium=RSS" target="_blank">I Let Alexa+ and Gemini Power My Smart Home, and They Were Both Great</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/bafkreig4oxwkkgy2ozoruyrmqfeefge7hxamf3qd77vgy5jjoodbkhgtha-1280x720.jpg" alt="Saros Is At The Center Of A Misinformation Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/saros-arjun-ending-spoilers-relationship-explained-2000692965" target="_blank">Saros Is At The Center Of A Misinformation Campaign</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/gamesotp.jpg" alt="GameStop’s Meme Stock Takeover Of eBay For $56 Billion Sounds Terrible For Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-wants-to-buy-ebay-for-56-billion-in-a-deal-that-sounds-terrible-for-everyone-2000692923" target="_blank">GameStop’s Meme Stock Takeover Of eBay For $56 Billion Sounds Terrible For Everyone</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 13:04</span>
             </div>
         </div>
 </div>
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
