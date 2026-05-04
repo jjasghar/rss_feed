@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 18:27:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 19:29:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 18:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777917937953_now_daily_a_iran_attacks_proejctfreedom_260504_S3_1920x1080-5eg2tl.jpg" alt="Iran attacks U.S. ships in the Strait of Hormuz amid ‘Project Freedom’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/iran-attacks-u-s-ships-in-the-strait-of-hormuz-amid-project-freedom-262674501686" target="_blank">Iran attacks U.S. ships in the Strait of Hormuz amid ‘Project Freedom’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-04 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-7-epa-gmh-260507_1777914959078_hpMain_4x3t_384.jpg" alt="Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2026-05-04 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d141/live/9a7c9710-479d-11f1-970b-c9a1b7950074.jpg" alt="Three dead in suspected virus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in suspected virus outbreak on Atlantic cruise ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-04 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal" target="_blank">SwitchBot’s rechargeable button pusher is on sale for over 20 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-04 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f8a7c0ac1d3f3568b11850/master/pass/Best%20Mother's%20Day%20Deals%20top%20art%20052026%20SOURCE%20Google-All%20Clad-Ember.jpg" alt="Best Mother’s Day Deals on Mom-Approved Gifts (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2026-05-04 15:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-500x500.jpg" alt="Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/" target="_blank">Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-04 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8u06g338m666ck48fnug.png" alt="OneKey Classic 1S Review (vs Ledger) — My Honest Take After 7 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h" target="_blank">OneKey Classic 1S Review (vs Ledger) — My Honest Take After 7 Years</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://adamj.eu/tech/2026/04/20/django-python-3.14-incremental-gc/" target="_blank">Django: fixing a memory “leak” from Python 3.14’s incremental garbage collection</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-04 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,30 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmf8sj8igz6p4f8dhag0e.png" alt="When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debajyoti_ghosh/when-android-cli-meets-agentforce-the-full-stack-ai-developer-nobody-talked-about-20k2" target="_blank">When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 17:16</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Controller-Shipping" target="_blank">Valve&#x27;s Steam Controller Now Shipping</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957157&w=600" alt="Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cost-is-an-sli-why-your-system-is-healthy-but" target="_blank">Cost Is an SLI: Why Your System Is “Healthy” but Burning Cash</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-04 17:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/" target="_blank">US healthcare marketplaces shared citizenship and race data with ad tech giants</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-04 17:16</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214174353-1280x720.jpg" alt="Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-death-grace-old-age-chris-jill-2000693009" target="_blank">Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQT173KE3Q5JT02NXXFN0SXW/hero-image.png" alt="The New AirPods Max 2 Are $40 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/airpods-max-2-sale-may-2026?utm_medium=RSS" target="_blank">The New AirPods Max 2 Are $40 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wildfire-e1777916901665.jpg?fit=768%2C466&amp;quality=60&amp;ssl=1" alt="Study finds AI server farms creating their own local heat islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +291,20 @@
                 <span class="time">2026-05-04 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Spirit-Airlines.jpeg?fit=1080%2C689&amp;quality=60&amp;ssl=1" alt="Influencer hopes to crowdfund $1.75bn to buy collapsed Spirit Airlines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/influencer-hopes-to-crowdfund-1-75bn-to-buy-collapsed-spirit-airlines.html" target="_blank">Influencer hopes to crowdfund $1.75bn to buy collapsed Spirit Airlines</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/p6n2aae997dg1.jpeg?fit=1200%2C623&amp;quality=60&amp;ssl=1" alt="CBS News ratings sink further" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/cbs-news-ratings-sink.html" target="_blank">CBS News ratings sink further</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/04/hurst-donut" target="_blank">Hurst Donut</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-04 17:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1777833135-20260504-edit.png" alt="Saturday Morning Breakfast Cereal - Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
