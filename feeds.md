@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-03 23:12:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-04 00:18:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 03, 2026 - 23:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 00:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss" target="_blank">Iran war live: Tehran says Trump’s Hormuz mission violates ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +89,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce37/live/7617f220-4707-11f1-b55d-0f258dce1735.jpg" alt="UK to enter talks to join £78bn EU loan scheme for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss" target="_blank">UK to enter talks to join £78bn EU loan scheme for Ukraine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-03 21:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss" target="_blank">French left-wing’s Melenchon says he will run for president in 2027</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-03 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service" target="_blank">Pellet found in Secret Service agent&#x27;s vest links suspect to WHCD attack, Pirro says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-03 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg" alt="Iran says US has responded to its latest peace proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says US has responded to its latest peace proposal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-03 20:25</span>
             </div>
         </div>
 </div>
@@ -169,6 +174,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/riadhasan11/wordpress-performance-optimization-a-developers-guide-by-riad-hasan-g5a" target="_blank">WordPress Performance Optimization — A Developer&#x27;s Guide by Riad Hasan</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-use-ubuntu-on-windows" target="_blank">How to use Ubuntu on Windows</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-04 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zubairakbar/shared-vs-distributed-memory-why-it-matters-more-than-you-think-4al3" target="_blank">Shared vs Distributed Memory – Why It Matters More Than You Think</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 22:00</span>
@@ -199,24 +222,6 @@
                 <span class="title"><a href="https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/" target="_blank">Why TUIs Are Back</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-03 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dan_evans_1/the-ai-intelligence-authority-gap-why-your-agents-need-a-deterministic-handbrake-ca2" target="_blank">The AI &quot;Intelligence-Authority&quot; Gap: Why Your Agents Need a Deterministic Handbrake</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-03 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://partyon.xyz/@nullagent/116499715071759135" target="_blank">BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-03 18:03</span>
             </div>
         </div>
 </div>
@@ -270,8 +275,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 23:13 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
