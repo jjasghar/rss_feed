@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 14:41:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 15:34:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 14:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 15:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-11/241112-abortion-pills-se-320p-6d489f.jpg" alt="Supreme Court temporarily restores full access to abortion pill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-access-abortion-pill-mifepristone-rcna343445" target="_blank">Supreme Court temporarily restores full access to abortion pill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-04 15:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d141/live/9a7c9710-479d-11f1-970b-c9a1b7950074.jpg" alt="Three dead in suspected virus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +100,29 @@
                 <span class="time">2026-05-04 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-tanker-DB-260504_1777870801281_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump&#x27;s &#x27;Project Freedom&#x27; begins Monday amid attacks in strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump&#x27;s &#x27;Project Freedom&#x27; begins Monday amid attacks in strait</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/" target="_blank">As X shuts down Communities, Acorn debuts an alternative that puts creators in control</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-04 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-500x500.jpg" alt="Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/" target="_blank">Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-04 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +159,38 @@
                 <span class="time">2026-05-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/" target="_blank">Ouster’s new color lidar is coming to replace cameras</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f4eb5971104de85b81eefc/master/pass/cafetaza.jpg" alt="Science Has Found Even More Ways Coffee Is Good for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/" target="_blank">Science Has Found Even More Ways Coffee Is Good for You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh0k7tdvo4sonh4qnsi4x.png" alt="Deploy Static Sites in Minutes Using AWS CloudFormation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2" target="_blank">Deploy Static Sites in Minutes Using AWS CloudFormation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/" target="_blank">Removable batteries in smartphones will be mandatory in the EU starting in 2027</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-04 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Omarchy-3.7-Released" target="_blank">Omarchy 3.7 Linux Distribution Overhauls Gaming Support, Adds Unified CLI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="time">2026-05-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/human-scalability/en/mediumimage/CharlottedeJongSchouwenburg-medium-1776859417660.jpeg" alt="Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-04 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17331868/linux-mint-hwe-images" target="_blank">What Are Linux Mint HWE ISOs and Do You Actually Need One?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-04 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954583&w=600" alt="Building Fault-Tolerant Kafka Consumers in Spring Boot Using Retry, DLQ, and Idempotent Code Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-kafka-consumers-in-spring" target="_blank">Building Fault-Tolerant Kafka Consumers in Spring Boot Using Retry, DLQ, and Idempotent Code Patterns</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Spirit-Airlines.jpeg?fit=1080%2C689&amp;quality=60&amp;ssl=1" alt="Influencer hopes to crowdfund $1.75bn to buy collapsed Spirit Airlines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/influencer-hopes-to-crowdfund-1-75bn-to-buy-collapsed-spirit-airlines.html" target="_blank">Influencer hopes to crowdfund $1.75bn to buy collapsed Spirit Airlines</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 14:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/p6n2aae997dg1.jpeg?fit=1200%2C623&amp;quality=60&amp;ssl=1" alt="CBS News ratings sink further" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/05/04/cbs-news-ratings-sink.html" target="_blank">CBS News ratings sink further</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-04 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQSJ816J5GVA94XGG6VG6J82/hero-image.jpg" alt="I Let Alexa+ and Gemini Power My Smart Home, and They Were Both Great" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-let-alexa-plus-and-gemini-power-smart-home?utm_medium=RSS" target="_blank">I Let Alexa+ and Gemini Power My Smart Home, and They Were Both Great</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -271,29 +291,20 @@
                 <span class="time">2026-05-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/wired-tokyo-2007-1280x720.jpg" alt="Indie Developer Says Valve Is Blocking Its Game On Steam For…Infringing On Its Own IP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-valve-wired-tokyo-2007-daikichi-steam-pc-demo-2000692920" target="_blank">Indie Developer Says Valve Is Blocking Its Game On Steam For…Infringing On Its Own IP</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/bartrobot.jpg" alt="Studies Suggest Young People Who Use AI Are The Ones Who Hate It The Most" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/studies-suggest-those-who-hate-ai-the-most-are-young-people-using-it-the-most-2000692816" target="_blank">Studies Suggest Young People Who Use AI Are The Ones Who Hate It The Most</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-03 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777833135-20260504-edit.png" alt="Saturday Morning Breakfast Cereal - Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/future-4" target="_blank">Saturday Morning Breakfast Cereal - Future</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,22 +314,13 @@
                 <span class="time">2026-05-04 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777777835-20260503-edit.png" alt="Saturday Morning Breakfast Cereal - Peace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/peace-4" target="_blank">Saturday Morning Breakfast Cereal - Peace</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:41 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
