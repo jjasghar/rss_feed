@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 13:31:01 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-04 14:41:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 14:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d141/live/9a7c9710-479d-11f1-970b-c9a1b7950074.jpg" alt="Three dead in suspected virus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in suspected virus outbreak on Atlantic cruise ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-04 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-united-nations-this-is-why_7238970.jpg?20260504142856" alt="Why the United Nations is no longer fit for purpose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/why-the-united-nations-is-no-longer-fit-for-purpose-13540094" target="_blank">Why the United Nations is no longer fit for purpose</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-04 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch" target="_blank">The many ways Trump wants to change D.C., from buildings to statues to parks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 12:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +98,38 @@
                 <span class="time">2026-05-04 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5801475/forest-service-wildfire-prevention-vegetation-burns" target="_blank">Trump administration falls behind on wildfire prevention with risky fire season ahead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/02ffd430-478c-11f1-af14-6bc26cdb4d7e.jpg" alt="UK joining Ukraine loan scheme would be good for EU ties, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss" target="_blank">UK joining Ukraine loan scheme would be good for EU ties, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-04 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-mod-soldiers-royal-regiment-scotland_7238814.jpg?20260504091838" alt="Soldiers prepare for NATO deployment near Russian border with urban combat drills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/scottish-soldiers-prepare-for-nato-deployment-to-estonia-with-urban-combat-drills-13540012" target="_blank">Soldiers prepare for NATO deployment near Russian border with urban combat drills</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-04 08:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service" target="_blank">Dara Khosrowshahi on replacing Uber drivers — and himself — with AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-04 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f4d1a5af4056c62e8f1ff7/master/pass/Gear_ThisCompanyHasFiguredOutaWaytoHideFaceID.jpg" alt="Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/metalenz-has-figured-out-a-way-to-make-face-id-invisible/" target="_blank">Exclusive: Metalenz Has Figured Out a Way to Make Face ID Invisible</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/03/4991007667_eeca19cf67_b-500x500.jpg" alt="Trump administration cites national security in stalling 165 wind farms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/" target="_blank">Trump administration cites national security in stalling 165 wind farms</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-04 13:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f367ae78fa4200617e3b11/master/pass/GettyImages-2272611171.jpg" alt="RFK Jr.’s New Podcast Is as Weird as You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,38 +157,20 @@
                 <span class="time">2026-05-04 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/" target="_blank">We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-04 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/" target="_blank">‘This is fine’ creator says AI startup stole his art</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-03 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/" target="_blank">In Harvard study, AI offered more accurate diagnoses than emergency room doctors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-03 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/gcc-16-benchmarks" target="_blank">GCC 16 Compiler Delivering Some Decent Performance Gains Over GCC 15</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="time">2026-05-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-FS-Proliferation-Burden" target="_blank">Linux File-System Proliferation A Burden: Requirements Laid Out For Any Future File-Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/p6n2aae997dg1.jpeg?fit=1200%2C623&amp;quality=60&amp;ssl=1" alt="CBS News ratings sink further" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/cbs-news-ratings-sink.html" target="_blank">CBS News ratings sink further</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/bafkreig4oxwkkgy2ozoruyrmqfeefge7hxamf3qd77vgy5jjoodbkhgtha-1280x720.jpg" alt="Saros Is At The Center Of A Misinformation Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/saros-arjun-ending-spoilers-relationship-explained-2000692965" target="_blank">Saros Is At The Center Of A Misinformation Campaign</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/gamesotp.jpg" alt="GameStop’s Meme Stock Takeover Of eBay For $56 Billion Sounds Terrible For Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="time">2026-05-03 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Magic-The-Gathering-The-One-Ring-Original-Artwork.jpg" alt="One Ring Magic: The Gathering Artist Apologizes After Fans Discover Plagiarism: ‘I Made A Mistake And I Feel Awful’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-ring-magic-the-gathering-artist-apologizes-after-fans-discover-plagiarism-i-made-a-mistake-and-i-feel-awful-2000692782" target="_blank">One Ring Magic: The Gathering Artist Apologizes After Fans Discover Plagiarism: ‘I Made A Mistake And I Feel Awful’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/thisisfine.jpg" alt="“This Is Fine” Dog Fights For Overdue Therapy In Official Metroidvania" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-is-fine-dog-fights-for-overdue-therapy-in-official-metroidvania-2000692724" target="_blank">“This Is Fine” Dog Fights For Overdue Therapy In Official Metroidvania</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-03 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
