@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 09:41:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 10:36:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 09:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 10:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/doordash-copilot-swift-testing/en/headerimage/doordash-copilot-swift-testing-1777887802258.jpeg" alt="DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,13 +212,18 @@
                 <span class="time">2026-05-04 04:17</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig" target="_blank">Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 02:54</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html" target="_blank">Hacking Polymarket</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-04 09:46</span>
             </div>
         </div>
 </div>
@@ -281,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:41 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
