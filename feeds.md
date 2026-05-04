@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 10:36:50 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 11:31:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 10:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-tanker-DB-260504_1777870801281_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump&#x27;s &#x27;Project Freedom&#x27; begins Monday amid attacks in strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump&#x27;s &#x27;Project Freedom&#x27; begins Monday amid attacks in strait</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-04 11:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +101,20 @@
                 <span class="time">2026-05-04 07:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-tanker-DB-260504_1777870801281_hpMain_4x3t_384.jpg" alt="Iran live updates: UKMTO reports attacks on 2 ships in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UKMTO reports attacks on 2 ships in Strait of Hormuz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 06:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f367ae78fa4200617e3b11/master/pass/GettyImages-2272611171.jpg" alt="RFK Jr.’s New Podcast Is as Weird as You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/" target="_blank">RFK Jr.’s New Podcast Is as Weird as You’d Expect</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f4eb5971104de85b81eefc/master/pass/cafetaza.jpg" alt="Science Has Found Even More Ways Coffee Is Good for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +160,6 @@
                 <span class="time">2026-05-03 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal" target="_blank">Reggie Fils-Aimé says Amazon once asked Nintendo to break the law</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-03 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/yos/top-web3-crms-of-2026-with-advanced-analytics-features-217p" target="_blank">Top Web3 CRMs of 2026 with Advanced Analytics Features</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn0p8yled1do" target="_blank">GameStop makes $55.5B takeover offer for eBay</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-04 09:31</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/luciano0322/building-atomic-transactions-with-rollback-for-signals-ab8" target="_blank">Building Atomic Transactions with Rollback for Signals</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9dc7ccfuem5k00sdo6i.png" alt="How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp" target="_blank">How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 04:17</span>
             </div>
         </div>
 </div>
@@ -286,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:36 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
