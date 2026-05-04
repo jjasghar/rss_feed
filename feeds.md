@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 22:18:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-04 23:15:53 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,11 +42,29 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet" target="_blank">See the looks from the 2026 Met Gala red carpet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 23:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg" alt="Three dead in suspected hantavirus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in suspected hantavirus outbreak on Atlantic cruise ship</a></span>
                 <span class="feed">BBC News</span>
+                <span class="time">2026-05-04 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dc-shooting-2-rt-gmh-260504_1777930993971_hpMain_4x3t_384.jpg" alt="Secret Service officers exchange gunfire with armed suspect near White House: USSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/secret-service-officers-exchange-gunfire-armed-suspect-white/story?id=132651102" target="_blank">Secret Service officers exchange gunfire with armed suspect near White House: USSS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-04 22:14</span>
             </div>
         </div>
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss" target="_blank">Is Israel’s interception of the Global Sumud Flotilla legal?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-7-rt-gmh-260504_1777925159451_hpMain_4x3t_384.jpg" alt="Trump stops short of saying Iran violated ceasefire: &#x27;not heavy firing&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-stops-short-iran-violated-ceasefire-heavy-firing/story?id=132646036" target="_blank">Trump stops short of saying Iran violated ceasefire: &#x27;not heavy firing&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election" target="_blank">Modi&#x27;s party takes control of India&#x27;s West Bengal in key state election</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 20:18</span>
             </div>
         </div>
 </div>
@@ -238,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/gasolinelaptop.jpg?fit=1231%2C1000&amp;quality=60&amp;ssl=1" alt="If only this gasoline-powered laptop were real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/if-only-this-gasoline-powered-laptop-were-real.html" target="_blank">If only this gasoline-powered laptop were real</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 21:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/ps4-xbox-one.jpg" alt="Call Of Duty Is Finally Ditching PS4 And Xbox One Just As New Consoles Are Pricier Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +286,6 @@
                 <span class="time">2026-05-04 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ87PX2KM57W75WTK5Q3NND1/hero-image.jpg" alt="Apple Is Finally About to Make Texting Between iPhone and Android Secure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-is-finally-making-texting-between-iphone-and-android-secure?utm_medium=RSS" target="_blank">Apple Is Finally About to Make Texting Between iPhone and Android Secure</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
