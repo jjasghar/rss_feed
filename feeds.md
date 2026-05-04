@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 15:34:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-04 16:29:54 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 15:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 16:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/2026/5/4/lebanon-latest?traffic_source=rss" target="_blank">Lebanon Latest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 16:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-11/241112-abortion-pills-se-320p-6d489f.jpg" alt="Supreme Court temporarily restores full access to abortion pill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="time">2026-05-04 12:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777893650651_tdy_news_7a_gutierrez_iran_260504_S3_1920x1080-wibsh2.jpg" alt="Trump Says US Navy Will Escort Ships out of Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-navy-to-guide-ships-through-hormuz-how-iran-is-responding-262639685661" target="_blank">Trump Says US Navy Will Escort Ships out of Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-04 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -121,6 +117,15 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/" target="_blank">Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-04 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f3b2974c4a83683f43ca9b/master/pass/Security_DHSDemandedLocationData_1080x1080_02.jpg" alt="DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/" target="_blank">DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 14:45</span>
             </div>
         </div>
 <div class="story">
@@ -148,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/" target="_blank">Trump administration cites national security in stalling 165 wind farms</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-04 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f367ae78fa4200617e3b11/master/pass/GettyImages-2272611171.jpg" alt="RFK Jr.’s New Podcast Is as Weird as You’d Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/" target="_blank">RFK Jr.’s New Podcast Is as Weird as You’d Expect</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 11:00</span>
             </div>
         </div>
 </div>
@@ -192,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/cloudflare-security-dashboard/en/headerimage/cloudflaredashboard-1776822044625.jpeg" alt="Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Processes 10M+ Daily Insights with New Security Overview Dashboard</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-04 14:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -203,19 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Better-Python-Perf" target="_blank">CachyOS Switches Python To Using Tail-Call Interpreter For 5~15% Better Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941841&w=600" alt="Performance Optimization Techniques in Flutter 3.41 for Mobile App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/performance-optimization-techniques-in-flutter-341" target="_blank">Performance Optimization Techniques in Flutter 3.41 for Mobile App Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-04 13:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17331916/lomiri-tech-meeting" target="_blank">A Free Open Source Mobile Dev Hackathon Is Coming to the Netherlands on May 16</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-04 13:27</span>
             </div>
         </div>
 </div>
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 15:34 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
