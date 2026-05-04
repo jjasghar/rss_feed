@@ -1,43 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 03:00:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 04:25:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 34 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 04:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz" target="_blank">Trump says the U.S will &#x27;guide&#x27; stranded ships from the Strait of Hormuz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-04 03:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss" target="_blank">Trump says US to begin escorting ships in Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 03:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +95,20 @@
                 <span class="time">2026-05-03 23:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war" target="_blank">Gas prices went up more than 30 cents a gallon last week. How high could they go?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-03 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260503-hormuz-ww-1453-b0dd81.jpg" alt="Trump says U.S. will begin guiding ships through Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-begin-escorting-ships-strait-hormuz-rcna343364" target="_blank">Trump says U.S. will begin guiding ships through Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-03 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/" target="_blank">We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-04 02:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +154,20 @@
                 <span class="time">2026-05-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it" target="_blank">AI music is flooding streaming services — but who wants it?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9dc7ccfuem5k00sdo6i.png" alt="How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp" target="_blank">How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 04:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/zubairakbar/shared-vs-distributed-memory-why-it-matters-more-than-you-think-4al3" target="_blank">Shared vs Distributed Memory – Why It Matters More Than You Think</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc2-Released" target="_blank">Linux 7.1-rc2 Released With Audio Fix For Steam Deck OLED, Other Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-03 21:30</span>
             </div>
         </div>
 </div>
@@ -276,8 +264,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 04:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
