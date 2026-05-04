@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 12:27:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-04 13:31:01 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 12:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +162,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-Better-Python-Perf" target="_blank">CachyOS Switches Python To Using Tail-Call Interpreter For 5~15% Better Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18941841&w=600" alt="Performance Optimization Techniques in Flutter 3.41 for Mobile App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/performance-optimization-techniques-in-flutter-341" target="_blank">Performance Optimization Techniques in Flutter 3.41 for Mobile App Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/human-scalability/en/mediumimage/CharlottedeJongSchouwenburg-medium-1776859417660.jpeg" alt="Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/human-scalability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-04 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17331868/linux-mint-hwe-images" target="_blank">What Are Linux Mint HWE ISOs and Do You Actually Need One?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-04 12:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954583&w=600" alt="Building Fault-Tolerant Kafka Consumers in Spring Boot Using Retry, DLQ, and Idempotent Code Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -187,42 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-FS-Proliferation-Burden" target="_blank">Linux File-System Proliferation A Burden: Requirements Laid Out For Any Future File-Systems</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-04 10:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/doordash-copilot-swift-testing/en/headerimage/doordash-copilot-swift-testing-1777887802258.jpeg" alt="DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yos/top-web3-crms-of-2026-with-advanced-analytics-features-217p" target="_blank">Top Web3 CRMs of 2026 with Advanced Analytics Features</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/articles/cn0p8yled1do" target="_blank">GameStop makes $55.5B takeover offer for eBay</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-04 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/java-news-roundup-apr27-2026/en/headerimage/java-news-roundup-image-1777885944693.jpg" alt="Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-04 09:15</span>
             </div>
         </div>
 </div>
@@ -244,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/gamesotp.jpg" alt="GameStop’s Meme Stock Takeover Of eBay For $56 Billion Sounds Terrible For Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-wants-to-buy-ebay-for-56-billion-in-a-deal-that-sounds-terrible-for-everyone-2000692923" target="_blank">GameStop’s Meme Stock Takeover Of eBay For $56 Billion Sounds Terrible For Everyone</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQJYRJJK577J2S3SE90V2M8N/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Le Snack Demon&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-le-snack-demon?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Le Snack Demon&#x27;?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/wired-tokyo-2007-1280x720.jpg" alt="Indie Developer Says Valve Is Blocking Its Game On Steam For…Infringing On Its Own IP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 41 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
