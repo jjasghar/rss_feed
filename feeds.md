@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 11:31:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-04 12:27:00 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 11:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 12:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde" target="_blank">Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-04 12:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777893650651_tdy_news_7a_gutierrez_iran_260504_S3_1920x1080-wibsh2.jpg" alt="Trump Says US Navy Will Escort Ships out of Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-navy-to-guide-ships-through-hormuz-how-iran-is-responding-262639685661" target="_blank">Trump Says US Navy Will Escort Ships out of Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-04 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Hormuz-tanker-DB-260504_1777870801281_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump&#x27;s &#x27;Project Freedom&#x27; begins Monday amid attacks in strait" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +107,6 @@
                 <span class="time">2026-05-04 08:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss" target="_blank">Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-04 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss" target="_blank">Crew of Iranian ship siezed by US forces evacuated to Pakistan, gov’t says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-04 07:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +119,15 @@
                 <span class="title"><a href="https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/" target="_blank">RFK Jr.’s New Podcast Is as Weird as You’d Expect</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/" target="_blank">Ouster’s new color lidar is coming to replace cameras</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-04 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +166,29 @@
                 <span class="time">2026-05-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/" target="_blank">TechCrunch Mobility: How do you issue a ticket to a robotaxi?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-03 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18954583&w=600" alt="Building Fault-Tolerant Kafka Consumers in Spring Boot Using Retry, DLQ, and Idempotent Code Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-fault-tolerant-kafka-consumers-in-spring" target="_blank">Building Fault-Tolerant Kafka Consumers in Spring Boot Using Retry, DLQ, and Idempotent Code Patterns</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-04 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-FS-Proliferation-Burden" target="_blank">Linux File-System Proliferation A Burden: Requirements Laid Out For Any Future File-Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 10:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/doordash-copilot-swift-testing/en/headerimage/doordash-copilot-swift-testing-1777887802258.jpeg" alt="DoorDash Used Copilot to Convert Its XCTest-Based iOS Test Suite to Swift Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +225,6 @@
                 <span class="time">2026-05-04 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxop68vdnckgx3mo9y7le.png" alt="Best Product Analytics Tools for DeFi Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yos/best-product-analytics-tools-for-defi-teams-2cj1" target="_blank">Best Product Analytics Tools for DeFi Teams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjavvj24fmjxe3farfm92.png" alt="Building Atomic Transactions with Rollback for Signals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luciano0322/building-atomic-transactions-with-rollback-for-signals-ab8" target="_blank">Building Atomic Transactions with Rollback for Signals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/wired-tokyo-2007-1280x720.jpg" alt="Indie Developer Says Valve Is Blocking Its Game On Steam For…Infringing On Its Own IP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/indie-valve-wired-tokyo-2007-daikichi-steam-pc-demo-2000692920" target="_blank">Indie Developer Says Valve Is Blocking Its Game On Steam For…Infringing On Its Own IP</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 12:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/bartrobot.jpg" alt="Studies Suggest Young People Who Use AI Are The Ones Who Hate It The Most" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 11:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
