@@ -1,16 +1,20 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 20:25:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-04 21:21:07 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
@@ -21,16 +25,20 @@
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 20:25 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, May 04, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss" target="_blank">Is Israel’s interception of the Global Sumud Flotilla legal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-7-rt-gmh-260504_1777925159451_hpMain_4x3t_384.jpg" alt="Trump stops short of saying Iran violated ceasefire: &#x27;not heavy firing&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-stops-short-iran-violated-ceasefire-heavy-firing/story?id=132646036" target="_blank">Trump stops short of saying Iran violated ceasefire: &#x27;not heavy firing&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-04 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +108,20 @@
                 <span class="time">2026-05-04 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-7-epa-gmh-260507_1777914959078_hpMain_4x3t_384.jpg" alt="Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: UAE says it&#x27;s intercepting Iranian missiles and drones</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde" target="_blank">Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-04 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-500x500-1777922481.jpg" alt="Canadian election databases use &quot;canary traps&quot;—and they work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/" target="_blank">Canadian election databases use &quot;canary traps&quot;—and they work</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-04 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f42d80facf876e0aad6ac1/master/pass/The-Best-Smart-Locks-for-Every-Kind-of-Door.jpg" alt="7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +167,6 @@
                 <span class="time">2026-05-04 16:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-500x500.jpeg" alt="AMD is adding HDMI 2.1 support for Linux. That&#x27;s good news for the Steam Machine." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/" target="_blank">AMD is adding HDMI 2.1 support for Linux. That&#x27;s good news for the Steam Machine.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-04 16:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +176,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/qasim157/5-nylas-cli-commands-every-ai-agent-should-have-access-to-2e87" target="_blank">5 Nylas CLI commands every AI agent should have access to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-04 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-AutoFDO-Tool-For-GCC" target="_blank">NVIDIA Looking To Create New Tool For Generating AutoFDO Profiles For GCC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-04 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/konark_13/whats-your-fear-score-as-a-developer-4p2j" target="_blank">What’s Your Fear Score as a Developer?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18958440&w=600" alt="Goodbye Mono: Why Unity is Switching to CoreCLR" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/goodbye-mono-why-unity-is-transitioning" target="_blank">Goodbye Mono: Why Unity is Switching to CoreCLR</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-04 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -183,39 +218,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8u06g338m666ck48fnug.png" alt="OneKey Classic 1S Review (vs Ledger) — My Honest Take After 7 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h" target="_blank">OneKey Classic 1S Review (vs Ledger) — My Honest Take After 7 Years</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 19:24</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://adamj.eu/tech/2026/04/20/django-python-3.14-incremental-gc/" target="_blank">Django: fixing a memory “leak” from Python 3.14’s incremental garbage collection</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-04 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olivia_craft/claudemd-for-redis-13-rules-that-stop-ai-from-writing-cache-anti-patterns-28ih" target="_blank">CLAUDE.md for Redis: 13 Rules That Stop AI From Writing Cache Anti-Patterns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18953377&w=600" alt="AgentOps: The Next Evolution of DevOps for AI-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentops-the-next-evolution-of-devops-for-ai" target="_blank">AgentOps: The Next Evolution of DevOps for AI-Driven Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-04 18:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/" target="_blank">How OpenAI delivers low-latency voice AI at scale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-04 19:42</span>
             </div>
         </div>
 </div>
@@ -237,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/ps4-xbox-one.jpg" alt="Call Of Duty Is Finally Ditching PS4 And Xbox One Just As New Consoles Are Pricier Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-is-finally-ditching-ps4-and-xbox-one-just-as-new-consoles-are-pricier-than-ever-2000693036" target="_blank">Call Of Duty Is Finally Ditching PS4 And Xbox One Just As New Consoles Are Pricier Than Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lightning.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lightning compilation video reveals how storms cause fires, explosions, and power loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/04/lightning-compilation-video-reveals-how-storms-cause-fires-explosions-and-power-loss.html" target="_blank">Lightning compilation video reveals how storms cause fires, explosions, and power loss</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-04 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQT8DTJ2CKS6M1833YA5GBF5/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/top-10-streaming-movies-right-now-may-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-04 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/05/49e196092aa20ed45d2c0c64acc4c018-1280x720.jpg" alt="The 10 Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/resident-evil-requiem-leon-death-grace-old-age-chris-jill-2000693009" target="_blank">Capcom Doesn’t Plan To Age Out Resident Evil’s Legacy Heroes: ‘We Don’t Really Think Of It In Those Terms’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQT173KE3Q5JT02NXXFN0SXW/hero-image.png" alt="The New AirPods Max 2 Are $40 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/airpods-max-2-sale-may-2026?utm_medium=RSS" target="_blank">The New AirPods Max 2 Are $40 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/10/wildfire-e1777916901665.jpg?fit=768%2C466&amp;quality=60&amp;ssl=1" alt="Study finds AI server farms creating their own local heat islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/study-finds-ai-server-farms-creating-their-own-local-heat-islands.html" target="_blank">Study finds AI server farms creating their own local heat islands</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-71.jpg" alt="Fallout‘s Co-Creator Worries That Gamers Are No Longer Thinking For Themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fallouts-co-creator-worries-that-gamers-are-no-longer-thinking-for-themselves-2000692982" target="_blank">Fallout‘s Co-Creator Worries That Gamers Are No Longer Thinking For Themselves</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 17:30</span>
             </div>
         </div>
 </div>
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 39 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
