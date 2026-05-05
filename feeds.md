@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 07:35:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 08:40:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 07:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 08:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war could stretch 3 more weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says war could stretch 3 more weeks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 07:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china" target="_blank">An explosion at a fireworks plant in China kills at least 26 people, state media says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-05 06:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/c47dcee0-4832-11f1-a015-7171d6e89aef.jpg" alt="Explosion at China fireworks factory kills 26 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss" target="_blank">Explosion at China fireworks factory kills 26 people</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-05 06:06</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss" target="_blank">Man City have lost control of the Premier League title race: Guardiola</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-05 05:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5810606/wyoming-lawmakers-use-pro-natalist-arguments-to-justify-proposed-new-partial-abortion-ban" target="_blank">Wyoming lawmakers use pro-natalist arguments to justify proposed new partial abortion ban</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss" target="_blank">An explosion at a fireworks plant in China has killed at least 21 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-05 03:49</span>
             </div>
         </div>
 </div>
@@ -164,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/" target="_blank">What (un)exactly do you mean by semantic search?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Ftanstack%2Fquery%2Fraw%2Fmain%2Fmedia%2Frepo-header.png" alt="Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f" target="_blank">Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 07:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/figma-redis-figcache/en/headerimage/generatedHeaderImage-1777405837575.jpg" alt="Figma Builds In-House Redis Proxy to Hit Six Nines Uptime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/figma-redis-figcache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Figma Builds In-House Redis Proxy to Hit Six Nines Uptime</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-05 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm" target="_blank">Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5" target="_blank">Bun is being ported from Zig to Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.2-Beta" target="_blank">AlmaLinux 10.2 Beta Released With Legacy 32-bit Software Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-05 00:24</span>
             </div>
         </div>
 </div>
@@ -318,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 07:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 08:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
