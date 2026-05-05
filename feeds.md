@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 09:33:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 10:30:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 09:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 10:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-canada-alberta_7239529.jpg?20260505100909" alt="Separatist group tries to trigger referendum on province leaving Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/separatist-group-tries-to-trigger-referendum-on-province-leaving-canada-13540307" target="_blank">Separatist group tries to trigger referendum on province leaving Canada</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-05 08:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war could stretch 3 more weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -94,20 +102,29 @@
                 <span class="time">2026-05-05 06:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/c47dcee0-4832-11f1-a015-7171d6e89aef.jpg" alt="Explosion at China fireworks factory kills 26 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss" target="_blank">Explosion at China fireworks factory kills 26 people</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 06:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel" target="_blank">Google DeepMind workers are unionizing over AI military contracts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69e938c49a0a1ec843ac2159/master/pass/AIApplications_Main_Anim.gif" alt="He Couldn’t Land a Job Interview. Was AI to Blame?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/" target="_blank">He Couldn’t Land a Job Interview. Was AI to Blame?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-05 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes: 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +161,20 @@
                 <span class="time">2026-05-04 23:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8dc3d515a33a2efb30971/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg" alt="Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/" target="_blank">Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x" target="_blank">Elon Musk will settle the feds’ Twitter lawsuit with pocket change</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-04 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satyasootar/destructuring-in-javascript-5a11" target="_blank">Destructuring in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 10:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state" target="_blank">Async Rust never left the MVP state</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-05 07:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/05/figma-redis-figcache/en/headerimage/generatedHeaderImage-1777405837575.jpg" alt="Figma Builds In-House Redis Proxy to Hit Six Nines Uptime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -201,38 +218,6 @@
                 <span class="title"><a href="https://dev.to/yqqwe/giai-ma-kien-truc-media-cua-tiktok-xay-dung-he-thong-trich-xuat-video-khong-watermark-hieu-nang-cao-2258" target="_blank">Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/angelos-p/llm-from-scratch" target="_blank">Train Your Own LLM from Scratch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm" target="_blank">Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 04:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html" target="_blank">Hacking Polymarket</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-04 09:46</span>
             </div>
         </div>
 </div>
@@ -322,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 09:33 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 10:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
