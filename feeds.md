@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-04 23:15:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 00:19:25 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, May 04, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +103,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026" target="_blank">Valve just imported 50 tons of game consoles in two days</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-04 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f8dc3d515a33a2efb30971/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg" alt="Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/" target="_blank">Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-04 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x" target="_blank">Elon Musk will settle the feds’ Twitter lawsuit with pocket change</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-04 22:11</span>
@@ -119,6 +136,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-500x500-1777928501.png" alt="&quot;Notepad++ for Mac&quot; release is disavowed by the creator of the original" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/" target="_blank">&quot;Notepad++ for Mac&quot; release is disavowed by the creator of the original</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-04 21:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69f8eb00e8aff66a9d072879/master/pass/What-PSN-Lawsuit-Means-for-You-Gear-1252378726.jpg" alt="What to Know About Sony’s $7.85 Million PlayStation Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -127,38 +153,20 @@
                 <span class="time">2026-05-04 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-500x500-1777922481.jpg" alt="Canadian election databases use &quot;canary traps&quot;—and they work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/" target="_blank">Canadian election databases use &quot;canary traps&quot;—and they work</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-04 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f42d80facf876e0aad6ac1/master/pass/The-Best-Smart-Locks-for-Every-Kind-of-Door.jpg" alt="7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-locks/" target="_blank">7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-04 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal" target="_blank">SwitchBot’s rechargeable button pusher is on sale for over 20 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-04 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jancera/why-worker-pools-beat-clustering-for-cpu-heavy-tasks-on-nodejs-2eoe" target="_blank">Why worker pools beat clustering for CPU-Heavy tasks on Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +210,6 @@
                 <span class="title"><a href="https://dzone.com/articles/goodbye-mono-why-unity-is-transitioning" target="_blank">Goodbye Mono: Why Unity is Switching to CoreCLR</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.2.3" target="_blank">ROCm 7.2.3 Brings Minor Updates, ROCm XIO Documentation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 19:55</span>
             </div>
         </div>
 </div>
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
