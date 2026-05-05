@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 06:40:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-05 07:35:14 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 06:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 07:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china" target="_blank">An explosion at a fireworks plant in China kills at least 26 people, state media says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 06:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +99,20 @@
                 <span class="time">2026-05-05 03:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-china-fire_7239397.jpg?20260505040438" alt="21 dead and dozens injured in fireworks factory blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/21-dead-and-dozens-injured-in-china-fireworks-factory-blast-13540255" target="_blank">21 dead and dozens injured in fireworks factory blast</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-05 01:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes: 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/loop-earplugs-discount-code/" target="_blank">Loop Earplugs Discount Codes: 40% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-05 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +158,20 @@
                 <span class="time">2026-05-04 22:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/" target="_blank">OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-04 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Ftanstack%2Fquery%2Fraw%2Fmain%2Fmedia%2Frepo-header.png" alt="Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f" target="_blank">Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 07:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpq8d2fst92hdzljzd1d.png" alt="Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.2-Beta" target="_blank">AlmaLinux 10.2 Beta Released With Legacy 32-bit Software Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-05 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jancera/why-worker-pools-beat-clustering-for-cpu-heavy-tasks-on-nodejs-2eoe" target="_blank">Why worker pools beat clustering for CPU-Heavy tasks on Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 00:15</span>
             </div>
         </div>
 </div>
@@ -305,22 +313,13 @@
                 <span class="time">2026-05-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/04/hurst-donut" target="_blank">Hurst Donut</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-04 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 06:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 07:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
