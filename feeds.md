@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 11:25:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 12:18:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 11:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 12:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion" target="_blank">SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 11:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran&#x27;s highly enriched uranium &#x27;not very valuable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +101,29 @@
                 <span class="time">2026-05-05 08:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-canada-alberta_7239529.jpg?20260505100909" alt="Separatist group tries to trigger referendum on province leaving Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/separatist-group-tries-to-trigger-referendum-on-province-leaving-canada-13540307" target="_blank">Separatist group tries to trigger referendum on province leaving Canada</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-05 08:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen" target="_blank">Bose takes a swing at Sonos with its new home speakers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/" target="_blank">Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-500x500.jpg" alt="Why Reddit blocked my daily visit to its mobile website" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +160,29 @@
                 <span class="time">2026-05-05 10:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69e938c49a0a1ec843ac2159/master/pass/AIApplications_Main_Anim.gif" alt="He Couldn’t Land a Job Interview. Was AI to Blame?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/" target="_blank">He Couldn’t Land a Job Interview. Was AI to Blame?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-05 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="Loop Earplugs Discount Codes: 40% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/loop-earplugs-discount-code/" target="_blank">Loop Earplugs Discount Codes: 40% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-05 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chidari_sandeep_c8e0478a1/searchwala-i-built-a-blazing-fast-meta-search-engine-in-rust-that-queries-90-engines-bo1" target="_blank">SearchWala: I Built a Blazing-Fast Meta-Search Engine in Rust That Queries 90+ Engines Simultaneously</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-CPPC-HighestFreq" target="_blank">AMD Preps Linux For CPPC HighestFreq Feature Coming With Future ACPI Spec</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-05 11:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficwbqazwboq6q1q80lm0.png" alt="What&#x27;s new in Java 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mistral Adds Remote Agents and Work Mode to Le Chat</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-05 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/" target="_blank">What (un)exactly do you mean by semantic search?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-05 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Ftanstack%2Fquery%2Fraw%2Fmain%2Fmedia%2Frepo-header.png" alt="Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f" target="_blank">Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 07:30</span>
             </div>
         </div>
 </div>
@@ -326,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
