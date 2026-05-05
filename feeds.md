@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 01:31:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-05 02:59:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777935050303_nn_gha_iran_attacks_oil_tankers_in_strait_of_hormuz_260604_S3_1920x1080-49zzg9.jpg" alt="Iran attacks oil tankers in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-attacks-oil-tankers-in-strait-of-hormuz-262699077577" target="_blank">Iran attacks oil tankers in Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-04 22:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg" alt="Three dead in suspected hantavirus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.com/US/secret-service-officers-exchange-gunfire-armed-suspect-white/story?id=132651102" target="_blank">Secret Service officers exchange gunfire with armed suspect near White House: USSS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-04 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors" target="_blank">Hotels have a big World Cup problem: Bookings are running far below projections</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 21:56</span>
             </div>
         </div>
 </div>
@@ -239,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/08/539da1839cbeacee02af5d8dbc702672.jpg" alt="Bank Of America Analyst Says GTA 6 Should Be $80 So It Doesn’t Make Everyone Else’s $70 Games Look Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bank-of-america-analyst-gta-6-80-70-games-look-bad-2000693059" target="_blank">Bank Of America Analyst Says GTA 6 Should Be $80 So It Doesn’t Make Everyone Else’s $70 Games Look Bad</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-04 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/gasolinelaptop.jpg?fit=1231%2C1000&amp;quality=60&amp;ssl=1" alt="If only this gasoline-powered laptop were real" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +286,6 @@
                 <span class="time">2026-05-04 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/05/49e196092aa20ed45d2c0c64acc4c018-1280x720.jpg" alt="The 10 Best Star Wars Games Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189" target="_blank">The 10 Best Star Wars Games Ever Made</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
