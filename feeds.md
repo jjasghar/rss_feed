@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 22:17:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 23:16:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/covid-vaccine-gty-gmh-250307_1741368928794_hpMain_4x3t_384.jpg" alt="FDA withdraws publication of COVID, shingles vaccine research findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/fda-blocked-publication-covid-shingles-vaccine-research-findings/story?id=132687938" target="_blank">FDA withdraws publication of COVID, shingles vaccine research findings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,29 @@
                 <span class="time">2026-05-05 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/white-house-1-ap-gmh-260427_1777302980650_hpMain_4x3t_384.jpg" alt="GOP aims to secure $1B for security-related aspects of White House ballroom project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/republicans-aim-secure-1-billion-security-related-aspects/story?id=132671558" target="_blank">GOP aims to secure $1B for security-related aspects of White House ballroom project</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/" target="_blank">Bumble’s paying users are slipping as it bets on an overhaul later this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade" target="_blank">Google Home&amp;#8217;s Gemini AI can handle more complicated requests</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 21:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-500x500.jpg" alt="Silicon Valley bets $200M on AI data centers floating in the ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/" target="_blank">Telehealth Abortion Is Still Possible Without Mifepristone</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-05 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-500x500-1778013498.jpg" alt="Character.AI sued over chatbot that claims to be a real doctor with a license" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/" target="_blank">Character.AI sued over chatbot that claims to be a real doctor with a license</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-05 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/" target="_blank">ASML CEO Christophe Fouquet: No one is coming for us</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-05 20:06</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/AC-Nintendo-Switch-1280x720.jpg" alt="Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/big-video-game-websites-90s-2000693342" target="_blank">Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/sukia.jpg?fit=1200%2C950&amp;quality=60&amp;ssl=1" alt="Why the &quot;It&#x27;s not X, it&#x27;s Y&quot; AI tic backfires on its writers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -283,15 +288,6 @@
                 <span class="time">2026-05-05 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-trailer-feature_f7dfb25e-1-1280x720.jpeg" alt="The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261" target="_blank">The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-05 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
