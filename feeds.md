@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 12:18:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 15:31:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 12:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 15:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election" target="_blank">Here&#x27;s a look at the 36 races for governor this year</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/hegseth_presser_0313-r1xqos.jpg" alt="Hegseth says the ceasefire with Iran ‘is not over’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-says-the-ceasefire-with-iran-is-not-over-262756421892" target="_blank">Hegseth says the ceasefire with Iran ‘is not over’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-05 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2026-05-05 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/210209-trump-rally-mc-1120-fe0ecc.jpg" alt="What to watch in Tuesday&#x27;s elections: Trump seeks payback in Indiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/watch-tuesdays-elections-trump-seeks-payback-indiana-ohio-primaries-rcna342229" target="_blank">What to watch in Tuesday&#x27;s elections: Trump seeks payback in Indiana</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/taiwan-has-right-to-engage-with-the-world-after-eswatini-visit?traffic_source=rss" target="_blank">Taiwan has ‘right to engage with the world’ after Eswatini visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-05 08:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/920264/orchid-tame-impala-synth-clear-colorway-arctic-telepathic-instruments" target="_blank">Orchid, the buzzy Tame Impala synth, is back in a gorgeous clear colorway</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,38 @@
                 <span class="time">2026-05-05 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel" target="_blank">Google DeepMind workers are unionizing over AI military contracts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-05 10:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d7icofo8dvvrrzc7c56.jpg" alt="4 Types of Hallucinations: One Detection Pattern Per Type" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielanhaia/4-types-of-hallucinations-one-detection-pattern-per-type-1pjb" target="_blank">4 Types of Hallucinations: One Detection Pattern Per Type</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/" target="_blank">Welcome to Maintainer Month: Celebrating the people behind the code</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-05 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/" target="_blank">The best is over: The fun has been optimized out of the Internet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-05 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +218,6 @@
                 <span class="time">2026-05-05 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17334712/vs-code-credits-copilot-for-human-work" target="_blank">Typical Microsoft! Turns Out VS Code Was Adding Copilot as a Git Co-Author Without Telling Anyone</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-05 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satyasootar/destructuring-in-javascript-5a11" target="_blank">Destructuring in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/mistral-agents-lechat/en/headerimage/generatedHeaderImage-1777663082615.jpg" alt="Mistral Adds Remote Agents and Work Mode to Le Chat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mistral Adds Remote Agents and Work Mode to Le Chat</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-05 10:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Screenshot-WhatCable.jpg?fit=1080%2C765&amp;quality=60&amp;ssl=1" alt="WhatCable tells you what that USB-C cable is good for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/05/whatcable-tells-you-what-that-usb-c-cable-is-good-for.html" target="_blank">WhatCable tells you what that USB-C cable is good for</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-05 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQSRR771ZP7N2WEPWM3GEA4Y/hero-image.png" alt="My Three Favorite Garmin Features to Use on Race Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="time">2026-05-04 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/lightning.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Lightning compilation video reveals how storms cause fires, explosions, and power loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/lightning-compilation-video-reveals-how-storms-cause-fires-explosions-and-power-loss.html" target="_blank">Lightning compilation video reveals how storms cause fires, explosions, and power loss</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,22 +305,13 @@
                 <span class="time">2026-05-04 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777833135-20260504-edit.png" alt="Saturday Morning Breakfast Cereal - Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/future-4" target="_blank">Saturday Morning Breakfast Cereal - Future</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
