@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 18:25:13 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-05 19:29:08 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 18:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth" target="_blank">Midwives saved his mom&#x27;s life -- and inspired him to pursue the profession</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 19:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss" target="_blank">Sudan recalls Ethiopia ambassador after strikes on Khartoum</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-05 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58e/live/d16791c0-48a7-11f1-90e6-350a323e11ac.jpg" alt="No obligation to declare £5m gift, Farage says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jv8xl17l8o?at_medium=RSS&at_campaign=rss" target="_blank">No obligation to declare £5m gift, Farage says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-05 18:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +100,20 @@
                 <span class="time">2026-05-05 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812509/kash-patel-fbi-beastie-boys-spike-jonze-ai" target="_blank">Did FBI Director Kash Patel use AI to rip off the Beastie Boys?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/west-bengal-chief-refuses-to-resign-after-dirty-election?traffic_source=rss" target="_blank">West Bengal Chief refuses to resign after ‘dirty’ election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-05 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg" alt="Hantavirus may have spread between passengers on cruise ship, WHO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss" target="_blank">Hantavirus may have spread between passengers on cruise ship, WHO says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/" target="_blank">Threads finally brings messaging to the web</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,20 @@
                 <span class="time">2026-05-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen" target="_blank">Bose takes a swing at Sonos with its new home speakers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18959219&w=600" alt="The Hidden Latency of Autoscaling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-hidden-latency-of-autoscaling" target="_blank">The Hidden Latency of Autoscaling</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18959216&w=600" alt="From Monolith to Microservices: Practical Lessons From Real System Modernization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!C6W6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09e245ca-cbda-4c91-b38d-36c8074a7800_1310x940.png" alt="Designing Data-Intensive Applications: The Cloud &amp; Doing the Right Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt" target="_blank">Designing Data-Intensive Applications: The Cloud &amp; Doing the Right Thing</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-05 16:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FDaviReisVieira%2Fstackport%2Fmain%2Fdocs%2Fimages%2Fdashboard.jpeg" alt="I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/agent-graphs-workflow-automation" target="_blank">Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://susam.net/inverse-laws-of-robotics.html" target="_blank">Three Inverse Laws of AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d7icofo8dvvrrzc7c56.jpg" alt="4 Types of Hallucinations: One Detection Pattern Per Type" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielanhaia/4-types-of-hallucinations-one-detection-pattern-per-type-1pjb" target="_blank">4 Types of Hallucinations: One Detection Pattern Per Type</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 15:21</span>
             </div>
         </div>
 </div>
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/bonniebear1-1-1280x720.jpg" alt="I Love This Frog-Based Musical Deckbuilder Made By Theater Kids, For Theater Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bonnie-bear-saves-frogtime-frog-based-strategy-game-musical-indie-2000693294" target="_blank">I Love This Frog-Based Musical Deckbuilder Made By Theater Kids, For Theater Kids</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-05 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/titanic-e1778002512831.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Stunning new scans reveal RMS Titanic debris field in eerie detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="time">2026-05-05 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQSRR771ZP7N2WEPWM3GEA4Y/hero-image.png" alt="My Three Favorite Garmin Features to Use on Race Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/my-three-favorite-garmin-features-to-use-on-race-day?utm_medium=RSS" target="_blank">My Three Favorite Garmin Features to Use on Race Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-05 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 18:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
