@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 05:51:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-05 06:40:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 05:51 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 06:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak" target="_blank">Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +89,6 @@
                 <span class="title"><a href="https://news.sky.com/story/21-dead-and-dozens-injured-in-china-fireworks-factory-blast-13540255" target="_blank">21 dead and dozens injured in fireworks factory blast</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-05 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1886/live/deeddd10-47fb-11f1-a14e-833a5f437cb7.jpg" alt="Starmer to host Downing Street summit to address antisemitism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to host Downing Street summit to address antisemitism</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 00:38</span>
             </div>
         </div>
 </div>
@@ -175,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/angelos-p/llm-from-scratch" target="_blank">Train Your Own LLM from Scratch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-05 04:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm" target="_blank">Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/jancera/why-worker-pools-beat-clustering-for-cpu-heavy-tasks-on-nodejs-2eoe" target="_blank">Why worker pools beat clustering for CPU-Heavy tasks on Node.js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thedailyagent/building-custom-mcp-servers-a-developers-guide-to-production-grade-ai-agent-tools-53ch" target="_blank">Building Custom MCP Servers: A Developer&#x27;s Guide to Production-Grade AI Agent Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 22:08</span>
             </div>
         </div>
 </div>
@@ -327,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:51 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 06:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
