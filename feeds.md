@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 02:59:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 04:09:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5810606/wyoming-lawmakers-use-pro-natalist-arguments-to-justify-proposed-new-partial-abortion-ban" target="_blank">Wyoming lawmakers use pro-natalist arguments to justify proposed new partial abortion ban</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss" target="_blank">An explosion at a fireworks plant in China has killed at least 21 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-05 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-china-fire_7239397.jpg?20260505040438" alt="21 dead and dozens injured in fireworks factory blast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/21-dead-and-dozens-injured-in-china-fireworks-factory-blast-13540255" target="_blank">21 dead and dozens injured in fireworks factory blast</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-05 01:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1886/live/deeddd10-47fb-11f1-a14e-833a5f437cb7.jpg" alt="Starmer to host Downing Street summit to address antisemitism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet" target="_blank">See the looks from the 2026 Met Gala red carpet</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-04 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1777935050303_nn_gha_iran_attacks_oil_tankers_in_strait_of_hormuz_260604_S3_1920x1080-49zzg9.jpg" alt="Iran attacks oil tankers in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/iran-attacks-oil-tankers-in-strait-of-hormuz-262699077577" target="_blank">Iran attacks oil tankers in Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-04 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537e/live/3549bda0-47d4-11f1-ac78-2112837ce2aa.jpg" alt="Three dead in suspected hantavirus outbreak on Atlantic cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead in suspected hantavirus outbreak on Atlantic cruise ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-04 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dc-shooting-2-rt-gmh-260504_1777930993971_hpMain_4x3t_384.jpg" alt="Secret Service officers exchange gunfire with armed suspect near White House: USSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/secret-service-officers-exchange-gunfire-armed-suspect-white/story?id=132651102" target="_blank">Secret Service officers exchange gunfire with armed suspect near White House: USSS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-04 22:14</span>
             </div>
         </div>
 </div>
@@ -162,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm" target="_blank">Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5" target="_blank">Bun is being ported from Zig to Rust</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-05 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10.2-Beta" target="_blank">AlmaLinux 10.2 Beta Released With Legacy 32-bit Software Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-05 00:24</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/qasim157/5-nylas-cli-commands-every-ai-agent-should-have-access-to-2e87" target="_blank">5 Nylas CLI commands every AI agent should have access to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-04 21:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-AutoFDO-Tool-For-GCC" target="_blank">NVIDIA Looking To Create New Tool For Generating AutoFDO Profiles For GCC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-04 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/konark_13/whats-your-fear-score-as-a-developer-4p2j" target="_blank">What’s Your Fear Score as a Developer?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 20:22</span>
             </div>
         </div>
 </div>
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
