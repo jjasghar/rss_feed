@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 16:28:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-05 17:28:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,57 +50,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260505_1777997034608_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;I&#x27;ll let you know&#x27; if ceasefire is breached" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says &#x27;I&#x27;ll let you know&#x27; if ceasefire is breached</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812509/kash-patel-fbi-beastie-boys-spike-jonze-ai" target="_blank">Did FBI Director Kash Patel use AI to rip off the Beastie Boys?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/west-bengal-chief-refuses-to-resign-after-dirty-election?traffic_source=rss" target="_blank">West Bengal Chief refuses to resign after ‘dirty’ election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-05 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg" alt="Hantavirus may have spread between passengers on cruise ship, WHO says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss" target="_blank">Hantavirus may have spread between passengers on cruise ship, WHO says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-05 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce57/live/398d6640-488e-11f1-ac78-2112837ce2aa.jpg" alt="Palestine Action activists guilty of criminal damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action activists guilty of criminal damage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-05 15:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region?traffic_source=rss" target="_blank">Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-05 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/caine-3-ap-gmh-260505_1777984175923_hpMain_4x3t_384.jpg" alt="Iran live updates: Attacks on US below threshold of resuming fighting, Caine says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Attacks on US below threshold of resuming fighting, Caine says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5739331/governor-2026-election" target="_blank">Here&#x27;s a look at the 36 races for governor this year</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/hegseth_presser_0313-r1xqos.jpg" alt="Hegseth says the ceasefire with Iran ‘is not over’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/hegseth-says-the-ceasefire-with-iran-is-not-over-262756421892" target="_blank">Hegseth says the ceasefire with Iran ‘is not over’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-05 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120151/up-first-newsletter-iran-us-strait-of-hormuz-ohio-indiana-primaries-medication-abortion" target="_blank">SCOTUS temporarily restores mifepristone access. And, Indiana, Ohio vote in primaries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran&#x27;s highly enriched uranium &#x27;not very valuable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says Iran&#x27;s highly enriched uranium &#x27;not very valuable&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 11:16</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devsixstrings/linear-search-vs-binary-search-and-why-it-actually-matters-3loj" target="_blank">Linear Search vs Binary Search (and Why It Actually Matters)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 17:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FDaviReisVieira%2Fstackport%2Fmain%2Fdocs%2Fimages%2Fdashboard.jpeg" alt="I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,19 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/" target="_blank">Welcome to Maintainer Month: Celebrating the people behind the code</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-05 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/" target="_blank">The best is over: The fun has been optimized out of the Internet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 14:29</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-71-features-changes" target="_blank">Linux 7.1 Features: New NTFS Driver, New Intel + AMD Hardware, Performance Optimizations &amp; Modernization</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-05 14:42</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
