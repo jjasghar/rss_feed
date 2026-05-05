@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 19:29:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-05 20:20:23 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 20:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/white-house-1-ap-gmh-260427_1777302980650_hpMain_4x3t_384.jpg" alt="GOP aims to secure $1B for security-related aspects of White House ballroom project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/republicans-aim-secure-1-billion-security-related-aspects/story?id=132671558" target="_blank">GOP aims to secure $1B for security-related aspects of White House ballroom project</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 18:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -91,20 +97,29 @@
                 <span class="time">2026-05-05 17:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260505_1777997034608_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;I&#x27;ll let you know&#x27; if ceasefire is breached" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says &#x27;I&#x27;ll let you know&#x27; if ceasefire is breached</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/" target="_blank">ASML CEO Christophe Fouquet: No one is coming for us</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma" target="_blank">Microsoft gives up on Xbox Copilot AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 19:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +156,29 @@
                 <span class="time">2026-05-05 15:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f9b6532fd3684a9959eb80/master/pass/TDWP2-19956_R2_19964_r%20(2).jpg" alt="The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/" target="_blank">The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-05 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/920264/orchid-tame-impala-synth-clear-colorway-arctic-telepathic-instruments" target="_blank">Orchid, the buzzy Tame Impala synth, is back in a gorgeous clear colorway</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folevzfnpfervpl4egld0.jpg" alt="Apps That See: Bringing Vision AI to Your Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1" target="_blank">Apps That See: Bringing Vision AI to Your Projects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18961192&w=600" alt="Beyond Conversation: Mastering Context with Claude Code Skills and Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mastering-context-with-claude-code-skills-and-agents" target="_blank">Beyond Conversation: Mastering Context with Claude Code Skills and Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-05 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18959219&w=600" alt="The Hidden Latency of Autoscaling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt" target="_blank">Designing Data-Intensive Applications: The Cloud &amp; Doing the Right Thing</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-05-05 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FDaviReisVieira%2Fstackport%2Fmain%2Fdocs%2Fimages%2Fdashboard.jpeg" alt="I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davireisvieira/i-built-an-open-source-aws-resource-browser-because-i-was-tired-of-running-cli-commands-476k" target="_blank">I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18960951&w=600" alt="Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agent-graphs-workflow-automation" target="_blank">Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-05 16:00</span>
             </div>
         </div>
 </div>
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
