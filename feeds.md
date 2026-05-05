@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 10:30:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 11:25:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 10:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 11:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran&#x27;s highly enriched uranium &#x27;not very valuable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says Iran&#x27;s highly enriched uranium &#x27;not very valuable&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates" target="_blank">U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +107,38 @@
                 <span class="time">2026-05-05 08:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/donald-trump-8-ap-gmh-260504_1777925159876_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says war could stretch 3 more weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says war could stretch 3 more weeks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china" target="_blank">An explosion at a fireworks plant in China kills at least 26 people, state media says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 06:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-500x500.jpg" alt="Why Reddit blocked my daily visit to its mobile website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/" target="_blank">Why Reddit blocked my daily visit to its mobile website</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-05 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69f922f1eb26cdb72f8a9f9d/master/pass/BookExcerpt-TheiPhoneThatNeverWas_v5.2.jpg" alt="The iPhone That Never Was" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/" target="_blank">The iPhone That Never Was</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis" target="_blank">Facebook and Instagram are using AI bone structure analysis to identify photos of kids</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +166,29 @@
                 <span class="time">2026-05-05 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/" target="_blank">As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-05 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets" target="_blank">The 40 best Mother’s Day gift ideas for 2026</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-05 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026" target="_blank">Valve just imported 50 tons of game consoles in two days</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-04 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ficwbqazwboq6q1q80lm0.png" alt="What&#x27;s new in Java 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pvsdev/whats-new-in-java-26-3anf" target="_blank">What&#x27;s new in Java 26</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17334712/vs-code-credits-copilot-for-human-work" target="_blank">Typical Microsoft! Turns Out VS Code Was Adding Copilot as a Git Co-Author Without Telling Anyone</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-05 10:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +196,15 @@
                 <span class="title"><a href="https://dev.to/satyasootar/destructuring-in-javascript-5a11" target="_blank">Destructuring in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/mistral-agents-lechat/en/headerimage/generatedHeaderImage-1777663082615.jpg" alt="Mistral Adds Remote Agents and Work Mode to Le Chat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/mistral-agents-lechat/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mistral Adds Remote Agents and Work Mode to Le Chat</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-05 10:08</span>
             </div>
         </div>
 <div class="story">
@@ -193,31 +225,18 @@
                 <span class="time">2026-05-05 07:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state" target="_blank">Async Rust never left the MVP state</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/figma-redis-figcache/en/headerimage/generatedHeaderImage-1777405837575.jpg" alt="Figma Builds In-House Redis Proxy to Hit Six Nines Uptime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/figma-redis-figcache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Figma Builds In-House Redis Proxy to Hit Six Nines Uptime</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-05 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpq8d2fst92hdzljzd1d.png" alt="Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yqqwe/giai-ma-kien-truc-media-cua-tiktok-xay-dung-he-thong-trich-xuat-video-khong-watermark-hieu-nang-cao-2258" target="_blank">Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 05:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/darksword-malware.html" target="_blank">DarkSword Malware</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-05 10:42</span>
             </div>
         </div>
 </div>
@@ -307,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 10:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
