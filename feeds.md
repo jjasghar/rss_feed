@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 17:28:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-05 18:25:13 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 18:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812641/uss-ford-deployment" target="_blank">A nearly year-long deployment at sea takes a toll on military families</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 18:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss" target="_blank">UK convicts four Palestine Action activists over break-in at Israeli firm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-05 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260505_1777997034608_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;I&#x27;ll let you know&#x27; if ceasefire is breached" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +100,29 @@
                 <span class="time">2026-05-05 16:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce57/live/398d6640-488e-11f1-ac78-2112837ce2aa.jpg" alt="Palestine Action activists guilty of criminal damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&at_campaign=rss" target="_blank">Palestine Action activists guilty of criminal damage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region?traffic_source=rss" target="_blank">Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-05 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/" target="_blank">Airbnb co-founder taps Peter Arnell as first U.S. Chief Brand Architect</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 18:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-1-500x500.jpg" alt="Google Home gets upgraded Gemini voice assistant and new camera controls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/" target="_blank">Google Home gets upgraded Gemini voice assistant and new camera controls</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-05 17:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/EVDC_HighVoltage_2-500x500.jpg" alt="How do you design a $30,000 electric pickup? Inside Ford&#x27;s skunkworks." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2026-05-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/" target="_blank">Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-500x500.jpg" alt="Why Reddit blocked my daily visit to its mobile website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/" target="_blank">Why Reddit blocked my daily visit to its mobile website</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-05 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18959216&w=600" alt="From Monolith to Microservices: Practical Lessons From Real System Modernization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-system-modernization-lessons" target="_blank">From Monolith to Microservices: Practical Lessons From Real System Modernization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2026-05-05 15:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-71-features-changes" target="_blank">Linux 7.1 Features: New NTFS Driver, New Intel + AMD Hardware, Performance Optimizations &amp; Modernization</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-05 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/titanic-e1778002512831.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Stunning new scans reveal RMS Titanic debris field in eerie detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/05/stunning-new-scans-reveal-rms-titanic-debris-field-in-eerie-detail.html" target="_blank">Stunning new scans reveal RMS Titanic debris field in eerie detail</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-05 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQWFYCDEM586ZDXG1C8WYX10/hero-image.jpg" alt="Reddit Is Blocking Its Mobile Site for Some Users, but There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/reddit-is-blocking-its-mobile-site-but-theres-a-fix?utm_medium=RSS" target="_blank">Reddit Is Blocking Its Mobile Site for Some Users, but There&#x27;s a Fix</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-05 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/12/star-wars-fate-of-the-old-republic-trailer-feature_f7dfb25e-1-1280x720.jpeg" alt="The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +291,6 @@
                 <span class="time">2026-05-05 03:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/08/539da1839cbeacee02af5d8dbc702672.jpg" alt="Bank Of America Analyst Says GTA 6 Should Be $80 So It Doesn’t Make Everyone Else’s $70 Games Look Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bank-of-america-analyst-gta-6-80-70-games-look-bad-2000693059" target="_blank">Bank Of America Analyst Says GTA 6 Should Be $80 So It Doesn’t Make Everyone Else’s $70 Games Look Bad</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-04 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/gasolinelaptop.jpg?fit=1231%2C1000&amp;quality=60&amp;ssl=1" alt="If only this gasoline-powered laptop were real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/04/if-only-this-gasoline-powered-laptop-were-real.html" target="_blank">If only this gasoline-powered laptop were real</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-04 21:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +305,13 @@
                 <span class="time">2026-05-05 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/04/hurst-donut" target="_blank">Hurst Donut</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-04 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 18:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
