@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 04:09:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-05 05:51:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 04:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 05, 2026 - 05:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day" target="_blank">Russia declares a truce in Ukraine to mark Victory Day</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-05 05:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss" target="_blank">Man City have lost control of the Premier League title race: Guardiola</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-05 05:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,20 @@
                 <span class="time">2026-05-05 00:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcd/live/020fd5a0-47de-11f1-90ad-2ff82eec9d15.jpg" alt="US strikes Iranian fast boats as Iran attacks UAE oil facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss" target="_blank">US strikes Iranian fast boats as Iran attacks UAE oil facility</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-04 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet" target="_blank">See the looks from the 2026 Met Gala red carpet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-04 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/" target="_blank">As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-05 03:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2026-05-04 21:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-500x500-1777928501.png" alt="&quot;Notepad++ for Mac&quot; release is disavowed by the creator of the original" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/" target="_blank">&quot;Notepad++ for Mac&quot; release is disavowed by the creator of the original</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-04 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnpq8d2fst92hdzljzd1d.png" alt="Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yqqwe/giai-ma-kien-truc-media-cua-tiktok-xay-dung-he-thong-trich-xuat-video-khong-watermark-hieu-nang-cao-2258" target="_blank">Giải mã kiến trúc Media của TikTok: Xây dựng hệ thống trích xuất Video không Watermark hiệu năng cao</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-05 05:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2026-05-04 22:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/qasim157/5-nylas-cli-commands-every-ai-agent-should-have-access-to-2e87" target="_blank">5 Nylas CLI commands every AI agent should have access to</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-04 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQSRR771ZP7N2WEPWM3GEA4Y/hero-image.png" alt="My Three Favorite Garmin Features to Use on Race Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/my-three-favorite-garmin-features-to-use-on-race-day?utm_medium=RSS" target="_blank">My Three Favorite Garmin Features to Use on Race Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-05 03:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/08/539da1839cbeacee02af5d8dbc702672.jpg" alt="Bank Of America Analyst Says GTA 6 Should Be $80 So It Doesn’t Make Everyone Else’s $70 Games Look Bad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="time">2026-05-04 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQT8DTJ2CKS6M1833YA5GBF5/hero-image.png" alt="The Top 10 Movies Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/top-10-streaming-movies-right-now-may-2026?utm_medium=RSS" target="_blank">The Top 10 Movies Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-04 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 04:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 05:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
