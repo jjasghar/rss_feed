@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 16:29:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-06 17:29:28 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 16:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Foreign Office &#x27;working urgently&#x27; to help Britons on virus-hit cruise get home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Foreign Office &#x27;working urgently&#x27; to help Britons on virus-hit cruise get home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-06 16:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +104,38 @@
                 <span class="time">2026-05-06 11:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778066733087_tdy_news_7a_engel_iran_trump_suspends_operation_260506_S3_1920x1080-h7s9js.jpg" alt="Trump Suspends Military Escorts in Hormuz 1 Day Into Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-suspends-military-escorts-in-hormuz-1-day-into-operation-262828613982" target="_blank">Trump Suspends Military Escorts in Hormuz 1 Day Into Operation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-06 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/" target="_blank">SpaceX may spend up to $119 billion on ‘Terafab’ chip factory in Texas</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details" target="_blank">Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fb5209385c877c8a520d3e/master/pass/GettyImages-2150494902.jpg" alt="I Am Begging AI Companies to Stop Naming Features After Human Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/" target="_blank">I Am Begging AI Companies to Stop Naming Features After Human Processes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,33 +163,6 @@
                 <span class="time">2026-05-06 15:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/54362872324_50b58cd770_o-500x500.jpg" alt="Here&#x27;s what has to happen if NASA wants to land on the Moon every month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/" target="_blank">Here&#x27;s what has to happen if NASA wants to land on the Moon every month</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-06 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/saddoctor-500x500.jpg" alt="Infants are bleeding out after parents decline vitamin K shots given at birth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/" target="_blank">Infants are bleeding out after parents decline vitamin K shots given at birth</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-06 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa67c416b465babf17a586/master/pass/AFK%20Best%20Carry-On%20Luggage%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Carry-On Suitcases (2026): Away, Rimowa, Tumi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-carry-on-suitcases/" target="_blank">Best Carry-On Suitcases (2026): Away, Rimowa, Tumi</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/futhgar/vibration-monitoring-architecture-from-sensor-to-dashboard-26ib" target="_blank">Vibration Monitoring Architecture: From Sensor to Dashboard</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-nouveau-nvk-may2026" target="_blank">Nouveau vs. NVIDIA R595 Linux Driver For Workstation Graphics Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +222,6 @@
                 <span class="time">2026-05-06 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-Vulkan-DGC" target="_blank">Intel&#x27;s Vulkan Linux Driver Now Supports Device Generated Commands &quot;DGC&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-06 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQWC0N7ZW7VCFJ1BSSVT8YQK/hero-image.jpg" alt="15 Shows Like &#x27;Widow&#x27;s Bay&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-widows-bay?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Widow&#x27;s Bay&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Neverness-to-Everness-official-artwork-Perfect-World-Games-1280x720.jpg" alt="Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +295,6 @@
                 <span class="time">2026-05-05 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/AC-Nintendo-Switch-1280x720.jpg" alt="Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/big-video-game-websites-90s-2000693342" target="_blank">Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-05 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 260 |
-        🔄 Last Updated: 16:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
