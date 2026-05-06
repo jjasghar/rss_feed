@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 09:44:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-06 10:37:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 09:44 UTC</div>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 10:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -87,12 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1306/live/0c47fc10-490e-11f1-bd52-e755d604ece4.jpg" alt="Campaigning sprint finish ahead of elections around Britain tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778032096047_now_brk_kornacki_recap_260505_S3_1920x1080-xq2v0a.jpg" alt="Steve Kornacki breaks down primary races in Ohio, Indiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss" target="_blank">Campaigning sprint finish ahead of elections around Britain tomorrow</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 00:15</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/steve-kornacki-breaks-down-primary-races-in-ohio-indiana-262817349992" target="_blank">Steve Kornacki breaks down primary races in Ohio, Indiana</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-06 01:48</span>
             </div>
         </div>
 </div>
@@ -100,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa3b8945ac5531ef804e6d/master/pass/Review%20Focal%20Mu-So%20top%20art%20052026%20SOURCE%20Audio%20Advice.jpg" alt="Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/focal-muso-hekla/" target="_blank">Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features" target="_blank">Chrome’s AI features may be hogging 4GB of your computer storage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +161,20 @@
                 <span class="time">2026-05-05 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/greg-brockman-is-you-taking-notes-on-criminal-conspiracy-500x500.jpg" alt="OpenAI president forced to read his personal diary entries to jury" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/" target="_blank">OpenAI president forced to read his personal diary entries to jury</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-05 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade" target="_blank">Google Home&amp;#8217;s Gemini AI can handle more complicated requests</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-05 21:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/three-weeks-to-go-a-sneak-peek-of-the-ubuntu-summit-26-04-experience" target="_blank">Three weeks to go: A sneak peek of the Ubuntu Summit 26.04 experience</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-06 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/kubernetes-monitoring-helm/en/headerimage/generatedHeaderImage-1777406799196.jpg" alt="Grafana&#x27;s Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://blog.cloudflare.com/agents-stripe-projects/" target="_blank">Agents can now create Cloudflare accounts, buy domains, and deploy</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-06 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-x86-64-v3-Undecided" target="_blank">Fedora Yet To Decide On x86_64-v3 Packages For Fedora Linux 45</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-06 01:13</span>
             </div>
         </div>
 </div>
@@ -292,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/06/tattooine" target="_blank">Tattooine</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-06 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1777833239-20260505-edit.png" alt="Saturday Morning Breakfast Cereal - Connection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -305,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 09:44 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 10:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
