@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 19:30:52 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-06 20:28:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship early</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-06 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss" target="_blank">Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5704317/genetic-embryo-screening" target="_blank">These companies help parents try to pick their babies&#x27; traits. Experts are wary</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +99,20 @@
                 <span class="time">2026-05-06 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss" target="_blank">Four killed in post-election violence in India’s West Bengal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dd1/live/df595320-493a-11f1-861c-270dbba6d6ae.jpg" alt="Oil prices drop and stock markets rise after reports of deal to end Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss" target="_blank">Oil prices drop and stock markets rise after reports of deal to end Iran war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss" target="_blank">Lessons from the war: A call for strategic reckoning in West Asia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/" target="_blank">Microsoft’s AI data center push is colliding with its clean power goals</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +158,29 @@
                 <span class="time">2026-05-06 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/" target="_blank">SpaceX may spend up to $119 billion on ‘Terafab’ chip factory in Texas</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/georgeadaba/swiftdeploy-building-a-self-configuring-devops-engine-with-observability-policy-enforcement--1p7n" target="_blank">SwiftDeploy: Building a Self-Configuring DevOps Engine with Observability, Policy Enforcement &amp; Auditing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.1-Released" target="_blank">Mesa 26.1 Released With Many Improvements For Open-Source Vulkan Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +217,6 @@
                 <span class="time">2026-05-06 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/futhgar/vibration-monitoring-architecture-from-sensor-to-dashboard-26ib" target="_blank">Vibration Monitoring Architecture: From Sensor to Dashboard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/nvidia-nouveau-nvk-may2026" target="_blank">Nouveau vs. NVIDIA R595 Linux Driver For Workstation Graphics Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Musk defends tweets that allegedly tanked Twitter stock before buyout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/06/musk-defends-tweets-that-allegedly-tanked-twitter-stock-before-buyout.html" target="_blank">Musk defends tweets that allegedly tanked Twitter stock before buyout</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-06 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/flock-around-1280x720.jpg" alt="I’m Overjoyed About A Friendslop Game, Finally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +290,6 @@
                 <span class="time">2026-05-06 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQYWPEEJCT88ZM5Y2507CX11/hero-image.jpg" alt="Chrome’s AI Might Be Taking Up a Bunch of Storage, but You Can Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chromes-ai-might-be-taking-up-storage-but-you-can-fix-it?utm_medium=RSS" target="_blank">Chrome’s AI Might Be Taking Up a Bunch of Storage, but You Can Fix It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,13 +313,22 @@
                 <span class="time">2026-05-06 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/aperiodic_table.png" alt="Aperiodic Table" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3242/" target="_blank">Aperiodic Table</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-06 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
