@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-05 23:16:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-06 00:19:00 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, May 05, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3f/live/af9c9120-48da-11f1-ac78-2112837ce2aa.jpg" alt="Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-05 23:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Health/covid-vaccine-gty-gmh-250307_1741368928794_hpMain_4x3t_384.jpg" alt="FDA withdraws publication of COVID, shingles vaccine research findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +97,29 @@
                 <span class="time">2026-05-05 18:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58e/live/d16791c0-48a7-11f1-90e6-350a323e11ac.jpg" alt="No obligation to declare £5m gift, Farage says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8jv8xl17l8o?at_medium=RSS&at_campaign=rss" target="_blank">No obligation to declare £5m gift, Farage says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/" target="_blank">Nuro receives driverless testing permit ahead of Uber robotaxi service launch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa6b743e5215ee65d816ac/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockmamn-Testimony-Business-2273123629.jpg" alt="‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/" target="_blank">‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-05 23:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement" target="_blank">Apple agrees to pay iPhone owners $250 million for not delivering AI Siri</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-05 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/" target="_blank">As crypto cools, a16z crypto raises a $2.2B fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-05 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8fcb7473a4d48b2c52f3f/master/pass/Medication-Abortion-Providers-Say-They're-Not-Pausing-Treatment-Science-2203851948.jpg" alt="Telehealth Abortion Is Still Possible Without Mifepristone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/" target="_blank">Telehealth Abortion Is Still Possible Without Mifepristone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-05 21:05</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Odyssey.jpg?fit=1080%2C495&amp;quality=60&amp;ssl=1" alt="Extended trailer for Christopher Nolan&#x27;s Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/05/extended-trailer-for-christopher-nolans-odyssey.html" target="_blank">Extended trailer for Christopher Nolan&#x27;s Odyssey</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-05 21:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/AC-Nintendo-Switch-1280x720.jpg" alt="Let’s Remember What Some Big Video Game Websites Looked Like In The ’90s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -279,15 +288,6 @@
                 <span class="time">2026-05-05 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQWFYCDEM586ZDXG1C8WYX10/hero-image.jpg" alt="Reddit Is Blocking Its Mobile Site for Some Users, but There&#x27;s a Fix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/reddit-is-blocking-its-mobile-site-but-theres-a-fix?utm_medium=RSS" target="_blank">Reddit Is Blocking Its Mobile Site for Some Users, but There&#x27;s a Fix</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-05 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
