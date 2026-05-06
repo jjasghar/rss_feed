@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 12:30:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-06 13:31:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 12:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss" target="_blank">Lessons from the war: A call for strategic reckoning in West Asia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-06 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-main_1778062974749_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens &#x27;the bombing starts&#x27; if Iran doesn&#x27;t make a deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump threatens &#x27;the bombing starts&#x27; if Iran doesn&#x27;t make a deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-06 11:59</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +103,38 @@
                 <span class="time">2026-05-06 08:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-polansd-poland-wildfires_7240294.jpg?20260506095812" alt="Pilot dies after firefighting &amp;#8204;plane tackling major forest blaze crashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pilot-dies-after-firefighting-8204plane-tackling-major-forest-blaze-crashes-in-poland-13540623" target="_blank">Pilot dies after firefighting &amp;#8204;plane tackling major forest blaze crashes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-06 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links" target="_blank">Google&amp;#8217;s AI search summaries will now quote Reddit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa46512a43b29d6acd64fa/master/pass/My%20List.jpeg" alt="Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/" target="_blank">Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/R2_HERO_SHOT_SLATE_BLUEjpg_2880x1920_t2aluk-500x500.jpg" alt="More than just an SUV? Rivian is working on more R2 variants." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/" target="_blank">More than just an SUV? Rivian is working on more R2 variants.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-06 12:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f8ce688097a4f68c17338d/master/pass/reMarkable%20Paper%20Pure%20top%20art%20052026%20SOURCE%20Nena%20Farrell.jpg" alt="ReMarkable Paper Pure Tablet Review: Back to Basics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -115,46 +147,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on" target="_blank">The Remarkable Paper Pure is the best digital notepad I&amp;#8217;ve ever used</a></span>
-                <span class="feed">The Verge</span>
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/" target="_blank">reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-06 12:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/69fa63f82a43b29d6acd6834/master/pass/Update%20Best%20Webcams%20top%20art%20052026%20SOURCE%20Luke%20Larsen.jpg" alt="Best Webcams (2026): My Honest Take After Testing the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-webcams/" target="_blank">Best Webcams (2026): My Honest Take After Testing the Best</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa3b8945ac5531ef804e6d/master/pass/Review%20Focal%20Mu-So%20top%20art%20052026%20SOURCE%20Audio%20Advice.jpg" alt="Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/focal-muso-hekla/" target="_blank">Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 10:30</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features" target="_blank">Chrome’s AI features may be hogging 4GB of your computer storage</a></span>
+                <span class="title"><a href="https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on" target="_blank">The Remarkable Paper Pure is the best digital notepad I&amp;#8217;ve ever used</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2026-05-06 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/" target="_blank">Peter Sarlin’s QuTwo reaches $380M valuation in angel round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 06:47</span>
+                <span class="time">2026-05-06 12:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fw%3D1000%26h%3D400%26fit%3Dcrop" alt="Six Months of Growth: My B.Tech Journey Through Python, AI, Full Stack Development &amp; ECE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harshaabhi/six-months-of-growth-my-btech-journey-through-python-ai-full-stack-development-ece-16go" target="_blank">Six Months of Growth: My B.Tech Journey Through Python, AI, Full Stack Development &amp; ECE</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-SC-SDK" target="_blank">Vulkan SC SDK Released For Safety-Critical Graphics / Compute</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 13:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4sxviqlta1sxv7zinwi.png" alt="Self-Hosted Vessel Email Alerts with AWS Lambda and SES" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://red-squares.cian.lol/" target="_blank">Show HN: Red Squares – GitHub outages as contributions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-06 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/three-weeks-to-go-a-sneak-peek-of-the-ubuntu-summit-26-04-experience" target="_blank">Three weeks to go: A sneak peek of the Ubuntu Summit 26.04 experience</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-05-06 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/kubernetes-monitoring-helm/en/headerimage/generatedHeaderImage-1777406799196.jpg" alt="Grafana&#x27;s Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana&#x27;s Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-06 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335279/copy-fail-linux-exploit" target="_blank">Should You Be Worried About Copy Fail Linux Exploitation?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-06 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ruslanaverin/taryan-towers-kiyiv-dokhidnist-oriendi-86-147-na-rinku-z-voiennim-diskontom-56jh" target="_blank">Taryan Towers, Київ: дохідність оренди 8.6%–14.7% на ринку з воєнним дисконтом</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 05:51</span>
             </div>
         </div>
 </div>
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
