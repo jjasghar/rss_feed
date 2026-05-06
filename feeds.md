@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 11:31:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-06 12:30:22 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 11:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 12:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss" target="_blank">Lessons from the war: A call for strategic reckoning in West Asia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 12:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/hormuz-main_1778062974749_hpMain_4x3t_384.jpg" alt="Iran live updates: Pakistan PM thanks Trump for pausing commercial ship escorts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +98,29 @@
                 <span class="time">2026-05-06 08:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine" target="_blank">Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-06 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f8ce688097a4f68c17338d/master/pass/reMarkable%20Paper%20Pure%20top%20art%20052026%20SOURCE%20Nena%20Farrell.jpg" alt="ReMarkable Paper Pure Tablet Review: Back to Basics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/remarkable-paper-pure/" target="_blank">ReMarkable Paper Pure Tablet Review: Back to Basics</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on" target="_blank">The Remarkable Paper Pure is the best digital notepad I&amp;#8217;ve ever used</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fa63f82a43b29d6acd6834/master/pass/Update%20Best%20Webcams%20top%20art%20052026%20SOURCE%20Luke%20Larsen.jpg" alt="Best Webcams (2026): My Honest Take After Testing the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +157,20 @@
                 <span class="time">2026-05-06 06:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/" target="_blank">Nuro receives driverless testing permit ahead of Uber robotaxi service launch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa6b743e5215ee65d816ac/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockmamn-Testimony-Business-2273123629.jpg" alt="‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/" target="_blank">‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-05 23:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4sxviqlta1sxv7zinwi.png" alt="Self-Hosted Vessel Email Alerts with AWS Lambda and SES" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vessel_api/self-hosted-vessel-email-alerts-with-aws-lambda-and-ses-dh9" target="_blank">Self-Hosted Vessel Email Alerts with AWS Lambda and SES</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 12:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/ai-first-practices/en/mediumimage/medium-1777371216610.jpeg" alt="Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,13 +216,18 @@
                 <span class="time">2026-05-06 05:51</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k" target="_blank">The SSR State Management Trap: defineStore vs defineContextStore</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 04:04</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html" target="_blank">Rowhammer Attack Against NVIDIA Chips</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-06 10:36</span>
             </div>
         </div>
 </div>
@@ -229,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-05 22:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Odyssey.jpg?fit=1080%2C495&amp;quality=60&amp;ssl=1" alt="Extended trailer for Christopher Nolan&#x27;s Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +289,6 @@
                 <span class="time">2026-05-05 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/titanic-e1778002512831.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Stunning new scans reveal RMS Titanic debris field in eerie detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/05/stunning-new-scans-reveal-rms-titanic-debris-field-in-eerie-detail.html" target="_blank">Stunning new scans reveal RMS Titanic debris field in eerie detail</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-05 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
