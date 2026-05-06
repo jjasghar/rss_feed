@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 17:29:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 18:28:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 18:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/g-s1-120455/republicans-trump-ballroom-billion" target="_blank">Republicans want to add $1 billion for Trump&#x27;s ballroom security to ICE funding plan</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 18:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Foreign Office &#x27;working urgently&#x27; to help Britons on virus-hit cruise get home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +95,29 @@
                 <span class="time">2026-05-06 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-main_1778062974749_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump threatens &#x27;the bombing starts&#x27; if Iran doesn&#x27;t make a deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump threatens &#x27;the bombing starts&#x27; if Iran doesn&#x27;t make a deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-06 11:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/" target="_blank">How Elon Musk left OpenAI, according to Greg Brockman</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage" target="_blank">What we’re hearing about the new homepage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,6 +137,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg" alt="Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/" target="_blank">Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-06 17:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/69fb5209385c877c8a520d3e/master/pass/GettyImages-2150494902.jpg" alt="I Am Begging AI Companies to Stop Naming Features After Human Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,38 +154,29 @@
                 <span class="time">2026-05-06 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/" target="_blank">Chrome on Android now supports approximate instead of precise location sharing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg" alt="Hackers Hate AI Slop Even More Than You Do" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/" target="_blank">Hackers Hate AI Slop Even More Than You Do</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/" target="_blank">Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 15:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kamskans/build-an-intent-based-linkedin-outreach-system-in-an-afternoon-d95" target="_blank">Build an Intent-Based LinkedIn Outreach System in an Afternoon</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957625&w=600" alt="Designing Agentic Systems Like Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-agentic-systems-like-distributed-systems" target="_blank">Designing Agentic Systems Like Distributed Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-06 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +213,6 @@
                 <span class="time">2026-05-06 15:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn9kf3wbrtswirem1mh1u.png" alt="I built &#x27;dfxpy&#x27; to reduce repetitive Pandas + ML preprocessing workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sayantanpatra/i-built-dfxpy-to-reduce-repetitive-pandas-ml-preprocessing-workflows-142i" target="_blank">I built &#x27;dfxpy&#x27; to reduce repetitive Pandas + ML preprocessing workflows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foblpm179t89ur731umna.png" alt="Unions: delving into unsafe Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/milakyr/unions-delving-into-unsafe-rust-5fne" target="_blank">Unions: delving into unsafe Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQZ1M6V08Y69CE1GXQFH1RDV/hero-image.jpg" alt="You Should Still Fact-Check the &#x27;Expert Advice&#x27; in Google&#x27;s AI Summaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-should-still-fact-check-expert-advice-in-googles-ai-summaries?utm_medium=RSS" target="_blank">You Should Still Fact-Check the &#x27;Expert Advice&#x27; in Google&#x27;s AI Summaries</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-06 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQWC0N7ZW7VCFJ1BSSVT8YQK/hero-image.jpg" alt="15 Shows Like &#x27;Widow&#x27;s Bay&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +286,6 @@
                 <span class="time">2026-05-05 22:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/12/The-Odyssey.jpg?fit=1080%2C495&amp;quality=60&amp;ssl=1" alt="Extended trailer for Christopher Nolan&#x27;s Odyssey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/05/extended-trailer-for-christopher-nolans-odyssey.html" target="_blank">Extended trailer for Christopher Nolan&#x27;s Odyssey</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-05 21:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
