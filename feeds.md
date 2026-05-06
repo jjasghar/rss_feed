@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 15:43:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-06 16:29:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 15:43 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 16:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -94,12 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/hormuz-main_1778062974749_hpMain_4x3t_384.jpg" alt="Iran live updates: Pakistan PM thanks Trump for pausing commercial ship escorts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778066733087_tdy_news_7a_engel_iran_trump_suspends_operation_260506_S3_1920x1080-h7s9js.jpg" alt="Trump Suspends Military Escorts in Hormuz 1 Day Into Operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Pakistan PM thanks Trump for pausing commercial ship escorts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-06 10:26</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-suspends-military-escorts-in-hormuz-1-day-into-operation-262828613982" target="_blank">Trump Suspends Military Escorts in Hormuz 1 Day Into Operation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-06 11:25</span>
             </div>
         </div>
 </div>
@@ -107,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/" target="_blank">Chrome on Android now supports approximate instead of precise location sharing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/master/pass/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg" alt="Hackers Hate AI Slop Even More Than You Do" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/" target="_blank">Hackers Hate AI Slop Even More Than You Do</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +155,38 @@
                 <span class="time">2026-05-06 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links" target="_blank">Google&amp;#8217;s AI search summaries will now quote Reddit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa46512a43b29d6acd64fa/master/pass/My%20List.jpeg" alt="Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/" target="_blank">Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/futhgar/vibration-monitoring-architecture-from-sensor-to-dashboard-26ib" target="_blank">Vibration Monitoring Architecture: From Sensor to Dashboard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18961250&w=600" alt="Cost-Aware Routing for RAG: Fetch Less, Spend Less, Answer Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cost-aware-routing-for-rag-fetch-less-spend-less-a" target="_blank">Cost-Aware Routing for RAG: Fetch Less, Spend Less, Answer Better</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-06 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license" target="_blank">Valve releases Steam Controller CAD files under Creative Commons license</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-06 15:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn9kf3wbrtswirem1mh1u.png" alt="I built &#x27;dfxpy&#x27; to reduce repetitive Pandas + ML preprocessing workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +214,6 @@
                 <span class="time">2026-05-06 13:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fw%3D1000%26h%3D400%26fit%3Dcrop" alt="Six Months of Growth: My B.Tech Journey Through Python, AI, Full Stack Development &amp; ECE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harshaabhi/six-months-of-growth-my-btech-journey-through-python-ai-full-stack-development-ece-16go" target="_blank">Six Months of Growth: My B.Tech Journey Through Python, AI, Full Stack Development &amp; ECE</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-SC-SDK" target="_blank">Vulkan SC SDK Released For Safety-Critical Graphics / Compute</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-06 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4sxviqlta1sxv7zinwi.png" alt="Self-Hosted Vessel Email Alerts with AWS Lambda and SES" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vessel_api/self-hosted-vessel-email-alerts-with-aws-lambda-and-ses-dh9" target="_blank">Self-Hosted Vessel Email Alerts with AWS Lambda and SES</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Neverness-to-Everness-official-artwork-Perfect-World-Games-1280x720.jpg" alt="Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ironmouse-neverness-to-everness-ai-gacha-game-sponsorship-2000693603" target="_blank">Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-06 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQYWPEEJCT88ZM5Y2507CX11/hero-image.jpg" alt="Chrome’s AI Might Be Taking Up a Bunch of Storage, but You Can Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chromes-ai-might-be-taking-up-storage-but-you-can-fix-it?utm_medium=RSS" target="_blank">Chrome’s AI Might Be Taking Up a Bunch of Storage, but You Can Fix It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/06/ed191ded148b37c011d45a9a83de3ed0-1280x720.jpg" alt="Diablo 4′s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +287,6 @@
                 <span class="time">2026-05-05 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/sukia.jpg?fit=1200%2C950&amp;quality=60&amp;ssl=1" alt="Why the &quot;It&#x27;s not X, it&#x27;s Y&quot; AI tic backfires on its writers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/05/why-the-its-not-x-its-y-ai-tic-backfires-on-its-writers.html" target="_blank">Why the &quot;It&#x27;s not X, it&#x27;s Y&quot; AI tic backfires on its writers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-05 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQWR5T509CX0Q0F6A87X0205/hero-image.png" alt="The Top 10 TV Series Right Now, According to Streaming Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-top-10-streaming-series-april-2026?utm_medium=RSS" target="_blank">The Top 10 TV Series Right Now, According to Streaming Data</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-05 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 15:43 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 39 | 📸 With Images: 260 |
+        🔄 Last Updated: 16:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
