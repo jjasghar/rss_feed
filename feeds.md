@@ -1,29 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 01:31:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 03:00:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 01:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -160,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-x86-64-v3-Undecided" target="_blank">Fedora Yet To Decide On x86_64-v3 Packages For Fedora Linux 45</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vystartasv/6-new-moats-for-ai-agent-infrastructure-trust-score-deployment-sla-identity-compliance-as-code-ikl" target="_blank">6 New Moats for AI Agent Infrastructure — Trust Score, Deployment, SLA, Identity, Compliance-as-Code</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,15 +207,6 @@
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-Descriptor-Heap-Merge" target="_blank">Intel&#x27;s Vulkan Linux Driver Lands Experimental Support For Descriptor Heaps</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-05-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18961192&w=600" alt="Beyond Conversation: Mastering Context with Claude Code Skills and Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mastering-context-with-claude-code-skills-and-agents" target="_blank">Beyond Conversation: Mastering Context with Claude Code Skills and Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-05 20:00</span>
             </div>
         </div>
@@ -303,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 01:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
