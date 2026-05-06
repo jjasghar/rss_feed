@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 05:59:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 07:09:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 05:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 07:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine" target="_blank">Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg" alt="To stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,30 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg" alt="Cruise ship with hantavirus outbreak to sail to Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Cruise ship with hantavirus outbreak to sail to Canary Islands</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-06 00:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss" target="_blank">Iran war live: Trump says Hormuz operation paused amid US, Tehran talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3f/live/af9c9120-48da-11f1-ac78-2112837ce2aa.jpg" alt="Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-05 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-7-gty-gmh-260507_1777918914531_hpMain_4x3t_384.jpg" alt="Iran live update: Trump says &#x27;Project Freedom&#x27; in Strait of Hormuz paused" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live update: Trump says &#x27;Project Freedom&#x27; in Strait of Hormuz paused</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 23:27</span>
             </div>
         </div>
 </div>
@@ -162,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/kubernetes-monitoring-helm/en/headerimage/generatedHeaderImage-1777406799196.jpg" alt="Grafana&#x27;s Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana&#x27;s Kubernetes Monitoring Helm Chart v4 Brings Multiple Fixes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-06 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335279/copy-fail-linux-exploit" target="_blank">Should You Be Worried About Copy Fail Linux Exploitation?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-06 06:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-45-x86-64-v3-Undecided" target="_blank">Fedora Yet To Decide On x86_64-v3 Packages For Fedora Linux 45</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-06 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vystartasv/6-new-moats-for-ai-agent-infrastructure-trust-score-deployment-sla-identity-compliance-as-code-ikl" target="_blank">6 New Moats for AI Agent Infrastructure — Trust Score, Deployment, SLA, Identity, Compliance-as-Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkcnyhtcjjv62grfm4aw5.png" alt="How I&#x27;ve optimized chunk generation in my Minecraft clone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mainr/how-ive-optimized-chunk-generation-in-my-minecraft-clone-i78" target="_blank">How I&#x27;ve optimized chunk generation in my Minecraft clone</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 21:08</span>
             </div>
         </div>
 </div>
@@ -307,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 05:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 07:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
