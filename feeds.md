@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 20:28:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-05-06 21:21:33 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 21:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship early</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-06 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-16-rt-gmh-260506_1778094789915_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says no deadline for Iran to make a deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says no deadline for Iran to make a deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-06 19:46</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +95,6 @@
                 <span class="time">2026-05-06 16:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga" target="_blank">How Silicon Valley&#x27;s new tech right has profited by aligning with MAGA</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-06 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,10 +103,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review" target="_blank">How David Sacks crashed and burned in the White House</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/" target="_blank">Microsoft’s AI data center push is colliding with its clean power goals</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-06 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa657f143c6550fa96477c/master/pass/InnerLoop-Newsletter-Trump-Is-Hoping-Iran-Breaks-Before-He-Does-Politics.jpg" alt="Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/" target="_blank">Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 19:32</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/" target="_blank">Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-06 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/" target="_blank">How Elon Musk left OpenAI, according to Greg Brockman</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage" target="_blank">What we’re hearing about the new homepage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-06 18:05</span>
             </div>
         </div>
 </div>
@@ -202,19 +198,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/" target="_blank">How we replaced NGINX-Ingress at Stack Overflow</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-06 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kamskans/build-an-intent-based-linkedin-outreach-system-in-an-afternoon-d95" target="_blank">Build an Intent-Based LinkedIn Outreach System in an Afternoon</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957625&w=600" alt="Designing Agentic Systems Like Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-agentic-systems-like-distributed-systems" target="_blank">Designing Agentic Systems Like Distributed Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-06 18:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQZD3MM3QKJ0RD82KDJJGWJE/hero-image.png" alt="The Portable JBL Flip 7 Speaker Is 43% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-deal-may-2026?utm_medium=RSS" target="_blank">The Portable JBL Flip 7 Speaker Is 43% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Musk defends tweets that allegedly tanked Twitter stock before buyout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +286,6 @@
                 <span class="time">2026-05-06 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Neverness-to-Everness-official-artwork-Perfect-World-Games-1280x720.jpg" alt="Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ironmouse-neverness-to-everness-ai-gacha-game-sponsorship-2000693603" target="_blank">Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-06 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
