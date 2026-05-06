@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 10:37:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 11:31:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 10:37 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 11:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hormuz-main_1778062974749_hpMain_4x3t_384.jpg" alt="Iran live updates: Pakistan PM thanks Trump for pausing commercial ship escorts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Pakistan PM thanks Trump for pausing commercial ship escorts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-06 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss" target="_blank">Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 10:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +89,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-polansd-poland-wildfires_7240294.jpg?20260506095812" alt="Pilot dies after firefighting &amp;#8204;plane tackling major forest blaze crashes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pilot-dies-after-firefighting-8204plane-tackling-major-forest-blaze-crashes-in-poland-13540623" target="_blank">Pilot dies after firefighting &amp;#8204;plane tackling major forest blaze crashes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-06 08:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -75,38 +106,20 @@
                 <span class="time">2026-05-06 06:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg" alt="To stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss" target="_blank">To stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-trump100-pod-trump100pod_7240147.jpg?20260506050347" alt="Has Trump just made another mess in the Middle East?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/has-trump-just-made-another-mess-in-the-middle-east-13540574" target="_blank">Has Trump just made another mess in the Middle East?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-06 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778032096047_now_brk_kornacki_recap_260505_S3_1920x1080-xq2v0a.jpg" alt="Steve Kornacki breaks down primary races in Ohio, Indiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/steve-kornacki-breaks-down-primary-races-in-ohio-indiana-262817349992" target="_blank">Steve Kornacki breaks down primary races in Ohio, Indiana</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-06 01:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa63f82a43b29d6acd6834/master/pass/Update%20Best%20Webcams%20top%20art%20052026%20SOURCE%20Luke%20Larsen.jpg" alt="Best Webcams (2026): My Honest Take After Testing the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-webcams/" target="_blank">Best Webcams (2026): My Honest Take After Testing the Best</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 11:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fa3b8945ac5531ef804e6d/master/pass/Review%20Focal%20Mu-So%20top%20art%20052026%20SOURCE%20Audio%20Advice.jpg" alt="Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +165,20 @@
                 <span class="time">2026-05-05 23:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/" target="_blank">Bumble’s paying users are slipping as it bets on an overhaul later this year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-05 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-first-practices/en/mediumimage/medium-1777371216610.jpeg" alt="Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-06 11:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,29 +222,6 @@
                 <span class="title"><a href="https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k" target="_blank">The SSR State Management Trap: defineStore vs defineContextStore</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/agents-stripe-projects/" target="_blank">Agents can now create Cloudflare accounts, buy domains, and deploy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-06 03:10</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/darksword-malware.html" target="_blank">DarkSword Malware</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-05 10:42</span>
             </div>
         </div>
 </div>
@@ -321,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:37 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
