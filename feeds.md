@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 14:50:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 15:43:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 14:50 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga" target="_blank">How Silicon Valley&#x27;s new tech right has profited by aligning with MAGA</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss" target="_blank">Four killed in post-election violence in India’s West Bengal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 15:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dd1/live/df595320-493a-11f1-861c-270dbba6d6ae.jpg" alt="Oil prices drop and stock markets rise after reports of deal to end Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +102,29 @@
                 <span class="time">2026-05-06 10:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss" target="_blank">Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/5/6/colombia-tourist-jewel-plagued-by-violence?traffic_source=rss" target="_blank">Colombia tourist jewel plagued by violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 09:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/" target="_blank">Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/54362872324_50b58cd770_o-500x500.jpg" alt="Here&#x27;s what has to happen if NASA wants to land on the Moon every month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/" target="_blank">Here&#x27;s what has to happen if NASA wants to land on the Moon every month</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-06 14:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/saddoctor-500x500.jpg" alt="Infants are bleeding out after parents decline vitamin K shots given at birth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +161,20 @@
                 <span class="time">2026-05-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/R2_HERO_SHOT_SLATE_BLUEjpg_2880x1920_t2aluk-500x500.jpg" alt="More than just an SUV? Rivian is working on more R2 variants." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/" target="_blank">More than just an SUV? Rivian is working on more R2 variants.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-06 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8ce688097a4f68c17338d/master/pass/reMarkable%20Paper%20Pure%20top%20art%20052026%20SOURCE%20Nena%20Farrell.jpg" alt="ReMarkable Paper Pure Tablet Review: Back to Basics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/remarkable-paper-pure/" target="_blank">ReMarkable Paper Pure Tablet Review: Back to Basics</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn9kf3wbrtswirem1mh1u.png" alt="I built &#x27;dfxpy&#x27; to reduce repetitive Pandas + ML preprocessing workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sayantanpatra/i-built-dfxpy-to-reduce-repetitive-pandas-ml-preprocessing-workflows-142i" target="_blank">I built &#x27;dfxpy&#x27; to reduce repetitive Pandas + ML preprocessing workflows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 15:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foblpm179t89ur731umna.png" alt="Unions: delving into unsafe Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/milakyr/unions-delving-into-unsafe-rust-5fne" target="_blank">Unions: delving into unsafe Rust</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ANV-Vulkan-DGC" target="_blank">Intel&#x27;s Vulkan Linux Driver Now Supports Device Generated Commands &quot;DGC&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 13:53</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +220,6 @@
                 <span class="time">2026-05-06 12:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-first-practices/en/mediumimage/medium-1777371216610.jpeg" alt="Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-first-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI-First Software Delivery: Balancing Innovation with Proven Practices</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-06 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://red-squares.cian.lol/" target="_blank">Show HN: Red Squares – GitHub outages as contributions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-06 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/06/ed191ded148b37c011d45a9a83de3ed0-1280x720.jpg" alt="Diablo 4′s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/diablo-4-secret-cow-level-cow-god-2000693580" target="_blank">Diablo 4′s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-06 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,20 +293,20 @@
                 <span class="time">2026-05-05 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/bonniebear1-1-1280x720.jpg" alt="I Love This Frog-Based Musical Deckbuilder Made By Theater Kids, For Theater Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bonnie-bear-saves-frogtime-frog-based-strategy-game-musical-indie-2000693294" target="_blank">I Love This Frog-Based Musical Deckbuilder Made By Theater Kids, For Theater Kids</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-05 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1777833289-20260506-edit.png" alt="Saturday Morning Breakfast Cereal - Shenanigans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/shenanigans" target="_blank">Saturday Morning Breakfast Cereal - Shenanigans</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-06 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -302,22 +316,13 @@
                 <span class="time">2026-05-06 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777833239-20260505-edit.png" alt="Saturday Morning Breakfast Cereal - Connection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/connection-2" target="_blank">Saturday Morning Breakfast Cereal - Connection</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:50 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
