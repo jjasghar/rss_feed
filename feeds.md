@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 04:22:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 05:59:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 04:22 UTC</div>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 05:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg" alt="To stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss" target="_blank">To stay or risk the &#x27;Road of Death&#x27; - Ukrainian civilians trapped in frontline city</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-06 04:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/05/1920x1080/skynews-trump100-pod-trump100pod_7240147.jpg?20260506050347" alt="Has Trump just made another mess in the Middle East?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live update: Trump says &#x27;Project Freedom&#x27; in Strait of Hormuz paused</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-05 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/covid-vaccine-gty-gmh-250307_1741368928794_hpMain_4x3t_384.jpg" alt="FDA withdraws publication of COVID, shingles vaccine research findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/fda-blocked-publication-covid-shingles-vaccine-research-findings/story?id=132687938" target="_blank">FDA withdraws publication of COVID, shingles vaccine research findings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 23:06</span>
             </div>
         </div>
 </div>
@@ -168,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ruslanaverin/taryan-towers-kiyiv-dokhidnist-oriendi-86-147-na-rinku-z-voiennim-diskontom-56jh" target="_blank">Taryan Towers, Київ: дохідність оренди 8.6%–14.7% на ринку з воєнним дисконтом</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 05:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/childrentime/the-ssr-state-management-trap-definestore-vs-definecontextstore-i9k" target="_blank">The SSR State Management Trap: defineStore vs defineContextStore</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 04:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/agents-stripe-projects/" target="_blank">Agents can now create Cloudflare accounts, buy domains, and deploy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-06 03:10</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/mainr/how-ive-optimized-chunk-generation-in-my-minecraft-clone-i78" target="_blank">How I&#x27;ve optimized chunk generation in my Minecraft clone</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-05 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dnssec-analyzer.verisignlabs.com/nic.de" target="_blank">.de TLD offline due to DNSSEC?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-05 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folevzfnpfervpl4egld0.jpg" alt="Apps That See: Bringing Vision AI to Your Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1" target="_blank">Apps That See: Bringing Vision AI to Your Projects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-05 20:12</span>
             </div>
         </div>
 </div>
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 04:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 05:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
