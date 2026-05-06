@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 21:21:33 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-05-06 22:14:20 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 21:21 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg" alt="Hantavirus-hit cruise ship leaves Cape Verde after three evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss" target="_blank">Hantavirus-hit cruise ship leaves Cape Verde after three evacuated</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-06 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +101,20 @@
                 <span class="time">2026-05-06 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Foreign Office &#x27;working urgently&#x27; to help Britons on virus-hit cruise get home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Foreign Office &#x27;working urgently&#x27; to help Britons on virus-hit cruise get home</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fb7bd8844a933bdeb7fffe/master/pass/GettyImages-166419623.jpg" alt="A Kid With a Fake Mustache Tricked an Online Age-Verification Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/" target="_blank">A Kid With a Fake Mustache Tricked an Online Age-Verification Tool</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,29 @@
                 <span class="time">2026-05-06 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb7a153d99bccc43e550bb/master/pass/Anthropic-SpaceX-Sign-Compute-Deal-Business-AP-25128659409640.jpg" alt="Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/" target="_blank">Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43" target="_blank">Lessons from Log4Shell: Building a CRA-Ready Log4j</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-06 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/" target="_blank">Validating agentic behavior when “correct” isn’t deterministic</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-06 21:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18961267&w=600" alt="When Retries Become a Denial-of-Wallet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/retries-are-a-denial-of-wallet-attack" target="_blank">When Retries Become a Denial-of-Wallet</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ampscript-ninja/how-to-limit-the-number-of-words-or-characters-shown-with-sfmcs-ampscript-3jk2" target="_blank">How To Limit The Number Of Words Or Characters Shown With SFMC&#x27;s AMPscript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18961262&w=600" alt="ARC: The Architecture for Reasoning Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-swiss-cheese-model-for-ai-agents" target="_blank">ARC: The Architecture for Reasoning Control</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/" target="_blank">How we replaced NGINX-Ingress at Stack Overflow</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-06 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kamskans/build-an-intent-based-linkedin-outreach-system-in-an-afternoon-d95" target="_blank">Build an Intent-Based LinkedIn Outreach System in an Afternoon</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 18:21</span>
             </div>
         </div>
 </div>
@@ -232,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/star-fox-2.jpg" alt="Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-announces-surprise-remake-of-star-fox-64-for-switch-2-and-it-looks-very-cool-2000693718" target="_blank">Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-06 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQSF1F6SDFDJR3Q6HANXVN6T/hero-image.jpg" alt="10 Hacks Every DuckDuckGo User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-duckduckgo-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every DuckDuckGo User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-06 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQZD3MM3QKJ0RD82KDJJGWJE/hero-image.png" alt="The Portable JBL Flip 7 Speaker Is 43% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/samsung-odyssey-g9-gaming-monitor-deal?utm_medium=RSS" target="_blank">One of the Best Budget Ultrawide Gaming Monitors Is on Sale for $700</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-06 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQZ1M6V08Y69CE1GXQFH1RDV/hero-image.jpg" alt="You Should Still Fact-Check the &#x27;Expert Advice&#x27; in Google&#x27;s AI Summaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-should-still-fact-check-expert-advice-in-googles-ai-summaries?utm_medium=RSS" target="_blank">You Should Still Fact-Check the &#x27;Expert Advice&#x27; in Google&#x27;s AI Summaries</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQWC0N7ZW7VCFJ1BSSVT8YQK/hero-image.jpg" alt="15 Shows Like &#x27;Widow&#x27;s Bay&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-shows-like-widows-bay?utm_medium=RSS" target="_blank">15 Shows Like &#x27;Widow&#x27;s Bay&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 17:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
