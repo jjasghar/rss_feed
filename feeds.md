@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 00:19:00 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-06 01:31:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 01:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +40,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor" target="_blank">Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss" target="_blank">Iran war live: Trump says Hormuz operation paused amid US, Tehran talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3f/live/af9c9120-48da-11f1-ac78-2112837ce2aa.jpg" alt="Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says &#x27;Project Freedom&#x27; to be paused &#x27;for a short period of time&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-05 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-7-gty-gmh-260507_1777918914531_hpMain_4x3t_384.jpg" alt="Iran live update: Trump says &#x27;Project Freedom&#x27; in Strait of Hormuz paused" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live update: Trump says &#x27;Project Freedom&#x27; in Strait of Hormuz paused</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-05 23:27</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit" target="_blank">Pennsylvania sues Character.AI over claims chatbot posed as doctor</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-05 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/covid-vaccine-gty-gmh-250307_1741368928794_hpMain_4x3t_384.jpg" alt="FDA blocked publication of COVID, shingles vaccine research findings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/fda-blocked-publication-covid-shingles-vaccine-research-findings/story?id=132687938" target="_blank">FDA blocked publication of COVID, shingles vaccine research findings</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-05 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/g-s1-119984/midwife-midwives-childbirth" target="_blank">Midwives saved his mom&#x27;s life -- and inspired him to pursue the profession</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-05 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss" target="_blank">Sudan recalls Ethiopia ambassador after strikes on Khartoum</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-05 18:57</span>
             </div>
         </div>
 </div>
@@ -307,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 00:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 01:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
