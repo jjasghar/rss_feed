@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 07:09:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-06 09:44:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 07:09 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 06, 2026 - 09:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/5/6/colombia-tourist-jewel-plagued-by-violence?traffic_source=rss" target="_blank">Colombia tourist jewel plagued by violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-06 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260506_1778057501369_hpMain_4x3t_384.jpg" alt="Iran live update: Pakistan PM thanks Trump for pausing &#x27;Project Freedom&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live update: Pakistan PM thanks Trump for pausing &#x27;Project Freedom&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-06 08:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor" target="_blank">Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-06 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg" alt="Cruise ship with hantavirus outbreak to sail to Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1306/live/0c47fc10-490e-11f1-bd52-e755d604ece4.jpg" alt="Campaigning sprint finish ahead of elections around Britain tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss" target="_blank">Cruise ship with hantavirus outbreak to sail to Canary Islands</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss" target="_blank">Campaigning sprint finish ahead of elections around Britain tomorrow</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss" target="_blank">Iran war live: Trump says Hormuz operation paused amid US, Tehran talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 00:00</span>
+                <span class="time">2026-05-06 00:15</span>
             </div>
         </div>
 </div>
@@ -109,6 +100,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/" target="_blank">Peter Sarlin’s QuTwo reaches $380M valuation in angel round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 06:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade" target="_blank">Google Home&amp;#8217;s Gemini AI can handle more complicated requests</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-05 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-500x500.jpg" alt="Silicon Valley bets $200M on AI data centers floating in the ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/" target="_blank">Silicon Valley bets $200M on AI data centers floating in the ocean</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-05 21:41</span>
             </div>
         </div>
 </div>
@@ -314,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 07:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 09:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
