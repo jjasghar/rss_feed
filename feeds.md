@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-06 23:14:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 00:18:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, May 06, 2026 - 23:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-gmh-251126_1764193635060_hpMain_4x3t_384.jpg" alt="&#x27;Time to say goodbye,&#x27; Epstein allegedly wrote in purported suicide note" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/time-goodbye-epstein-allegedly-wrote-newly-released-purported/story?id=132725841" target="_blank">&#x27;Time to say goodbye,&#x27; Epstein allegedly wrote in purported suicide note</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg" alt="Hantavirus-hit cruise ship leaves Cape Verde after three evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +102,29 @@
                 <span class="time">2026-05-06 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5704317/genetic-embryo-screening" target="_blank">These companies help parents try to pick their babies&#x27; traits. Experts are wary</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-06 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fbb0898d34a433dee8f300/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg" alt="Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/" target="_blank">Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-06 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/" target="_blank">A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-06 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2211835635-500x500.jpg" alt="SpaceX is starting to move on from the world&#x27;s most successful rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +161,20 @@
                 <span class="time">2026-05-06 20:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/" target="_blank">Microsoft’s AI data center push is colliding with its clean power goals</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa657f143c6550fa96477c/master/pass/InnerLoop-Newsletter-Trump-Is-Hoping-Iran-Breaks-Before-He-Does-Politics.jpg" alt="Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/" target="_blank">Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.9-Released" target="_blank">D7VK 1.9 Brings Some Hefty Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-06 23:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsd6np72xkctozxz90nnw.png" alt="[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +220,6 @@
                 <span class="time">2026-05-06 21:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/georgeadaba/swiftdeploy-building-a-self-configuring-devops-engine-with-observability-policy-enforcement--1p7n" target="_blank">SwiftDeploy: Building a Self-Configuring DevOps Engine with Observability, Policy Enforcement &amp; Auditing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/rice-cooker.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How a banned rice cooker cost a Welsh university £264,442" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/06/how-a-banned-rice-cooker-cost-a-welsh-university-264442.html" target="_blank">How a banned rice cooker cost a Welsh university £264,442</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-06 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQ7NQHP9KZEBZYWKHMXTHY8T/hero-image.png" alt="This 10th Gen iPad Is on Sale for $240 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/06/musk-defends-tweets-that-allegedly-tanked-twitter-stock-before-buyout.html" target="_blank">Musk defends tweets that allegedly tanked Twitter stock before buyout</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-06 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/flock-around-1280x720.jpg" alt="I’m Overjoyed About A Friendslop Game, Finally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-game-friendslop-flock-around-birding-birdwatching-like-pokemon-2000693655" target="_blank">I’m Overjoyed About A Friendslop Game, Finally</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-06 19:06</span>
             </div>
         </div>
 </div>
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
