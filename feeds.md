@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 00:18:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 01:32:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 00:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/iran-1-rt-gmh-260506_1778071801591_hpMain_4x3t_384.jpg" alt="What to know about potential US-Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/potential-us-iran-agreement/story?id=132727248" target="_blank">What to know about potential US-Iran agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 01:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/jeffrey-epstein-gty-gmh-251126_1764193635060_hpMain_4x3t_384.jpg" alt="&#x27;Time to say goodbye,&#x27; Epstein allegedly wrote in purported suicide note" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/time-goodbye-epstein-allegedly-wrote-newly-released-purported/story?id=132725841" target="_blank">&#x27;Time to say goodbye,&#x27; Epstein allegedly wrote in purported suicide note</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-07 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778108670351_nn_gha_trump_optimistic_about_potential_deal_with_iran_260506_S3_1920x1080-h974hc.jpg" alt="Trump optimistic about potential deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-optimistic-about-potential-deal-with-iran-262876229967" target="_blank">Trump optimistic about potential deal with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-06 23:04</span>
             </div>
         </div>
 <div class="story">
@@ -67,39 +83,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote" target="_blank">Antisemitism is a campaign issue in UK regional vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-06 20:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship early</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-06 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-pussy-riot-femen_7240914.jpg?20260506211155" alt="Pussy Riot stage protest at Venice art festival over Russian involvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/punk-band-pussy-riot-stage-protest-at-venice-biennales-russian-pavilion-13540878" target="_blank">Pussy Riot stage protest at Venice art festival over Russian involvement</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-16-rt-gmh-260506_1778094789915_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says no deadline for Iran to make a deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says no deadline for Iran to make a deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-06 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss" target="_blank">Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-06 19:43</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-April-2026" target="_blank">Rust-Written Redox OS Sees Improvements For Running On Real Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-07 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.9-Released" target="_blank">D7VK 1.9 Brings Some Hefty Performance Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-06 23:43</span>
@@ -211,15 +218,6 @@
                 <span class="time">2026-05-06 22:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/" target="_blank">Validating agentic behavior when “correct” isn’t deterministic</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-06 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +244,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/06/how-a-banned-rice-cooker-cost-a-welsh-university-264442.html" target="_blank">How a banned rice cooker cost a Welsh university £264,442</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-06 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/fox-mccloud-1280x744.jpg" alt="The Internet Reacts To Star Fox‘s New Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-star-foxs-new-look-2000693733" target="_blank">The Internet Reacts To Star Fox‘s New Look</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-06 23:05</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-deal-may-2026?utm_medium=RSS" target="_blank">The Portable JBL Flip 7 Speaker Is 43% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Musk defends tweets that allegedly tanked Twitter stock before buyout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/06/musk-defends-tweets-that-allegedly-tanked-twitter-stock-before-buyout.html" target="_blank">Musk defends tweets that allegedly tanked Twitter stock before buyout</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-06 19:40</span>
             </div>
         </div>
 </div>
@@ -339,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
