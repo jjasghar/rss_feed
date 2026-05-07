@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 10:42:25 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 11:31:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 10:42 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 11:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets" target="_blank">Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump&#x27;s criticism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Khamenei-DB-260507_1778142569884_hpMain_4x3t_384.jpg" alt="Iran live updates: US waiting for Iran response to possible MoU, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: US waiting for Iran response to possible MoU, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +103,29 @@
                 <span class="time">2026-05-07 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena" target="_blank">About 40 passengers previously left ship hit by Hantavirus at island of St. Helena</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cde/live/99845960-49d7-11f1-9acb-332348f2c41f.png" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 08:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-fix-bad-webcam-lighting/" target="_blank">How I Fixed My Webcam Lighting for Zoom Calls (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-07 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/rendering-1-500x500.png" alt="Former NASA chief takes helm of national security space firm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/" target="_blank">Former NASA chief takes helm of national security space firm</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fb9787b2e25917ff0d3d2b/master/pass/AFK%20Everybody%20Should%20Have%20a%20Pair%20of%20Cheap%20Headphones%20top%20art%20052026%20SOURCE%20Sony.jpg" alt="Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +162,6 @@
                 <span class="time">2026-05-06 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fbb0898d34a433dee8f300/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg" alt="Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/" target="_blank">Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/" target="_blank">A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-06 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +183,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-Faster-WL-SHM" target="_blank">KDE Plasma 6.7 To Provide A Much Better Experience For CPU-Based Rendering</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-07 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/en/headerimage/generatedHeaderImage-1777875585040.jpg" alt="Google Announces GKE Agent Sandbox and Hypercluster at Next &#x27;26, Positioning Kubernetes as AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces GKE Agent Sandbox and Hypercluster at Next &#x27;26, Positioning Kubernetes as AI Agent</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-07 10:06</span>
             </div>
         </div>
 <div class="story">
@@ -208,13 +221,18 @@
                 <span class="time">2026-05-07 07:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yashksaini/dev-log-5-building-a-claude-style-sre-terminal-and-tackling-webrtc-3knp" target="_blank">Dev Log #5 Building a Claude-style SRE terminal and tackling WebRTC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 06:47</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html" target="_blank">Smart Glasses for the Authorities</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-07 11:07</span>
             </div>
         </div>
 </div>
@@ -304,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:42 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
