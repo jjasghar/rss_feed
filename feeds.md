@@ -1,20 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 14:52:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 15:43:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
@@ -22,16 +25,16 @@
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 14:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 15:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120688/china-gives-suspended-death-sentences-to-2-former-defense-ministers-accused-of-bribery" target="_blank">China gives suspended death sentences to 2 ex-defense ministers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2026-05-07 11:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss" target="_blank">Irish footballers and celebrities urge boycott of Israel matches</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale" target="_blank">There’s actually a good deal happening now on the Xbox Series X</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2026-05-07 11:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/rendering-1-500x500.png" alt="Former NASA chief takes helm of national security space firm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/" target="_blank">Former NASA chief takes helm of national security space firm</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012062&w=600" alt="Why AI Forces a Rethink of Everything We Know About Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-challenges-views-on-software-security" target="_blank">Why AI Forces a Rethink of Everything We Know About Software Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-07 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why 1000 != 1000 in Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +222,6 @@
                 <span class="time">2026-05-07 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Elan-Linux-Driver-Removal" target="_blank">Linux Drivers For The AMD Elan SoCs From The 1990s On Track For Retirement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-07 12:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/03/90793ab692b43148363f6df91659f2bc-1280x720.jpg" alt="The Sims 4 Is Finally Ironing Out The Kinks In Its Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-sims-4-finally-tuning-up-its-babies-2000693973" target="_blank">The Sims 4 Is Finally Ironing Out The Kinks In Its Babies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/FineVoice-AI.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Create professional-grade voiceovers with FineVoice AI for under $65" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/07/create-professional-grade-voiceovers-with-finevoice-ai-for-under-65.html" target="_blank">Create professional-grade voiceovers with FineVoice AI for under $65</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/b4f4267062945f9c21fea1bafd675850c85b2c01b27840a938f077092566cc0c-1.jpg" alt="Star Fox Needs Aura And It’s Missing From The New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +295,6 @@
                 <span class="time">2026-05-07 12:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/rice-cooker.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How a banned rice cooker cost a Welsh university £264,442" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/06/how-a-banned-rice-cooker-cost-a-welsh-university-264442.html" target="_blank">How a banned rice cooker cost a Welsh university £264,442</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-06 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/fox-mccloud-1280x744.jpg" alt="The Internet Reacts To Star Fox‘s New Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-star-foxs-new-look-2000693733" target="_blank">The Internet Reacts To Star Fox‘s New Look</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-06 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,22 +309,13 @@
                 <span class="time">2026-05-06 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1777833289-20260506-edit.png" alt="Saturday Morning Breakfast Cereal - Shenanigans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/shenanigans" target="_blank">Saturday Morning Breakfast Cereal - Shenanigans</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:52 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
