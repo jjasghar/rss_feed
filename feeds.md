@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 07:52:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-07 08:50:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 07:52 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 08:50 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena" target="_blank">About 40 passengers previously left ship hit by Hantavirus at island of St. Helena</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cde/live/99845960-49d7-11f1-9acb-332348f2c41f.png" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-07 08:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa8/live/9080e1e0-49e5-11f1-9921-0be54b6c608a.jpg" alt="Hantavirus-hit cruise ship on way to Canary Islands after three evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss" target="_blank">Iran considering US proposal as Trump says war will be &#x27;over quickly&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-07 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee" target="_blank">Secretary Howard Lutnick is questioned by House lawmakers over his Epstein ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 02:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-1-rt-gmh-260506_1778071801591_hpMain_4x3t_384.jpg" alt="What to know about potential US-Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/potential-us-iran-agreement/story?id=132727248" target="_blank">What to know about potential US-Iran agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-07 01:04</span>
             </div>
         </div>
 </div>
@@ -162,6 +169,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michelfaure/29-automations-zapier-make-remplacees-en-quatre-semaines-3o1o" target="_blank">29 automations Zapier + Make remplacées en quatre semaines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335930/ubuntu-twitter-compromised" target="_blank">After Days of DDoS, Now Ubuntu&amp;#x27;s Twitter Account Seems to be Compromised</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-07 07:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/stenberg-curl-verification-trust/en/headerimage/generatedHeaderImage-1777409230642.jpg" alt="Leading Open Source Author Calls for Verification over Trust in Software Supply Chains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Leading Open Source Author Calls for Verification over Trust in Software Supply Chains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-07 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yashksaini/dev-log-5-building-a-claude-style-sre-terminal-and-tackling-webrtc-3knp" target="_blank">Dev Log #5 Building a Claude-style SRE terminal and tackling WebRTC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-07 06:47</span>
@@ -183,33 +217,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335844/tdf-calls-out-euro-office" target="_blank">LibreOffice Questions Whether Euro-Office is Truly Sovereign</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-07 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-April-2026" target="_blank">Rust-Written Redox OS Sees Improvements For Running On Real Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-07 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/D7VK-1.9-Released" target="_blank">D7VK 1.9 Brings Some Hefty Performance Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-06 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsd6np72xkctozxz90nnw.png" alt="[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3" target="_blank">[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 23:03</span>
             </div>
         </div>
 </div>
@@ -313,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:52 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 08:50 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
