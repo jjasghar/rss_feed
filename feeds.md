@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 13:31:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 14:52:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 14:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/international-olympic-committee-recommends-ending-belarus-restrictions?traffic_source=rss" target="_blank">International Olympic Committee recommends ending Belarus restrictions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +101,29 @@
                 <span class="time">2026-05-07 11:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778153276719_tdy_news_7a_engel_iran_260507_S3_1920x1080-cjszop.jpg" alt="Iran Says Its Reviewing 14-Point US Proposal to End the War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/us-attacks-iran-ship-attempting-to-break-strait-of-hormuz-blockade-262901317534" target="_blank">Iran Says Its Reviewing 14-Point US Proposal to End the War</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-07 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts" target="_blank">OpenClaw and Claude can put your AI-generated podcasts in Spotify</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Lavender-Lifestyle-500x500.jpg" alt="Google unveils screenless Fitbit Air and Google Health app to replace Fitbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/" target="_blank">Google unveils screenless Fitbit Air and Google Health app to replace Fitbit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-07 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +160,38 @@
                 <span class="time">2026-05-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb9787b2e25917ff0d3d2b/master/pass/AFK%20Everybody%20Should%20Have%20a%20Pair%20of%20Cheap%20Headphones%20top%20art%20052026%20SOURCE%20Sony.jpg" alt="Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cheap-wired-headphones-rave/" target="_blank">Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/" target="_blank">Five architects of the AI economy explain where the wheels are coming off</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-07 05:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why 1000 != 1000 in Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gopikrishna000/why-1000-1000-in-payments-38hb" target="_blank">Why 1000 != 1000 in Payments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19009785&w=600" alt="How to Test PUT API Request Using REST-Assured Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/test-put-api-rest-assured-java" target="_blank">How to Test PUT API Request Using REST-Assured Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-07 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.not-ship.com/burning-man-moop/" target="_blank">The map that keeps Burning Man honest</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-07 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,33 +219,6 @@
                 <span class="time">2026-05-07 12:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/best-simple-system-design/en/headerimage/best-simple-system-design-header-1776687343321.jpg" alt="Applying Best Simple System for Now for Software Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/best-simple-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Applying Best Simple System for Now for Software Design</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-07 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johalputt/which-no-code-bubble-vs-saas-which-wins-43in" target="_blank">Which No-Code Bubble vs SaaS: Which Wins?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-Faster-WL-SHM" target="_blank">KDE Plasma 6.7 To Provide A Much Better Experience For CPU-Based Rendering</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-07 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/b4f4267062945f9c21fea1bafd675850c85b2c01b27840a938f077092566cc0c-1.jpg" alt="Star Fox Needs Aura And It’s Missing From The New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-fox-64-switch-2-redesigns-artstyle-comparison-2000693977" target="_blank">Star Fox Needs Aura And It’s Missing From The New Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQZM6GV9VJZJTSM39QG1MHVA/hero-image.jpg" alt="The Fitbit Air Is Real, and It May Actually Be a Whoop Killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-fitbit-air-is-real-and-it-may-actually-be-a-whoop-killer?utm_medium=RSS" target="_blank">The Fitbit Air Is Real, and It May Actually Be a Whoop Killer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-07-at-8.54.13-AM-1280x720.jpg" alt="GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +292,6 @@
                 <span class="time">2026-05-06 23:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQ7NQHP9KZEBZYWKHMXTHY8T/hero-image.png" alt="This 10th Gen iPad Is on Sale for $240 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10th-gen-ipad-stacksocial-sale-may-2026?utm_medium=RSS" target="_blank">This 10th Gen iPad Is on Sale for $240 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/star-fox-2.jpg" alt="Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-announces-surprise-remake-of-star-fox-64-for-switch-2-and-it-looks-very-cool-2000693718" target="_blank">Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-06 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
