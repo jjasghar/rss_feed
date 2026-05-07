@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 12:30:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 13:31:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 12:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss" target="_blank">Somali pirates abandon hijacked UAE dhow due to dwindling supplies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/justice-department-sign_1778153143240_hpMain_4x3t_384.jpg" alt="DOJ probing $2.6 billion in oil trades related to Iran war, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007" target="_blank">DOJ probing $2.6 billion in oil trades related to Iran war, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6de8/live/77694020-4a0e-11f1-b84b-1fec0953dd1e.jpg" alt="Race to trace passengers who left hantavirus cruise ship at island" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss" target="_blank">Race to trace passengers who left hantavirus cruise ship at island</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-07 12:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ed/live/dbb5fb50-4a03-11f1-9595-b54f38a93bc1.png" alt="Psychiatrist &#x27;unable to section Nottingham killer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +95,6 @@
                 <span class="title"><a href="https://www.today.com/video/us-attacks-iran-ship-attempting-to-break-strait-of-hormuz-blockade-262901317534" target="_blank">Iran Says Its Reviewing 14-Point US Proposal to End the War</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-07 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120673/up-first-newsletter-iran-trump-oil-production-pope-leo-marco-rubio-prediction-markets" target="_blank">Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump&#x27;s criticism</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Khamenei-DB-260507_1778142569884_hpMain_4x3t_384.jpg" alt="Iran live updates: US waiting for Iran response to possible MoU, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: US waiting for Iran response to possible MoU, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-07 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/madrid-captain-carvajal-in-race-against-time-for-spains-world-cup-squad?traffic_source=rss" target="_blank">Madrid captain Carvajal in race against time for Spain’s World Cup squad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 10:08</span>
             </div>
         </div>
 </div>
@@ -171,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19" target="_blank">FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-07 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kabrau/desvendando-a-arquitetura-frontend-backend-e-banco-de-dados-na-pratica-4k1o" target="_blank">Desvendando a Arquitetura: Frontend, Backend e Banco de Dados na Prática</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +215,6 @@
                 <span class="time">2026-05-07 10:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/en/headerimage/generatedHeaderImage-1777875585040.jpg" alt="Google Announces GKE Agent Sandbox and Hypercluster at Next &#x27;26, Positioning Kubernetes as AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Announces GKE Agent Sandbox and Hypercluster at Next &#x27;26, Positioning Kubernetes as AI Agent</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-07 10:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-07-at-8.54.13-AM-1280x720.jpg" alt="GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746" target="_blank">GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 13:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/apple-v-epic-1280x720.jpg" alt="Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2026-05-06 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQSF1F6SDFDJR3Q6HANXVN6T/hero-image.jpg" alt="10 Hacks Every DuckDuckGo User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-duckduckgo-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every DuckDuckGo User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
