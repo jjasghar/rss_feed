@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 17:31:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 18:29:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 17:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 18:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/" target="_blank">Hackers hack victims hacked by other hackers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-07 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers" target="_blank">Valve is fighting Steam Controller scalpers with a new reservations system</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud" target="_blank">Did Microsoft just tease a new Xbox UI?</a></span>
                 <span class="feed">The Verge</span>
@@ -142,29 +159,20 @@
                 <span class="time">2026-05-07 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale" target="_blank">There’s actually a good deal happening now on the Xbox Series X</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-07 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts" target="_blank">OpenClaw and Claude can put your AI-generated podcasts in Spotify</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-07 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa38fy7ydoboc2b3xu9zd.jpg" alt="I replaced ws with 2.5KB of code and deleted 14 dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rabbxdev/i-replaced-ws-with-25kb-of-code-and-deleted-14-dependencies-2352" target="_blank">I replaced ws with 2.5KB of code and deleted 14 dependencies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 18:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0a3omaug1lmo3w585edy.png" alt="FULL STACK DEVELOPMENT DAY - 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +218,6 @@
                 <span class="time">2026-05-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012062&w=600" alt="Why AI Forces a Rethink of Everything We Know About Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-challenges-views-on-software-security" target="_blank">Why AI Forces a Rethink of Everything We Know About Software Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/fox-e1764009553581.jpeg?fit=768%2C426&amp;quality=60&amp;ssl=1" alt="Remake of Star Fox 64 remake announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/07/remake-of-star-fox-64-remake-announced.html" target="_blank">Remake of Star Fox 64 remake announced</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR1RVYTGBQ6BWVFNF57H92YY/hero-image.png" alt="The Most Aesthetic Portable Speaker I Own Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/marshall-emberton-portable-bluetooth-speaker-deal-may-2026?utm_medium=RSS" target="_blank">The Most Aesthetic Portable Speaker I Own Is $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/slay-the-spire-23.jpg" alt="Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +291,6 @@
                 <span class="time">2026-05-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/b4f4267062945f9c21fea1bafd675850c85b2c01b27840a938f077092566cc0c-1.jpg" alt="Star Fox Needs Aura And It’s Missing From The New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-fox-64-switch-2-redesigns-artstyle-comparison-2000693977" target="_blank">Star Fox Needs Aura And It’s Missing From The New Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQZM6GV9VJZJTSM39QG1MHVA/hero-image.jpg" alt="The Fitbit Air Is Real, and It May Actually Be a Whoop Killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-fitbit-air-is-real-and-it-may-actually-be-a-whoop-killer?utm_medium=RSS" target="_blank">The Fitbit Air Is Real, and It May Actually Be a Whoop Killer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-07 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
