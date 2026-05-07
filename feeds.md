@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 11:31:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-07 12:30:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 11:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 12:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ed/live/dbb5fb50-4a03-11f1-9595-b54f38a93bc1.png" alt="Psychiatrist &#x27;unable to section Nottingham killer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce3p0g1l5e1o?at_medium=RSS&at_campaign=rss" target="_blank">Psychiatrist &#x27;unable to section Nottingham killer&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-07 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss" target="_blank">Irish footballers and celebrities urge boycott of Israel matches</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778153276719_tdy_news_7a_engel_iran_260507_S3_1920x1080-cjszop.jpg" alt="Iran Says Its Reviewing 14-Point US Proposal to End the War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-attacks-iran-ship-attempting-to-break-strait-of-hormuz-blockade-262901317534" target="_blank">Iran Says Its Reviewing 14-Point US Proposal to End the War</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-07 11:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +104,29 @@
                 <span class="time">2026-05-07 10:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices" target="_blank">Gas prices keep rising, but do big oil companies plan to drill more? Not so far</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest" target="_blank">Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-07 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-118218/indonesia-nickel-mineral-mining" target="_blank">Dirty nickel: The cost of mining in Indonesia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/" target="_blank">Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-07 12:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fb95f04f1f0e1f8189d986/master/pass/Review%20Sleep%20Number%20ComfortNext%20Lux%20Smart%20Bed%20top%20art%20052026%20SOURCE%20Julia%20Forbes.jpg" alt="Sleep Number ComfortNext Lux Smart Bed: Redefining Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/" target="_blank">Sleep Number ComfortNext Lux Smart Bed: Redefining Support</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-07 12:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,38 @@
                 <span class="time">2026-05-07 05:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Vimeo Promo Code: 40% Off This May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vimeo-promo-code/" target="_blank">Vimeo Promo Code: 40% Off This May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony" target="_blank">Musk’s biggest loyalist became his biggest liability</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-06 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kabrau/desvendando-a-arquitetura-frontend-backend-e-banco-de-dados-na-pratica-4k1o" target="_blank">Desvendando a Arquitetura: Frontend, Backend e Banco de Dados na Prática</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Elan-Linux-Driver-Removal" target="_blank">Linux Drivers For The AMD Elan SoCs From The 1990s On Track For Retirement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-07 12:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/best-simple-system-design/en/headerimage/best-simple-system-design-header-1776687343321.jpg" alt="Applying Best Simple System for Now for Software Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/best-simple-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Applying Best Simple System for Now for Software Design</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-07 11:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +222,6 @@
                 <span class="time">2026-05-07 10:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michelfaure/29-automations-zapier-make-remplacees-en-quatre-semaines-3o1o" target="_blank">29 automations Zapier + Make remplacées en quatre semaines</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335930/ubuntu-twitter-compromised" target="_blank">After Days of DDoS, Now Ubuntu&amp;#x27;s Twitter Account Seems to be Compromised</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-07 07:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/stenberg-curl-verification-trust/en/headerimage/generatedHeaderImage-1777409230642.jpg" alt="Leading Open Source Author Calls for Verification over Trust in Software Supply Chains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Leading Open Source Author Calls for Verification over Trust in Software Supply Chains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-07 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/apple-v-epic-1280x720.jpg" alt="Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/epic-games-apple-lawsuit-supreme-court-refuses-appeal-2000693934" target="_blank">Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 12:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/rice-cooker.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How a banned rice cooker cost a Welsh university £264,442" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2026-05-06 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQZD3MM3QKJ0RD82KDJJGWJE/hero-image.png" alt="The Portable JBL Flip 7 Speaker Is 43% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-deal-may-2026?utm_medium=RSS" target="_blank">The Portable JBL Flip 7 Speaker Is 43% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-06 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
