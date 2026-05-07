@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 20:24:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 21:17:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 20:24 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 21:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss" target="_blank">Armed fighters kill at least 30 people in attacks in central Mali</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine" target="_blank">Confused about the abortion pill news? Here&#x27;s where things stand</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 20:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +104,20 @@
                 <span class="time">2026-05-07 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-jake-hall-misse-beqiri_7241743.jpg?20260507195409" alt="Mother of Jake Hall&#x27;s child tells of &#x27;devastating loss&#x27; after TOWIE star dies aged 35" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mother-of-jake-halls-child-tells-of-devastating-loss-after-towie-star-dies-aged-35-13541213" target="_blank">Mother of Jake Hall&#x27;s child tells of &#x27;devastating loss&#x27; after TOWIE star dies aged 35</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-07 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/b935e910-4a16-11f1-a7ce-b934bcb15ff4.jpg" alt="Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss" target="_blank">Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/" target="_blank">Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-07 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,20 @@
                 <span class="time">2026-05-07 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud" target="_blank">Did Microsoft just tease a new Xbox UI?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-07 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-a2e" target="_blank">Why Most Crypto Bots Get Sandwiched (And How to Prevent It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 21:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18964280&w=600" alt="Why Your RAG Pipeline Will Fail Without an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +184,15 @@
                 <span class="title"><a href="https://dzone.com/articles/why-your-rag-pipeline-will-fail-without-an-mcp" target="_blank">Why Your RAG Pipeline Will Fail Without an MCP Server</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openwall.com/lists/oss-security/2026/05/07/8" target="_blank">Dirtyfrag: Universal Linux LPE</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-07 19:21</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +222,6 @@
                 <span class="time">2026-05-07 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18962371&w=600" alt="From Compliance Pipes to Data Streams: Modernizing Healthcare EDI for Strategic Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/from-compliance-pipes-to-data-streams" target="_blank">From Compliance Pipes to Data Streams: Modernizing Healthcare EDI for Strategic Value</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!KGEL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F352b2ed9-f071-417a-8866-f2fea2d8abe8_1942x1020.png" alt="The Pulse: Did capacity shortages turn Anthropic hostile to devs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages" target="_blank">The Pulse: Did capacity shortages turn Anthropic hostile to devs?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-07 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-07-162009-e1778185352538-1280x721.jpg" alt="New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stranger-than-heaven-yakuza-like-a-dragon-bunta-sugawara-dead-actor-likeness-rgg-studio-2000694063" target="_blank">New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR1X9WRFQB9XKN92JQDSTZCJ/hero-image.png" alt="I Rely on This Portable Power Station During Emergencies, and It&#x27;s $700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +295,6 @@
                 <span class="time">2026-05-07 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/slay-the-spire-23.jpg" alt="Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/slay-the-spire-2-is-getting-review-bombed-again-this-time-because-of-chuds-2000693961" target="_blank">Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 20:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
