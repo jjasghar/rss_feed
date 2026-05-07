@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 21:17:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-07 22:19:30 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 21:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss" target="_blank">US trade court rules against Trump’s 10 percent global tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss" target="_blank">Armed fighters kill at least 30 people in attacks in central Mali</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5813500/gasoline-grocery-prices-increase-people-struggling" target="_blank">She helps families in need. As gas and grocery prices rise, she needs help, too</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 20:34</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +99,29 @@
                 <span class="time">2026-05-07 19:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss" target="_blank">Can China help end the Iran war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 2 infected patients in isolation in Dutch hospitals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 2 infected patients in isolation in Dutch hospitals</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-07 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fbb1dadb7daca60e4a6405/master/pass/Uncanny-Valley-Trump-AI-Regulation-Reversal-Politics-2273509289.jpg" alt="Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/" target="_blank">Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-07 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach" target="_blank">Canvas is down as ShinyHunters threatens to leak schools’ data</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +158,20 @@
                 <span class="time">2026-05-07 19:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/" target="_blank">Hackers hack victims hacked by other hackers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-07 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers" target="_blank">Valve is fighting Steam Controller scalpers with a new reservations system</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-07 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-K5-CPUs" target="_blank">AMD K5 CPUs The Latest To Be Retired With Linux&#x27;s Aging &amp; Stagnate Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-07 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +217,6 @@
                 <span class="time">2026-05-07 18:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0a3omaug1lmo3w585edy.png" alt="FULL STACK DEVELOPMENT DAY - 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhuvanesh_t_b3231eae9dfb0/full-stack-development-day-1-kfe" target="_blank">FULL STACK DEVELOPMENT DAY - 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQW89N2PBDMHN04EAM7WG596/hero-image.jpg" alt="10 Hacks Every Zoom User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-zoom-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Zoom User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/the-sun.jpg?fit=1500%2C968&amp;quality=60&amp;ssl=1" alt="A free site uses live weather data to flag pavement that will burn your dog&#x27;s paws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/07/a-free-site-uses-live-weather-data-to-flag-pavement-that-will-burn-your-dogs-paws.html" target="_blank">A free site uses live weather data to flag pavement that will burn your dog&#x27;s paws</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-07 21:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-07-162009-e1778185352538-1280x721.jpg" alt="New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +290,6 @@
                 <span class="time">2026-05-07 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/fox-e1764009553581.jpeg?fit=768%2C426&amp;quality=60&amp;ssl=1" alt="Remake of Star Fox 64 remake announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/07/remake-of-star-fox-64-remake-announced.html" target="_blank">Remake of Star Fox 64 remake announced</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR1RVYTGBQ6BWVFNF57H92YY/hero-image.png" alt="The Most Aesthetic Portable Speaker I Own Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/marshall-emberton-portable-bluetooth-speaker-deal-may-2026?utm_medium=RSS" target="_blank">The Most Aesthetic Portable Speaker I Own Is $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-07 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +304,13 @@
                 <span class="time">2026-05-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/06/dead-as-disco" target="_blank">Dead as Disco</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-06 21:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 21:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
