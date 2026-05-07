@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 19:30:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 20:24:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 20:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss" target="_blank">Palestinian boy mourns father killed in Israeli strike on security post</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital" target="_blank">Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-07 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss" target="_blank">Can China help end the Iran war?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 19:02</span>
@@ -67,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-jake-hall-misse-beqiri_7241743.jpg?20260507195409" alt="Mother of Jake Hall&#x27;s child tells of &#x27;devastating loss&#x27; after TOWIE star dies aged 35" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mother-of-jake-halls-child-tells-of-devastating-loss-after-towie-star-dies-aged-35-13541213" target="_blank">Mother of Jake Hall&#x27;s child tells of &#x27;devastating loss&#x27; after TOWIE star dies aged 35</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-07 18:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/b935e910-4a16-11f1-a7ce-b934bcb15ff4.jpg" alt="Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -75,38 +97,20 @@
                 <span class="time">2026-05-07 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Dutch hospital confirms new hantavirus case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Dutch hospital confirms new hantavirus case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-07 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss" target="_blank">US pushing Israeli de-escalation ahead of new talks: Lebanese official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120813/rubio-visits-vatican-amid-escalating-tensions-between-trump-and-pope-leo" target="_blank">Rubio visits Vatican amid escalating tensions between Trump and Pope Leo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster" target="_blank">Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,29 @@
                 <span class="time">2026-05-07 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb7b089165f81762ebbc1c/master/pass/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg" alt="ChatGPT Has &#x27;Goblin&#x27; Mania in the US. In China It Will &#x27;Catch You Steadily&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/" target="_blank">ChatGPT Has &#x27;Goblin&#x27; Mania in the US. In China It Will &#x27;Catch You Steadily&#x27;</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18964280&w=600" alt="Why Your RAG Pipeline Will Fail Without an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-your-rag-pipeline-will-fail-without-an-mcp" target="_blank">Why Your RAG Pipeline Will Fail Without an MCP Server</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/" target="_blank">Agent pull requests are everywhere. Here’s how to review them.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-07 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa38fy7ydoboc2b3xu9zd.jpg" alt="I replaced ws with 2.5KB of code and deleted 14 dependencies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2026-05-07 16:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Realtek-RTL8159-Linux-7.2" target="_blank">Linux 7.2 To Support Realtek RTL8159 10GbE USB Ethernet</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-07 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934310&w=600" alt="Designing Self-Healing AI Infrastructure: The Role of Autonomous Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-self-healing-ai-infrastructure" target="_blank">Designing Self-Healing AI Infrastructure: The Role of Autonomous Recovery</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR1X9WRFQB9XKN92JQDSTZCJ/hero-image.png" alt="I Rely on This Portable Power Station During Emergencies, and It&#x27;s $700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/ef-ecoflow-portable-power-station-deal-may-2026?utm_medium=RSS" target="_blank">I Rely on This Portable Power Station During Emergencies, and It&#x27;s $700 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-74.jpg" alt="Purge Your Gaming PC’s Recycling Bin You Filthy Animals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/purge-your-gaming-pcs-recycling-bin-you-filthy-animals-2000694029" target="_blank">Purge Your Gaming PC’s Recycling Bin You Filthy Animals</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR1TF1HCRG870M18PCYR06CB/hero-image.png" alt="ChatGPT Can Now Reach Out to a &#x27;Trusted Contact&#x27; After Conversations Concerning Self-Harm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +288,6 @@
                 <span class="time">2026-05-07 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR1G9B85PBYJ3WTBQ3YV038J/hero-image.jpg" alt="Google Chrome Finally Added This Privacy Feature for Android Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-chrome-added-the-approximate-location-feature-for-android-users?utm_medium=RSS" target="_blank">Google Chrome Finally Added This Privacy Feature for Android Users</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-07 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/03/90793ab692b43148363f6df91659f2bc-1280x720.jpg" alt="The Sims 4 Is Finally Ironing Out The Kinks In Its Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-sims-4-finally-tuning-up-its-babies-2000693973" target="_blank">The Sims 4 Is Finally Ironing Out The Kinks In Its Babies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 276 |
+        🔄 Last Updated: 20:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
