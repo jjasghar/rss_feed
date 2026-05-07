@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 15:43:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 16:31:35 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 15:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 16:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss" target="_blank">US pushing Israeli de-escalation ahead of new talks: Lebanese official</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120688/china-gives-suspended-death-sentences-to-2-former-defense-ministers-accused-of-bribery" target="_blank">China gives suspended death sentences to 2 ex-defense ministers</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -66,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/international-olympic-committee-recommends-ending-belarus-restrictions?traffic_source=rss" target="_blank">International Olympic Committee recommends ending Belarus restrictions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cde/live/99845960-49d7-11f1-9acb-332348f2c41f.png" alt="Britons on hantavirus cruise ship face 45 days of self-isolation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Britons on hantavirus cruise ship face 45 days of self-isolation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-07 14:13</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +101,38 @@
                 <span class="time">2026-05-07 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6de8/live/77694020-4a0e-11f1-b84b-1fec0953dd1e.jpg" alt="Race to trace passengers who left hantavirus cruise ship at island" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss" target="_blank">Race to trace passengers who left hantavirus cruise ship at island</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ed/live/dbb5fb50-4a03-11f1-9595-b54f38a93bc1.png" alt="Psychiatrist &#x27;unable to section Nottingham killer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3p0g1l5e1o?at_medium=RSS&at_campaign=rss" target="_blank">Psychiatrist &#x27;unable to section Nottingham killer&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fb7b089165f81762ebbc1c/master/pass/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg" alt="ChatGPT Has &#x27;Goblin&#x27; Mania in the US. In China It Will &#x27;Catch You Steadily&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/" target="_blank">ChatGPT Has &#x27;Goblin&#x27; Mania in the US. In China It Will &#x27;Catch You Steadily&#x27;</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-07 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank">Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/" target="_blank">How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-07 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +160,29 @@
                 <span class="time">2026-05-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/" target="_blank">Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-07 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb95f04f1f0e1f8189d986/master/pass/Review%20Sleep%20Number%20ComfortNext%20Lux%20Smart%20Bed%20top%20art%20052026%20SOURCE%20Julia%20Forbes.jpg" alt="Sleep Number ComfortNext Lux Smart Bed: Redefining Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/" target="_blank">Sleep Number ComfortNext Lux Smart Bed: Redefining Support</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-fix-bad-webcam-lighting/" target="_blank">How I Fixed My Webcam Lighting for Zoom Calls (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Realtek-RTL8159-Linux-7.2" target="_blank">Linux 7.2 To Support Realtek RTL8159 10GbE USB Ethernet</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-07 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18934310&w=600" alt="Designing Self-Healing AI Infrastructure: The Role of Autonomous Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-self-healing-ai-infrastructure" target="_blank">Designing Self-Healing AI Infrastructure: The Role of Autonomous Recovery</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012062&w=600" alt="Why AI Forces a Rethink of Everything We Know About Software Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,6 +190,15 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-challenges-views-on-software-security" target="_blank">Why AI Forces a Rethink of Everything We Know About Software Security</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-07 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/openai-websocket-responses-api/en/headerimage/generatedHeaderImage-1777845282531.jpg" alt="OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-07 14:48</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/test-put-api-rest-assured-java" target="_blank">How to Test PUT API Request Using REST-Assured Java</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-07 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.not-ship.com/burning-man-moop/" target="_blank">The map that keeps Burning Man honest</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-07 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17336156/foss-weekly-26-19" target="_blank">FOSS Weekly #26.19: Ubuntu Under Attack, Linux Exploitation Ongoing, Upgrading to 26.04, Linux on PS5 and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-07 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kabrau/desvendando-a-arquitetura-frontend-backend-e-banco-de-dados-na-pratica-4k1o" target="_blank">Desvendando a Arquitetura: Frontend, Backend e Banco de Dados na Prática</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 12:30</span>
             </div>
         </div>
 </div>
@@ -314,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
