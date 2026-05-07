@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 05:04:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 06:53:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 05:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 06:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss" target="_blank">Toronto World Cup tickets to be resold for face value on FIFA Marketplace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 06:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +102,29 @@
                 <span class="time">2026-05-07 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778108670351_nn_gha_trump_optimistic_about_potential_deal_with_iran_260506_S3_1920x1080-h974hc.jpg" alt="Trump optimistic about potential deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-optimistic-about-potential-deal-with-iran-262876229967" target="_blank">Trump optimistic about potential deal with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-06 23:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Vimeo Promo Code: 40% Off This May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vimeo-promo-code/" target="_blank">Vimeo Promo Code: 40% Off This May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-07 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony" target="_blank">Musk’s biggest loyalist became his biggest liability</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-06 23:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fbb0898d34a433dee8f300/master/pass/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg" alt="Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +161,20 @@
                 <span class="time">2026-05-06 22:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb7bd8844a933bdeb7fffe/master/pass/GettyImages-166419623.jpg" alt="A Kid With a Fake Mustache Tricked an Online Age-Verification Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/" target="_blank">A Kid With a Fake Mustache Tricked an Online Age-Verification Tool</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-06 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review" target="_blank">How David Sacks crashed and burned in the White House</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-06 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yashksaini/dev-log-5-building-a-claude-style-sre-terminal-and-tackling-webrtc-3knp" target="_blank">Dev Log #5 Building a Claude-style SRE terminal and tackling WebRTC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 06:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3" target="_blank">[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-06 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/unity-desktop-2026.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s old Unity desktop remade in Wayfire and Libadwaita" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-unity-desktop-wayfire-recreation" target="_blank">Ubuntu’s old Unity desktop remade in Wayfire and Libadwaita</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-06 22:31</span>
             </div>
         </div>
 </div>
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
