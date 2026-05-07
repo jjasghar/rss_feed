@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 01:32:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 03:00:29 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee" target="_blank">Secretary Howard Lutnick is questioned by House lawmakers over his Epstein ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 02:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/iran-1-rt-gmh-260506_1778071801591_hpMain_4x3t_384.jpg" alt="What to know about potential US-Iran agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/06/nx-s1-5812457/antisemitism-is-a-campaign-issue-in-uk-regional-vote" target="_blank">Antisemitism is a campaign issue in UK regional vote</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-06 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg" alt="Two Britons self-isolating in UK after leaving hantavirus cruise ship early" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship early</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-06 20:01</span>
             </div>
         </div>
 </div>
@@ -167,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335844/tdf-calls-out-euro-office" target="_blank">LibreOffice Questions Whether Euro-Office is Truly Sovereign</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-07 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-April-2026" target="_blank">Rust-Written Redox OS Sees Improvements For Running On Real Hardware</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +209,6 @@
                 <span class="title"><a href="https://phildini.dev/slopsquatting-for-good" target="_blank">Plastic Flowers to Protect the Hive</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-05-06 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43" target="_blank">Lessons from Log4Shell: Building a CRA-Ready Log4j</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-06 22:01</span>
             </div>
         </div>
 </div>
@@ -337,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
