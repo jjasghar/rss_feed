@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 09:48:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 10:42:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 09:48 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 10:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/madrid-captain-carvajal-in-race-against-time-for-spains-world-cup-squad?traffic_source=rss" target="_blank">Madrid captain Carvajal in race against time for Spain’s World Cup squad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5810511/oil-company-earnings-production-gas-prices" target="_blank">Gas prices keep rising, but do big oil companies plan to drill more? Not so far</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss" target="_blank">Two Britons self-isolating in UK after leaving hantavirus cruise ship</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-07 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa8/live/9080e1e0-49e5-11f1-9921-0be54b6c608a.jpg" alt="Hantavirus-hit cruise ship on way to Canary Islands after three evacuated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss" target="_blank">Hantavirus-hit cruise ship on way to Canary Islands after three evacuated</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss" target="_blank">Toronto World Cup tickets to be resold for face value on FIFA Marketplace</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 06:02</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/johalputt/which-no-code-bubble-vs-saas-which-wins-43in" target="_blank">Which No-Code Bubble vs SaaS: Which Wins?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 10:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-Faster-WL-SHM" target="_blank">KDE Plasma 6.7 To Provide A Much Better Experience For CPU-Based Rendering</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-07 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/michelfaure/29-automations-zapier-make-remplacees-en-quatre-semaines-3o1o" target="_blank">29 automations Zapier + Make remplacées en quatre semaines</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-07 08:48</span>
@@ -197,38 +215,6 @@
                 <span class="title"><a href="https://dev.to/yashksaini/dev-log-5-building-a-claude-style-sre-terminal-and-tackling-webrtc-3knp" target="_blank">Dev Log #5 Building a Claude-style SRE terminal and tackling WebRTC</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-07 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335854/micimike-home-mini-pcb-replacement" target="_blank">This $85 PCB is Giving Old Google Home Mini Devices a Second Life</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-07 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17335844/tdf-calls-out-euro-office" target="_blank">LibreOffice Questions Whether Euro-Office is Truly Sovereign</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-07 02:42</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html" target="_blank">Rowhammer Attack Against NVIDIA Chips</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-06 10:36</span>
             </div>
         </div>
 </div>
@@ -318,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:48 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
