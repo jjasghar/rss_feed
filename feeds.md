@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 16:31:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-07 17:31:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 16:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, May 07, 2026 - 17:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Dutch hospital confirms new hantavirus case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Dutch hospital confirms new hantavirus case</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 17:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss" target="_blank">US pushing Israeli de-escalation ahead of new talks: Lebanese official</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/g-s1-120813/rubio-visits-vatican-amid-escalating-tensions-between-trump-and-pope-leo" target="_blank">Rubio visits Vatican amid escalating tensions between Trump and Pope Leo</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 16:18</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +101,20 @@
                 <span class="time">2026-05-07 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/somali-pirates-abandon-hijacked-uae-dhow-due-to-dwindling-supplies?traffic_source=rss" target="_blank">Somali pirates abandon hijacked UAE dhow due to dwindling supplies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/justice-department-sign_1778153143240_hpMain_4x3t_384.jpg" alt="DOJ probing $2.6 billion in oil trades related to Iran war, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/doj-probing-26-billion-oil-trades-related-iran/story?id=132738007" target="_blank">DOJ probing $2.6 billion in oil trades related to Iran war, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-07 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud" target="_blank">Did Microsoft just tease a new Xbox UI?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-07 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fb7b089165f81762ebbc1c/master/pass/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg" alt="ChatGPT Has &#x27;Goblin&#x27; Mania in the US. In China It Will &#x27;Catch You Steadily&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +160,38 @@
                 <span class="time">2026-05-07 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Lavender-Lifestyle-500x500.jpg" alt="Google unveils screenless Fitbit Air and Google Health app to replace Fitbit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/" target="_blank">Google unveils screenless Fitbit Air and Google Health app to replace Fitbit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-07 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0a3omaug1lmo3w585edy.png" alt="FULL STACK DEVELOPMENT DAY - 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bhuvanesh_t_b3231eae9dfb0/full-stack-development-day-1-kfe" target="_blank">FULL STACK DEVELOPMENT DAY - 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-07 17:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18962371&w=600" alt="From Compliance Pipes to Data Streams: Modernizing Healthcare EDI for Strategic Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/from-compliance-pipes-to-data-streams" target="_blank">From Compliance Pipes to Data Streams: Modernizing Healthcare EDI for Strategic Value</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!KGEL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F352b2ed9-f071-417a-8866-f2fea2d8abe8_1942x1020.png" alt="The Pulse: Did capacity shortages turn Anthropic hostile to devs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-did-capacity-shortages" target="_blank">The Pulse: Did capacity shortages turn Anthropic hostile to devs?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-07 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +219,6 @@
                 <span class="time">2026-05-07 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/openai-websocket-responses-api/en/headerimage/generatedHeaderImage-1777845282531.jpg" alt="OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/openai-websocket-responses-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-07 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Why 1000 != 1000 in Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gopikrishna000/why-1000-1000-in-payments-38hb" target="_blank">Why 1000 != 1000 in Payments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19009785&w=600" alt="How to Test PUT API Request Using REST-Assured Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/test-put-api-rest-assured-java" target="_blank">How to Test PUT API Request Using REST-Assured Java</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/slay-the-spire-23.jpg" alt="Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/slay-the-spire-2-is-getting-review-bombed-again-this-time-because-of-chuds-2000693961" target="_blank">Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-07 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR1G9B85PBYJ3WTBQ3YV038J/hero-image.jpg" alt="Google Chrome Finally Added This Privacy Feature for Android Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-chrome-added-the-approximate-location-feature-for-android-users?utm_medium=RSS" target="_blank">Google Chrome Finally Added This Privacy Feature for Android Users</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/03/90793ab692b43148363f6df91659f2bc-1280x720.jpg" alt="The Sims 4 Is Finally Ironing Out The Kinks In Its Babies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +292,6 @@
                 <span class="time">2026-05-07 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-07-at-8.54.13-AM-1280x720.jpg" alt="GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746" target="_blank">GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/apple-v-epic-1280x720.jpg" alt="Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/epic-games-apple-lawsuit-supreme-court-refuses-appeal-2000693934" target="_blank">Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
