@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 08:27:44 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-08 09:28:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 08:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg" alt="Tough election results hurt but don&#x27;t weaken my resolve, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss" target="_blank">Tough election results hurt but don&#x27;t weaken my resolve, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-08 09:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +103,29 @@
                 <span class="time">2026-05-08 03:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/27fe0690-4a7e-11f1-b55d-0f258dce1735.jpg" alt="Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-08 02:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes" target="_blank">Sony&amp;#8217;s PS5 sales plummet amid price rises and a memory crisis</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-08 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fc92e915dbf6752d6b34ea/master/pass/GettyImages-2217201378.jpg" alt="Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/" target="_blank">Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-08 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fd59782b6fd9b2c9f8c735/master/pass/SSECURITY_HARVARD.jpg" alt="The Canvas Hack Is a New Kind of Ransomware Debacle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -106,6 +133,15 @@
                 <span class="title"><a href="https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/" target="_blank">The Canvas Hack Is a New Kind of Ransomware Debacle</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-08 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/" target="_blank">Why you can never get your doctor to call you back</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-08 04:42</span>
             </div>
         </div>
 <div class="story">
@@ -126,38 +162,38 @@
                 <span class="time">2026-05-07 23:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fbb1dadb7daca60e4a6405/master/pass/Uncanny-Valley-Trump-AI-Regulation-Reversal-Politics-2273509289.jpg" alt="Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/" target="_blank">Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-07 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-500x500-1778185068.jpg" alt="DHS can’t create vast DNA database to track ICE critics, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/" target="_blank">DHS can’t create vast DNA database to track ICE critics, lawsuit says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-07 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach" target="_blank">Canvas is down as ShinyHunters threatens to leak schools’ data</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-07 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoq08ycce3rt664kq5uh.png" alt="AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4" target="_blank">AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 09:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/asp-net-core-side-car/en/headerimage/Implementing-the-Sidecar-Pattern-in-Microservices-based-ASP-NET-Core-Applications-header-1778079284259.jpg" alt="Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/" target="_blank">AI giveth and AI taketh CPU</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-08 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/alexmorgan_finwriter/i-tracked-332-ai-releases-this-week-85-were-noise-24do" target="_blank">I tracked 332 AI releases this week. 85% were noise.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dirty-Frag-Linux" target="_blank">Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-08 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-8-2026-red-hat" target="_blank">Friday Five — May 8, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-05-08 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/" target="_blank">Improving token efficiency in GitHub Agentic Workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-07 23:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 39 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
