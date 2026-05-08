@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 13:30:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-08 14:31:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 13:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 14:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/8/kenya-cancer-cluster-sparks-environmental-genocide-claims-over-oil-waste?traffic_source=rss" target="_blank">Kenya cancer cluster sparks ‘environmental genocide’ claims over oil waste</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: CDC classifies outbreak as &#x27;Level 3&#x27; emergency response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: CDC classifies outbreak as &#x27;Level 3&#x27; emergency response</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-08 14:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778245131337_now_mnn_april_jobs_report_260508_S3_1920x1080-iaah2h.jpg" alt="U.S. economy adds 115,000 jobs in April, unemployment rate at 4.3%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-economy-adds-115-000-jobs-in-april-unemployment-rate-at-4-3-262985797597" target="_blank">U.S. economy adds 115,000 jobs in April, unemployment rate at 4.3%</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-08 12:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +101,20 @@
                 <span class="time">2026-05-08 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/uss-mason-ht-jt-260507_1778191961504_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says without ceasefire, &#x27;one big glow&#x27; will come out of Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says without ceasefire, &#x27;one big glow&#x27; will come out of Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-08 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/08/nx-s1-5813684/prices-mothers-day-brunch-restaurants-flowers" target="_blank">Prices are up, but Mother&#x27;s Day still means brunch</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-08 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss" target="_blank">FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-08 09:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote" target="_blank">Boox’s new page-turning e-reader remote is a tiny two-button keyboard</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-08 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +160,6 @@
                 <span class="time">2026-05-08 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fc92e915dbf6752d6b34ea/master/pass/GettyImages-2217201378.jpg" alt="Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/" target="_blank">Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +172,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/" target="_blank">No Dumb Questions: What is an MCP server and why do I care?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-05-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaronmaxwell/emergent-abstractions-2ghd" target="_blank">Emergent Abstractions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18972871&w=600" alt="How AI Is Rewriting Full-Stack Java Systems: Practical Patterns with Spring Boot, Kafka and WebSockets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-ai-is-rewriting-full-stack-java-systems-practi" target="_blank">How AI Is Rewriting Full-Stack Java Systems: Practical Patterns with Spring Boot, Kafka and WebSockets</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-08 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +217,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/dirty-frag-linux-vulnerability-fixes-available" target="_blank">Dirty Frag Linux kernel local privilege escalation vulnerability mitigations</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-05-08 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenZL-0.2-Released" target="_blank">OpenZL 0.2 Released For Meta&#x27;s Content-Aware Compression Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-08 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoq08ycce3rt664kq5uh.png" alt="AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4" target="_blank">AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 09:22</span>
             </div>
         </div>
 </div>
@@ -332,7 +339,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:30 UTC
+        🔄 Last Updated: 14:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
