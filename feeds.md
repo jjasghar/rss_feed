@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 11:27:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-08 12:21:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 11:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 12:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +57,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss" target="_blank">After 18 months of mourning, a Gaza son is found alive in an Israeli prison</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-08 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778238871989_tdy_news_7a_bradley_welker_trump_iran_260508_S3_1920x1080-07uqxw.jpg" alt="Trump Says US and Iran Ceasefire Stills Holds Amid New Attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/us-and-iran-exchange-fire-as-trump-insists-ceasefire-is-holding-262976069706" target="_blank">Trump Says US and Iran Ceasefire Stills Holds Amid New Attacks</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-08 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/uss-mason-ht-jt-260507_1778191961504_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says without ceasefire, &#x27;one big glow&#x27; will come out of Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump says without ceasefire, &#x27;one big glow&#x27; will come out of Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-08 10:41</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +104,20 @@
                 <span class="time">2026-05-08 09:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/8/world-cup-2026-squad-deadlines-key-dates-team-lists-final-announcements?traffic_source=rss" target="_blank">World Cup 2026 squad deadlines: Key dates, team lists, final announcements</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-08 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad91/live/e53ca2f0-4aad-11f1-bd52-e755d604ece4.jpg" alt="Chris Mason: What the early results tell us so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: What the early results tell us so far</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-08 06:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness" target="_blank">Nanoleaf bets its future on robots, red light therapy, and AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-08 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/bottleneck-kv-no-signs-500x500.jpg" alt="Everyone’s a loser in Strait of Hormuz game that simulates global crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +163,20 @@
                 <span class="time">2026-05-08 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fd59782b6fd9b2c9f8c735/master/pass/SSECURITY_HARVARD.jpg" alt="The Canvas Hack Is a New Kind of Ransomware Debacle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/" target="_blank">The Canvas Hack Is a New Kind of Ransomware Debacle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 05:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzz1hspid47rzm5n9741.png" alt="WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/guigenyi/wireguard-ji-zhu-jie-xi-xia-dai-vpn-xie-yi-de-she-ji-you-shi-yu-shi-jian-3j8f" target="_blank">WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 12:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +222,6 @@
                 <span class="time">2026-05-08 04:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beefedai/scalability-test-planning-framework-3l9p" target="_blank">Scalability Test Planning Framework</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 01:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/mario-kart-world-88-1280x720.jpg" alt="Almost 20 Million Switch 2s Have Been Sold, But Nintendo Worries About The Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-sales-mario-kart-world-2000694255" target="_blank">Almost 20 Million Switch 2s Have Been Sold, But Nintendo Worries About The Future</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-08 12:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/mario-money-switch.jpg" alt="The Switch 2 Is Getting A Hefty Price Hike To $500 Later This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/07/a-free-site-uses-live-weather-data-to-flag-pavement-that-will-burn-your-dogs-paws.html" target="_blank">A free site uses live weather data to flag pavement that will burn your dog&#x27;s paws</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-07 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-07-162009-e1778185352538-1280x721.jpg" alt="New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stranger-than-heaven-yakuza-like-a-dragon-bunta-sugawara-dead-actor-likeness-rgg-studio-2000694063" target="_blank">New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 20:40</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
