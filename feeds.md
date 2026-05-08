@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 00:20:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-08 01:32:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss" target="_blank">Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/7/are-global-alliances-fracturing?traffic_source=rss" target="_blank">Are global alliances fracturing?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 23:51</span>
@@ -64,6 +67,15 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: US strikes Iran after &#x27;unprovoked attacks&#x27; on warships</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-07 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5815343/trade-court-strikes-down-10-percent-tariffs" target="_blank">Trade court strikes down a second round of Trump tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-07 22:35</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss" target="_blank">US trade court rules against Trump’s 10 percent global tariffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d9/live/064be9f0-4a55-11f1-b278-4dfa9ef2c19e.jpg" alt="Labour expected to lose Senedd after century of winning elections in Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss" target="_blank">Labour expected to lose Senedd after century of winning elections in Wales</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss" target="_blank">Armed fighters kill at least 30 people in attacks in central Mali</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 20:48</span>
             </div>
         </div>
 </div>
@@ -170,9 +164,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/beefedai/scalability-test-planning-framework-3l9p" target="_blank">Scalability Test Planning Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alexmorgan_finwriter/i-tracked-332-ai-releases-this-week-85-were-noise-24do" target="_blank">I tracked 332 AI releases this week. 85% were noise.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-8-2026-red-hat" target="_blank">Friday Five — May 8, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-08 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -185,39 +197,21 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-K5-CPUs" target="_blank">AMD K5 CPUs The Latest To Be Retired With Linux&#x27;s Aging &amp; Stagnate Hardware Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-07 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-a2e" target="_blank">Why Most Crypto Bots Get Sandwiched (And How to Prevent It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-07 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/snap-security-2.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Snap Prompting Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-snap-prompting-client-improved" target="_blank">Ubuntu Snap Prompting Improvements</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-07 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18964280&w=600" alt="Why Your RAG Pipeline Will Fail Without an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012032&w=600" alt="How to Implement AI Agents in Rails With RubyLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-your-rag-pipeline-will-fail-without-an-mcp" target="_blank">Why Your RAG Pipeline Will Fail Without an MCP Server</a></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agents-rails-rubyllm" target="_blank">How to Implement AI Agents in Rails With RubyLLM</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 20:00</span>
+                <span class="time">2026-05-07 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach" target="_blank">Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-07 22:22</span>
             </div>
         </div>
 </div>
@@ -302,6 +296,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/07/drawing-penny-arcade" target="_blank">Drawing Penny Arcade</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-07 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/07/drawing-penny-arcade" target="_blank">Drawing penny Arcade</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-05-07 21:48</span>
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
