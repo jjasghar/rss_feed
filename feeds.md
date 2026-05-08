@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 12:21:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-08 13:30:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 12:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 13:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs" target="_blank">U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-08 11:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss" target="_blank">FBI’s lack of progress on Israeli killing of journalist ‘troubling’: CPJ</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-08 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg" alt="Tough election results hurt but don&#x27;t weaken my resolve, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss" target="_blank">Tough election results hurt but don&#x27;t weaken my resolve, says PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-08 09:21</span>
             </div>
         </div>
 </div>
@@ -169,12 +159,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/" target="_blank">No Dumb Questions: What is an MCP server and why do I care?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa" target="_blank">Poland is now among the 20 largest economies. How it happened</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-08 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzz1hspid47rzm5n9741.png" alt="WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/guigenyi/wireguard-ji-zhu-jie-xi-xia-dai-vpn-xie-yi-de-she-ji-you-shi-yu-shi-jian-3j8f" target="_blank">WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/dirty-frag-linux-vulnerability-fixes-available" target="_blank">Dirty Frag Linux kernel local privilege escalation vulnerability mitigations</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-08 11:57</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4" target="_blank">AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/asp-net-core-side-car/en/headerimage/Implementing-the-Sidecar-Pattern-in-Microservices-based-ASP-NET-Core-Applications-header-1778079284259.jpg" alt="Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/asp-net-core-side-car/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Implementing the Sidecar Pattern in Microservices-based ASP.NET Core Applications</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/" target="_blank">AI giveth and AI taketh CPU</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-08 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chrisameh1/swiftdeploy-building-an-observable-policy-driven-deployment-engine-with-opa-3b2l" target="_blank">SwiftDeploy: Building an Observable, Policy-Driven Deployment Engine with OPA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 04:06</span>
             </div>
         </div>
 </div>
@@ -241,6 +231,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/aloy-1280x724.jpg" alt="PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-boss-embraces-ai-at-every-level-ai-brings-more-choices-to-players-than-ever-2000694282" target="_blank">PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-08 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR3A6ZXF28NKRPQ70S3VC163/hero-image.png" alt="These Soundcore ANC Earbuds Are 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-p30i-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Soundcore ANC Earbuds Are 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/mario-kart-world-88-1280x720.jpg" alt="Almost 20 Million Switch 2s Have Been Sold, But Nintendo Worries About The Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +283,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/canvas-hack-shuts-down-college-computers-across-nation?utm_medium=RSS" target="_blank">Canvas Has Been Hacked, and Is Apparently Being Held for Ransom</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-07 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQW89N2PBDMHN04EAM7WG596/hero-image.jpg" alt="10 Hacks Every Zoom User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-zoom-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Zoom User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-07 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/the-sun.jpg?fit=1500%2C968&amp;quality=60&amp;ssl=1" alt="A free site uses live weather data to flag pavement that will burn your dog&#x27;s paws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/07/a-free-site-uses-live-weather-data-to-flag-pavement-that-will-burn-your-dogs-paws.html" target="_blank">A free site uses live weather data to flag pavement that will burn your dog&#x27;s paws</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-07 21:58</span>
             </div>
         </div>
 </div>
@@ -341,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
