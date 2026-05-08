@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 22:17:13 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-08 23:16:38 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 22:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/" target="_blank">Laid-off Oracle workers tried to negotiate better severance. Oracle said no.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-08 22:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216571317-500x500.jpg" alt="Trump reportedly plans to fire FDA Commissioner Marty Makary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,20 +157,20 @@
                 <span class="time">2026-05-08 18:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/" target="_blank">Pentagon releases UFO files on new website</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-08 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96" target="_blank">Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users" target="_blank">Google broke reCAPTCHA for de-googled Android users</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-08 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18973005&w=600" alt="When Angular APIs Return 200 but the Frontend Is Already Failing Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/when-angular-apis-return-200-but-the-frontend" target="_blank">When Angular APIs Return 200 but the Frontend Is Already Failing Users</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-08 18:00</span>
             </div>
         </div>
 </div>
@@ -355,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
