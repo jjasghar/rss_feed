@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 20:18:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-08 21:19:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 20:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 21:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display" target="_blank">Asus chases Elgato with its own secondary touchscreen display</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-08 20:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-500x500.jpg" alt="Course correction: Google to link more sources in AI Overviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -154,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/" target="_blank">Engineers at NASA&#x27;s Jet Propulsion Lab make a breakthrough in rotor technology</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-08 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port" target="_blank">Everyone should follow Logitech and put extra USB ports on iPad keyboard cases</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-08 15:26</span>
             </div>
         </div>
 </div>
@@ -253,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQYZWZDJR16FTZFKRA96ZB4S/hero-image.jpg" alt="10 Hacks Every Google Meet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-google-meet-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Meet User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR473TH954R4M0R3DXKF2JQJ/hero-image.jpg" alt="The Fitbit App Is Losing All These Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -295,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319" target="_blank">Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-08 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathoncool-1280x720.jpg" alt="Unlike Concord, Sony Is Sticking By Marathon And Its ‘Highly Engaged’ Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/unlike-concord-sony-is-sticking-by-marathon-and-its-highly-engaged-fans-2000694302" target="_blank">Unlike Concord, Sony Is Sticking By Marathon And Its ‘Highly Engaged’ Fans</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-08 15:00</span>
             </div>
         </div>
 </div>
@@ -370,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:18 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
