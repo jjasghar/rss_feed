@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 18:24:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-08 19:28:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 18:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 19:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss" target="_blank">Protests in the Canary Islands as virus-stricken ship heads for port</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 2 New Jersey residents being monitored for hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 2 New Jersey residents being monitored for hantavirus</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-08 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2026-05-08 16:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss" target="_blank">Real Madrid fine Valverde and Tchouameni for dressing-room fight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-08 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/9157bc30-4add-11f1-9eb0-1940b1e77213.jpg" alt="Iran accuses US of &#x27;reckless military adventure&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss" target="_blank">Iran accuses US of &#x27;reckless military adventure&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-08 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise" target="_blank">Here is Yarbo’s promise to fix the robot mower that ran me over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-08 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fdf4151d0ebeb1bdd41655/master/pass/2024-04-30-Composite-Sketch.jpg" alt="The Pentagon Releases New Trove of Declassified UFO Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2026-05-08 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote" target="_blank">Boox’s new page-turning e-reader remote is a tiny two-button keyboard</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-08 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3" target="_blank">We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 19:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18973005&w=600" alt="When Angular APIs Return 200 but the Frontend Is Already Failing Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/" target="_blank">Why age assurance laws matter for developers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-08 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-58i2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/" target="_blank">No Dumb Questions: What is an MCP server and why do I care?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-05-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://btxx.org/posts/memory/" target="_blank">Serving a Website on a Raspberry Pi Zero Running in RAM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-08 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/" target="_blank">How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-08 15:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbit-air-preorder-deal-may-2026?utm_medium=RSS" target="_blank">You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2354939185-e1773762558135.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="US and Iran practicing an &quot;Israeli ceasefire,&quot; by shooting at one another" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/08/us-and-iran-practicing-an-israeli-ceasefire-by-shooting-at-one-another.html" target="_blank">US and Iran practicing an &quot;Israeli ceasefire,&quot; by shooting at one another</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-08 18:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,29 +300,20 @@
                 <span class="time">2026-05-08 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/aloy-1280x724.jpg" alt="PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-boss-embraces-ai-at-every-level-ai-brings-more-choices-to-players-than-ever-2000694282" target="_blank">PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-08 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR3A6ZXF28NKRPQ70S3VC163/hero-image.png" alt="These Soundcore ANC Earbuds Are 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-p30i-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Soundcore ANC Earbuds Are 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/08/retroactive" target="_blank">Retroactive</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-08 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1778110193-20260508-edit.png" alt="Saturday Morning Breakfast Cereal - Block" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,6 +330,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/08/retroactive" target="_blank">Retroactive</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-05-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/crystal_gazing.png" alt="Crystal Gazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3243/" target="_blank">Crystal Gazing</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-08 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -344,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:24 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
