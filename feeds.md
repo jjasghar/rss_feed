@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-07 23:16:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-08 00:20:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, May 07, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +52,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/7/are-global-alliances-fracturing?traffic_source=rss" target="_blank">Are global alliances fracturing?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-07 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/uss-mason-ht-jt-260507_1778191961504_hpMain_4x3t_384.jpg" alt="Iran live updates: US strikes Iran after &#x27;unprovoked attacks&#x27; on warships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: US strikes Iran after &#x27;unprovoked attacks&#x27; on warships</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-07 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778190164166_now_hallie_us_hormuz_strikes_260507_S3_1920x1080-zda37f.jpg" alt="U.S. strikes two locations in Iran near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-strikes-two-locations-in-iran-near-strait-of-hormuz-262944837558" target="_blank">U.S. strikes two locations in Iran near Strait of Hormuz</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-07 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss" target="_blank">US trade court rules against Trump’s 10 percent global tariffs</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d9/live/064be9f0-4a55-11f1-b278-4dfa9ef2c19e.jpg" alt="Labour expected to lose Senedd after century of winning elections in Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss" target="_blank">Labour expected to lose Senedd after century of winning elections in Wales</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-07 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -55,42 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/7/armed-fighters-kill-at-least-30-people-in-attacks-in-central-mali?traffic_source=rss" target="_blank">Armed fighters kill at least 30 people in attacks in central Mali</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-07 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5813500/gasoline-grocery-prices-increase-people-struggling" target="_blank">She helps families in need. As gas and grocery prices rise, she needs help, too</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine" target="_blank">Confused about the abortion pill news? Here&#x27;s where things stand</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-07 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss" target="_blank">Palestinian boy mourns father killed in Israeli strike on security post</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital" target="_blank">Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-07 19:20</span>
             </div>
         </div>
 </div>
@@ -114,6 +123,15 @@
                 <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/" target="_blank">Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-07 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-500x500-1778185068.jpg" alt="DHS can’t create vast DNA database to track ICE critics, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/" target="_blank">DHS can’t create vast DNA database to track ICE critics, lawsuit says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-07 21:35</span>
             </div>
         </div>
 <div class="story">
@@ -143,20 +161,20 @@
                 <span class="time">2026-05-07 19:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/" target="_blank">Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-07 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmorgan_finwriter/i-tracked-332-ai-releases-this-week-85-were-noise-24do" target="_blank">I tracked 332 AI releases this week. 85% were noise.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/09/snap-security-2.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Snap Prompting Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-snap-prompting-client-improved" target="_blank">Ubuntu Snap Prompting Improvements</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-07 20:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18964280&w=600" alt="Why Your RAG Pipeline Will Fail Without an MCP Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/why-your-rag-pipeline-will-fail-without-an-mcp" target="_blank">Why Your RAG Pipeline Will Fail Without an MCP Server</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openwall.com/lists/oss-security/2026/05/07/8" target="_blank">Dirtyfrag: Universal Linux LPE</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-07 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/" target="_blank">Agent pull requests are everywhere. Here’s how to review them.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-07 19:00</span>
             </div>
         </div>
 </div>
@@ -230,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/From-Wizardry-on-MS-DOS.jpg?fit=1080%2C648&amp;quality=60&amp;ssl=1" alt="Atari buys rights to RPG classic Wizardry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/07/atari-buys-rights-to-rpg-classic-wizardry.html" target="_blank">Atari buys rights to RPG classic Wizardry</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-07 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR27ZWTEZY61BJSVQP96S1NX/hero-image.png" alt="Canvas Has Been Hacked, and Is Apparently Being Held for Ransom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/canvas-hack-shuts-down-college-computers-across-nation?utm_medium=RSS" target="_blank">Canvas Has Been Hacked, and Is Apparently Being Held for Ransom</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-07 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQW89N2PBDMHN04EAM7WG596/hero-image.jpg" alt="10 Hacks Every Zoom User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +293,6 @@
                 <span class="time">2026-05-07 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-74.jpg" alt="Purge Your Gaming PC’s Recycling Bin You Filthy Animals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/purge-your-gaming-pcs-recycling-bin-you-filthy-animals-2000694029" target="_blank">Purge Your Gaming PC’s Recycling Bin You Filthy Animals</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-07 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR1TF1HCRG870M18PCYR06CB/hero-image.png" alt="ChatGPT Can Now Reach Out to a &#x27;Trusted Contact&#x27; After Conversations Concerning Self-Harm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatgpt-trusted-contact-feature?utm_medium=RSS" target="_blank">ChatGPT Can Now Reach Out to a &#x27;Trusted Contact&#x27; After Conversations Concerning Self-Harm</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-07 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
