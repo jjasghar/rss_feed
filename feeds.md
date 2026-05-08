@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 21:19:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-08 22:17:13 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 21:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 22:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/davis-global-center-ht-jt-260508_1778269774950_hpMain_4x3t_384.jpg" alt="What to know about Nebraska quarantine unit as it prepares for cruise ship passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/nebraskas-national-quarantine-unit-prepares-bring-hantavirus-cruise/story?id=132794162" target="_blank">What to know about Nebraska quarantine unit as it prepares for cruise ship passengers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-08 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg" alt="Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-08 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2026-05-08 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals" target="_blank">Canvas is back online, but questions — and final exam disruptions — linger</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-08 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss" target="_blank">Olympic water polo resignations cite lack of respect, belittling behaviour</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-08 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216571317-500x500.jpg" alt="Trump reportedly plans to fire FDA Commissioner Marty Makary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/" target="_blank">Trump reportedly plans to fire FDA Commissioner Marty Makary</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-08 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +159,6 @@
                 <span class="time">2026-05-08 15:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/skyfall1-500x500.jpg" alt="Engineers at NASA&#x27;s Jet Propulsion Lab make a breakthrough in rotor technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/" target="_blank">Engineers at NASA&#x27;s Jet Propulsion Lab make a breakthrough in rotor technology</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-08 15:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stella_lin_82914c71e25769/a-hipaa-safe-alert-pipeline-checklist-8-controls-3ppk" target="_blank">A HIPAA-safe alert pipeline checklist (8 controls)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 22:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/crisiscoresystems/the-protective-legitimacy-score-how-to-tell-whether-a-trust-claim-is-structural-1lgm" target="_blank">The Protective Legitimacy Score: How to Tell Whether a Trust Claim Is Structural</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18974417&w=600" alt="Building a Production-Ready AI Agent in 2026: Beyond the Hello World Demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-production-ready-ai-agent-in-2026" target="_blank">Building a Production-Ready AI Agent in 2026: Beyond the Hello World Demo</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-08 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -180,6 +201,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users" target="_blank">Google broke reCAPTCHA for de-googled Android users</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-08 18:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18973005&w=600" alt="When Angular APIs Return 200 but the Frontend Is Already Failing Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -188,38 +218,20 @@
                 <span class="time">2026-05-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18972948&w=600" alt="Beyond SOLID: Embracing CUPID for Modern Software Craftsmanship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-solid-embracing-cupid-for-modern-software" target="_blank">Beyond SOLID: Embracing CUPID for Modern Software Craftsmanship</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/" target="_blank">Why age assurance laws matter for developers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-08 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-58i2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html" target="_blank">Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-08 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-08 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQYZWZDJR16FTZFKRA96ZB4S/hero-image.jpg" alt="10 Hacks Every Google Meet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +309,6 @@
                 <span class="time">2026-05-08 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319" target="_blank">Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-08 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,31 +350,13 @@
                 <span class="time">2026-05-08 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/07/drawing-penny-arcade" target="_blank">Drawing Penny Arcade</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-07 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/07/drawing-penny-arcade" target="_blank">Drawing penny Arcade</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-07 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 21:19 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
