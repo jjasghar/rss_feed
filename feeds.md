@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 03:00:01 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-08 04:10:10 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss" target="_blank">Oil prices jump as US, Iran trade fire in Strait of Hormuz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/27fe0690-4a7e-11f1-b55d-0f258dce1735.jpg" alt="Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss" target="_blank">Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-08 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +105,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/07/nx-s1-5815343/trade-court-strikes-down-10-percent-tariffs" target="_blank">Trade court strikes down a second round of Trump tariffs</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-07 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778190164166_now_hallie_us_hormuz_strikes_260507_S3_1920x1080-zda37f.jpg" alt="U.S. strikes two locations in Iran near Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-strikes-two-locations-in-iran-near-strait-of-hormuz-262944837558" target="_blank">U.S. strikes two locations in Iran near Strait of Hormuz</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-07 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs?traffic_source=rss" target="_blank">US trade court rules against Trump’s 10 percent global tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-07 21:34</span>
             </div>
         </div>
 </div>
@@ -164,6 +175,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chrisameh1/swiftdeploy-building-an-observable-policy-driven-deployment-engine-with-opa-3b2l" target="_blank">SwiftDeploy: Building an Observable, Policy-Driven Deployment Engine with OPA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 04:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/beefedai/scalability-test-planning-framework-3l9p" target="_blank">Scalability Test Planning Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 01:21</span>
@@ -176,6 +196,15 @@
                 <span class="title"><a href="https://dev.to/alexmorgan_finwriter/i-tracked-332-ai-releases-this-week-85-were-noise-24do" target="_blank">I tracked 332 AI releases this week. 85% were noise.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dirty-Frag-Linux" target="_blank">Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-08 00:08</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +225,20 @@
                 <span class="time">2026-05-07 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012032&w=600" alt="How to Implement AI Agents in Rails With RubyLLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agents-rails-rubyllm" target="_blank">How to Implement AI Agents in Rails With RubyLLM</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-07 22:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach" target="_blank">Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-07 22:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/" target="_blank">Canvas Breach Disrupts Schools &amp; Colleges Nationwide</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-05-08 02:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
