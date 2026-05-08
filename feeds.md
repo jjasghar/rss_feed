@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 07:29:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-08 08:27:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Error processing https://kotaku.com/rss: The read operation timed out -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 07:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 08:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -311,6 +303,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/08/retroactive" target="_blank">Retroactive</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/07/drawing-penny-arcade" target="_blank">Drawing Penny Arcade</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2026-05-07 21:48</span>
@@ -339,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 07:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 08:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
