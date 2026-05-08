@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 19:28:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-08 20:18:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 19:28 UTC</div>
+    <div class="newspaper-date">Friday, May 08, 2026 - 20:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/8/venice-biennale-the-art-of-the-unseen?traffic_source=rss" target="_blank">Venice Biennale: The Art of the Unseen</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department" target="_blank">UFO files spanning decades are released by Defense Department</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-08 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +106,20 @@
                 <span class="time">2026-05-08 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg" alt="Starmer under pressure, as Labour suffers heavy elections losses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer under pressure, as Labour suffers heavy elections losses</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-08 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778257549020_now_daily_a_va_supremecourt_map_260508_S3_1920x1080-c5h885.jpg" alt="Virginia Supreme Court blocks congressional map favoring Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/virginia-supreme-court-blocks-congressional-map-favoring-democrats-262999621971" target="_blank">Virginia Supreme Court blocks congressional map favoring Democrats</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-08 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-Overview-hero-500x500.jpg" alt="Course correction: Google to link more sources in AI Overviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/" target="_blank">Course correction: Google to link more sources in AI Overviews</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-08 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +165,20 @@
                 <span class="time">2026-05-08 15:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fb97105c1d9a514f66d2b3/master/pass/Backchannel-Q&A-Nick-Bostrom-Business-1145731695.jpg" alt="Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/" target="_blank">Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crisiscoresystems/the-protective-legitimacy-score-how-to-tell-whether-a-trust-claim-is-structural-1lgm" target="_blank">The Protective Legitimacy Score: How to Tell Whether a Trust Claim Is Structural</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 20:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +224,6 @@
                 <span class="time">2026-05-08 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/" target="_blank">No Dumb Questions: What is an MCP server and why do I care?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR473TH954R4M0R3DXKF2JQJ/hero-image.jpg" alt="The Fitbit App Is Losing All These Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbit-app-losing-these-features?utm_medium=RSS" target="_blank">The Fitbit App Is Losing All These Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-08 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-ioat-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Listen to almost 50 years of startup sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/08/listen-to-almost-50-years-of-startup-sounds.html" target="_blank">Listen to almost 50 years of startup sounds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-08 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/unlike-concord-sony-is-sticking-by-marathon-and-its-highly-engaged-fans-2000694302" target="_blank">Unlike Concord, Sony Is Sticking By Marathon And Its ‘Highly Engaged’ Fans</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Qlango-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop rage-quitting your language learning app and try this $49 lifetime subscription instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/08/stop-rage-quitting-your-language-learning-app-and-try-this-49-lifetime-subscription-instead.html" target="_blank">Stop rage-quitting your language learning app and try this $49 lifetime subscription instead</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR3XJFHWPZX3RZHVAWDYNSG3/hero-image.jpg" alt="Nintendo Is Raising the Price of the Nintendo Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nintendo-just-raised-the-price-of-the-nintendo-switch-2?utm_medium=RSS" target="_blank">Nintendo Is Raising the Price of the Nintendo Switch 2</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 14:01</span>
             </div>
         </div>
 </div>
@@ -364,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
