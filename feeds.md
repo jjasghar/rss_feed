@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 15:28:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-08 16:26:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 15:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 08, 2026 - 16:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss" target="_blank">Real Madrid fine Valverde and Tchouameni for dressing-room fight</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-08 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/9157bc30-4add-11f1-9eb0-1940b1e77213.jpg" alt="Iran accuses US of &#x27;reckless military adventure&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss" target="_blank">Iran accuses US of &#x27;reckless military adventure&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-08 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/08/g-s1-121074/hantavirus-contact-tracing" target="_blank">Contact tracing could be key in halting the spread of hantavirus. Here&#x27;s how it works</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-08 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +102,29 @@
                 <span class="time">2026-05-08 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: CDC classifies outbreak as &#x27;Level 3&#x27; emergency response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: CDC classifies outbreak as &#x27;Level 3&#x27; emergency response</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-08 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778245131337_now_mnn_april_jobs_report_260508_S3_1920x1080-iaah2h.jpg" alt="U.S. economy adds 115,000 jobs in April, unemployment rate at 4.3%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/u-s-economy-adds-115-000-jobs-in-april-unemployment-rate-at-4-3-262985797597" target="_blank">U.S. economy adds 115,000 jobs in April, unemployment rate at 4.3%</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-08 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs" target="_blank">U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-08 11:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/" target="_blank">Pentagon releases UFO files on new website</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-08 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/skyfall1-500x500.jpg" alt="Engineers at NASA&#x27;s Jet Propulsion Lab make a breakthrough in rotor technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/" target="_blank">Engineers at NASA&#x27;s Jet Propulsion Lab make a breakthrough in rotor technology</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-08 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,20 @@
                 <span class="time">2026-05-08 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/bottleneck-kv-no-signs-500x500.jpg" alt="Everyone’s a loser in Strait of Hormuz game that simulates global crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/" target="_blank">Everyone’s a loser in Strait of Hormuz game that simulates global crisis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-08 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fcd3263b9ebe84b418141e/master/pass/Buying%20Guide%20Best%20Mobile%20Gaming%20Controllers%20052026%20SOURCE%20Best%20Buy-Amazon.jpg" alt="The Best Mobile Gaming Controllers for iPhone and Android (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-mobile-gaming-controllers/" target="_blank">The Best Mobile Gaming Controllers for iPhone and Android (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-58i2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-08 16:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,46 +187,37 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaronmaxwell/emergent-abstractions-2ghd" target="_blank">Emergent Abstractions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18972871&w=600" alt="How AI Is Rewriting Full-Stack Java Systems: Practical Patterns with Spring Boot, Kafka and WebSockets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-ai-is-rewriting-full-stack-java-systems-practi" target="_blank">How AI Is Rewriting Full-Stack Java Systems: Practical Patterns with Spring Boot, Kafka and WebSockets</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa" target="_blank">Poland is now among the 20 largest economies. How it happened</a></span>
+                <span class="title"><a href="https://btxx.org/posts/memory/" target="_blank">Serving a Website on a Raspberry Pi Zero Running in RAM</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-08 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzz1hspid47rzm5n9741.png" alt="WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/guigenyi/wireguard-ji-zhu-jie-xi-xia-dai-vpn-xie-yi-de-she-ji-you-shi-yu-shi-jian-3j8f" target="_blank">WireGuard 技术解析：下一代 VPN 协议的设计、优势与实践</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 12:15</span>
+                <span class="time">2026-05-08 15:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/dirty-frag-linux-vulnerability-fixes-available" target="_blank">Dirty Frag Linux kernel local privilege escalation vulnerability mitigations</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-08 11:57</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/" target="_blank">How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/github-agentic-workflows/en/headerimage/generatedHeaderImage-1777009566990.jpg" alt="How GitHub Is Securing Agentic Workflows in Modern CI CD Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/github-agentic-workflows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How GitHub Is Securing Agentic Workflows in Modern CI CD Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-08 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/hp-z6-g5-a-2026" target="_blank">HP Z6 G5 A Continues Working Out Well For Linux-Friendly, High-End Workstation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-08 14:35</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/IMG_2758-1280x720.jpg" alt="Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319" target="_blank">Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-08 15:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/marathoncool-1280x720.jpg" alt="Unlike Concord, Sony Is Sticking By Marathon And Its ‘Highly Engaged’ Fans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +293,20 @@
                 <span class="time">2026-05-08 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/mario-kart-world-88-1280x720.jpg" alt="Almost 20 Million Switch 2s Have Been Sold, But Nintendo Worries About The Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-sales-mario-kart-world-2000694255" target="_blank">Almost 20 Million Switch 2s Have Been Sold, But Nintendo Worries About The Future</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-08 12:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778110193-20260508-edit.png" alt="Saturday Morning Breakfast Cereal - Block" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/block" target="_blank">Saturday Morning Breakfast Cereal - Block</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-08 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 15:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 16:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
