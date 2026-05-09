@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 08:29:22 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 09:27:51 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 08:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 09:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5814978/mia-politics-cudi-tour-conspiracy-theories" target="_blank">What is a radical? It&#x27;s the question of M.I.A.&#x27;s vexing career</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss" target="_blank">Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-09 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae29/live/c574c2e0-4b70-11f1-8994-bbeaa8785029.jpg" alt="Historic win for SNP but change and challenges ahead at Holyrood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9364lvpz2lo?at_medium=RSS&at_campaign=rss" target="_blank">Historic win for SNP but change and challenges ahead at Holyrood</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-09 07:41</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/hantavirus-figures-updated-as-cruise-ship-at-centre-of-outbreak-nears-the-canary-islands-13541775" target="_blank">Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-09 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss" target="_blank">Cambodians struggle with displaced lives amid tense ceasefire with Thailand</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4080/live/30edb8a0-4b18-11f1-b55d-0f258dce1735.jpg" alt="SNP wins Scottish election as Reform and Labour tie for second" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&at_campaign=rss" target="_blank">SNP wins Scottish election as Reform and Labour tie for second</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-09 00:55</span>
             </div>
         </div>
 </div>
@@ -172,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/turbo_electric_1c09f3bec0/how-human-feedback-actually-steers-tts-fine-tuning-1g4" target="_blank">How human feedback actually steers TTS fine-tuning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 09:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2" target="_blank">How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 08:14</span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-5ho2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yokomachi/i-built-an-issue-based-claude-code-plugin-cadenza-for-technical-output-creation-37hc" target="_blank">I Built an Issue-Based Claude Code Plugin &quot;cadenza&quot; for Technical Output Creation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 04:03</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
