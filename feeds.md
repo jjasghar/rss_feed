@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 15:16:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 16:14:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 15:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 16:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121305/frontier-airlines-plane-strikes-and-kills-pedestrian" target="_blank">Frontier Airlines plane strikes and kills pedestrian</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 15:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tenerife-tent-gty-jt-260509_1778337143002_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Spanish authorities preparing for M/V Hondius arrival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,6 +77,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media" target="_blank">‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss" target="_blank">Iran says it will play at 2026 World Cup if hosts address ‘concerns’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -80,29 +101,20 @@
                 <span class="time">2026-05-09 12:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778327093260_tdy_sat_castro_frontier_airlines_260509_S3_1920x1080-23mjy1.jpg" alt="Frontier Plane Aborts Takeoff After Hitting a Person on the Runway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/frontier-airlines-plane-hits-pedestrian-on-denver-airport-runway-263042629903" target="_blank">Frontier Plane Aborts Takeoff After Hitting a Person on the Runway</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-09 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran" target="_blank">An expert on Iranian politics reviews the status of negotiations to end the war on Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 11:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale" target="_blank">Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/instacart-promo/code/" target="_blank">Instacart Promo Code: $15 Off | May 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-09 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe6ebd4cce53c84e148d07/master/pass/Megelin-Deals-Gear.jpg" alt="Top Megelin Deals for Laser and LED Therapy Devices (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/megelin-deals-2026/" target="_blank">Top Megelin Deals for Laser and LED Therapy Devices (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 23:24</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/The-Dr.Buho-Mac-Utility-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Clear out storage for up to 3 Macs with BuhoCleaner for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/09/clear-out-storage-for-up-to-3-macs-with-buhocleaner-for-just-30.html" target="_blank">Clear out storage for up to 3 Macs with BuhoCleaner for just $30</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/psyhonaughts.jpg" alt="Psychonauts Maker Double Fine Just Became The 14th Gaming Team To Unionize At Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +301,6 @@
                 <span class="time">2026-05-08 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/darkest-1280x736.jpg" alt="Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator’s Iconic Voice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/darkest-dungeon-dev-would-never-use-ai-to-copy-deceased-narrators-iconic-voice-2000694393" target="_blank">Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator’s Iconic Voice</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-08 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +315,13 @@
                 <span class="time">2026-05-08 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778110193-20260508-edit.png" alt="Saturday Morning Breakfast Cereal - Block" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/block" target="_blank">Saturday Morning Breakfast Cereal - Block</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 15:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
