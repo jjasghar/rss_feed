@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-08 23:16:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 00:20:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, May 08, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/69fe6ebd4cce53c84e148d07/master/pass/Megelin-Deals-Gear.jpg" alt="Top Megelin Deals for Laser and LED Therapy Devices (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/megelin-deals-2026/" target="_blank">Top Megelin Deals for Laser and LED Therapy Devices (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-08 23:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise" target="_blank">Here is Yarbo’s promise to fix the robot mower that ran me over</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-08 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fdf4151d0ebeb1bdd41655/master/pass/2024-04-30-Composite-Sketch.jpg" alt="The Pentagon Releases New Trove of Declassified UFO Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pentagon-drops-new-ufo-files/" target="_blank">The Pentagon Releases New Trove of Declassified UFO Files</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-08 18:18</span>
             </div>
         </div>
 </div>
@@ -263,12 +268,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/venus.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="No one knows why dark side of Venus has a faint glow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/08/no-one-knows-why-dark-side-of-venus-has-a-faint-glow.html" target="_blank">No one knows why dark side of Venus has a faint glow</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-08 21:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQYZWZDJR16FTZFKRA96ZB4S/hero-image.jpg" alt="10 Hacks Every Google Meet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/hacks-every-google-meet-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Meet User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/darkest-1280x736.jpg" alt="Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator’s Iconic Voice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/darkest-dungeon-dev-would-never-use-ai-to-copy-deceased-narrators-iconic-voice-2000694393" target="_blank">Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator’s Iconic Voice</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-08 20:34</span>
             </div>
         </div>
 <div class="story">
@@ -287,24 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/08/listen-to-almost-50-years-of-startup-sounds.html" target="_blank">Listen to almost 50 years of startup sounds</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-08 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-air-preorder-deal-may-2026?utm_medium=RSS" target="_blank">You Can Get $35 in Google Store Credit If You Preorder the Fitbit Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/03/shutterstock_2354939185-e1773762558135.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="US and Iran practicing an &quot;Israeli ceasefire,&quot; by shooting at one another" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/08/us-and-iran-practicing-an-israeli-ceasefire-by-shooting-at-one-another.html" target="_blank">US and Iran practicing an &quot;Israeli ceasefire,&quot; by shooting at one another</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-08 18:24</span>
             </div>
         </div>
 </div>
@@ -353,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
