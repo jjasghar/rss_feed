@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 16:14:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 17:16:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 16:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 17:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +119,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/" target="_blank">The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-09 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026" target="_blank">These great digital gifts will arrive just in time for Mother’s Day</a></span>
                 <span class="feed">The Verge</span>
@@ -151,20 +161,20 @@
                 <span class="time">2026-05-09 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="Instacart Promo Code: $15 Off | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/instacart-promo/code/" target="_blank">Instacart Promo Code: $15 Off | May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-09 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music" target="_blank">Nocturne Is The Latest Music Player For GNOME To Hit v1.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-09 14:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2026-05-09 10:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-09 09:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/wiiupdatewednesday.jpg" alt="Fan Updates Nirvanna The Band’s Wii Shop Wednesday Song For Games Available On The Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fan-updates-nirvanna-the-bands-wii-shop-wednesday-song-for-games-available-on-the-switch-2000694589" target="_blank">Fan Updates Nirvanna The Band’s Wii Shop Wednesday Song For Games Available On The Switch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-09 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/The-Dr.Buho-Mac-Utility-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Clear out storage for up to 3 Macs with BuhoCleaner for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,27 +302,18 @@
                 <span class="time">2026-05-08 21:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQYZWZDJR16FTZFKRA96ZB4S/hero-image.jpg" alt="10 Hacks Every Google Meet User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-google-meet-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Google Meet User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1778110245-20260509-edit.png" alt="Saturday Morning Breakfast Cereal - Sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/08/retroactive" target="_blank">Retroactive</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-08 16:43</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sleep-2" target="_blank">Saturday Morning Breakfast Cereal - Sleep</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-09 15:20</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 17:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
