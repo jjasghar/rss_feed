@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 13:28:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 14:21:09 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 14:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cc/live/41c80090-4ad2-11f1-b55d-0f258dce1735.jpg" alt="Labour MPs have put Starmer on notice after election battering. Can he turn it around?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21e79qqlgo?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs have put Starmer on notice after election battering. Can he turn it around?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-09 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss" target="_blank">Displaced Lebanese children keep learning amid displacement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-09 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a03b/live/8a1de840-4b87-11f1-963a-870d5c61b753.jpg" alt="Putin denounces Nato at scaled back Victory Day parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss" target="_blank">Putin denounces Nato at scaled back Victory Day parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-09 11:15</span>
             </div>
         </div>
 </div>
@@ -163,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.55-Wayland-Comp" target="_blank">Hyprland 0.55 Released With Lua-Based Configuration, User-Defined Layouts</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-09 13:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfueqy2mglh4zzbm8qbf.png" alt="How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9" target="_blank">How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://internetarchive.ch/" target="_blank">Internet Archive Switzerland</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-09 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-09 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/turbo_electric_1c09f3bec0/how-human-feedback-actually-steers-tts-fine-tuning-1g4" target="_blank">How human feedback actually steers TTS fine-tuning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337295/lvfs-finally-has-premier-sponsors" target="_blank">Good Job Dell and Lenovo! Hope Others Follow You</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-09 08:44</span>
             </div>
         </div>
 </div>
@@ -244,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/subzeroWOKE-1280x720.jpg" alt="The 12 Best Mortal Kombat Fatalities Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392" target="_blank">The 12 Best Mortal Kombat Fatalities Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +298,6 @@
                 <span class="time">2026-05-08 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Image-ioat-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Listen to almost 50 years of startup sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/08/listen-to-almost-50-years-of-startup-sounds.html" target="_blank">Listen to almost 50 years of startup sounds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-08 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
