@@ -1,31 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 20:11:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 21:13:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 20:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 21:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/for-the-first-time-putin-says-hes-open-to-meeting-zelensky-outside-russia?traffic_source=rss" target="_blank">For the first time, Putin says he’s open to meeting Zelensky outside Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg" alt="Lebanon says Israeli strikes killed 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Israeli strikes killed 39</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-09 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +106,20 @@
                 <span class="time">2026-05-09 17:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121305/frontier-airlines-plane-strikes-and-kills-pedestrian" target="_blank">Frontier Airlines plane strikes and kills pedestrian</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tenerife-tent-gty-jt-260509_1778337143002_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Spanish authorities preparing for M/V Hondius arrival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Spanish authorities preparing for M/V Hondius arrival</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-09 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/" target="_blank">Fintech startup Parker files for bankruptcy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-09 20:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +163,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-captioning-glasses/" target="_blank">Best Live-Captioning Smart Glasses (2026), WIRED tested</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe07a3cd0ef37e86295695/master/pass/669808-Lynk%20&%20Co%20Concept%20Car%202-a010c2-original-1777016388.jpg" alt="The 19 Most Exciting Cars at the Beijing Auto Show 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/" target="_blank">The 19 Most Exciting Cars at the Beijing Auto Show 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-09 10:00</span>
             </div>
         </div>
 </div>
@@ -215,23 +226,27 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html" target="_blank">Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-08 21:03</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Lenovo-11.6.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This 2019 Chromebook is a schoolwork machine—get it now for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/09/this-2019-chromebook-is-a-schoolwork-machine-get-it-now-for-just-60.html" target="_blank">This 2019 Chromebook is a schoolwork machine—get it now for just $60</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/killingjoke.jpg" alt="Newest Edition Of Alan Moore’s Batman: The Killing Joke Costs Over $17,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/newest-edition-of-batman-the-killing-joke-costs-17-grand-2000694604" target="_blank">Newest Edition Of Alan Moore’s Batman: The Killing Joke Costs Over $17,000</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-09 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +283,6 @@
                 <span class="time">2026-05-09 14:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/subzeroWOKE-1280x720.jpg" alt="The 12 Best Mortal Kombat Fatalities Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-12-best-mortal-kombat-fatalities-ever-list-ranked-mk1-mk2-2000694392" target="_blank">The 12 Best Mortal Kombat Fatalities Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 21:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
