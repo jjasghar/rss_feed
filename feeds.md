@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 18:14:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-09 19:22:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 18:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 19:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies" target="_blank">Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-victory-day-moscow_7243305.jpg?20260509104955" alt="&lt;a href=&quot;https://news.sky.com/video/russia-holds-scaled-down-military-parade-13541925&quot;&gt;&#x27;Russia&#x27;s scaled-down Victory Day parade felt more like a display of weakness for Vladimir Putin&#x27;&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russias-scaled-down-victory-day-parade-felt-more-like-a-display-of-weakness-for-vladimir-putin-13542067" target="_blank">&lt;a href=&quot;https://news.sky.com/video/russia-holds-scaled-down-military-parade-13541925&quot;&gt;&#x27;Russia&#x27;s scaled-down Victory Day parade felt more like a display of weakness for Vladimir Putin&#x27;&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-09 17:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx21e79qqlgo?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs have put Starmer on notice after election battering. Can he turn it around?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-09 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media" target="_blank">‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss" target="_blank">Iran says it will play at 2026 World Cup if hosts address ‘concerns’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 12:40</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sounds-like-lx/from-spawn-to-futuresunordered-how-community-feedback-reshaped-our-async-design-2lpa" target="_blank">From Spawn to FuturesUnordered: How Community Feedback Reshaped Our Async Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260506" target="_blank">Microsoft Releases Azure Linux 3.0.20260506 With Many Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-09 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://xunroll.com/thread/2053047748191232310" target="_blank">Bun ported to Rust in 6 days</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-09 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music" target="_blank">Nocturne Is The Latest Music Player For GNOME To Hit v1.0</a></span>
                 <span class="feed">Phoronix</span>
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9" target="_blank">How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://internetarchive.ch/" target="_blank">Internet Archive Switzerland</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Hype Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-ai-hype-crisis-3d9b" target="_blank">The AI Hype Crisis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-2605-Released" target="_blank">FEX 2605 Brings Performance Improvements, Initial Snapdragon X2 Elite Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-09 10:58</span>
             </div>
         </div>
 </div>
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:15 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 19:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
