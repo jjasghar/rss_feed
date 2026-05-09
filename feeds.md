@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 22:12:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 23:14:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 22:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 23:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/dr-steve-kornfeld-ht-jt-260509_1778364213931_hpMain_4x3t_384.jpg" alt="Hantavirus: American oncologist who became cruise ship&#x27;s de facto head doctor speaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/american-oncologist-cruise-ships-de-facto-head-doctor/story?id=132815895" target="_blank">Hantavirus: American oncologist who became cruise ship&#x27;s de facto head doctor speaks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-09 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies" target="_blank">Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-09 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-victory-day-moscow_7243305.jpg?20260509104955" alt="&lt;a href=&quot;https://news.sky.com/video/russia-holds-scaled-down-military-parade-13541925&quot;&gt;&#x27;Russia&#x27;s scaled-down Victory Day parade felt more like a display of weakness for Vladimir Putin&#x27;&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russias-scaled-down-victory-day-parade-felt-more-like-a-display-of-weakness-for-vladimir-putin-13542067" target="_blank">&lt;a href=&quot;https://news.sky.com/video/russia-holds-scaled-down-military-parade-13541925&quot;&gt;&#x27;Russia&#x27;s scaled-down Victory Day parade felt more like a display of weakness for Vladimir Putin&#x27;&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-09 17:59</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3" target="_blank">We built a kitten care app that surfaces today&#x27;s task, not a static guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m" target="_blank">IndexNow, libSQL, and three other tools I reached for this week</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 22:08</span>
@@ -204,15 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music" target="_blank">Nocturne Is The Latest Music Player For GNOME To Hit v1.0</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-09 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.55-Wayland-Comp" target="_blank">Hyprland 0.55 Released With Lua-Based Configuration, User-Defined Layouts</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-09 13:56</span>
             </div>
         </div>
 </div>
@@ -293,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
