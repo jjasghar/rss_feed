@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 21:13:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 22:12:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 21:13 UTC</div>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 22:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -83,6 +74,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service" target="_blank">&#x27;We&#x27;re dry:&#x27; The new U.S. Wildland Fire Service prepares for extreme fire season</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies" target="_blank">Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-09 18:41</span>
@@ -97,20 +97,20 @@
                 <span class="time">2026-05-09 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121307/cdc-says-threat-of-widespread-outbreak-of-hantavirus-remains-low" target="_blank">CDC says threat of widespread outbreak of hantavirus remains low</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank">So you’ve heard these AI terms and nodded along; let’s fix that</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-09 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +156,20 @@
                 <span class="time">2026-05-09 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe2979fc6b0497642cc8f5/master/pass/Best%20Captioning%20Glasses%20top%20art%20052026%20SOURCE%20Even%20Realities.jpg" alt="Best Live-Captioning Smart Glasses (2026), WIRED tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-captioning-glasses/" target="_blank">Best Live-Captioning Smart Glasses (2026), WIRED tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-09 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m" target="_blank">IndexNow, libSQL, and three other tools I reached for this week</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.55-Wayland-Comp" target="_blank">Hyprland 0.55 Released With Lua-Based Configuration, User-Defined Layouts</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-09 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfueqy2mglh4zzbm8qbf.png" alt="How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9" target="_blank">How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 13:26</span>
             </div>
         </div>
 </div>
@@ -302,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
