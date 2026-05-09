@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 09:27:51 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-09 10:18:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 09:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 10:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss" target="_blank">Scaled-back Victory Day parade held in Moscow</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 10:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5814978/mia-politics-cudi-tour-conspiracy-theories" target="_blank">What is a radical? It&#x27;s the question of M.I.A.&#x27;s vexing career</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-09 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hondius-7-ap-gmh-260508_1778270942082_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: CDC tells US doctors be aware of imported hantavirus cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: CDC tells US doctors be aware of imported hantavirus cases</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-09 08:58</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +97,20 @@
                 <span class="time">2026-05-09 05:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech" target="_blank">ABC argues Trump administration is trying to chill free speech</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-mvhondius-hantavirus_7240928.jpg?20260506213249" alt="Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hantavirus-figures-updated-as-cruise-ship-at-centre-of-outbreak-nears-the-canary-islands-13541775" target="_blank">Hantavirus figures updated - as cruise ship at centre of outbreak nears the Canary Islands</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-09 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fe07a3cd0ef37e86295695/master/pass/669808-Lynk%20&%20Co%20Concept%20Car%202-a010c2-original-1777016388.jpg" alt="The 19 Most Exciting Cars at the Beijing Auto Show 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/" target="_blank">The 19 Most Exciting Cars at the Beijing Auto Show 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-09 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="Instacart Promo Code: $15 Off | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/" target="_blank">Trump reportedly plans to fire FDA Commissioner Marty Makary</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-08 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display" target="_blank">Asus chases Elgato with its own secondary touchscreen display</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-08 20:34</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
