@@ -1,26 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 17:16:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 18:14:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
@@ -28,11 +27,10 @@
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 17:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121307/cdc-says-threat-of-widespread-outbreak-of-hantavirus-remains-low" target="_blank">CDC says threat of widespread outbreak of hantavirus remains low</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss" target="_blank">Iran says it will play at 2026 World Cup if hosts address ‘concerns’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-09 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fee4/live/60df0610-4ba2-11f1-ab7c-8f5ba6f1c1f4.jpg" alt="Man critically injured after car hits pedestrians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrpgp91rwwo?at_medium=RSS&at_campaign=rss" target="_blank">Man critically injured after car hits pedestrians</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-09 12:37</span>
             </div>
         </div>
 </div>
@@ -234,20 +232,20 @@
                 <span class="time">2026-05-08 21:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html" target="_blank">Insider Betting on Polymarket</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-08 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-is-emailing-ps4-owners-and-telling-them-to-buy-a-ps5-for-gta-6-and-fans-think-its-the-start-of-something-2000694579" target="_blank">Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-09 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/wiiupdatewednesday.jpg" alt="Fan Updates Nirvanna The Band’s Wii Shop Wednesday Song For Games Available On The Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +291,6 @@
                 <span class="time">2026-05-08 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/venus.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="No one knows why dark side of Venus has a faint glow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/08/no-one-knows-why-dark-side-of-venus-has-a-faint-glow.html" target="_blank">No one knows why dark side of Venus has a faint glow</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-08 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 17:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
