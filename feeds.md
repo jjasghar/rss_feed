@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 00:20:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 01:31:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +114,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-500x500.jpg" alt="Manufacturing qubits that can move" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/" target="_blank">Manufacturing qubits that can move</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-08 23:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -153,20 +158,29 @@
                 <span class="time">2026-05-08 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise" target="_blank">Here is Yarbo’s promise to fix the robot mower that ran me over</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-08 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rainxchzed/how-i-built-github-store-to-12500-stars-in-6-months-i-started-at-16-4c78" target="_blank">How I built GitHub Store to 12,500 stars in 6 months — I started at 16</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-HDR-ICC" target="_blank">KDE Plasma 6.7 To Support ICC Profiles In HDR Mode, Direct Scan-Out Improvement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-09 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/building-a-production-ready-ai-agent-in-2026" target="_blank">Building a Production-Ready AI Agent in 2026: Beyond the Hello World Demo</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3" target="_blank">We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users" target="_blank">Google broke reCAPTCHA for de-googled Android users</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-08 18:45</span>
             </div>
         </div>
 </div>
@@ -358,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
