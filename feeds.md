@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 10:18:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 11:15:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 10:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 11:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss" target="_blank">US military kills two people in new eastern Pacific Ocean attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +103,20 @@
                 <span class="time">2026-05-09 07:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs?traffic_source=rss" target="_blank">Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 05:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69fe2979fc6b0497642cc8f5/master/pass/Best%20Captioning%20Glasses%20top%20art%20052026%20SOURCE%20Even%20Realities.jpg" alt="Best Live-Captioning Smart Glasses (2026), WIRED tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-captioning-glasses/" target="_blank">Best Live-Captioning Smart Glasses (2026), WIRED tested</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-09 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fe07a3cd0ef37e86295695/master/pass/669808-Lynk%20&%20Co%20Concept%20Car%202-a010c2-original-1777016388.jpg" alt="The 19 Most Exciting Cars at the Beijing Auto Show 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +162,38 @@
                 <span class="time">2026-05-08 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216571317-500x500.jpg" alt="Trump reportedly plans to fire FDA Commissioner Marty Makary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/" target="_blank">Trump reportedly plans to fire FDA Commissioner Marty Makary</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-08 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Hype Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-ai-hype-crisis-3d9b" target="_blank">The AI Hype Crisis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-2605-Released" target="_blank">FEX 2605 Brings Performance Improvements, Initial Snapdragon X2 Elite Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-09 10:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Fonttrio Launches as Open-Source Font Pairing Registry for shadcn/ui</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-09 09:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,46 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337295/lvfs-finally-has-premier-sponsors" target="_blank">Good Job Dell and Lenovo! Hope Others Follow You</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-09 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2" target="_blank">How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 08:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151" target="_blank">Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/aurora-serverless-v4/en/headerimage/generatedHeaderImage-1777309076897.jpg" alt="AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/aurora-serverless-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-09 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337269/dirty-frag-linux-exploit" target="_blank">Dirty Frag is a New Linux Exploit That Grants Root, and There&amp;#x27;s No Proper Patch Yet</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-09 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-5ho2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 05:45</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
