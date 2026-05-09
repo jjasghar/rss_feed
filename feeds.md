@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 07:31:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-09 08:29:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 07:31 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 08:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss" target="_blank">Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 07:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&at_campaign=rss" target="_blank">SNP wins Scottish election as Reform and Labour tie for second</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-09 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778282143240_nn_cku_iran_tankers_260508_S3_1920x1080-9912v1.jpg" alt="U.S. and Iran exchange fire as Trump says ceasefire still holds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-and-iran-exchange-fire-as-trump-says-ceasefire-still-holds-263025733567" target="_blank">U.S. and Iran exchange fire as Trump says ceasefire still holds</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-08 23:15</span>
             </div>
         </div>
 </div>
@@ -163,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2" target="_blank">How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 08:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151" target="_blank">Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 07:24</span>
@@ -202,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/yokomachi/i-built-an-issue-based-claude-code-plugin-cadenza-for-technical-output-creation-37hc" target="_blank">I Built an Issue-Based Claude Code Plugin &quot;cadenza&quot; for Technical Output Creation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/" target="_blank">A recent experience with ChatGPT 5.5 Pro</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-09 02:41</span>
             </div>
         </div>
 </div>
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 07:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 08:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
