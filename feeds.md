@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 12:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 13:28:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 12:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +48,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss" target="_blank">Iran says it will play at 2026 World Cup if hosts address ‘concerns’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fee4/live/60df0610-4ba2-11f1-ab7c-8f5ba6f1c1f4.jpg" alt="Man critically injured after car hits pedestrians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrpgp91rwwo?at_medium=RSS&at_campaign=rss" target="_blank">Man critically injured after car hits pedestrians</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-09 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778327093260_tdy_sat_castro_frontier_airlines_260509_S3_1920x1080-23mjy1.jpg" alt="Frontier Plane Aborts Takeoff After Hitting a Person on the Runway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/frontier-airlines-plane-hits-pedestrian-on-denver-airport-runway-263042629903" target="_blank">Frontier Plane Aborts Takeoff After Hitting a Person on the Runway</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-09 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran" target="_blank">An expert on Iranian politics reviews the status of negotiations to end the war on Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-09 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss" target="_blank">Displaced Lebanese children keep learning amid displacement</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-09 11:33</span>
@@ -66,42 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss" target="_blank">Putin denounces Nato at scaled back Victory Day parade</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-09 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss" target="_blank">US military kills two people in new eastern Pacific Ocean attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss" target="_blank">Scaled-back Victory Day parade held in Moscow</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5814978/mia-politics-cudi-tour-conspiracy-theories" target="_blank">What is a radical? It&#x27;s the question of M.I.A.&#x27;s vexing career</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hondius-7-ap-gmh-260508_1778270942082_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: CDC tells US doctors be aware of imported hantavirus cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: CDC tells US doctors be aware of imported hantavirus cases</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-09 08:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxfueqy2mglh4zzbm8qbf.png" alt="How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9" target="_blank">How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 13:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos7pdncawa0mgqcin0gf.png" alt="The AI Hype Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337295/lvfs-finally-has-premier-sponsors" target="_blank">Good Job Dell and Lenovo! Hope Others Follow You</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-09 08:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucas_zhuang/how-i-built-an-ai-emoji-generator-with-nextjs-15-cloudflare-workers-ai-4hn2" target="_blank">How I Built an AI Emoji Generator with Next.js 15 &amp; Cloudflare Workers AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 08:14</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
