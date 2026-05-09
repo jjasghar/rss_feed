@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 01:31:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing 54 RSS feeds at 2026-05-09 02:59:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 0 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 02:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -240,15 +238,6 @@
                 <span class="time">2026-05-08 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/" target="_blank">Canvas Breach Disrupts Schools &amp; Colleges Nationwide</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-05-08 02:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -354,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
