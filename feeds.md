@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 02:59:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 04:15:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 02:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss" target="_blank">Cambodians struggle with displaced lives amid tense ceasefire with Thailand</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 01:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778282143240_nn_cku_iran_tankers_260508_S3_1920x1080-9912v1.jpg" alt="U.S. and Iran exchange fire as Trump says ceasefire still holds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-and-iran-exchange-fire-as-trump-says-ceasefire-still-holds-263025733567" target="_blank">U.S. and Iran exchange fire as Trump says ceasefire still holds</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-08 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/davis-global-center-ht-jt-260508_1778269774950_hpMain_4x3t_384.jpg" alt="What to know about Nebraska quarantine unit as it prepares for cruise ship passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department" target="_blank">UFO files spanning decades are released by Defense Department</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-08 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss" target="_blank">Protests in the Canary Islands as virus-stricken ship heads for port</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-08 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Health/Hantavirus-6-rt-gmh-260507_1778159330095_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 2 New Jersey residents being monitored for hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 2 New Jersey residents being monitored for hantavirus</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-08 18:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yokomachi/i-built-an-issue-based-claude-code-plugin-cadenza-for-technical-output-creation-37hc" target="_blank">I Built an Issue-Based Claude Code Plugin &quot;cadenza&quot; for Technical Output Creation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rainxchzed/how-i-built-github-store-to-12500-stars-in-6-months-i-started-at-16-4c78" target="_blank">How I built GitHub Store to 12,500 stars in 6 months — I started at 16</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 01:20</span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/crisiscoresystems/the-protective-legitimacy-score-how-to-tell-whether-a-trust-claim-is-structural-1lgm" target="_blank">The Protective Legitimacy Score: How to Tell Whether a Trust Claim Is Structural</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-08 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18974417&w=600" alt="Building a Production-Ready AI Agent in 2026: Beyond the Hello World Demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-production-ready-ai-agent-in-2026" target="_blank">Building a Production-Ready AI Agent in 2026: Beyond the Hello World Demo</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-08 20:00</span>
             </div>
         </div>
 </div>
@@ -329,22 +329,13 @@
                 <span class="time">2026-05-08 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/crystal_gazing.png" alt="Crystal Gazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3243/" target="_blank">Crystal Gazing</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-08 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
