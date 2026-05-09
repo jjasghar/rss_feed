@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 06:38:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 07:31:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 06:38 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 07:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs?traffic_source=rss" target="_blank">Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 05:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/u-s-and-iran-exchange-fire-as-trump-says-ceasefire-still-holds-263025733567" target="_blank">U.S. and Iran exchange fire as Trump says ceasefire still holds</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-08 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/davis-global-center-ht-jt-260508_1778269774950_hpMain_4x3t_384.jpg" alt="What to know about Nebraska quarantine unit as it prepares for cruise ship passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Health/nebraskas-national-quarantine-unit-prepares-bring-hantavirus-cruise/story?id=132794162" target="_blank">What to know about Nebraska quarantine unit as it prepares for cruise ship passengers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-08 22:01</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151" target="_blank">Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-09 07:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/aurora-serverless-v4/en/headerimage/generatedHeaderImage-1777309076897.jpg" alt="AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/aurora-serverless-v4/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Improves Aurora Serverless: 45% Faster Ramp-Up, 30% Higher Throughput</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-09 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337269/dirty-frag-linux-exploit" target="_blank">Dirty Frag is a New Linux Exploit That Grants Root, and There&amp;#x27;s No Proper Patch Yet</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-09 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-5ho2" target="_blank">Day 1 — I&#x27;m Homeless. I Just Shipped an Autonomous Multi-Agent System.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 05:45</span>
@@ -186,33 +211,6 @@
                 <span class="title"><a href="https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/" target="_blank">A recent experience with ChatGPT 5.5 Pro</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-09 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rainxchzed/how-i-built-github-store-to-12500-stars-in-6-months-i-started-at-16-4c78" target="_blank">How I built GitHub Store to 12,500 stars in 6 months — I started at 16</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-HDR-ICC" target="_blank">KDE Plasma 6.7 To Support ICC Profiles In HDR Mode, Direct Scan-Out Improvement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-09 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96" target="_blank">Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-08 23:08</span>
             </div>
         </div>
 </div>
@@ -320,22 +318,13 @@
                 <span class="time">2026-05-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/08/retroactive" target="_blank">Retroactive</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-08 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 07:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
