@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 14:21:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-09 15:16:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 14:21 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 09, 2026 - 15:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tenerife-tent-gty-jt-260509_1778337143002_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Spanish authorities preparing for M/V Hondius arrival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Spanish authorities preparing for M/V Hondius arrival</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-09 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cc/live/41c80090-4ad2-11f1-b55d-0f258dce1735.jpg" alt="Labour MPs have put Starmer on notice after election battering. Can he turn it around?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +98,20 @@
                 <span class="time">2026-05-09 11:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss" target="_blank">Displaced Lebanese children keep learning amid displacement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026" target="_blank">These great digital gifts will arrive just in time for Mother’s Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240670637-500x500.jpg" alt="The new Wild West of AI kids’ toys" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/megelin-deals-2026/" target="_blank">Top Megelin Deals for Laser and LED Therapy Devices (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-08 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1726618763-500x500.jpg" alt="Manufacturing qubits that can move" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/" target="_blank">Manufacturing qubits that can move</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-08 23:13</span>
             </div>
         </div>
 </div>
@@ -245,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/psyhonaughts.jpg" alt="Psychonauts Maker Double Fine Just Became The 14th Gaming Team To Unionize At Microsoft" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/psychonauts-maker-double-fine-just-became-the-14th-gaming-team-to-unionize-at-microsoft-2000694575" target="_blank">Psychonauts Maker Double Fine Just Became The 14th Gaming Team To Unionize At Microsoft</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-09 14:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/subzeroWOKE-1280x720.jpg" alt="The 12 Best Mortal Kombat Fatalities Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +298,6 @@
                 <span class="time">2026-05-08 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR473TH954R4M0R3DXKF2JQJ/hero-image.jpg" alt="The Fitbit App Is Losing All These Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-app-losing-these-features?utm_medium=RSS" target="_blank">The Fitbit App Is Losing All These Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-08 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 15:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
