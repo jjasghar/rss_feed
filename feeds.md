@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 11:17:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-10 12:13:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 11:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 12:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/why-is-being-a-mother-so-expensive-in-the-united-states?traffic_source=rss" target="_blank">Why is being a mother so expensive in the United States?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers" target="_blank">Happy Mother&#x27;s Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg" alt="Spain starts evacuating virus-hit cruise ship in Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,35 +98,35 @@
                 <span class="time">2026-05-10 08:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss" target="_blank">Cruise ship hit by hantavirus outbreak arrives in Tenerife</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32af/live/5301da10-4bff-11f1-96df-11e294cb5416.jpg" alt="Virus-hit cruise ship arrives in Tenerife as medics await passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Virus-hit cruise ship arrives in Tenerife as medics await passengers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 06:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1918986158-500x500.jpg" alt="Do you take after your dad’s RNA?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/" target="_blank">Do you take after your dad’s RNA?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-10 11:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1421333093-500x500.jpg" alt="Huge landslide created a 500-meter-high tsunami in a major tourist area" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/" target="_blank">Huge landslide created a 500-meter-high tsunami in a major tourist area</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-10 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fe0496091fad5afc47d051/master/pass/GettyImages-1209069405.jpg" alt="Could Contact-Tracing Apps Help With the Hantavirus? Not Really" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/" target="_blank">Could Contact-Tracing Apps Help With the Hantavirus? Not Really</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2026-05-10 11:00</span>
             </div>
         </div>
@@ -134,29 +157,20 @@
                 <span class="time">2026-05-09 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/" target="_blank">Fintech startup Parker files for bankruptcy</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-09 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale" target="_blank">Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-09 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3290415%2F0e87c57e-67dd-4d76-9d94-19439fcbf790.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/spark16x/-2768" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 12:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg" target="_blank">Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/mysql-97-lts/en/headerimage/generatedHeaderImage-1777530966582.jpg" alt="MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-10 06:30</span>
             </div>
         </div>
 </div>
@@ -289,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
