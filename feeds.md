@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 21:14:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 22:13:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss" target="_blank">Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ed/live/2f6da300-4cb2-11f1-b4e4-6525d59b4000.jpg" alt="Starmer to promise bolder action as leadership threats mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to promise bolder action as leadership threats mount</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6404/live/84c40c90-4cad-11f1-8b87-73c96a3250ee.jpg" alt="Trump calls Iran response to US proposal to end war &#x27;totally unacceptable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-05-10 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b76/live/b2c3b280-4c8f-11f1-ac78-2112837ce2aa.png" alt="Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham to return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss" target="_blank">Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham to return</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b76/live/b2c3b280-4c8f-11f1-ac78-2112837ce2aa.png" alt="Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham&#x27;s return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss" target="_blank">Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham&#x27;s return</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/" target="_blank">Get ready for the whisper-filled office of the future</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-10 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2026-05-10 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on" target="_blank">Cricut’s $99 craft cutting machine helped me feel creative again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-10 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad" target="_blank">API-First with Hono: OpenAPI to Typed Routes Without Lock-in</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc3-Released" target="_blank">Linux 7.1-rc3 Released With Many Networking Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-10 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsvgkize6jo13w3ntfdf.png" alt="The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,29 +220,20 @@
                 <span class="time">2026-05-10 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok" target="_blank">One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0e14zdn09bolquizekst.png" alt="Small update on OutreachFlow — making AI cold emails sound more human" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raratastudio/small-update-on-outreachflow-making-ai-cold-emails-sound-more-human-4d7" target="_blank">Small update on OutreachFlow — making AI cold emails sound more human</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your PC can be saved—Windows 11 Pro is just $9.97 through May 18" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/10/your-pc-can-be-saved-windows-11-pro-is-just-9-97-through-may-18.html" target="_blank">Your PC can be saved—Windows 11 Pro is just $9.97 through May 18</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-10 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/8vpninh43lu81-1280x720.jpg" alt="Pentagon Declassifies More UFO Sightings Though No Sight Of Little Green Space Dudes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +279,6 @@
                 <span class="time">2026-05-10 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Androrlogo-e1778368421112.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="This fan edit corrects the continuty problems of a Star Wars favorite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/09/this-fan-edit-corrects-the-continuty-problems-of-a-star-wars-favorite.html" target="_blank">This fan edit corrects the continuty problems of a Star Wars favorite</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-09 23:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
