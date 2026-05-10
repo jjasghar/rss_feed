@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 07:40:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-10 08:33:48 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 07:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 08:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss" target="_blank">Deadly car bomb attack hits checkpoint in northwest Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 08:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss" target="_blank">Cruise ship hit by hantavirus outbreak arrives in Tenerife</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-10 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32af/live/5301da10-4bff-11f1-96df-11e294cb5416.jpg" alt="Virus-hit cruise ship arrives in Tenerife as medics await passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Virus-hit cruise ship arrives in Tenerife as medics await passengers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 06:42</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318" target="_blank">Hantavirus-stricken cruise ship arrives in Tenerife</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-10 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss" target="_blank">‘No Kings’ protest outside Buckingham Palace</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale" target="_blank">Protests and boycotts rock prestigious Venice Biennale</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-10 01:41</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8" target="_blank">I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 08:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg" target="_blank">Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 07:31</span>
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/pratham69/javascript-arrays-101-3hd1" target="_blank">JavaScript Arrays 101</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kconfirm" target="_blank">Kconfirm Is On A Quest To Clean Up The Linux Kernel&#x27;s Configuration System</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-10 00:29</span>
             </div>
         </div>
 </div>
@@ -298,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:40 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
