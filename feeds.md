@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 14:22:58 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-10 15:18:10 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 14:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 15:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e0/live/21c4e4d0-4c5c-11f1-b337-4336d7a060d1.jpg" alt="Labour MP challenges ministers to move against Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss" target="_blank">Labour MP challenges ministers to move against Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 14:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine" target="_blank">Willy Wonka would love this laboratory that checks the quality of chocolate</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-10 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss" target="_blank">Football on ruins: Gaza’s orphans find refuge on the pitch</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 13:52</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We need to move quickly,&#x27; says Labour MP seeking to challenge PM</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-10 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17a3/live/fb8dfc30-4c5a-11f1-bd52-e755d604ece4.jpg" alt="Tories are still biggest party on the right, claims Cleverly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7v9778r9q9o?at_medium=RSS&at_campaign=rss" target="_blank">Tories are still biggest party on the right, claims Cleverly</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green" target="_blank">Keir Starmer&#x27;s party lost big in U.K. local elections. Here&#x27;s what comes next.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-10 12:27</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0e14zdn09bolquizekst.png" alt="Small update on OutreachFlow — making AI cold emails sound more human" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raratastudio/small-update-on-outreachflow-making-ai-cold-emails-sound-more-human-4d7" target="_blank">Small update on OutreachFlow — making AI cold emails sound more human</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 15:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,20 +221,20 @@
                 <span class="time">2026-05-10 11:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337726/fedora-ai-developer-desktops" target="_blank">After Ubuntu, Now Fedora is Jumping Onto the AI Bandwagon With Dedicated AI Developer Desktops</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-10 10:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why pay for Microsoft 365 every month when you can pay $30 once and get Microsoft Office forever?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/10/why-pay-for-microsoft-365-every-month-when-you-can-pay-30-once-and-get-microsoft-office-forever.html" target="_blank">Why pay for Microsoft 365 every month when you can pay $30 once and get Microsoft Office forever?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha.jpg" alt="Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +280,6 @@
                 <span class="time">2026-05-09 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/wiiupdatewednesday.jpg" alt="Fan Updates Nirvanna The Band’s Wii Shop Wednesday Song For Games Available On The Switch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fan-updates-nirvanna-the-bands-wii-shop-wednesday-song-for-games-available-on-the-switch-2000694589" target="_blank">Fan Updates Nirvanna The Band’s Wii Shop Wednesday Song For Games Available On The Switch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-09 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
