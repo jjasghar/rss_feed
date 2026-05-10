@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 08:33:48 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-10 09:29:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 08:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 09:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/ship-main_1778394782481_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Evacuations begin after MV Hondius arrives in Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Evacuations begin after MV Hondius arrives in Canary Islands</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-10 09:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar" target="_blank">Iran ceasefire tested as cargo ship catches fire after being hit off Qatar&#x27;s coast</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 09:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: MV Hondius arrives off the coast of Tenerife</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-10 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war?traffic_source=rss" target="_blank">Two wins, two losses: What India, Pakistan have learned a year after war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260510-hondius-cc-0124a-9dc820.jpg" alt="Hantavirus-stricken cruise ship arrives in Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318" target="_blank">Hantavirus-stricken cruise ship arrives in Tenerife</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-10 05:01</span>
             </div>
         </div>
 </div>
@@ -163,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19" target="_blank">Day 3 - Chunking - RAG</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8" target="_blank">I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 08:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/" target="_blank">Rotten Dot Com</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-10 08:25</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o" target="_blank">Leveraging Amazon GuardDuty suppression rules to eliminate noise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/imtomt/ymawky" target="_blank">Show HN: Building a web server in assembly to give my life (a lack of) meaning</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-10 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pratham69/javascript-arrays-101-3hd1" target="_blank">JavaScript Arrays 101</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 01:19</span>
             </div>
         </div>
 </div>
@@ -292,7 +300,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:33 UTC
+        🔄 Last Updated: 09:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
