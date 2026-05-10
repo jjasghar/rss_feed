@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-09 23:14:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 00:19:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 09, 2026 - 23:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 00:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss" target="_blank">WHO chief says Hantavirus outbreak ‘is not COVID’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-09 23:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/dr-steve-kornfeld-ht-jt-260509_1778364213931_hpMain_4x3t_384.jpg" alt="Hantavirus: American oncologist who became cruise ship&#x27;s de facto head doctor speaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service" target="_blank">&#x27;We&#x27;re dry:&#x27; The new U.S. Wildland Fire Service prepares for extreme fire season</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-09 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies" target="_blank">Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-09 18:41</span>
             </div>
         </div>
 </div>
@@ -158,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq2c5nt9jndbfdinm30ys.jpg" alt="The Developer Pay Paradox: Are Junior Devs, Staff Engineers and Most Developers Over- or Under-paid?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bradleymatera/the-developer-pay-paradox-are-junior-devs-staff-engineers-and-most-developers-over-or-under-paid-oid" target="_blank">The Developer Pay Paradox: Are Junior Devs, Staff Engineers and Most Developers Over- or Under-paid?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 00:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +220,6 @@
                 <span class="title"><a href="https://xunroll.com/thread/2053047748191232310" target="_blank">Bun ported to Rust in 6 days</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-09 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Nocturne-1.0-GNOME-Music" target="_blank">Nocturne Is The Latest Music Player For GNOME To Hit v1.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-09 14:24</span>
             </div>
         </div>
 </div>
@@ -290,7 +301,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:14 UTC
+        🔄 Last Updated: 00:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
