@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 19:22:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 20:12:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 19:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 20:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -177,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/116550899908879585" target="_blank">Hardware Attestation as Monopoly Enabler</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-10 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://news.ycombinator.com/item?id=48085384" target="_blank">Remind HN: Today is Mother&#x27;s Day, call your moms</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-10 16:37</span>
@@ -209,20 +213,20 @@
                 <span class="time">2026-05-10 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337795/moving-from-onedrive-to-ente-photos" target="_blank">I Moved My Photos from OneDrive to Ente Photos, and I&amp;#x27;m Not Going Back</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-10 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/8vpninh43lu81-1280x720.jpg" alt="Pentagon Declassifies More UFO Sightings Though No Sight Of Little Green Space Dudes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pentagon-declassifies-more-ufo-sightings-though-no-sight-of-little-green-space-dudes-2000694679" target="_blank">Pentagon Declassifies More UFO Sightings Though No Sight Of Little Green Space Dudes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-10 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/ps3-update.jpg" alt="PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +272,6 @@
                 <span class="time">2026-05-09 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Lenovo-11.6.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This 2019 Chromebook is a schoolwork machine—get it now for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/09/this-2019-chromebook-is-a-schoolwork-machine-get-it-now-for-just-60.html" target="_blank">This 2019 Chromebook is a schoolwork machine—get it now for just $60</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-09 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,7 +292,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 19:22 UTC
+        🔄 Last Updated: 20:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
