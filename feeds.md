@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 20:12:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 21:14:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 20:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6404/live/84c40c90-4cad-11f1-8b87-73c96a3250ee.jpg" alt="Trump calls Iran response to US proposal to end war &#x27;totally unacceptable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls Iran response to US proposal to end war &#x27;totally unacceptable&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco" target="_blank">Body of missing US soldier recovered off coast of Morocco</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-10 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Khamenei-DB-260510_1778421445289_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump calls Iran&#x27;s latest response &#x27;TOTALLY UNACCEPTABLE&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump calls Iran&#x27;s latest response &#x27;TOTALLY UNACCEPTABLE&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-10 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +97,29 @@
                 <span class="time">2026-05-10 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de71/live/72122540-4c81-11f1-bd52-e755d604ece4.jpg" alt="Countries airlift nationals evacuated from virus-hit cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Countries airlift nationals evacuated from virus-hit cruise ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss" target="_blank">Food inflation hammers households in war-hit Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e0/live/21c4e4d0-4c5c-11f1-b337-4336d7a060d1.jpg" alt="Labour MP challenges ministers to move against Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss" target="_blank">Labour MP challenges ministers to move against Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano" target="_blank">The Bastl Kalimba is a wild synth that thinks it’s a thumb piano</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-10 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/" target="_blank">Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-10 20:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +156,20 @@
                 <span class="time">2026-05-10 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/926250/netflix-tv-games-strategy" target="_blank">Netflix may have finally figured out games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1918986158-500x500.jpg" alt="Do you take after your dad’s RNA?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/" target="_blank">Do you take after your dad’s RNA?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-10 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsvgkize6jo13w3ntfdf.png" alt="The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5" target="_blank">The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/raratastudio/small-update-on-outreachflow-making-ai-cold-emails-sound-more-human-4d7" target="_blank">Small update on OutreachFlow — making AI cold emails sound more human</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo" target="_blank">Sessions vs JWT vs Cookies: Understanding Authentication Approaches</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 14:15</span>
             </div>
         </div>
 </div>
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 20:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
