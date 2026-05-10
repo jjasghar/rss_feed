@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 06:00:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-10 07:40:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 06:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 07:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss" target="_blank">Cruise ship hit by hantavirus outbreak arrives in Tenerife</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 06:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tenerife-main_1778391757109_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: MV Hondius arrives off the coast of Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260510-hondius-cc-0124a-9dc820.jpg" alt="Hantavirus-stricken cruise ship arrives in Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318" target="_blank">Hantavirus-stricken cruise ship arrives in Tenerife</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-10 05:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale" target="_blank">Protests and boycotts rock prestigious Venice Biennale</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-10 01:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/596e/live/a3fd37d0-4c03-11f1-ac78-2112837ce2aa.jpg" alt="Is Starmer&#x27;s leadership under serious threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss" target="_blank">Is Starmer&#x27;s leadership under serious threat?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-miami-florida-boat-explosion_7244135.jpg?20260510035102" alt="At least 15 injured after boat explosion in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-15-injured-after-boat-explosion-in-florida-13542181" target="_blank">At least 15 injured after boat explosion in Florida</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-09 23:43</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg" target="_blank">Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 07:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/mysql-97-lts/en/headerimage/generatedHeaderImage-1777530966582.jpg" alt="MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-10 06:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o" target="_blank">Leveraging Amazon GuardDuty suppression rules to eliminate noise</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 05:52</span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Kconfirm" target="_blank">Kconfirm Is On A Quest To Clean Up The Linux Kernel&#x27;s Configuration System</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-10 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq2c5nt9jndbfdinm30ys.jpg" alt="The Developer Pay Paradox: Are Junior Devs, Staff Engineers and Most Developers Over- or Under-paid?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bradleymatera/the-developer-pay-paradox-are-junior-devs-staff-engineers-and-most-developers-over-or-under-paid-oid" target="_blank">The Developer Pay Paradox: Are Junior Devs, Staff Engineers and Most Developers Over- or Under-paid?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 00:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3" target="_blank">We built a kitten care app that surfaces today&#x27;s task, not a static guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 23:05</span>
             </div>
         </div>
 </div>
@@ -291,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:00 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
