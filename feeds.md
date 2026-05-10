@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 17:17:17 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-10 18:14:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Error processing http://rss.cnn.com/rss/cnn_topstories.rss: timed out -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 17:17 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 18:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,7 +88,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine" target="_blank">Willy Wonka would love this laboratory that checks the quality of chocolate</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine" target="_blank">A chocolate laboratory in Italy will be good for chocolate eaters — and farmers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-10 14:07</span>
             </div>
@@ -92,10 +96,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss" target="_blank">Football on ruins: Gaza’s orphans find refuge on the pitch</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 13:52</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine" target="_blank">Willy Wonka would love this laboratory that checks the quality of chocolate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 14:07</span>
             </div>
         </div>
 </div>
@@ -103,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review" target="_blank">Ashnymph’s Childhood EP is exhilarating dance goth rock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-10 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,20 @@
                 <span class="time">2026-05-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe0496091fad5afc47d051/master/pass/GettyImages-1209069405.jpg" alt="Could Contact-Tracing Apps Help With the Hantavirus? Not Really" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/" target="_blank">Could Contact-Tracing Apps Help With the Hantavirus? Not Really</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-10 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330" target="_blank">Your Scrum Isn&#x27;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +220,20 @@
                 <span class="time">2026-05-10 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh" target="_blank">From Pydantic Model to AI Agent in 10 Lines of Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/ps3-update.jpg" alt="PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656" target="_blank">PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-10 18:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Spring-2026-anime-collage-Daemons-Of-The-Shadow-Realm-Go-For-It-Nakamura-kun-Nippon-Sangoku-1280x901.jpg" alt="The 10 Best New Anime You Should Be Watching Right Now In Spring 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +279,6 @@
                 <span class="time">2026-05-09 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/killingjoke.jpg" alt="Newest Edition Of Alan Moore’s Batman: The Killing Joke Costs Over $17,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/newest-edition-of-batman-the-killing-joke-costs-17-grand-2000694604" target="_blank">Newest Edition Of Alan Moore’s Batman: The Killing Joke Costs Over $17,000</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-09 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 17:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
