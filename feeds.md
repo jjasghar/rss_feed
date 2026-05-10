@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 10:23:57 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-10 11:17:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 10:24 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 11:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg" alt="Spain starts evacuating virus-hit cruise ship in Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Spain starts evacuating virus-hit cruise ship in Tenerife</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 10:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/ship-main_1778394782481_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Evacuations begin after MV Hondius arrives in Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +93,20 @@
                 <span class="time">2026-05-10 06:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tenerife-main_1778391757109_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: MV Hondius arrives off the coast of Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: MV Hondius arrives off the coast of Tenerife</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-10 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1421333093-500x500.jpg" alt="Huge landslide created a 500-meter-high tsunami in a major tourist area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/" target="_blank">Huge landslide created a 500-meter-high tsunami in a major tourist area</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" alt="How Handheld Translators Work and Why They’re Handy for Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +152,20 @@
                 <span class="time">2026-05-09 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/" target="_blank">The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-09 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337726/fedora-ai-developer-desktops" target="_blank">After Ubuntu, Now Fedora is Jumping Onto the AI Bandwagon With Dedicated AI Developer Desktops</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-10 10:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +209,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/mysql-97-lts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL 9.7: First Major LTS Since 8.4 Brings Enterprise Features to Community Edition</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-10 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o" target="_blank">Leveraging Amazon GuardDuty suppression rules to eliminate noise</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 05:52</span>
             </div>
         </div>
 </div>
@@ -290,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:24 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
