@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 13:28:14 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-10 14:22:58 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 14:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +48,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine" target="_blank">Willy Wonka would love this laboratory that checks the quality of chocolate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 14:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg" alt="First passengers fly home from virus-hit cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">First passengers fly home from virus-hit cruise ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss" target="_blank">Atef Najib faces at least 10 charges in landmark Syria trial</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-10 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e0/live/21c4e4d0-4c5c-11f1-b337-4336d7a060d1.jpg" alt="&#x27;We need to move quickly,&#x27; says Labour MP seeking to challenge PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We need to move quickly,&#x27; says Labour MP seeking to challenge PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 12:41</span>
             </div>
         </div>
 <div class="story">
@@ -77,38 +99,20 @@
                 <span class="time">2026-05-10 12:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tech-china-us-trump_7243649.jpg?20260509164604" alt="&lt;a href=&quot;https://news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958&quot;&gt;US v China: The Trump mistake that threatens American tech supremacy&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-v-china-the-trump-mistake-that-threatens-american-tech-supremacy-13542272" target="_blank">&lt;a href=&quot;https://news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958&quot;&gt;US v China: The Trump mistake that threatens American tech supremacy&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-10 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/why-is-being-a-mother-so-expensive-in-the-united-states?traffic_source=rss" target="_blank">Why is being a mother so expensive in the United States?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers" target="_blank">Happy Mother&#x27;s Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-10 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on" target="_blank">Cricut’s $99 craft cutting machine helped me feel creative again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-10 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +158,20 @@
                 <span class="time">2026-05-10 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/" target="_blank">Voice AI in India is hard. Wispr Flow is betting on it anyway.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-10 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo" target="_blank">Sessions vs JWT vs Cookies: Understanding Authentication Approaches</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 14:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,20 +217,20 @@
                 <span class="time">2026-05-10 10:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19" target="_blank">Day 3 - Chunking - RAG</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha.jpg" alt="Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646" target="_blank">Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-10 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Androrlogo-e1778368421112.jpg?fit=768%2C435&amp;quality=60&amp;ssl=1" alt="This fan edit corrects the continuty problems of a Star Wars favorite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +276,6 @@
                 <span class="time">2026-05-09 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/The-Dr.Buho-Mac-Utility-Lifetime-Bundle.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Clear out storage for up to 3 Macs with BuhoCleaner for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/09/clear-out-storage-for-up-to-3-macs-with-buhocleaner-for-just-30.html" target="_blank">Clear out storage for up to 3 Macs with BuhoCleaner for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-09 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
