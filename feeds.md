@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 12:13:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-10 13:28:14 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 12:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss" target="_blank">Atef Najib faces at least 10 charges in landmark Syria trial</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17a3/live/fb8dfc30-4c5a-11f1-bd52-e755d604ece4.jpg" alt="Tories are still biggest party on the right, claims Cleverly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7v9778r9q9o?at_medium=RSS&at_campaign=rss" target="_blank">Tories are still biggest party on the right, claims Cleverly</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green" target="_blank">Keir Starmer&#x27;s party lost big in U.K. local elections. Here&#x27;s what comes next.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 12:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-tech-china-us-trump_7243649.jpg?20260509164604" alt="&lt;a href=&quot;https://news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958&quot;&gt;US v China: The Trump mistake that threatens American tech supremacy&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/us-v-china-the-trump-mistake-that-threatens-american-tech-supremacy-13542272" target="_blank">&lt;a href=&quot;https://news.sky.com/video/us-v-china-who-is-the-worlds-tech-superpower-13541958&quot;&gt;US v China: The Trump mistake that threatens American tech supremacy&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-10 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/why-is-being-a-mother-so-expensive-in-the-united-states?traffic_source=rss" target="_blank">Why is being a mother so expensive in the United States?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-10 11:54</span>
@@ -62,47 +104,20 @@
                 <span class="time">2026-05-10 11:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg" alt="Spain starts evacuating virus-hit cruise ship in Tenerife" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Spain starts evacuating virus-hit cruise ship in Tenerife</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/ship-main_1778394782481_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: Evacuations begin after MV Hondius arrives in Canary Islands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: Evacuations begin after MV Hondius arrives in Canary Islands</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-10 09:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar" target="_blank">Iran ceasefire tested as cargo ship catches fire after being hit off Qatar&#x27;s coast</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-10 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss" target="_blank">Deadly car bomb attack hits checkpoint in northwest Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 08:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/926250/netflix-tv-games-strategy" target="_blank">Netflix may have finally figured out games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1918986158-500x500.jpg" alt="Do you take after your dad’s RNA?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +163,20 @@
                 <span class="time">2026-05-10 02:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank">So you’ve heard these AI terms and nodded along; let’s fix that</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-09 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh" target="_blank">From Pydantic Model to AI Agent in 10 Lines of Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3290415%2F0e87c57e-67dd-4d76-9d94-19439fcbf790.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +184,24 @@
                 <span class="title"><a href="https://dev.to/spark16x/-2768" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://brennan.io/2026/05/09/pinball-and-escrow/" target="_blank">Space Cadet Pinball on Linux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-10 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf" target="_blank">Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-10 11:13</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19" target="_blank">Day 3 - Chunking - RAG</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8" target="_blank">I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/" target="_blank">Rotten Dot Com</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-10 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg" target="_blank">Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 07:31</span>
             </div>
         </div>
 </div>
@@ -294,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:13 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
