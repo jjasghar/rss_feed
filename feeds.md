@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 16:15:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-10 17:17:17 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Error processing http://rss.cnn.com/rss/cnn_topstories.rss: timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 16:16 UTC</div>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 17:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b76/live/b2c3b280-4c8f-11f1-ac78-2112837ce2aa.png" alt="Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham&#x27;s return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss" target="_blank">Rayner issues &#x27;last chance&#x27; warning to Starmer and backs Burnham&#x27;s return</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de71/live/72122540-4c81-11f1-bd52-e755d604ece4.jpg" alt="Countries airlift nationals evacuated from virus-hit cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">Countries airlift nationals evacuated from virus-hit cruise ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss" target="_blank">Food inflation hammers households in war-hit Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 16:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e0/live/21c4e4d0-4c5c-11f1-b337-4336d7a060d1.jpg" alt="Labour MP challenges ministers to move against Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss" target="_blank">Football on ruins: Gaza’s orphans find refuge on the pitch</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-10 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/e1bcfcb0-4c5b-11f1-a41c-91073f0dac7c.jpg" alt="First passengers fly home from virus-hit cruise ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss" target="_blank">First passengers fly home from virus-hit cruise ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss" target="_blank">Atef Najib faces at least 10 charges in landmark Syria trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e0/live/21c4e4d0-4c5c-11f1-b337-4336d7a060d1.jpg" alt="&#x27;We need to move quickly,&#x27; says Labour MP seeking to challenge PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;We need to move quickly,&#x27; says Labour MP seeking to challenge PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 12:41</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=48085384" target="_blank">Remind HN: Today is Mother&#x27;s Day, call your moms</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-10 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok" target="_blank">One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh" target="_blank">From Pydantic Model to AI Agent in 10 Lines of Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3290415%2F0e87c57e-67dd-4d76-9d94-19439fcbf790.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/spark16x/-2768" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 12:11</span>
             </div>
         </div>
 </div>
@@ -294,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 17:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
