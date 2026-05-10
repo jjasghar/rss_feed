@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 15:18:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 16:15:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 15:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/" target="_blank">TechCrunch Mobility: Lime’s IPO gamble</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-10 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on" target="_blank">Cricut’s $99 craft cutting machine helped me feel creative again</a></span>
                 <span class="feed">The Verge</span>
@@ -153,20 +157,20 @@
                 <span class="time">2026-05-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" alt="How Handheld Translators Work and Why They’re Handy for Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/" target="_blank">How Handheld Translators Work and Why They’re Handy for Travel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-10 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok" target="_blank">One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-10 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0e14zdn09bolquizekst.png" alt="Small update on OutreachFlow — making AI cold emails sound more human" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17337795/moving-from-onedrive-to-ente-photos" target="_blank">I Moved My Photos from OneDrive to Ente Photos, and I&amp;#x27;m Not Going Back</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-10 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh" target="_blank">From Pydantic Model to AI Agent in 10 Lines of Python</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,29 +216,20 @@
                 <span class="time">2026-05-10 12:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://brennan.io/2026/05/09/pinball-and-escrow/" target="_blank">Space Cadet Pinball on Linux</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-10 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf" target="_blank">Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-10 11:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Spring-2026-anime-collage-Daemons-Of-The-Shadow-Realm-Go-For-It-Nakamura-kun-Nippon-Sangoku-1280x901.jpg" alt="The 10 Best New Anime You Should Be Watching Right Now In Spring 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-10-best-new-anime-you-should-be-watching-right-now-in-spring-2026-2000694562" target="_blank">The 10 Best New Anime You Should Be Watching Right Now In Spring 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-10 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Why pay for Microsoft 365 every month when you can pay $30 once and get Microsoft Office forever?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,27 +275,18 @@
                 <span class="time">2026-05-09 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-is-emailing-ps4-owners-and-telling-them-to-buy-a-ps5-for-gta-6-and-fans-think-its-the-start-of-something-2000694579" target="_blank">Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-09 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778110245-20260509-edit.png" alt="Saturday Morning Breakfast Cereal - Sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1778110294-20260510-edit.png" alt="Saturday Morning Breakfast Cereal - Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sleep-2" target="_blank">Saturday Morning Breakfast Cereal - Sleep</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/terminal" target="_blank">Saturday Morning Breakfast Cereal - Terminal</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-09 15:20</span>
+                <span class="time">2026-05-10 15:20</span>
             </div>
         </div>
 </div>
@@ -299,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 39 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
