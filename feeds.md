@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 03:00:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-10 04:27:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 03:00 UTC</div>
+    <div class="newspaper-date">Sunday, May 10, 2026 - 04:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss" target="_blank">‘No Kings’ protest outside Buckingham Palace</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-10 02:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale" target="_blank">Protests and boycotts rock prestigious Venice Biennale</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/596e/live/a3fd37d0-4c03-11f1-ac78-2112837ce2aa.jpg" alt="Is Starmer&#x27;s leadership under serious threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss" target="_blank">Is Starmer&#x27;s leadership under serious threat?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-10 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-miami-florida-boat-explosion_7244135.jpg?20260510035102" alt="At least 15 injured after boat explosion in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-15-injured-after-boat-explosion-in-florida-13542181" target="_blank">At least 15 injured after boat explosion in Florida</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-09 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss" target="_blank">WHO chief says Hantavirus outbreak ‘is not COVID’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-09 23:17</span>
@@ -63,42 +100,6 @@
                 <span class="title"><a href="https://abcnews.com/Health/american-oncologist-cruise-ships-de-facto-head-doctor/story?id=132815895" target="_blank">Hantavirus: American oncologist who became cruise ship&#x27;s de facto head doctor speaks</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-09 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778366603712_wnn_dha_spanish_island_braces_for_hantavirus_cruise_ship_as_who_urges_calm_050926_S3_1920x1080-ge39t3.jpg" alt="Spanish island braces for hantavirus cruise ship as WHO urges calm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/spanish-island-braces-for-hantavirus-cruise-ship-as-who-urges-calm-263056453526" target="_blank">Spanish island braces for hantavirus cruise ship as WHO urges calm</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-09 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/9/for-the-first-time-putin-says-hes-open-to-meeting-zelensky-outside-russia?traffic_source=rss" target="_blank">For the first time, Putin says he’s open to meeting Zelensky outside Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg" alt="Lebanon says Israeli strikes killed 39" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss" target="_blank">Lebanon says Israeli strikes killed 39</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-09 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss" target="_blank">Israeli settlers force Palestinian family to exhume and rebury their father</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-09 19:16</span>
             </div>
         </div>
 </div>
@@ -168,10 +169,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/imtomt/ymawky" target="_blank">Show HN: Building a web server in assembly to give my life (a lack of) meaning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-10 03:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pratham69/javascript-arrays-101-3hd1" target="_blank">JavaScript Arrays 101</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kconfirm" target="_blank">Kconfirm Is On A Quest To Clean Up The Linux Kernel&#x27;s Configuration System</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-10 00:29</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m" target="_blank">IndexNow, libSQL, and three other tools I reached for this week</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-09 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sounds-like-lx/from-spawn-to-futuresunordered-how-community-feedback-reshaped-our-async-design-2lpa" target="_blank">From Spawn to FuturesUnordered: How Community Feedback Reshaped Our Async Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-09 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Azure-Linux-3.0.20260506" target="_blank">Microsoft Releases Azure Linux 3.0.20260506 With Many Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-09 18:56</span>
             </div>
         </div>
 </div>
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 04:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
