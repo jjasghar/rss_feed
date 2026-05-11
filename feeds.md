@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 09:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 11:00:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a9/live/68b3b2b0-4d22-11f1-b55d-0f258dce1735.jpg" alt="British Steel nationalisation plans announced by Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss" target="_blank">British Steel nationalisation plans announced by Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-11 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/iran-2-rt-gmh-260508_1778245139370_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran &#x27;serious&#x27; on talks as Trump rejects &#x27;unacceptable&#x27; offer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Tehran &#x27;serious&#x27; on talks as Trump rejects &#x27;unacceptable&#x27; offer</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-11 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260508-snap-arizona-1-ew-230p-a6033f.jpg" alt="The families going hungry because of Trump’s food stamp cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/trump-food-stamp-cuts-children-arizona-hungry-big-beautiful-bill-rcna343922" target="_blank">The families going hungry because of Trump’s food stamp cuts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss" target="_blank">Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-11 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss" target="_blank">Risks and rewards in France-Kenya partnership</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/tenerife_us_passengers_plane_reuters_cw_20260510_1778445553007_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 1 American tested positive, another symptomatic, HHS says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 1 American tested positive, another symptomatic, HHS says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-11 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss" target="_blank">Gaza documentary dropped by the BBC wins BAFTA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 02:50</span>
             </div>
         </div>
 </div>
@@ -163,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Intel-NPU-Drivers-Power-7.2" target="_blank">AMD Ryzen AI &amp; Intel NPU Drivers Adding New Power Features With Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-11 10:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17338173/linux-killswitch-proposal" target="_blank">Linux is Getting a Kill Switch!</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-11 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/en/headerimage/generatedHeaderImage-1778428945703.jpg" alt="New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-11 08:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7" target="_blank">REDCAAP Framework for Frontend SD</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jxiong/can-an-algorithm-find-what-your-body-actually-needs-introducing-semo-for-longevity-technology-423b" target="_blank">Can an Algorithm Find What Your Body Actually Needs? Introducing SEMO for Longevity Technology</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9" target="_blank">Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 22:59</span>
             </div>
         </div>
 </div>
@@ -301,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
