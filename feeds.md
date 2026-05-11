@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 16:04:10 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-11 17:36:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 16:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 17:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a01f55c291afb1f624facbd/master/pass/IMG_4566%20copy.jpg" alt="There&#x27;s an Unhinged New Video Game About Trump and the Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/video-game-trump-iran-war/" target="_blank">There&#x27;s an Unhinged New Video Game About Trump and the Iran War</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-11 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg" alt="iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/" target="_blank">iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-11 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy" target="_blank">Texas sues Netflix for advertising &amp;#8216;bait and switch&amp;#8217; and spying</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 17:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -131,38 +160,38 @@
                 <span class="time">2026-05-11 13:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/" target="_blank">There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fe7533c38185e25d3a130c/master/pass/AP_WingDrone_SR00023.JPG" alt="Papa Johns Is Getting Into Drone Delivery—but Not for Pizza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/" target="_blank">Papa Johns Is Getting Into Drone Delivery—but Not for Pizza</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts" target="_blank">Venmo finally takes privacy seriously</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/siddharth_singh_409bd5267/cicd-auto-remediation-the-complete-guide-for-sre-and-platform-teams-2026-3f70" target="_blank">CI/CD Auto-Remediation: The Complete Guide for SRE and Platform Teams (2026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/coder-agents-self-hosted-ai/en/headerimage/coder-agents-self-hosted-ai-1778516884639.jpeg" alt="Coder Agents Enable Running AI Coding Workflows on Self-Hosted Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Coder Agents Enable Running AI Coding Workflows on Self-Hosted Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/" target="_blank">GitHub for Beginners: Getting started with OSS contributions</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7o20ayot3cfabccjy74f.png" alt="Best subscription billing software for SaaS in 2026: A decision guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +219,6 @@
                 <span class="time">2026-05-11 14:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/netflix-druid-interval-cache/en/headerimage/generatedHeaderImage-1777092326529.jpg" alt="Netflix Serves 84% of Query Results from Cache with Interval-Aware Caching in Apache Druid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/netflix-druid-interval-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Serves 84% of Query Results from Cache with Interval-Aware Caching in Apache Druid</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-11 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012100&w=600" alt="Stop Using Python for Your GenAI Apps, Use Go and Genkit Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/go-genkit-genai-apps" target="_blank">Stop Using Python for Your GenAI Apps, Use Go and Genkit Instead</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-11 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone/" target="_blank">Introducing the Heap, the software engineering blog for everyone</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-11 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRBY1N59PCN6Q3VGDP31QRHF/hero-image.png" alt="Finding Studs Used to be Torture Until I Spent $12 on a StudPop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/finding-studs-used-to-be-torture-until-i-spent-12-on-a-studpop?utm_medium=RSS" target="_blank">Finding Studs Used to be Torture Until I Spent $12 on a StudPop</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/mario-cody-1280x720.jpg" alt="Nintendo Lawyers Sent WWE Superstar Cody Rhodes A Cease And Desist Over His Boots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-lawyers-sent-wwe-superstar-cody-rhodes-a-cease-and-desist-over-his-boots-2000694908" target="_blank">Nintendo Lawyers Sent WWE Superstar Cody Rhodes A Cease And Desist Over His Boots</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-11 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-40-1280x720.jpg" alt="New Last Of Us Set Photos Show First Look At Abby And Lev After The Controversial Season 3 Casting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,29 +292,20 @@
                 <span class="time">2026-05-11 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR52FB4DBMAT88KBKCBST830/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Omoggle&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-omoggle?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Omoggle&#x27;?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-11 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your PC can be saved—Windows 11 Pro is just $9.97 through May 18" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/10/your-pc-can-be-saved-windows-11-pro-is-just-9-97-through-may-18.html" target="_blank">Your PC can be saved—Windows 11 Pro is just $9.97 through May 18</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-10 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778468544-20260511-edit.png" alt="Saturday Morning Breakfast Cereal - Arp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/arp" target="_blank">Saturday Morning Breakfast Cereal - Arp</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 16:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 17:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
