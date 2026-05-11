@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-10 23:15:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-11 00:19:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 36 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 10, 2026 - 23:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin" target="_blank">Israeli settlers force Palestinian family to exhume and rebury their father</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-10 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778454805365_wnn_mhu_possible_iran_war_deal_is_reached_260510_S3_1920x1080-je1h0e.jpg" alt="Trump calls Iran’s response to U.S. peace proposal ‘totally unacceptable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-calls-iran-s-response-to-u-s-peace-proposal-totally-unacceptable-263077445672" target="_blank">Trump calls Iran’s response to U.S. peace proposal ‘totally unacceptable’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-10 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,24 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco" target="_blank">Body of missing US soldier recovered off coast of Morocco</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-05-10 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Khamenei-DB-260510_1778421445289_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump calls Iran&#x27;s latest response &#x27;TOTALLY UNACCEPTABLE&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582" target="_blank">Iran live updates: Trump calls Iran&#x27;s latest response &#x27;TOTALLY UNACCEPTABLE&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-10 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss" target="_blank">Gaza volunteers plant olive trees at devastated al-Shifa Hospital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 19:01</span>
             </div>
         </div>
 </div>
@@ -305,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
