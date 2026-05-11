@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 03:00:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 05:15:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 05:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss" target="_blank">Risks and rewards in France-Kenya partnership</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 04:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/tenerife_us_passengers_plane_reuters_cw_20260510_1778445553007_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 1 American tested positive, another symptomatic, HHS says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-us-army-europe-and-africa_7245209.png?20260511011641" alt="Remains of US soldier who fell off cliff in Morocco found in ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin" target="_blank">Israeli settlers force Palestinian family to exhume and rebury their father</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-10 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778454805365_wnn_mhu_possible_iran_war_deal_is_reached_260510_S3_1920x1080-je1h0e.jpg" alt="Trump calls Iran’s response to U.S. peace proposal ‘totally unacceptable’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-calls-iran-s-response-to-u-s-peace-proposal-totally-unacceptable-263077445672" target="_blank">Trump calls Iran’s response to U.S. peace proposal ‘totally unacceptable’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-10 23:13</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/morocco-remains-of-us-soldier-who-fell-off-cliff-found-in-ocean-13542588" target="_blank">Remains of US soldier who fell off cliff in Morocco found in ocean</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-10 23:27</span>
             </div>
         </div>
 </div>
@@ -169,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7" target="_blank">REDCAAP Framework for Frontend SD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jxiong/can-an-algorithm-find-what-your-body-actually-needs-introducing-semo-for-longevity-technology-423b" target="_blank">Can an Algorithm Find What Your Body Actually Needs? Introducing SEMO for Longevity Technology</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 02:51</span>
@@ -208,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5" target="_blank">The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330" target="_blank">Your Scrum Isn&#x27;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 18:06</span>
             </div>
         </div>
 </div>
@@ -298,7 +298,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:01 UTC
+        🔄 Last Updated: 05:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
