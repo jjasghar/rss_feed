@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 11:00:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-11 12:07:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 11:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9372/live/acf73260-4d06-11f1-ac78-2112837ce2aa.jpg" alt="US and French nationals test positive for hantavirus after leaving ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss" target="_blank">US and French nationals test positive for hantavirus after leaving ship</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-11 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss" target="_blank">UK PM Keir Starmer vows stronger performance as calls for resignation grow</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus" target="_blank">Trump rejects Iran&#x27;s ceasefire proposal response. And, Congress to tackle ICE funding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 11:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a9/live/68b3b2b0-4d22-11f1-b55d-0f258dce1735.jpg" alt="British Steel nationalisation plans announced by Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +103,20 @@
                 <span class="time">2026-05-11 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5813454/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-11 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss" target="_blank">The Global Sumud Flotilla is sailing on, here is why</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss" target="_blank">Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts" target="_blank">Venmo finally takes privacy seriously</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +162,6 @@
                 <span class="time">2026-05-10 16:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/" target="_blank">TechCrunch Mobility: Lime’s IPO gamble</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-10 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +170,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prajwal_devops/how-i-debugged-an-undeletable-aws-elastic-ip-and-traced-it-back-to-redshift-serverless-429d" target="_blank">How I Debugged an &quot;Undeletable&quot; AWS Elastic IP and Traced It Back to Redshift Serverless</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Intel-NPU-Drivers-Power-7.2" target="_blank">AMD Ryzen AI &amp; Intel NPU Drivers Adding New Power Features With Linux 7.2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-11 10:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ratty-term.org/" target="_blank">Ratty – A terminal emulator with inline 3D graphics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-11 10:13</span>
             </div>
         </div>
 <div class="story">
@@ -201,22 +221,18 @@
                 <span class="time">2026-05-11 06:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17338103/harmony-os-rises-china" target="_blank">Restriced by the West, Huawei&amp;#x27;s Open Source HarmonyOS Now Powers 55 Million Devices</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-11 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7" target="_blank">REDCAAP Framework for Frontend SD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 05:01</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html" target="_blank">LLMs and Text-in-Text Steganography</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-11 11:04</span>
             </div>
         </div>
 </div>
@@ -306,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
