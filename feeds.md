@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 01:32:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 03:00:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tenerife_us_passengers_plane_reuters_cw_20260510_1778445553007_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 1 American tested positive, another symptomatic, HHS says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 1 American tested positive, another symptomatic, HHS says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-11 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss" target="_blank">Gaza documentary dropped by the BBC wins BAFTA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 02:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers" target="_blank">U.S. cruise passengers head to Nebraska for hantavirus monitoring</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 01:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-calls-iran-s-response-to-u-s-peace-proposal-totally-unacceptable-263077445672" target="_blank">Trump calls Iran’s response to U.S. peace proposal ‘totally unacceptable’</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-10 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss" target="_blank">Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-10 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ed/live/2f6da300-4cb2-11f1-b4e4-6525d59b4000.jpg" alt="Starmer to promise bolder action as leadership threats mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to promise bolder action as leadership threats mount</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6404/live/84c40c90-4cad-11f1-8b87-73c96a3250ee.jpg" alt="Trump calls Iran response to US proposal to end war &#x27;totally unacceptable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss" target="_blank">Trump calls Iran response to US proposal to end war &#x27;totally unacceptable&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-10 20:57</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jxiong/can-an-algorithm-find-what-your-body-actually-needs-introducing-semo-for-longevity-technology-423b" target="_blank">Can an Algorithm Find What Your Body Actually Needs? Introducing SEMO for Longevity Technology</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 02:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9" target="_blank">Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 22:59</span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330" target="_blank">Your Scrum Isn&#x27;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://grapheneos.social/@GrapheneOS/116550899908879585" target="_blank">Hardware Attestation as Monopoly Enabler</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-10 17:54</span>
             </div>
         </div>
 </div>
@@ -292,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
