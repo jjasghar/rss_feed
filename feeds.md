@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 14:59:29 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-11 16:04:10 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 16:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hondius-1-gty-jef-260511_1778505861642_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 15 in quarantine in Nebraska, 1 in biocontainment unit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 15 in quarantine in Nebraska, 1 in biocontainment unit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-11 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818208/ajc-andrew-morse-leaving" target="_blank">&#x27;Atlanta Journal-Constitution&#x27; chief steps down as bold goals yield to tough realities</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +99,29 @@
                 <span class="time">2026-05-11 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a9/live/68b3b2b0-4d22-11f1-b55d-0f258dce1735.jpg" alt="British Steel nationalisation plans announced by Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss" target="_blank">British Steel nationalisation plans announced by Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-11 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-2-rt-gmh-260508_1778245139370_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran &#x27;serious&#x27; on talks as Trump rejects &#x27;unacceptable&#x27; offer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Tehran &#x27;serious&#x27; on talks as Trump rejects &#x27;unacceptable&#x27; offer</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-11 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera" target="_blank">A million baby monitors and security cameras were easily viewable by hackers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/forza2-500x438.jpg" alt="Pirates are already playing Forza Horizon 6 days before its launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/" target="_blank">Pirates are already playing Forza Horizon 6 days before its launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-11 15:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +158,6 @@
                 <span class="time">2026-05-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/thomas-and-sotomayor-500x500-1778188345.jpg" alt="Sony&#x27;s failed war against Internet piracy may doom other copyright lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/" target="_blank">Sony&#x27;s failed war against Internet piracy may doom other copyright lawsuits</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/" target="_blank">Get ready for the whisper-filled office of the future</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-10 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +169,15 @@
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arnon_shimoni_f734319d79c/best-subscription-billing-software-for-saas-in-2026-a-decision-guide-3fce" target="_blank">Best subscription billing software for SaaS in 2026: A decision guide</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17338477/debian-makes-reproducible-builds-mandatory" target="_blank">In a Big Move to Linux Security, Debian Makes Reproducible Builds Mandatory</a></span>
+                <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-11 14:58</span>
             </div>
         </div>
@@ -207,15 +217,6 @@
                 <span class="time">2026-05-11 14:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012079&w=600" alt="Hallucination Has Real Consequences — Lessons From Building AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-ai-systems-lessons" target="_blank">Hallucination Has Real Consequences — Lessons From Building AI Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-11 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-40-1280x720.jpg" alt="New Last Of Us Set Photos Show First Look At Abby And Lev After The Controversial Season 3 Casting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/last-of-us-season-3-set-photos-abby-lev-kaitlyn-dever-2000694894" target="_blank">New Last Of Us Set Photos Show First Look At Abby And Lev After The Controversial Season 3 Casting</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-11 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JQEX7N6JD870GXT9WF19FARS/hero-image.png" alt="The Sleep Earbuds I Use Every Night Are $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/anker-soundcore-sleep-a20-sleep-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">The Sleep Earbuds I Use Every Night Are $80 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-11 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Utah.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="This Utah law is a risk to everyone&#x27;s digital liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/11/this-utah-law-is-a-risk-to-everyones-digital-liberty.html" target="_blank">This Utah law is a risk to everyone&#x27;s digital liberty</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-11 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-11-at-9.45.42-AM-1280x720.jpg" alt="Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +290,6 @@
                 <span class="time">2026-05-10 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/8vpninh43lu81-1280x720.jpg" alt="Pentagon Declassifies More UFO Sightings Though No Sight Of Little Green Space Dudes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pentagon-declassifies-more-ufo-sightings-though-no-sight-of-little-green-space-dudes-2000694679" target="_blank">Pentagon Declassifies More UFO Sightings Though No Sight Of Little Green Space Dudes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-10 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/ps3-update.jpg" alt="PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656" target="_blank">PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-10 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Spring-2026-anime-collage-Daemons-Of-The-Shadow-Realm-Go-For-It-Nakamura-kun-Nippon-Sangoku-1280x901.jpg" alt="The 10 Best New Anime You Should Be Watching Right Now In Spring 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-10-best-new-anime-you-should-be-watching-right-now-in-spring-2026-2000694562" target="_blank">The 10 Best New Anime You Should Be Watching Right Now In Spring 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,22 +304,13 @@
                 <span class="time">2026-05-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778110294-20260510-edit.png" alt="Saturday Morning Breakfast Cereal - Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/terminal" target="_blank">Saturday Morning Breakfast Cereal - Terminal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 16:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
