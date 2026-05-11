@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 18:32:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 19:30:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/g-s1-121351/can-chinese-ai-solve-inequality-how-dementia-comes-for-your-bank-account" target="_blank">Can Chinese AI solve inequality? + How dementia comes for your bank account</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/virus-13-gty-gmh-260511_1778522381356_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 16 at facility in Nebraska, 2 at hospital in Atlanta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 16 at facility in Nebraska, 2 at hospital in Atlanta</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-11 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,29 @@
                 <span class="time">2026-05-11 15:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/barcelona-fans-celebrate-winning-la-liga-title-in-el-clasico?traffic_source=rss" target="_blank">Barcelona fans celebrate winning La Liga title in El Clasico</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9372/live/acf73260-4d06-11f1-ac78-2112837ce2aa.jpg" alt="US and French nationals test positive for hantavirus after leaving ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss" target="_blank">US and French nationals test positive for hantavirus after leaving ship</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-11 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/69f4f43f1b39f18829e38fa4/master/pass/Science_MovingBeyondtheBadCholesterolTest_1080x1080.jpg" alt="Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/moving-beyond-bad-cholesterol-test/" target="_blank">Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-11 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/928026/palantir-chore-coat" target="_blank">Palantir&amp;#8217;s true believers are wearing this jacket</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 18:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275145416-500x500.jpg" alt="Passengers from hantavirus ship arrive in US; 3 people in biocontainment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,39 +141,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/" target="_blank">Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-11 17:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a01f55c291afb1f624facbd/master/pass/IMG_4566%20copy.jpg" alt="There&#x27;s an Unhinged New Video Game About Trump and the Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/video-game-trump-iran-war/" target="_blank">There&#x27;s an Unhinged New Video Game About Trump and the Iran War</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-11 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-500x500-1750706554.jpeg" alt="iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/" target="_blank">iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-11 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy" target="_blank">Texas sues Netflix for advertising &amp;#8216;bait and switch&amp;#8217; and spying</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera" target="_blank">A million baby monitors and security cameras were easily viewable by hackers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 16:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
