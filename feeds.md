@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 05:15:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 07:02:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 05:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss" target="_blank">Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 06:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/what-next-for-real-madrid-after-barcelonas-la-liga-and-clasico-triumph?traffic_source=rss" target="_blank">What next for Real Madrid after Barcelona’s La Liga and Clasico triumph?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-11 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-us-army-europe-and-africa_7245209.png?20260511011641" alt="Remains of US soldier who fell off cliff in Morocco found in ocean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/morocco-remains-of-us-soldier-who-fell-off-cliff-found-in-ocean-13542588" target="_blank">Remains of US soldier who fell off cliff in Morocco found in ocean</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-10 23:27</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehdi_mihanzadeh_3b85a239/how-im-building-an-ai-workflow-for-woocommerce-product-drafts-484" target="_blank">How I’m Building an AI Workflow for WooCommerce Product Drafts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17338103/harmony-os-rises-china" target="_blank">Restriced by the West, Huawei&amp;#x27;s Open Source HarmonyOS Now Powers 55 Million Devices</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-11 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7" target="_blank">REDCAAP Framework for Frontend SD</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 05:01</span>
@@ -199,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad" target="_blank">API-First with Hono: OpenAPI to Typed Routes Without Lock-in</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc3-Released" target="_blank">Linux 7.1-rc3 Released With Many Networking Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-10 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsvgkize6jo13w3ntfdf.png" alt="The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5" target="_blank">The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 21:00</span>
             </div>
         </div>
 </div>
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 05:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
