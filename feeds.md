@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 07:02:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-11 09:02:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 07:02 UTC</div>
+    <div class="newspaper-date">Monday, May 11, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5813454/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss" target="_blank">The Global Sumud Flotilla is sailing on, here is why</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 08:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss" target="_blank">Gaza documentary dropped by the BBC wins BAFTA</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-11 02:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers" target="_blank">U.S. cruise passengers head to Nebraska for hantavirus monitoring</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-11 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/what-next-for-real-madrid-after-barcelonas-la-liga-and-clasico-triumph?traffic_source=rss" target="_blank">What next for Real Madrid after Barcelona’s La Liga and Clasico triumph?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 00:18</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17338173/linux-killswitch-proposal" target="_blank">Linux is Getting a Kill Switch!</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-11 08:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mehdi_mihanzadeh_3b85a239/how-im-building-an-ai-workflow-for-woocommerce-product-drafts-484" target="_blank">How I’m Building an AI Workflow for WooCommerce Product Drafts</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9" target="_blank">Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-10 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad" target="_blank">API-First with Hono: OpenAPI to Typed Routes Without Lock-in</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-10 22:04</span>
             </div>
         </div>
 </div>
@@ -285,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/11/in-bloom" target="_blank">In Bloom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-11 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1778110294-20260510-edit.png" alt="Saturday Morning Breakfast Cereal - Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
