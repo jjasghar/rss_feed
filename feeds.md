@@ -1,7 +1,8 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 12:07:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 13:51:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
@@ -11,29 +12,26 @@
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 13:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/11/barcelona-fans-celebrate-winning-la-liga-title-in-el-clasico?traffic_source=rss" target="_blank">Barcelona fans celebrate winning La Liga title in El Clasico</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9372/live/acf73260-4d06-11f1-ac78-2112837ce2aa.jpg" alt="US and French nationals test positive for hantavirus after leaving ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +101,6 @@
                 <span class="time">2026-05-11 10:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260508-snap-arizona-1-ew-230p-a6033f.jpg" alt="The families going hungry because of Trump’s food stamp cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/trump-food-stamp-cuts-children-arizona-hungry-big-beautiful-bill-rcna343922" target="_blank">The families going hungry because of Trump’s food stamp cuts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-11 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,9 +110,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk" target="_blank">TikTok is letting UK users pay to remove ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/" target="_blank">There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fe7533c38185e25d3a130c/master/pass/AP_WingDrone_SR00023.JPG" alt="Papa Johns Is Getting Into Drone Delivery—but Not for Pizza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/" target="_blank">Papa Johns Is Getting Into Drone Delivery—but Not for Pizza</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts" target="_blank">Venmo finally takes privacy seriously</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/thomas-and-sotomayor-500x500-1778188345.jpg" alt="Sony&#x27;s failed war against Internet piracy may doom other copyright lawsuits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/" target="_blank">Sony&#x27;s failed war against Internet piracy may doom other copyright lawsuits</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-11 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -126,47 +160,29 @@
                 <span class="time">2026-05-10 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano" target="_blank">The Bastl Kalimba is a wild synth that thinks it’s a thumb piano</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-10 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/" target="_blank">Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-10 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/" target="_blank">Uber has always wanted to be more than a ride; now it has reason to hurry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-10 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review" target="_blank">Ashnymph’s Childhood EP is exhilarating dance goth rock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-10 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19012079&w=600" alt="Hallucination Has Real Consequences — Lessons From Building AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-ai-systems-lessons" target="_blank">Hallucination Has Real Consequences — Lessons From Building AI Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-11 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-IGC-2.34.4" target="_blank">Intel IGC 2.34.4 Compiler Brings Many Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-11 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +219,6 @@
                 <span class="time">2026-05-11 08:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/en/headerimage/generatedHeaderImage-1778428945703.jpg" alt="New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New DORA Report Claims Strong Engineering Foundations Drive AI Return on Investment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-11 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehdi_mihanzadeh_3b85a239/how-im-building-an-ai-workflow-for-woocommerce-product-drafts-484" target="_blank">How I’m Building an AI Workflow for WooCommerce Product Drafts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 06:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR52FB4DBMAT88KBKCBST830/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Omoggle&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-omoggle?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Omoggle&#x27;?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-11 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your PC can be saved—Windows 11 Pro is just $9.97 through May 18" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +292,6 @@
                 <span class="time">2026-05-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha.jpg" alt="Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646" target="_blank">Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-10 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 77 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 13:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
