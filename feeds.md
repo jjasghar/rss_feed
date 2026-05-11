@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 21:26:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-11 22:20:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 21:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss" target="_blank">Hundreds displaced, medical services suspended amid gang violence in Haiti</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d20f/live/0dffc500-4d7e-11f1-b55d-0f258dce1735.jpg" alt="Last passengers leave virus-hit cruise ship as three more test positive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +79,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-cyril-ramaphosa-south-africa_7245997.png?20260511214440" alt="&#x27;I will not resign&#x27;: South Africa&#x27;s president rejects calls to quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/i-will-not-resign-south-africas-president-cyril-ramaphosa-rejects-calls-to-quit-13542880" target="_blank">&#x27;I will not resign&#x27;: South Africa&#x27;s president rejects calls to quit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-11 20:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-11/241112-abortion-pills-se-320p-6d489f.jpg" alt="Supreme Court temporarily extends access to abortion pill while it mulls legal challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/temporarily-extends-full-access-abortion-pill-mulls-legal-challenge-rcna344618" target="_blank">Supreme Court temporarily extends access to abortion pill while it mulls legal challenge</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-11 19:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -78,38 +105,20 @@
                 <span class="time">2026-05-11 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/virus-13-gty-gmh-260511_1778522381356_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 16 at facility in Nebraska, 2 at hospital in Atlanta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 16 at facility in Nebraska, 2 at hospital in Atlanta</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-11 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss" target="_blank">How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef3/live/0181b210-4d52-11f1-a556-3191549e7ed9.jpg" alt="&#x27;Britain at the heart of Europe&#x27;: How Starmer&#x27;s plans are going down in the EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Britain at the heart of Europe&#x27;: How Starmer&#x27;s plans are going down in the EU</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-11 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model" target="_blank">Here&amp;#8217;s what Mira Murati&amp;#8217;s AI company is up to</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 22:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f4f43f1b39f18829e38fa4/master/pass/Science_MovingBeyondtheBadCholesterolTest_1080x1080.jpg" alt="Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +164,29 @@
                 <span class="time">2026-05-11 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a01f55c291afb1f624facbd/master/pass/IMG_4566%20copy.jpg" alt="There&#x27;s an Unhinged New Video Game About Trump and the Iran War" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/video-game-trump-iran-war/" target="_blank">There&#x27;s an Unhinged New Video Game About Trump and the Iran War</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-11 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/cangjie-effect-handlers-adt/en/headerimage/generatedHeaderImage-1778450390348.jpg" alt="Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-11 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vystartasv/a-billion-token-lesson-because-you-can-you-should-56op" target="_blank">A Billion Token Lesson: Because You Can You Should</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 21:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2cj3a30m3g32vcg3tjvh.jpg" alt="Why SaaS Tools Are Dropping the Login Wall in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +223,6 @@
                 <span class="time">2026-05-11 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/may26-training-promo/" target="_blank">🎮 Mega May Cyber Deals — Level up &amp; save up to 65%!</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2026-05-11 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/no7software-uk/shopify-flow-and-ai-agent-triggers-architecture-and-patterns-poh" target="_blank">Shopify Flow and AI Agent Triggers: Architecture and Patterns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-76.jpg" alt="New Ghost In The Shell Anime Finally Has A Streaming Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-ghost-in-the-shell-anime-finally-has-a-streaming-date-2000694850" target="_blank">New Ghost In The Shell Anime Finally Has A Streaming Date</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-11 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Careful parents—this calmer kids&#x27; app is $59.99 for life right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/11/careful-parents-this-calmer-kids-app-is-59-99-for-life-right-now.html" target="_blank">Careful parents—this calmer kids&#x27; app is $59.99 for life right now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-11 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/inide-games.jpg" alt="17 Cool Indie Games You Can Go Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +296,6 @@
                 <span class="time">2026-05-11 17:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2022/01/084c297d847f136c1b70a70c3ef0bd3a-1280x720.jpg" alt="Unprecedented Uncharted 4 Deep Dive Reveals Cut Stories, Playable Characters, And Much More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/uncharted-4-thiefs-end-amy-hennig-version-ps4-anniversary-2000694906" target="_blank">Unprecedented Uncharted 4 Deep Dive Reveals Cut Stories, Playable Characters, And Much More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-11 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRBY1N59PCN6Q3VGDP31QRHF/hero-image.png" alt="Finding Studs Used to be Torture Until I Spent $12 on a StudPop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/finding-studs-used-to-be-torture-until-i-spent-12-on-a-studpop?utm_medium=RSS" target="_blank">Finding Studs Used to be Torture Until I Spent $12 on a StudPop</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
