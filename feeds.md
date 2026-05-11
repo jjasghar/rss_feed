@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 19:30:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 20:30:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 20:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/11/rebranding-francafrique?traffic_source=rss" target="_blank">Rebranding Francafrique</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-11 20:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef3/live/0181b210-4d52-11f1-a556-3191549e7ed9.jpg" alt="&#x27;Britain at the heart of Europe&#x27;: How Starmer&#x27;s plans are going down in the EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Britain at the heart of Europe&#x27;: How Starmer&#x27;s plans are going down in the EU</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-11 17:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax" target="_blank">Trump wants to suspend the federal gas tax as prices soar amid war with Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-11 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hondius-1-gty-jef-260511_1778505861642_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: 15 in quarantine in Nebraska, 1 in biocontainment unit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: 15 in quarantine in Nebraska, 1 in biocontainment unit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-11 15:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818208/ajc-andrew-morse-leaving" target="_blank">&#x27;Atlanta Journal-Constitution&#x27; chief steps down as bold goals yield to tough realities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-11 15:14</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.351-Released" target="_blank">Vulkan 1.4.351 Brings Six New Extensions, Including A Ray-Tracing Improvement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-11 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ennote/why-strict-zero-trust-breaks-secret-management-and-how-we-built-a-zero-persistence-vault-instead-4lcg" target="_blank">Why Strict &quot;Zero Trust&quot; Breaks Secret Management (And How We Built a Zero-Persistence Vault Instead)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18980707&w=600" alt="AI in Software Development: A Mirror, Not a Magic Wand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-in-software-development-a-mirror-not-a-magic" target="_blank">AI in Software Development: A Mirror, Not a Magic Wand</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/no7software-uk/shopify-flow-and-ai-agent-triggers-architecture-and-patterns-poh" target="_blank">Shopify Flow and AI Agent Triggers: Architecture and Patterns</a></span>
                 <span class="feed">DEV Community</span>
@@ -190,33 +216,6 @@
                 <span class="time">2026-05-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/" target="_blank">When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-11 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/" target="_blank">GitHub for Beginners: Getting started with OSS contributions</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nvlabs.github.io/cuda-oxide/index.html" target="_blank">CUDA-oxide: Nvidia&#x27;s official Rust to CUDA compiler</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-11 15:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/inide-games.jpg" alt="17 Cool Indie Games You Can Go Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/17-cool-indie-games-you-can-go-play-right-now-2000694942" target="_blank">17 Cool Indie Games You Can Go Play Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-11 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/eye2.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="What Claude thinks of Kevin Kelly&#x27;s essay about Claude" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/11/what-claude-thinks-of-kevin-kellys-essay-about-claude.html" target="_blank">What Claude thinks of Kevin Kelly&#x27;s essay about Claude</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-11 19:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_247839787-scaled.jpg?fit=2560%2C1716&amp;quality=60&amp;ssl=1" alt="9 ways to stretch your food budget when SNAP benefits get cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="time">2026-05-11 16:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-40-1280x720.jpg" alt="New Last Of Us Set Photos Show First Look At Abby And Lev After The Controversial Season 3 Casting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/last-of-us-season-3-set-photos-abby-lev-kaitlyn-dever-2000694894" target="_blank">New Last Of Us Set Photos Show First Look At Abby And Lev After The Controversial Season 3 Casting</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-11 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JQEX7N6JD870GXT9WF19FARS/hero-image.png" alt="The Sleep Earbuds I Use Every Night Are $80 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/anker-soundcore-sleep-a20-sleep-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">The Sleep Earbuds I Use Every Night Are $80 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-11 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 20:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
