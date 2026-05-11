@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 22:20:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-11 23:17:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, May 11, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818277/hantavirus-quarantine-cruise-ship" target="_blank">Why cruise ship passengers with possible hantavirus exposure went to Nebraska</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-11 22:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +103,20 @@
                 <span class="time">2026-05-11 19:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/g-s1-121351/can-chinese-ai-solve-inequality-how-dementia-comes-for-your-bank-account" target="_blank">Can Chinese AI solve inequality? + How dementia comes for your bank account</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-11 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/" target="_blank">GM just laid off hundreds of IT workers to hire those with stronger AI skills</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-11 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +162,20 @@
                 <span class="time">2026-05-11 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/" target="_blank">Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-11 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muhammad_ademola/from-zero-to-scripts-my-bitcoin-cli-learning-journey-btrust-builders-program-2i27" target="_blank">From Zero to Scripts: My Bitcoin CLI Learning Journey (Btrust Builders Program)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-11 23:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/cangjie-effect-handlers-adt/en/headerimage/generatedHeaderImage-1778450390348.jpg" alt="Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/ennote/why-strict-zero-trust-breaks-secret-management-and-how-we-built-a-zero-persistence-vault-instead-4lcg" target="_blank">Why Strict &quot;Zero Trust&quot; Breaks Secret Management (And How We Built a Zero-Persistence Vault Instead)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18980707&w=600" alt="AI in Software Development: A Mirror, Not a Magic Wand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-in-software-development-a-mirror-not-a-magic" target="_blank">AI in Software Development: A Mirror, Not a Magic Wand</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-11 20:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
