@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 01:32:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-12 03:00:24 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,30 +71,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Business/gas-3-gty-gmh-260430_1777571628658_hpMain_4x3t_384.jpg" alt="Trump is floating a gas tax holiday. What does that mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-floating-gas-tax-holiday-amid-rising-fuel/story?id=132859509" target="_blank">Trump is floating a gas tax holiday. What does that mean?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-11 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/9dab4610-4d61-11f1-bd52-e755d604ece4.jpg" alt="Cabinet split as Mahmood calls on Starmer to set out timetable to go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7v9r38d24do?at_medium=RSS&at_campaign=rss" target="_blank">Cabinet split as Mahmood calls on Starmer to set out timetable to go</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-11 23:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818277/hantavirus-quarantine-cruise-ship" target="_blank">Why cruise ship passengers with possible hantavirus exposure went to Nebraska</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-11 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss" target="_blank">Hundreds displaced, medical services suspended amid gang violence in Haiti</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-11 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d20f/live/0dffc500-4d7e-11f1-b55d-0f258dce1735.jpg" alt="Last passengers leave virus-hit cruise ship as three more test positive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss" target="_blank">Last passengers leave virus-hit cruise ship as three more test positive</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-11 20:49</span>
             </div>
         </div>
 </div>
@@ -297,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/11/in-bloom" target="_blank">In Bloom</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-11 22:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1778468544-20260511-edit.png" alt="Saturday Morning Breakfast Cereal - Arp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -319,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
