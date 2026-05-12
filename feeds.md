@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 18:31:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-12 19:30:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-500x500-1778610364.jpg" alt="Twin brothers wipe 96 gov&#x27;t databases minutes after being fired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/" target="_blank">Twin brothers wipe 96 gov&#x27;t databases minutes after being fired</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-12 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/" target="_blank">Kevin Hartz’s A* just closed its third fund with $450 million</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-12 18:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -137,29 +159,20 @@
                 <span class="time">2026-05-12 15:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-500x500.jpg" alt="Amazon employees are &quot;tokenmaxxing&quot; due to pressure to use AI tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/" target="_blank">Amazon employees are &quot;tokenmaxxing&quot; due to pressure to use AI tools</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-12 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap" target="_blank">Spotify’s latest ‘Wrapped’ covers your entire music history</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g" target="_blank">🏆 30 Best Distributed Systems Talks of All Time</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 19:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffrk1yuauoeru8jl1l35x.png" alt="Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://googlebook.google/" target="_blank">Googlebook</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-12 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released" target="_blank">DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming</a></span>
                 <span class="feed">Phoronix</span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the" target="_blank">Revisiting “No Silver Bullets” in the age of AI</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2026-05-12 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pycco-docs.github.io/pycco/" target="_blank">Pycco: 100-line literate-style side-by-side documentation renderer</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-12 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/" target="_blank">Building a Google Drive Sync Engine that Survives MV3 Service Workers</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-12 16:20</span>
             </div>
         </div>
 </div>
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
