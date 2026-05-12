@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 21:26:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 22:23:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 21:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 22:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c8/live/3ddd4840-4e48-11f1-ae62-ab9d6bf96137.jpg" alt="Starmer to meet Streeting on Wednesday as leadership crisis divides Labour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to meet Streeting on Wednesday as leadership crisis divides Labour</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +94,20 @@
                 <span class="time">2026-05-12 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778612006542_now_brk_trump_iran_americans_finances_260512_S3_1920x1080-5b3pn8.jpg" alt="Trump says he doesn&#x27;t think about Americans&#x27; financial situation during Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-he-doesn-t-think-about-americans-financial-situation-during-iran-negotiations-263189573584" target="_blank">Trump says he doesn&#x27;t think about Americans&#x27; financial situation during Iran negotiations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-12 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization" target="_blank">iOS 27 might add a lot more customization to the Camera app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +153,6 @@
                 <span class="time">2026-05-12 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a020512167d64e7554534ba/master/pass/Top%20Art%20copy.jpg" alt="The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/android-17-gemini-top-new-features/" target="_blank">The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-12 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +165,15 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future" target="_blank">Stop managing the past and start building IT’s future</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/05/malware-found-on-ubuntu.png?resize=406%2C232&amp;ssl=1" alt="Downloaded Cemu for Linux recently? You may have malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/cemu-linux-malware" target="_blank">Downloaded Cemu for Linux recently? You may have malware</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-12 21:34</span>
             </div>
         </div>
 <div class="story">
@@ -212,20 +212,20 @@
                 <span class="time">2026-05-12 18:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977774&w=600" alt="The Art of Token Frugality in Generative AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/token-frugality-generative-ai-apps" target="_blank">The Art of Token Frugality in Generative AI Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-12 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/" target="_blank">Patch Tuesday, May 2026 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-05-12 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -240,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-78-1280x695.jpg" alt="Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playing-forza-horizon-6-early-gets-modder-banned-for-7973-years-2000695347" target="_blank">Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 22:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Samsung-T7-1TB-Portable-SSD.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This pocket-sized 1TB Samsung SSD is just $270 and ridiculously fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +294,6 @@
                 <span class="time">2026-05-12 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/typeballs.jpg?fit=1158%2C806&amp;quality=60&amp;ssl=1" alt="Digitizing vintage proportional typewriter fonts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/digitizing-vintage-proportional-typewriter-fonts.html" target="_blank">Digitizing vintage proportional typewriter fonts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 21:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 22:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
