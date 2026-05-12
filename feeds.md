@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 08:54:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 09:51:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 08:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 09:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/grocery-store-gty-jef-260511_1778515567102_hpMain_4x3t_384.jpg" alt="Inflation report to show latest prices as fuel costs surge amid Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452" target="_blank">Inflation report to show latest prices as fuel costs surge amid Iran war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-12 09:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-october-7-hamas-attack_7044795.jpg?20251007111502" alt="Israel passes law setting up military tribunal for 7 October attackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +97,29 @@
                 <span class="time">2026-05-12 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss" target="_blank">Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date" target="_blank">These new Roombas are smaller and cheaper</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 09:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-12 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai" target="_blank">OpenAI just released its answer to Claude Mythos</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-11 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/" target="_blank">GM just laid off hundreds of IT workers to hire those with stronger AI skills</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-11 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="Linux bitten by second severe vulnerability in as many weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/" target="_blank">Linux bitten by second severe vulnerability in as many weeks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-11 22:28</span>
             </div>
         </div>
 </div>
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 08:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 09:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
