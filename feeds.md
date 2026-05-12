@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 13:32:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-12 14:52:32 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 13:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 14:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F01cife6mfvuqbkjq06vq.png" alt="TP VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keci/tp-vpn-8ja" target="_blank">TP VPN</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 14:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -177,6 +186,15 @@
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/scalable-support-request-analysis" target="_blank">Scalable Support Request Analysis Using Embeddings, HDBSCAN, and Tiny LLMs</a></span>
                 <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/lessons-building-engineering-team/en/mediumimage/medium-1778064119173.jpg" alt="Presentation: Beyond Coding: How Senior ICs Grow Influence and Drive Impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/lessons-building-engineering-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond Coding: How Senior ICs Grow Influence and Drive Impact</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2026-05-12 13:00</span>
             </div>
         </div>
@@ -198,24 +216,6 @@
                 <span class="time">2026-05-12 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://matklad.github.io/2026/05/12/software-architecture.html" target="_blank">Learning Software Architecture</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-12 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/time-series-storage-design/en/headerimage/Time-Series-Storage-Design-Choices-That-Shape-Cost-and-Performance-header-1778155792101.jpg" alt="Article: Time-Series Storage: Design Choices That Shape Cost and Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/time-series-storage-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Time-Series Storage: Design Choices That Shape Cost and Performance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-12 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/STar-Wars-1280x720.jpg" alt="Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281" target="_blank">Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Screenshot-Vouch-Atlas.jpg?fit=1080%2C655&amp;quality=60&amp;ssl=1" alt="World map of presumed laptop theft risk in coffee shops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/12/world-map-of-presumed-laptop-theft-risk-in-coffee-shops.html" target="_blank">World map of presumed laptop theft risk in coffee shops</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-12 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRDX3SYSHTN23ERJMXX99RFG/hero-image.jpg" alt="10 Hacks Every Microsoft Outlook User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-microsoft-outlook-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Microsoft Outlook User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-41-1280x720.jpg" alt="Mortal Kombat 2 Writer Wanted To ‘Rectify’ Not Having Original Creators That Involved In The First Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/how-to-remove-a-tick-without-touching-it?utm_medium=RSS" target="_blank">How to Remove a Tick Without Touching It</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-76.jpg" alt="New Ghost In The Shell Anime Finally Has A Streaming Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-ghost-in-the-shell-anime-finally-has-a-streaming-date-2000694850" target="_blank">New Ghost In The Shell Anime Finally Has A Streaming Date</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-11 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Careful parents—this calmer kids&#x27; app is $59.99 for life right now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/11/careful-parents-this-calmer-kids-app-is-59-99-for-life-right-now.html" target="_blank">Careful parents—this calmer kids&#x27; app is $59.99 for life right now</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-11 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/inide-games.jpg" alt="17 Cool Indie Games You Can Go Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/17-cool-indie-games-you-can-go-play-right-now-2000694942" target="_blank">17 Cool Indie Games You Can Go Play Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-11 20:11</span>
             </div>
         </div>
 </div>
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 13:32 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 14:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
