@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 11:35:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-12 12:33:21 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 11:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 12:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +114,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap" target="_blank">Spotify’s latest ‘Wrapped’ covers your entire music history</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/69fa52db3e5215ee65d8169a/master/pass/050526-competitive-vagina-microbiome-reports.jpg" alt="Some Women Are Obsessively Testing Their Vaginas to Optimize Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/" target="_blank">Some Women Are Obsessively Testing Their Vaginas to Optimize Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-12 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch" target="_blank">How to watch Google’s Android Show: I/O Edition today</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-12 11:00</span>
@@ -138,29 +164,29 @@
                 <span class="time">2026-05-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/" target="_blank">Thinking Machines wants to build an AI that actually listens while it talks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-12 04:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/" target="_blank">Riding an AI rally, Robinhood preps second retail venture IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-12 00:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jtorchia/spring-security-with-spring-boot-actuator-the-authorization-model-that-survived-the-incident-391i" target="_blank">Spring Security with Spring Boot Actuator: the authorization model that survived the incident</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17339123/linux-fully-patches-dirty-frag-exploit" target="_blank">Linux 7.0.6 is Out, and It Fully Patches the Dirty Frag Exploit</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-12 11:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +223,6 @@
                 <span class="time">2026-05-12 07:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/" target="_blank">Connecting the dots for accurate AI</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-12 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/R300g-Code-Cleanup-2026" target="_blank">Open-Source Radeon Driver For R300 Through R500 GPUs Sees Big Code Cleanup In 2026</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-12 00:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HBFPAVQCEC6VB6KKTT6DG/hero-image.jpg" alt="How to Remove a Tick Without Touching It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-remove-a-tick-without-touching-it?utm_medium=RSS" target="_blank">How to Remove a Tick Without Touching It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-76.jpg" alt="New Ghost In The Shell Anime Finally Has A Streaming Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +296,6 @@
                 <span class="time">2026-05-11 19:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_247839787-scaled.jpg?fit=2560%2C1716&amp;quality=60&amp;ssl=1" alt="9 ways to stretch your food budget when SNAP benefits get cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/11/9-ways-to-stretch-your-food-budget-when-snap-benefits-get-cut.html" target="_blank">9 ways to stretch your food budget when SNAP benefits get cut</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-11 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 12:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
