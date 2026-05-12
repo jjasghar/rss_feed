@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 17:37:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-12 18:31:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 17:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 18:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg" alt="No sign of larger hantavirus outbreak, says UN health agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss" target="_blank">No sign of larger hantavirus outbreak, says UN health agency</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-12 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Health/Marty-Makary-ap-gmh-260507_1778157969368_hpMain_4x3t_384.jpg" alt="Dr. Marty Makary intends to resign as FDA commissioner: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss" target="_blank">Israel killing at least one child a week in occupied West Bank, UN says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-12 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned" target="_blank">She spent a year using AI to do almost everything. Here&#x27;s what she learned</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 14:58</span>
             </div>
         </div>
 </div>
@@ -165,12 +161,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffrk1yuauoeru8jl1l35x.png" alt="Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/least-privilege-cicd-on-aws-the-4-layer-pattern-that-scales-to-200-pipelines-238o" target="_blank">Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977774&w=600" alt="The Art of Token Frugality in Generative AI Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/token-frugality-generative-ai-apps" target="_blank">The Art of Token Frugality in Generative AI Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released" target="_blank">DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-12 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!fo1L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e17bb3-f81c-4b30-930b-202e336226a6_800x510.png" alt="Revisiting “No Silver Bullets” in the age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the" target="_blank">Revisiting “No Silver Bullets” in the age of AI</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-12 17:10</span>
             </div>
         </div>
 <div class="story">
@@ -183,39 +206,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977749&w=600" alt="Code Quality Had 5 Pillars. AI Broke 3 and Created 2 We Can’t Measure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-broke-code-quality" target="_blank">Code Quality Had 5 Pillars. AI Broke 3 and Created 2 We Can’t Measure</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/katesharuda/the-full-stack-shopify-performance-checklist-speed-conversions-and-custom-development-done-right-4d4m" target="_blank">The Full-Stack Shopify Performance Checklist: Speed, Conversions, and Custom Development Done Right</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/" target="_blank">Bambu Lab is abusing the open source social contract</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-12 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F01cife6mfvuqbkjq06vq.png" alt="TP VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keci/tp-vpn-8ja" target="_blank">TP VPN</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 14:44</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/" target="_blank">Building a Google Drive Sync Engine that Survives MV3 Service Workers</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-12 16:20</span>
             </div>
         </div>
 </div>
@@ -237,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRENKWC703SHRSVQ82HFXR3A/hero-image.jpg" alt="Spotify Is Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/spotify-is-down?utm_medium=RSS" target="_blank">Spotify Is Down</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 18:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/12/harada-1280x720.jpg" alt="Harada, Not Like This…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/katsuhiro-harada-tekken-vs-studio-snk-saudi-arabia-2000695342" target="_blank">Harada, Not Like This…</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/book-sticker.jpg?fit=1200%2C857&amp;quality=60&amp;ssl=1" alt="1920s library sticker told kids to wash their hands before touching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/12/1920s-library-sticker-told-kids-to-wash-their-hands-before-touching.html" target="_blank">1920s library sticker told kids to wash their hands before touching</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-12 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-is-finally-putting-android-on-laptops?utm_medium=RSS" target="_blank">Google Just Announced a New Laptop Platform Called &#x27;Googlebooks&#x27;</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/marathons21-1280x730.jpg" alt="Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272" target="_blank">Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_749550199-e1778602049506.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Hawaiian official endorses &quot;find out&quot; as wildlife enforcement strategy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/hawaiian-official-endorses-find-out-as-wildlife-enforcement-strategy.html" target="_blank">Hawaiian official endorses &quot;find out&quot; as wildlife enforcement strategy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRECK1TR9ZCHX1KQJ1HXJXRV/hero-image.png" alt="Garmin Just Launched Two New Running Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-just-launched-two-new-running-watches?utm_medium=RSS" target="_blank">Garmin Just Launched Two New Running Watches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-12 16:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 17:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 39 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
