@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 04:22:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 06:00:52 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 04:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f5/live/d3c65200-4d78-11f1-b55d-0f258dce1735.jpg" alt="BBC unmasks key people smuggler in network behind most small boat crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss" target="_blank">BBC unmasks key people smuggler in network behind most small boat crossings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-12 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +104,20 @@
                 <span class="time">2026-05-11 23:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818277/hantavirus-quarantine-cruise-ship" target="_blank">Why cruise ship passengers with possible hantavirus exposure went to Nebraska</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-11 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/" target="_blank">Thinking Machines wants to build an AI that actually listens while it talks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-12 04:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,20 @@
                 <span class="time">2026-05-11 22:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model" target="_blank">Here&amp;#8217;s what Mira Murati&amp;#8217;s AI company is up to</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/" target="_blank">Connecting the dots for accurate AI</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-12 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-11 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vystartasv/a-billion-token-lesson-because-you-can-you-should-56op" target="_blank">A Billion Token Lesson: Because You Can You Should</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 21:54</span>
             </div>
         </div>
 </div>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 04:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
