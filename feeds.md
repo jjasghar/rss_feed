@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-11 23:17:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-12 00:21:32 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, May 11, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/11/g-s1-121548/a-nonprofit-has-sued-the-federal-government-over-its-plans-to-paint-the-lincoln-memorial-reflecting-pool-blue" target="_blank">A nonprofit has sued the federal government over its plans to paint the Lincoln Memorial Reflecting Pool blue</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-12 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss" target="_blank">Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +105,38 @@
                 <span class="time">2026-05-11 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-cyril-ramaphosa-south-africa_7245997.png?20260511214440" alt="&#x27;I will not resign&#x27;: South Africa&#x27;s president rejects calls to quit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/i-will-not-resign-south-africas-president-cyril-ramaphosa-rejects-calls-to-quit-13542880" target="_blank">&#x27;I will not resign&#x27;: South Africa&#x27;s president rejects calls to quit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-11 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-11/241112-abortion-pills-se-320p-6d489f.jpg" alt="Supreme Court temporarily extends access to abortion pill while it mulls legal challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/temporarily-extends-full-access-abortion-pill-mulls-legal-challenge-rcna344618" target="_blank">Supreme Court temporarily extends access to abortion pill while it mulls legal challenge</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-11 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/" target="_blank">Riding an AI rally, Robinhood preps second retail venture IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-12 00:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a02504ee09a7c202c6b229b/master/pass/Model-Behavior-Musk-v-Altman-Ilya-Sutskever-Business-2275165628.jpg" alt="Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/" target="_blank">Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-11 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai" target="_blank">OpenAI just released its answer to Claude Mythos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-11 23:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +164,6 @@
                 <span class="time">2026-05-11 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/928026/palantir-chore-coat" target="_blank">Palantir&amp;#8217;s true believers are wearing this jacket</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275145416-500x500.jpg" alt="Passengers from hantavirus ship arrive in US; 3 people in biocontainment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/" target="_blank">Passengers from hantavirus ship arrive in US; 3 people in biocontainment</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-11 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a02046be8bc80582a1ae96b/master/pass/Super-Bowl-60-Bad-Bunny-Culture-23.jpg" alt="The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/" target="_blank">The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +173,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suifeng023/i-replaced-my-code-reviewer-with-ai-heres-the-exact-prompt-workflow-that-catches-90-of-bugs-4ioa" target="_blank">I Replaced My Code Reviewer with AI — Here&#x27;s the Exact Prompt Workflow That Catches 90% of Bugs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/muhammad_ademola/from-zero-to-scripts-my-bitcoin-cli-learning-journey-btrust-builders-program-2i27" target="_blank">From Zero to Scripts: My Bitcoin CLI Learning Journey (Btrust Builders Program)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/heic-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Fix HEIC images not loading in Ubuntu 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/fix-heic-images-not-loading-ubuntu-26-04" target="_blank">Fix HEIC images not loading in Ubuntu 26.04 LTS</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-11 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/nologintools/why-saas-tools-are-dropping-the-login-wall-in-2026-be0" target="_blank">Why SaaS Tools Are Dropping the Login Wall in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.351-Released" target="_blank">Vulkan 1.4.351 Brings Six New Extensions, Including A Ray-Tracing Improvement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-11 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ennote/why-strict-zero-trust-breaks-secret-management-and-how-we-built-a-zero-persistence-vault-instead-4lcg" target="_blank">Why Strict &quot;Zero Trust&quot; Breaks Secret Management (And How We Built a Zero-Persistence Vault Instead)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 20:13</span>
             </div>
         </div>
 </div>
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
