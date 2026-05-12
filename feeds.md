@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 12:33:21 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 13:32:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 12:33 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 13:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778590963807_now_mnn_april_inflation_260512_S3_1920x1080-zwvnot.jpg" alt="April inflation rate surges to 3.8% amid uncertainty in the Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/april-inflation-rate-surges-to-3-8-amid-uncertainty-in-the-middle-east-263158341971" target="_blank">April inflation rate surges to 3.8% amid uncertainty in the Middle East</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-12 13:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586" target="_blank">Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-12 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-october-7-hamas-attack_7044795.jpg?20251007111502" alt="Israel passes law setting up military tribunal for 7 October attackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969" target="_blank">Israel passes law setting up military tribunal for 7 October attackers</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-12 08:03</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elliemiguel/what-changes-when-a-wordpress-project-is-planned-with-clear-criteria-4j77" target="_blank">What changes when a WordPress project is planned with clear criteria</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 13:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977639&w=600" alt="Scalable Support Request Analysis Using Embeddings, HDBSCAN, and Tiny LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scalable-support-request-analysis" target="_blank">Scalable Support Request Analysis Using Embeddings, HDBSCAN, and Tiny LLMs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jtorchia/spring-security-with-spring-boot-actuator-the-authorization-model-that-survived-the-incident-391i" target="_blank">Spring Security with Spring Boot Actuator: the authorization model that survived the incident</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-12 12:30</span>
@@ -205,24 +216,6 @@
                 <span class="time">2026-05-12 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/en/headerimage/generatedHeaderImage-1778536323907.jpg" alt="Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-12 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oscdev/automate-to-keep-up-how-to-stop-drowning-in-github-issues-44np" target="_blank">Automate to Keep Up: How to Stop Drowning in GitHub Issues</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 07:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-41-1280x720.jpg" alt="Mortal Kombat 2 Writer Wanted To ‘Rectify’ Not Having Original Creators That Involved In The First Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mortal-kombat-2-ed-boon-netherrealm-cameo-writers-2000695256" target="_blank">Mortal Kombat 2 Writer Wanted To ‘Rectify’ Not Having Original Creators That Involved In The First Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KP51SJQ502410A6W3K3R21ZN/hero-image.png" alt="This Amazon Fire TV Soundbar Is $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-fire-tv-soundbar-sale-may-2026?utm_medium=RSS" target="_blank">This Amazon Fire TV Soundbar Is $150 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2HBFPAVQCEC6VB6KKTT6DG/hero-image.jpg" alt="How to Remove a Tick Without Touching It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +289,6 @@
                 <span class="time">2026-05-11 20:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JSM6Z8QP6KAXHDJVGM7YRN0E/hero-image.png" alt="This Google Pixel 9 Is Nearly Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-9-deal-on-amazon?utm_medium=RSS" target="_blank">This Google Pixel 9 Is Nearly Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-11 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/eye2.jpg?fit=1200%2C669&amp;quality=60&amp;ssl=1" alt="What Claude thinks of Kevin Kelly&#x27;s essay about Claude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/11/what-claude-thinks-of-kevin-kellys-essay-about-claude.html" target="_blank">What Claude thinks of Kevin Kelly&#x27;s essay about Claude</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-11 19:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 12:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 13:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
