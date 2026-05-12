@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 16:40:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-12 17:37:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 16:40 UTC</div>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 17:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Health/Marty-Makary-ap-gmh-260507_1778157969368_hpMain_4x3t_384.jpg" alt="Dr. Marty Makary intends to resign as FDA commissioner: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Health/dr-marty-makary-intends-resign-fda-commissioner-sources/story?id=132759639" target="_blank">Dr. Marty Makary intends to resign as FDA commissioner: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-12 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260508-Marty-Makary-ew-337p-35f807.jpg" alt="Dr. Marty Makary is out as FDA commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/dr-marty-makary-fda-commissioner-rcna344765" target="_blank">Dr. Marty Makary is out as FDA commissioner</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-12 17:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors" target="_blank">Transportation Secretary Duffy filmed a reality show, funded by firms he regulates</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-12 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-missile-russia-sarmat_7246608.jpg?20260512153821" alt="&#x27;Most powerful&#x27; nuclear missile will be deployed this year says Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-says-russia-will-deploy-most-powerful-sarmat-nuclear-missile-this-year-13543204" target="_blank">&#x27;Most powerful&#x27; nuclear missile will be deployed this year says Putin</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-12 15:29</span>
             </div>
         </div>
 <div class="story">
@@ -78,38 +100,29 @@
                 <span class="time">2026-05-12 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778590963807_now_mnn_april_inflation_260512_S3_1920x1080-zwvnot.jpg" alt="April inflation rate surges to 3.8% amid uncertainty in the Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/april-inflation-rate-surges-to-3-8-amid-uncertainty-in-the-middle-east-263158341971" target="_blank">April inflation rate surges to 3.8% amid uncertainty in the Middle East</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-12 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss" target="_blank">The crisis is Sudan is much worse than what is acknowledged</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b107/live/4fb40250-4de6-11f1-ac78-2112837ce2aa.jpg" alt="What is happening with Keir Starmer’s leadership: At a glance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss" target="_blank">What is happening with Keir Starmer’s leadership: At a glance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-12 10:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage" target="_blank">Sam Altman says Elon Musk’s mind games were damaging OpenAI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a020512167d64e7554534ba/master/pass/Top%20Art%20copy.jpg" alt="The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/android-17-gemini-top-new-features/" target="_blank">The Top New Features in Google’s Android 17—and Gemini Intelligence—Coming This Summer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-12 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +159,29 @@
                 <span class="time">2026-05-12 12:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69fa52db3e5215ee65d8169a/master/pass/050526-competitive-vagina-microbiome-reports.jpg" alt="Some Women Are Obsessively Testing Their Vaginas to Optimize Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/" target="_blank">Some Women Are Obsessively Testing Their Vaginas to Optimize Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch" target="_blank">How to watch Google’s Android Show: I/O Edition today</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released" target="_blank">DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-12 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pycco-docs.github.io/pycco/" target="_blank">Pycco: 100-line literate-style side-by-side documentation renderer</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-12 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977749&w=600" alt="Code Quality Had 5 Pillars. AI Broke 3 and Created 2 We Can’t Measure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +218,6 @@
                 <span class="time">2026-05-12 14:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b70-four" target="_blank">Running Four Intel Graphics Cards Under Linux On Ubuntu 26.04</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elliemiguel/what-changes-when-a-wordpress-project-is-planned-with-clear-criteria-4j77" target="_blank">What changes when a WordPress project is planned with clear criteria</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 13:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325" target="_blank">One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/typeballs.jpg?fit=1158%2C806&amp;quality=60&amp;ssl=1" alt="Digitizing vintage proportional typewriter fonts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/12/digitizing-vintage-proportional-typewriter-fonts.html" target="_blank">Digitizing vintage proportional typewriter fonts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-12 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KREFY2W9A3FZQYKTBZ45QJD1/hero-image.jpg" alt="Google Just Announced a New Laptop Platform Called &#x27;Googlebooks&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-is-finally-putting-android-on-laptops?utm_medium=RSS" target="_blank">Google Just Announced a New Laptop Platform Called &#x27;Googlebooks&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/marathons21-1280x730.jpg" alt="Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/garmin-just-launched-two-new-running-watches?utm_medium=RSS" target="_blank">Garmin Just Launched Two New Running Watches</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/STar-Wars-1280x720.jpg" alt="Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281" target="_blank">Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Screenshot-Vouch-Atlas.jpg?fit=1080%2C655&amp;quality=60&amp;ssl=1" alt="World map of presumed laptop theft risk in coffee shops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/world-map-of-presumed-laptop-theft-risk-in-coffee-shops.html" target="_blank">World map of presumed laptop theft risk in coffee shops</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRDX3SYSHTN23ERJMXX99RFG/hero-image.jpg" alt="10 Hacks Every Microsoft Outlook User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-microsoft-outlook-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Microsoft Outlook User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-12 14:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 17:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
