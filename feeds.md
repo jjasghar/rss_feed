@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 07:54:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 08:54:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 07:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 08:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-october-7-hamas-attack_7044795.jpg?20251007111502" alt="Israel passes law setting up military tribunal for 7 October attackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969" target="_blank">Israel passes law setting up military tribunal for 7 October attackers</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-12 08:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss" target="_blank">Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-12 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/gas-3-gty-gmh-260430_1777571628658_hpMain_4x3t_384.jpg" alt="Trump is floating a gas tax holiday. What does that mean?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-floating-gas-tax-holiday-amid-rising-fuel/story?id=132859509" target="_blank">Trump is floating a gas tax holiday. What does that mean?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-11 23:33</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/en/headerimage/generatedHeaderImage-1778536323907.jpg" alt="Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-12 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/muhammad_ademola/from-zero-to-scripts-my-bitcoin-cli-learning-journey-btrust-builders-program-2i27" target="_blank">From Zero to Scripts: My Bitcoin CLI Learning Journey (Btrust Builders Program)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-11 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/heic-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Fix HEIC images not loading in Ubuntu 26.04 LTS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/fix-heic-images-not-loading-ubuntu-26-04" target="_blank">Fix HEIC images not loading in Ubuntu 26.04 LTS</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-11 22:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 07:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 08:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
