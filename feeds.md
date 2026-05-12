@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 14:52:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 15:48:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 14:52 UTC</div>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 15:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss" target="_blank">Israel killing at least one child a week in occupied West Bank, UN says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned" target="_blank">She spent a year using AI to do almost everything. Here&#x27;s what she learned</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-12 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778590963807_now_mnn_april_inflation_260512_S3_1920x1080-zwvnot.jpg" alt="April inflation rate surges to 3.8% amid uncertainty in the Middle East" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +96,29 @@
                 <span class="time">2026-05-12 10:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/grocery-store-gty-jef-260511_1778515567102_hpMain_4x3t_384.jpg" alt="Inflation report to show latest prices as fuel costs surge amid Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452" target="_blank">Inflation report to show latest prices as fuel costs surge amid Iran war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-12 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260511-grocery-shop-lidl-ew-445p-79f105.jpg" alt="Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586" target="_blank">Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-12 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale" target="_blank">Anker&amp;#8217;s fast, foldable 3-in-1 charging station is back to its best price yet</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 15:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-amazon-warehouse-500x500.jpg" alt="Amazon employees are &quot;tokenmaxxing&quot; due to pressure to use AI tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/" target="_blank">Amazon employees are &quot;tokenmaxxing&quot; due to pressure to use AI tools</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-12 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +155,29 @@
                 <span class="time">2026-05-12 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date" target="_blank">These new Roombas are smaller and cheaper</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/katesharuda/the-full-stack-shopify-performance-checklist-speed-conversions-and-custom-development-done-right-4d4m" target="_blank">The Full-Stack Shopify Performance Checklist: Speed, Conversions, and Custom Development Done Right</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/" target="_blank">Bambu Lab is abusing the open source social contract</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-12 14:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F01cife6mfvuqbkjq06vq.png" alt="TP VPN" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/lessons-building-engineering-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Beyond Coding: How Senior ICs Grow Influence and Drive Impact</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jtorchia/spring-security-with-spring-boot-actuator-the-authorization-model-that-survived-the-incident-391i" target="_blank">Spring Security with Spring Boot Actuator: the authorization model that survived the incident</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17339123/linux-fully-patches-dirty-frag-exploit" target="_blank">Linux 7.0.6 is Out, and It Fully Patches the Dirty Frag Exploit</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-12 11:35</span>
             </div>
         </div>
 </div>
@@ -303,22 +301,13 @@
                 <span class="time">2026-05-11 22:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778468544-20260511-edit.png" alt="Saturday Morning Breakfast Cereal - Arp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/arp" target="_blank">Saturday Morning Breakfast Cereal - Arp</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 14:52 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 15:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
