@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 19:30:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 20:29:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 20:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss" target="_blank">Why have peace efforts failed to end conflict in Sudan?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5819722/fda-commissioner-makary-resigns" target="_blank">FDA commissioner is set to resign after tumultuous tenure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-12 19:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg" alt="No sign of larger hantavirus outbreak, says UN health agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +104,20 @@
                 <span class="time">2026-05-12 16:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-missile-russia-sarmat_7246608.jpg?20260512153821" alt="&#x27;Most powerful&#x27; nuclear missile will be deployed this year says Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-says-russia-will-deploy-most-powerful-sarmat-nuclear-missile-this-year-13543204" target="_blank">&#x27;Most powerful&#x27; nuclear missile will be deployed this year says Putin</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-12 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss" target="_blank">Israel killing at least one child a week in occupied West Bank, UN says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls" target="_blank">Meta will tell parents when their teens add new interests to their Instagram algorithm</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-500x500-1778610364.jpg" alt="Twin brothers wipe 96 gov&#x27;t databases minutes after being fired" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +163,6 @@
                 <span class="time">2026-05-12 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale" target="_blank">Anker&amp;#8217;s fast, foldable 3-in-1 charging station is back to its best price yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 15:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +171,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future" target="_blank">Stop managing the past and start building IT’s future</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj44uw8c5yqnp8wcy3tcp.png" alt="How to watch a YouTube channel from first to last video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ed88_f5dffa506/how-to-watch-a-youtube-channel-from-first-to-last-video-8pi" target="_blank">How to watch a YouTube channel from first to last video</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g" target="_blank">🏆 30 Best Distributed Systems Talks of All Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-12 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977781&w=600" alt="Solving the Mystery: Why Java RSS Grows in Docker on M1 Macs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-rss-growth-docker-m1" target="_blank">Solving the Mystery: Why Java RSS Grows in Docker on M1 Macs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-12 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/token-frugality-generative-ai-apps" target="_blank">The Art of Token Frugality in Generative AI Applications</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://googlebook.google/" target="_blank">Googlebook</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-12 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released" target="_blank">DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-12 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!fo1L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11e17bb3-f81c-4b30-930b-202e336226a6_800x510.png" alt="Revisiting “No Silver Bullets” in the age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the" target="_blank">Revisiting “No Silver Bullets” in the age of AI</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-12 17:10</span>
             </div>
         </div>
 </div>
@@ -319,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
