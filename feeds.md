@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 22:23:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-12 23:20:15 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 22:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss" target="_blank">Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 22:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c8/live/3ddd4840-4e48-11f1-ae62-ab9d6bf96137.jpg" alt="Starmer to meet Streeting on Wednesday as leadership crisis divides Labour" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to meet Streeting on Wednesday as leadership crisis divides Labour</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-12 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial" target="_blank">OpenAI&#x27;s Sam Altman takes the stand to fend off Elon Musk&#x27;s accusations he &#x27;stole a charity&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-12 21:58</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +99,29 @@
                 <span class="time">2026-05-12 20:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/12/why-have-peace-efforts-failed-to-end-conflict-in-sudan?traffic_source=rss" target="_blank">Why have peace efforts failed to end conflict in Sudan?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5819722/fda-commissioner-makary-resigns" target="_blank">FDA commissioner is set to resign after tumultuous tenure</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a03a0e42162ad5152e57fa7/master/pass/Unitree-Mecha-Robot-Business-3.jpg" alt="The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/unitree-gd01-mecha-robot/" target="_blank">The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-12 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-500x500.png" alt="The newest AI boom pitch: Host a mini data center at your home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/" target="_blank">The newest AI boom pitch: Host a mini data center at your home</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-12 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +158,6 @@
                 <span class="time">2026-05-12 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/" target="_blank">Kevin Hartz’s A* just closed its third fund with $450 million</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-12 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage" target="_blank">Sam Altman says Elon Musk’s mind games were damaging OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +170,24 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future" target="_blank">Stop managing the past and start building IT’s future</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_402ccbd6e5cb02871506/grep-said-1202-the-real-answer-was-10-introducing-colref-2lce" target="_blank">grep Said 1,202. The Real Answer Was 10. — Introducing colref</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS-2.4.2-Released" target="_blank">OpenZFS 2.4.2 Released With Linux 7.0 Kernel Support, Many Bug Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-12 22:28</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g" target="_blank">🏆 30 Best Distributed Systems Talks of All Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-12 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977781&w=600" alt="Solving the Mystery: Why Java RSS Grows in Docker on M1 Macs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-rss-growth-docker-m1" target="_blank">Solving the Mystery: Why Java RSS Grows in Docker on M1 Macs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffrk1yuauoeru8jl1l35x.png" alt="Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/least-privilege-cicd-on-aws-the-4-layer-pattern-that-scales-to-200-pipelines-238o" target="_blank">Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 18:19</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/haunted-chocolatier-1280x720.jpg" alt="Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley,’ Somehow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/haunted-chocolatier-is-set-to-be-way-bigger-than-stardew-valley-somehow-2000695369" target="_blank">Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley,’ Somehow</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-12 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-78-1280x695.jpg" alt="Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +299,6 @@
                 <span class="time">2026-05-12 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/Xbox-gta-1280x720.jpg" alt="One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325" target="_blank">One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +313,13 @@
                 <span class="time">2026-05-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/11/in-bloom" target="_blank">In Bloom</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-11 22:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
