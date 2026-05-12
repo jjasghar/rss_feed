@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 10:46:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 11:35:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 10:46 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 11:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss" target="_blank">The crisis is Sudan is much worse than what is acknowledged</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 10:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b107/live/4fb40250-4de6-11f1-ac78-2112837ce2aa.jpg" alt="What is happening with Keir Starmer’s leadership: At a glance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260511-grocery-shop-lidl-ew-445p-79f105.jpg" alt="Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586" target="_blank">Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-12 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/10/1920x1080/skynews-israel-october-7-hamas-attack_7044795.jpg?20251007111502" alt="Israel passes law setting up military tribunal for 7 October attackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -84,29 +97,20 @@
                 <span class="time">2026-05-12 08:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/12/g-s1-121583/israeli-lawmakers-set-up-a-special-tribunal" target="_blank">Israeli lawmakers set up tribunal, allow for death penalty for October 2023 attackers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f5/live/d3c65200-4d78-11f1-b55d-0f258dce1735.jpg" alt="BBC unmasks key people smuggler in network behind most small boat crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss" target="_blank">BBC unmasks key people smuggler in network behind most small boat crossings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-12 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch" target="_blank">How to watch Google’s Android Show: I/O Edition today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a022dc9f2e1dd6d971cc177/master/pass/Big-Interview-UV-Interview-Hacks-Culture-2270505420.jpg" alt="The Creators of ‘Hacks’ Really, Really, Really Hate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/" target="_blank">Riding an AI rally, Robinhood preps second retail venture IPO</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-12 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a02504ee09a7c202c6b229b/master/pass/Model-Behavior-Musk-v-Altman-Ilya-Sutskever-Business-2275165628.jpg" alt="Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/" target="_blank">Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-11 23:51</span>
             </div>
         </div>
 </div>
@@ -229,9 +224,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html" target="_blank">LLMs and Text-in-Text Steganography</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html" target="_blank">Copy.Fail Linux Vulnerability</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-11 11:04</span>
+                <span class="time">2026-05-12 11:06</span>
             </div>
         </div>
 </div>
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 10:46 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
