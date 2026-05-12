@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 09:51:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-12 10:46:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 09:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 10:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b107/live/4fb40250-4de6-11f1-ac78-2112837ce2aa.jpg" alt="What is happening with Keir Starmer’s leadership: At a glance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss" target="_blank">What is happening with Keir Starmer’s leadership: At a glance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-12 10:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/12/will-messi-play-argentina-answer-fan-queries-in-55-man-world-cup-squad?traffic_source=rss" target="_blank">Will Messi play? Argentina answer fan queries in 55-man World Cup squad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-12 10:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Business/grocery-store-gty-jef-260511_1778515567102_hpMain_4x3t_384.jpg" alt="Inflation report to show latest prices as fuel costs surge amid Iran war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-05-12 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/nx-s1-5818675/trump-fema-disaster-emergency-hamilton-nominate" target="_blank">Trump taps former FEMA director to lead the disaster agency again</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/11/g-s1-121548/a-nonprofit-has-sued-the-federal-government-over-its-plans-to-paint-the-lincoln-memorial-reflecting-pool-blue" target="_blank">A nonprofit has sued the federal government over its plans to paint the Lincoln Memorial Reflecting Pool blue</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a022dc9f2e1dd6d971cc177/master/pass/Big-Interview-UV-Interview-Hacks-Culture-2270505420.jpg" alt="The Creators of ‘Hacks’ Really, Really, Really Hate AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/" target="_blank">The Creators of ‘Hacks’ Really, Really, Really Hate AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-12 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2026-05-11 23:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai" target="_blank">OpenAI just released its answer to Claude Mythos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-11 23:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://matklad.github.io/2026/05/12/software-architecture.html" target="_blank">Learning Software Architecture</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-12 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/time-series-storage-design/en/headerimage/Time-Series-Storage-Design-Choices-That-Shape-Cost-and-Performance-header-1778155792101.jpg" alt="Article: Time-Series Storage: Design Choices That Shape Cost and Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/time-series-storage-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Time-Series Storage: Design Choices That Shape Cost and Performance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-12 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/en/headerimage/generatedHeaderImage-1778536323907.jpg" alt="Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/R300g-Code-Cleanup-2026" target="_blank">Open-Source Radeon Driver For R300 Through R500 GPUs Sees Big Code Cleanup In 2026</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-12 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suifeng023/i-replaced-my-code-reviewer-with-ai-heres-the-exact-prompt-workflow-that-catches-90-of-bugs-4ioa" target="_blank">I Replaced My Code Reviewer with AI — Here&#x27;s the Exact Prompt Workflow That Catches 90% of Bugs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muhammad_ademola/from-zero-to-scripts-my-bitcoin-cli-learning-journey-btrust-builders-program-2i27" target="_blank">From Zero to Scripts: My Bitcoin CLI Learning Journey (Btrust Builders Program)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-11 23:08</span>
             </div>
         </div>
 </div>
@@ -316,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:51 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 10:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
