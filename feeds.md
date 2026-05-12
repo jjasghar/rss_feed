@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 06:00:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-12 07:54:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 12, 2026 - 07:54 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/12/g-s1-121583/israeli-lawmakers-set-up-a-special-tribunal" target="_blank">Israeli lawmakers set up tribunal, allow for death penalty for October 2023 attackers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-12 06:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f5/live/d3c65200-4d78-11f1-b55d-0f258dce1735.jpg" alt="BBC unmasks key people smuggler in network behind most small boat crossings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-floating-gas-tax-holiday-amid-rising-fuel/story?id=132859509" target="_blank">Trump is floating a gas tax holiday. What does that mean?</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-11 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/9dab4610-4d61-11f1-bd52-e755d604ece4.jpg" alt="Cabinet split as Mahmood calls on Starmer to set out timetable to go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7v9r38d24do?at_medium=RSS&at_campaign=rss" target="_blank">Cabinet split as Mahmood calls on Starmer to set out timetable to go</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-11 23:30</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oscdev/automate-to-keep-up-how-to-stop-drowning-in-github-issues-44np" target="_blank">Automate to Keep Up: How to Stop Drowning in GitHub Issues</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-12 07:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/" target="_blank">Connecting the dots for accurate AI</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/fix-heic-images-not-loading-ubuntu-26-04" target="_blank">Fix HEIC images not loading in Ubuntu 26.04 LTS</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-05-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/cangjie-effect-handlers-adt/en/headerimage/generatedHeaderImage-1778450390348.jpg" alt="Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cangjie, a New Open-Source Compiled Language with Native Effect Handlers and Algebraic Data Types</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-11 21:56</span>
             </div>
         </div>
 </div>
@@ -318,22 +312,13 @@
                 <span class="time">2026-05-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/11/in-bloom" target="_blank">In Bloom</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-11 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 07:54 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
