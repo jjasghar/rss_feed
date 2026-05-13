@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 07:58:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 09:12:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 07:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 09:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military" target="_blank">Staying strong, then falling apart: How a military family grapples with the Iran war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle?traffic_source=rss" target="_blank">Jason Collins, first openly gay active NBA player, dies after cancer battle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 08:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2026-05-13 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights" target="_blank">‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-13 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss" target="_blank">FBI Director Kash Patel fires back at drinking allegations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 01:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine" target="_blank">Data centers are coming for rural America</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-13 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0390917ea0996a94ebfefc/master/pass/181827929" alt="NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nasas-curiosity-rover-got-its-drill-stuck-on-a-rock-heres-how-they-freed-it/" target="_blank">NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 08:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Naturepedic Promo Codes and Deals: 20% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2026-05-13 00:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg" alt="Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/" target="_blank">Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg" alt="Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/" target="_blank">Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 00:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqnqeaa8efgt4i0v9e6p.png" alt="I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sukriti_singh/i-opened-an-ai-coding-challenge-just-to-look-a-few-hours-later-i-was-completely-invested-in-the-2cjp" target="_blank">I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 09:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/capacity-planning-queue-recovery/en/headerimage/The-Mathematics-of-Backlogs-Capacity-Planning-for-Queue-Recovery-header-1778227922596.jpg" alt="Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/capacity-planning-queue-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-13 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/ankurg132/separating-dev-and-production-environment-in-your-flutter-app-with-multiple-firebase-configurations-5h5n" target="_blank">Separating dev and production environment in your Flutter App with multiple Firebase configurations.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lyraalishaikh/stop-pulling-containers-just-to-mirror-them-practical-skopeo-for-safer-image-promotion-1kf3" target="_blank">Stop Pulling Containers Just to Mirror Them: Practical `skopeo` for Safer Image Promotion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2605.08419" target="_blank">Deterministic Fully-Static Whole-Binary Translation Without Heuristics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-13 04:25</span>
             </div>
         </div>
 </div>
@@ -323,7 +324,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 07:58 UTC
+        🔄 Last Updated: 09:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
