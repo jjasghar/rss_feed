@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 15:53:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-13 16:42:59 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 15:53 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 16:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_ufos_full_v2-120526?traffic_source=rss" target="_blank">Is the Pentagon’s UFO dump a political distraction?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +96,29 @@
                 <span class="time">2026-05-13 12:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778675313860_now_brk_trump_china_arrival_260513_S3_1920x1080-b1rtxx.jpg" alt="President Trump arrives in China for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/president-trump-arrives-in-china-for-high-stakes-summit-with-xi-263226437977" target="_blank">President Trump arrives in China for high-stakes summit with Xi</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-13 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/" target="_blank">Rivian spinoff Mind Robotics raises another $400M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-13 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a039693023f7974e231ed7a/master/pass/politics_anxiety_presidential_election.jpg" alt="Trump&#x27;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/" target="_blank">Trump&#x27;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin may need external funding to hit ambitious launch targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +155,20 @@
                 <span class="time">2026-05-13 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a01db454b2ada73a7348cf0/master/pass/Sony%20Bravia%20Theater%20Bar%205%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Sony Bravia Theater Bar 5 Review: Basic Bar, Big Sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/sony-bravia-theater-bar-5/" target="_blank">Sony Bravia Theater Bar 5 Review: Basic Bar, Big Sound</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule-500x500.jpg" alt="Could this be the moment that drug manufacturing takes off in orbit?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/" target="_blank">Could this be the moment that drug manufacturing takes off in orbit?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-13 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techwithhari/how-i-built-production-ai-agent-monitoring-with-langfuse-52he" target="_blank">How I Built Production AI Agent Monitoring with Langfuse</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,19 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014" target="_blank">Reverting the incremental GC in Python 3.14 and 3.15</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-13 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/gcc-16-vs-clang-22" target="_blank">GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-13 13:45</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17339892/fedora-hummingbird-images" target="_blank">Fedora Hummingbird Debuts As A Super Hardened Linux Distro</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-13 14:23</span>
             </div>
         </div>
 </div>
@@ -246,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/googlebook-1.jpg?fit=2371%2C1630&amp;quality=60&amp;ssl=1" alt="Prompt your widgets with Googlebook, a laptop range for people into that sort of thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/13/prompt-your-widgets-with-googlebook-a-laptop-range-for-people-into-that-sort-of-thing.html" target="_blank">Prompt your widgets with Googlebook, a laptop range for people into that sort of thing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-13 15:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-42-1280x720.jpg" alt="Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +296,6 @@
                 <span class="time">2026-05-12 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-78-1280x695.jpg" alt="Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playing-forza-horizon-6-early-gets-modder-banned-for-7973-years-2000695347" target="_blank">Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 15:53 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 16:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
