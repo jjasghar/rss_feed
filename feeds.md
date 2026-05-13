@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 05:13:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 06:55:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 05:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 06:55 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -96,12 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778627331534_nn_tll_trump_beijing_summit_260512_S3_1920x1080-2enm09.jpg" alt="Trump heads to high-stakes summit in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss" target="_blank">Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 22:09</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-heads-to-high-stakes-summit-in-china-263200837587" target="_blank">Trump heads to high-stakes summit in China</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-12 23:08</span>
             </div>
         </div>
 </div>
@@ -178,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fnj6l8k6q6ydnikwmod.png" alt="Separating dev and production environment in your Flutter App with multiple Firebase configurations." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ankurg132/separating-dev-and-production-environment-in-your-flutter-app-with-multiple-firebase-configurations-5h5n" target="_blank">Separating dev and production environment in your Flutter App with multiple Firebase configurations.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 06:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/stop-managing-past-and-start-building-its-future" target="_blank">Stop managing the past and start building IT’s future</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2026-05-13 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_402ccbd6e5cb02871506/grep-said-1202-the-real-answer-was-10-introducing-colref-2lce" target="_blank">grep Said 1,202. The Real Answer Was 10. — Introducing colref</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 23:14</span>
             </div>
         </div>
 </div>
@@ -323,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 05:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 06:55 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
