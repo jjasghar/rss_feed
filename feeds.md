@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 16:42:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 17:39:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 15 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 16:43 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 17:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Jeff-Merkley-ht-gmh-260513_1778692350882_hpMain_4x3t_384.jpg" alt="Iran live updates: Senate again fails to advance war powers resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Senate again fails to advance war powers resolution</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-13 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles" target="_blank">Greetings from Seville, where springtime means caracoles</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 17:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +106,38 @@
                 <span class="time">2026-05-13 13:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/13/could-south-africas-ramaphosa-be-impeached-over-cash-in-sofa-scandal?traffic_source=rss" target="_blank">Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4831/live/e711b550-4ec4-11f1-9226-1f41f7d44e1f.jpg" alt="More than 1,000 passengers held on cruise after gastrointestinal illness outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss" target="_blank">More than 1,000 passengers held on cruise after gastrointestinal illness outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/" target="_blank">X launches a History tab for bookmarks, likes, videos, and articles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-13 17:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a049fa84dff1cbe64bc343d/master/pass/GettyImages-2275340422.jpg" alt="OpenAI Brings Its Ass to Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/" target="_blank">OpenAI Brings Its Ass to Court</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats" target="_blank">Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-13 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +165,47 @@
                 <span class="time">2026-05-13 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a034d2ce90cf7c0fd36d447/master/pass/GettyImages-2266672994.jpg" alt="WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/" target="_blank">WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot" target="_blank">Unitree will sell you a massive ‘transformable mecha’ for $650,000</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-13 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a023cd0676f3047201fdc4d/master/pass/States-Dont-Have-Enough-Capacity-to-Test-for-Hantavirus-Science-2274271417.jpg" alt="Inside the Race to Develop a Test for the Rare Andes Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/race-to-develop-andes-hantavirus-test/" target="_blank">Inside the Race to Develop a Test for the Rare Andes Hantavirus</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with" target="_blank">TypeScript, C# and Turbo Pascal with Anders Hejlsberg</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-13 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISSEI-Linux-Driver" target="_blank">Linux Driver Posted For Intel Silicon Security Engine Interface &quot;ISSEI&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-13 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957362&w=600" alt="You Learned AI. So Why Are You Still Not Getting Hired?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/you-learned-ai-so-why-are-you-still-not-hired" target="_blank">You Learned AI. So Why Are You Still Not Getting Hired?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/rethinking-byod-security-protecting-data-without-trusting-devices" target="_blank">Rethinking BYOD security: protecting data without trusting devices</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-13 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,46 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8" target="_blank">Lambda Just Got a File System. I Put AI Agents on It.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/airbnb-privacy-identity-model/en/headerimage/generatedHeaderImage-1777161122220.jpg" alt="Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/airbnb-privacy-identity-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-13 14:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/audreyhal/the-tanstack-npm-attack-shows-why-pnpm-11-matters-21ff" target="_blank">The TanStack npm Attack Shows Why pnpm 11 Matters</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19017064&w=600" alt="AWS Kiro: The Agentic IDE That Makes Specs the Unit of Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kiro-feature-to-requirements-design-tasks" target="_blank">AWS Kiro: The Agentic IDE That Makes Specs the Unit of Work</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-13 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17339892/fedora-hummingbird-images" target="_blank">Fedora Hummingbird Debuts As A Super Hardened Linux Distro</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-13 14:23</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/" target="_blank">Dungeons &amp; Desktops: 10 roguelikes that never die (because their communities won’t let them)</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-13 16:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRH14JZ7ADD6GEDAZT86F7GY/hero-image.png" alt="These Craftsman Tools Are Up to 56% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/craftsman-tools-sale-may-2026?utm_medium=RSS" target="_blank">These Craftsman Tools Are Up to 56% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-13 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/googlebook-1.jpg?fit=2371%2C1630&amp;quality=60&amp;ssl=1" alt="Prompt your widgets with Googlebook, a laptop range for people into that sort of thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,20 +306,20 @@
                 <span class="time">2026-05-12 23:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/haunted-chocolatier-1280x720.jpg" alt="Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley,’ Somehow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/haunted-chocolatier-is-set-to-be-way-bigger-than-stardew-valley-somehow-2000695369" target="_blank">Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley,’ Somehow</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778640181-20260513-edit.png" alt="Saturday Morning Breakfast Cereal - Tide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/tide" target="_blank">Saturday Morning Breakfast Cereal - Tide</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 16:43 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
