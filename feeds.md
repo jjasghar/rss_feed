@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 01:33:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 03:00:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 01:33 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss" target="_blank">FBI Director Kash Patel fires back at drinking allegations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 01:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/12/g-s1-121766/ice-acting-director-venturella" target="_blank">Former private prison official to serve as acting ICE chief</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -57,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss" target="_blank">Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-12 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg" alt="A decade on, Trump returns to a stronger and more assertive China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss" target="_blank">A decade on, Trump returns to a stronger and more assertive China</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-12 22:07</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +101,20 @@
                 <span class="time">2026-05-12 22:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial" target="_blank">OpenAI&#x27;s Sam Altman takes the stand to fend off Elon Musk&#x27;s accusations he &#x27;stole a charity&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/12/nx-s1-5818460/gun-safe-storage-children-suicide-homicide" target="_blank">About 7 million kids live in a home with a loaded and unlocked gun, a study finds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-12 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs" target="_blank">Sony’s new Xperia phone gets an overdue redesign</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-13 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,20 @@
                 <span class="time">2026-05-12 22:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-500x500.png" alt="The newest AI boom pitch: Host a mini data center at your home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/" target="_blank">The newest AI boom pitch: Host a mini data center at your home</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-12 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karleeov/how-to-enable-windows-k2-performance-boost-on-windows-11-28kk" target="_blank">How to Enable Windows K2 Performance Boost on Windows 11</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 02:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +219,6 @@
                 <span class="time">2026-05-12 20:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g" target="_blank">🏆 30 Best Distributed Systems Talks of All Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/justice.jpg?fit=1200%2C776&amp;quality=60&amp;ssl=1" alt="Man who stole a coworker&#x27;s identity for 30 years had his victim jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/12/man-who-stole-a-coworkers-identity-for-30-years-had-his-victim-jailed.html" target="_blank">Man who stole a coworker&#x27;s identity for 30 years had his victim jailed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-12 23:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/haunted-chocolatier-1280x720.jpg" alt="Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley,’ Somehow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,30 +284,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRECAEM8YMV0MJQW7HBHZ4PS/hero-image.jpg" alt="New Smart Bands Are Coming, and Whoop Is Scared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/new-smart-bands-fitbit-air-whoop-comparison?utm_medium=RSS" target="_blank">New Smart Bands Are Coming, and Whoop Is Scared</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-12 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRENKWC703SHRSVQ82HFXR3A/hero-image.jpg" alt="Spotify Is Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/spotify-is-down?utm_medium=RSS" target="_blank">Spotify Is Down</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-12 18:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/12/harada-1280x720.jpg" alt="Harada, Not Like This…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/katsuhiro-harada-tekken-vs-studio-snk-saudi-arabia-2000695342" target="_blank">Harada, Not Like This…</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/book-sticker.jpg?fit=1200%2C857&amp;quality=60&amp;ssl=1" alt="1920s library sticker told kids to wash their hands before touching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/1920s-library-sticker-told-kids-to-wash-their-hands-before-touching.html" target="_blank">1920s library sticker told kids to wash their hands before touching</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 17:39</span>
             </div>
         </div>
 </div>
@@ -314,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:33 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
