@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 18:32:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2026-05-13 19:31:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 18:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/barbell1-500x500.jpg" alt="The physics of how Olympic weightlifters exploit barbell&#x27;s &quot;whip&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/" target="_blank">The physics of how Olympic weightlifters exploit barbell&#x27;s &quot;whip&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-13 19:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -148,20 +152,20 @@
                 <span class="time">2026-05-13 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin may need external funding to hit ambitious launch targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/" target="_blank">Blue Origin may need external funding to hit ambitious launch targets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-13 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pyrefly.org/blog/v1.0/" target="_blank">Pyrefly v1.0 is here</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-13 18:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fryan7k9b8jctxh4vq1wr.png" alt="I Built an SVG Icon Library Because I Was Tired of Installing Heavy Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="time">2026-05-13 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techwithhari/how-i-built-production-ai-agent-monitoring-with-langfuse-52he" target="_blank">How I Built Production AI Agent Monitoring with Langfuse</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/02/fallout-1280x720.jpg" alt="93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/93-percent-of-capcoms-game-sales-are-digital-and-the-company-expects-that-number-to-grow-2000695728" target="_blank">93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-13 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRH1CRPPGC7GKXG1N60BRWA8/hero-image.jpg" alt="Google Announced a Bunch of Security Upgrades for Android This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-announced-new-security-upgrades-for-android?utm_medium=RSS" target="_blank">Google Announced a Bunch of Security Upgrades for Android This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-13 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRH14JZ7ADD6GEDAZT86F7GY/hero-image.png" alt="These Craftsman Tools Are Up to 56% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +293,6 @@
                 <span class="time">2026-05-13 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Brussels-Sprous.-Photo-terazitu-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grocery prices soar as Iran war drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/13/grocery-prices-soar-as-iran-war-drags-on.html" target="_blank">Grocery prices soar as Iran war drags on</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-13 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/justice.jpg?fit=1200%2C776&amp;quality=60&amp;ssl=1" alt="Man who stole a coworker&#x27;s identity for 30 years had his victim jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/man-who-stole-a-coworkers-identity-for-30-years-had-his-victim-jailed.html" target="_blank">Man who stole a coworker&#x27;s identity for 30 years had his victim jailed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 23:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,13 +316,22 @@
                 <span class="time">2026-05-13 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/results_age.png" alt="Results Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3245/" target="_blank">Results Age</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-13 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
