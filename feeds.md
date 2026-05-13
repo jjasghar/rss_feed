@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-12 23:20:15 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-05-13 00:23:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, May 12, 2026 - 23:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg" alt="Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/" target="_blank">Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial" target="_blank">Sam Altman was winning on the stand, but it might not be enough</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-12 23:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a03a0e42162ad5152e57fa7/master/pass/Unitree-Mecha-Robot-Business-3.jpg" alt="The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -138,24 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/929091/meta-ai-threads-account-block" target="_blank">Meta won’t let you block its AI account on Threads</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-12 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls" target="_blank">Meta will tell parents when their teens add new interests to their Instagram algorithm</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472540653-500x500-1778610364.jpg" alt="Twin brothers wipe 96 gov&#x27;t databases minutes after being fired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/" target="_blank">Twin brothers wipe 96 gov&#x27;t databases minutes after being fired</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-12 19:12</span>
             </div>
         </div>
 </div>
@@ -318,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 257 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
