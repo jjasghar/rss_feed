@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 19:31:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-13 20:30:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 20:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss" target="_blank">Republicans break ranks, but Senate fails to curb Trump’s Iran war powers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/kevin-warsh-gty-jef-260512_1778597118951_hpMain_4x3t_384.jpg" alt="Senate confirms Fed chair nominee Kevin Warsh, ending standoff over Powell probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/senate-confirms-fed-chair-nominee-kevin-warsh-ending/story?id=132875814" target="_blank">Senate confirms Fed chair nominee Kevin Warsh, ending standoff over Powell probe</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-13 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +103,29 @@
                 <span class="time">2026-05-13 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d565/live/0c9f5810-4ee6-11f1-88a2-2b60a3feece0.jpg" alt="Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss" target="_blank">Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_ufos_full_v2-120526?traffic_source=rss" target="_blank">Is the Pentagon’s UFO dump a political distraction?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it" target="_blank">The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-13 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a03b420605b118af30b6b8c/master/pass/GettyImages-2263993100.jpg" alt="What It Will Take to Make AI Sustainable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/" target="_blank">What It Will Take to Make AI Sustainable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/barbell1-500x500.jpg" alt="The physics of how Olympic weightlifters exploit barbell&#x27;s &quot;whip&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +162,29 @@
                 <span class="time">2026-05-13 16:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/" target="_blank">Rivian spinoff Mind Robotics raises another $400M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-13 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a039693023f7974e231ed7a/master/pass/politics_anxiety_presidential_election.jpg" alt="Trump&#x27;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/" target="_blank">Trump&#x27;s Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lin00xdpcs6juznmbjj.jpg" alt="How AI and Cursor Are Transforming Product Management: From PM to Builder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n" target="_blank">How AI and Cursor Are Transforming Product Management: From PM to Builder</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/anthropic-claude-aws/en/headerimage/generatedHeaderImage-1778682420283.jpg" alt="Anthropic Launches Claude Platform on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/anthropic-claude-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Launches Claude Platform on AWS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-13 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +221,6 @@
                 <span class="time">2026-05-13 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18957362&w=600" alt="You Learned AI. So Why Are You Still Not Getting Hired?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/you-learned-ai-so-why-are-you-still-not-hired" target="_blank">You Learned AI. So Why Are You Still Not Getting Hired?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/rethinking-byod-security-protecting-data-without-trusting-devices" target="_blank">Rethinking BYOD security: protecting data without trusting devices</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-13 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRH4W66NWVTMAC08PTXNX62S/hero-image.png" alt="Amazon’s Feature-Packed Echo Dot Max Is $25 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-dot-max-sale-may-2026?utm_medium=RSS" target="_blank">Amazon’s Feature-Packed Echo Dot Max Is $25 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-13 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/02/fallout-1280x720.jpg" alt="93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +303,6 @@
                 <span class="time">2026-05-13 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRGJP49ER79JTQSN2VQQ2FMX/hero-image.jpg" alt="Samsung&#x27;s One UI 9 Beta Program Is Rolling Out Now, and Here&#x27;s What to Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-rolling-out-one-ui-9-beta?utm_medium=RSS" target="_blank">Samsung&#x27;s One UI 9 Beta Program Is Rolling Out Now, and Here&#x27;s What to Expect</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-13 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 20:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
