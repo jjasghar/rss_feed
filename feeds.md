@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 00:23:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 01:33:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 01:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,10 +44,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/12/g-s1-121766/ice-acting-director-venturella" target="_blank">Former private prison official to serve as acting ICE chief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss" target="_blank">Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-12 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/china-boat-02-gty--jt-260512_1778620270779_hpMain_4x3t_384.jpg" alt="US Taiwan policy will be watched closely during Trump&#x27;s China visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-taiwan-policy-watched-closely-trumps-china-visit/story?id=132851367" target="_blank">US Taiwan policy will be watched closely during Trump&#x27;s China visit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-12 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +95,29 @@
                 <span class="time">2026-05-12 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260512_1778608638985_hpMain_4x3t_384.jpg" alt="Trump says &#x27;I don&#x27;t think about Americans&#x27; financial situation&#x27; in Iran negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-americans-financial-situation-iran-negotiations/story?id=132891356" target="_blank">Trump says &#x27;I don&#x27;t think about Americans&#x27; financial situation&#x27; in Iran negotiations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-12 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss" target="_blank">Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-12 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/" target="_blank">Medicare’s new payment model is built for AI, and most of the tech world has no idea</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-13 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg" alt="Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/" target="_blank">Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/master/pass/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg" alt="Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +152,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/" target="_blank">The newest AI boom pitch: Host a mini data center at your home</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-12 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization" target="_blank">iOS 27 might add a lot more customization to the Camera app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/929091/meta-ai-threads-account-block" target="_blank">Meta won’t let you block its AI account on Threads</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-12 20:35</span>
             </div>
         </div>
 </div>
@@ -313,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 39 | 📸 With Images: 257 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
