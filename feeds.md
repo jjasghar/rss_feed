@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 03:00:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-13 05:13:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 05:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case?traffic_source=rss" target="_blank">Zelenskyy’s ex-chief of staff appears in court in money-laundering case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 04:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5812483/reading-math-scores-data" target="_blank">Kids&#x27; test scores began declining way before COVID. These schools are making gains</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights" target="_blank">‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-13 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +104,20 @@
                 <span class="time">2026-05-12 22:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg" alt="A decade on, Trump returns to a stronger and more assertive China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss" target="_blank">A decade on, Trump returns to a stronger and more assertive China</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-12 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/china-boat-02-gty--jt-260512_1778620270779_hpMain_4x3t_384.jpg" alt="US Taiwan policy will be watched closely during Trump&#x27;s China visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/us-taiwan-policy-watched-closely-trumps-china-visit/story?id=132851367" target="_blank">US Taiwan policy will be watched closely during Trump&#x27;s China visit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-12 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c8/live/3ddd4840-4e48-11f1-ae62-ab9d6bf96137.jpg" alt="Starmer to meet Streeting on Wednesday as leadership crisis divides Labour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to meet Streeting on Wednesday as leadership crisis divides Labour</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-12 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: 50% Off on Gaming Gear in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: 50% Off on Gaming Gear in May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +163,6 @@
                 <span class="time">2026-05-12 23:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a03a0e42162ad5152e57fa7/master/pass/Unitree-Mecha-Robot-Business-3.jpg" alt="The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/unitree-gd01-mecha-robot/" target="_blank">The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-12 22:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,10 +171,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/" target="_blank">How Braze’s CTO is rethinking engineering for the agentic area</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-13 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lyraalishaikh/stop-pulling-containers-just-to-mirror-them-practical-skopeo-for-safer-image-promotion-1kf3" target="_blank">Stop Pulling Containers Just to Mirror Them: Practical `skopeo` for Safer Image Promotion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/karleeov/how-to-enable-windows-k2-performance-boost-on-windows-11-28kk" target="_blank">How to Enable Windows K2 Performance Boost on Windows 11</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 02:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-Wayland-Pointer-Warp" target="_blank">Wine Wayland Driver Merges Pointer Warp Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-13 00:41</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/_402ccbd6e5cb02871506/grep-said-1202-the-real-answer-was-10-introducing-colref-2lce" target="_blank">grep Said 1,202. The Real Answer Was 10. — Introducing colref</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-12 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS-2.4.2-Released" target="_blank">OpenZFS 2.4.2 Released With Linux 7.0 Kernel Support, Many Bug Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-12 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/05/malware-found-on-ubuntu.png?resize=406%2C232&amp;ssl=1" alt="Downloaded Cemu for Linux recently? You may have malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/cemu-linux-malware" target="_blank">Downloaded Cemu for Linux recently? You may have malware</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-12 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj44uw8c5yqnp8wcy3tcp.png" alt="How to watch a YouTube channel from first to last video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ed88_f5dffa506/how-to-watch-a-youtube-channel-from-first-to-last-video-8pi" target="_blank">How to watch a YouTube channel from first to last video</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-12 20:20</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 05:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
