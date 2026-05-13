@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 12:36:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-13 13:39:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 12:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 13:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/13/could-south-africas-ramaphosa-be-impeached-over-cash-in-sofa-scandal?traffic_source=rss" target="_blank">Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4831/live/e711b550-4ec4-11f1-9226-1f41f7d44e1f.jpg" alt="More than 1,000 passengers held on cruise after gastrointestinal illness outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss" target="_blank">More than 1,000 passengers held on cruise after gastrointestinal illness outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-china-5-rt-gmh-260513_1778674648633_hpMain_4x3t_384.jpg" alt="Trump arrives in Beijing for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons" target="_blank">War in Iran costs $29 billion so far. And, students are finally improving in math</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-13 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss" target="_blank">At least eight killed in Israeli drone strikes on highway south of Beirut</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ross-david-cutmore_7247342.jpg?20260513113025" alt="British man jailed in Ukraine after admitting spying for Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/scottish-man-jailed-in-ukraine-after-admitting-spying-for-russia-13543467" target="_blank">British man jailed in Ukraine after admitting spying for Russia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-13 09:48</span>
             </div>
         </div>
 </div>
@@ -173,6 +167,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/multi-agent-system-lessons/en/mediumimage/medium-1778068150406.jpeg" alt="Presentation: What I Learned Building Multi-Agent Systems From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What I Learned Building Multi-Agent Systems From Scratch</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-13 12:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18979945&w=600" alt="LLM Integration in Enterprise Applications: A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -206,15 +209,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Discord-Better-Linux-Client" target="_blank">Discord Taunts &quot;Year Of The Linux Desktop&quot; With Linux Client Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-13 10:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqnqeaa8efgt4i0v9e6p.png" alt="I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sukriti_singh/i-opened-an-ai-coding-challenge-just-to-look-a-few-hours-later-i-was-completely-invested-in-the-2cjp" target="_blank">I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 09:03</span>
             </div>
         </div>
 </div>
@@ -327,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 12:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
