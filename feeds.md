@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 10:47:49 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 11:40:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 10:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 11:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg" alt="Thousands of Waymo robotaxis recalled over risk of entering flooded roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of Waymo robotaxis recalled over risk of entering flooded roads</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons" target="_blank">War in Iran costs $29 billion so far. And, students are finally improving in math</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 11:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,20 @@
                 <span class="time">2026-05-13 07:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/13/wembanyama-returns-spurs-rout-wolves-for-3-2-lead-in-nba-playoff-series?traffic_source=rss" target="_blank">Wembanyama returns, Spurs rout Wolves for 3-2 lead in NBA Playoff series</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case?traffic_source=rss" target="_blank">Zelenskyy’s ex-chief of staff appears in court in money-laundering case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 04:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a023cd0676f3047201fdc4d/master/pass/States-Dont-Have-Enough-Capacity-to-Test-for-Hantavirus-Science-2274271417.jpg" alt="Inside the Race to Develop a Test for the Rare Andes Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/race-to-develop-andes-hantavirus-test/" target="_blank">Inside the Race to Develop a Test for the Rare Andes Hantavirus</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a01db454b2ada73a7348cf0/master/pass/Sony%20Bravia%20Theater%20Bar%205%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Sony Bravia Theater Bar 5 Review: Basic Bar, Big Sound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2026-05-13 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Corsair Discount Code: 50% Off on Gaming Gear in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/corsair-coupon/" target="_blank">Corsair Discount Code: 50% Off on Gaming Gear in May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-26.18.38308.1" target="_blank">Intel Compute Runtime 26.18.38308.1 Brings More Xe3P Enableement, Nova Lake P Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-13 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +216,6 @@
                 <span class="time">2026-05-13 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/aws-workspaces-ai-agents/en/headerimage/generatedHeaderImage-1778485554177.jpg" alt="AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS WorkSpaces Now Lets AI Agents Operate Legacy Desktop Applications Without APIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-13 07:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +228,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/" target="_blank">Patch Tuesday, May 2026 Edition</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2026-05-12 21:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html" target="_blank">Copy.Fail Linux Vulnerability</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-12 11:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 10:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
