@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 17:39:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-13 18:32:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 15 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 17:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 18:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5815047/neanderthal-tooth-dentistry-cavity-drill" target="_blank">Neanderthals may have drilled out a cavity 59,000 years ago</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ba/live/5ed348c0-4edd-11f1-bd52-e755d604ece4.jpg" alt="Rhun ap Iorwerth reveals ministerial team, promising &#x27;new era&#x27; for Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crlpzky9y05o?at_medium=RSS&at_campaign=rss" target="_blank">Rhun ap Iorwerth reveals ministerial team, promising &#x27;new era&#x27; for Wales</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Jeff-Merkley-ht-gmh-260513_1778692350882_hpMain_4x3t_384.jpg" alt="Iran live updates: Senate again fails to advance war powers resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,39 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d565/live/0c9f5810-4ee6-11f1-88a2-2b60a3feece0.jpg" alt="Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss" target="_blank">Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_ufos_full_v2-120526?traffic_source=rss" target="_blank">Is the Pentagon’s UFO dump a political distraction?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-13 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss" target="_blank">LIVE: Manchester City vs Crystal Palace – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial" target="_blank">Alex Murdaugh will get a new murder trial. Here&#x27;s a timeline of his case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8357/live/13ee1bb0-4ecd-11f1-ac78-2112837ce2aa.jpg" alt="Trump arrives in China for high-stakes meeting with Xi Jinping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss" target="_blank">Trump arrives in China for high-stakes meeting with Xi Jinping</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 13:51</span>
             </div>
         </div>
 </div>
@@ -171,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fryan7k9b8jctxh4vq1wr.png" alt="I Built an SVG Icon Library Because I Was Tired of Installing Heavy Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bidyut_10/i-built-an-svg-icon-library-because-i-was-tired-of-installing-heavy-packages-4ca2" target="_blank">I Built an SVG Icon Library Because I Was Tired of Installing Heavy Packages</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 18:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
@@ -213,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/techwithhari/how-i-built-production-ai-agent-monitoring-with-langfuse-52he" target="_blank">How I Built Production AI Agent Monitoring with Langfuse</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/" target="_blank">Dungeons &amp; Desktops: 10 roguelikes that never die (because their communities won’t let them)</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-13 16:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 17:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
