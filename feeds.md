@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 11:40:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 12:36:28 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 11:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 12:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-china-5-rt-gmh-260513_1778674648633_hpMain_4x3t_384.jpg" alt="Trump arrives in Beijing for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Trump arrives in Beijing for high-stakes summit with Xi</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-13 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair?traffic_source=rss" target="_blank">Maldives jails two journalists for reporting on president’s alleged affair</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg" alt="Thousands of Waymo robotaxis recalled over risk of entering flooded roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ross-david-cutmore_7247342.jpg?20260513113025" alt="British man jailed in Ukraine after admitting spying for Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military" target="_blank">Staying strong, then falling apart: How a military family grapples with the Iran war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle?traffic_source=rss" target="_blank">Jason Collins, first openly gay active NBA player, dies after cancer battle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill" target="_blank">French hantavirus patient is critically ill as outbreak grows to 11</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 07:31</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/scottish-man-jailed-in-ukraine-after-admitting-spying-for-russia-13543467" target="_blank">British man jailed in Ukraine after admitting spying for Russia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-13 09:48</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot" target="_blank">Unitree will sell you a massive ‘transformable mecha’ for $650,000</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-13 12:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a023cd0676f3047201fdc4d/master/pass/States-Dont-Have-Enough-Capacity-to-Test-for-Hantavirus-Science-2274271417.jpg" alt="Inside the Race to Develop a Test for the Rare Andes Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +158,38 @@
                 <span class="time">2026-05-13 08:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Naturepedic Promo Codes and Deals: 20% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/naturepedic-promo-code/" target="_blank">Naturepedic Promo Codes and Deals: 20% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7tir1yeodxeje8l7s61.png" alt="Why I Created Spec Kitty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robert_douglass_59a6e020d/why-i-created-spec-kitty-4nl6" target="_blank">Why I Created Spec Kitty</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18979945&w=600" alt="LLM Integration in Enterprise Applications: A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llm-integration-in-enterprise-applications-guide" target="_blank">LLM Integration in Enterprise Applications: A Practical Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/" target="_blank">I Moved My Digital Stack to Europe</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-13 11:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,38 +217,20 @@
                 <span class="time">2026-05-13 09:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/capacity-planning-queue-recovery/en/headerimage/The-Mathematics-of-Backlogs-Capacity-Planning-for-Queue-Recovery-header-1778227922596.jpg" alt="Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/capacity-planning-queue-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Mathematics of Backlogs: Capacity Planning for Queue Recovery</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/beel-collab/i-built-an-open-directory-of-coding-agentspromptsrules-skills-28g3" target="_blank">I Built an open directory of coding agents,prompts,rules &amp; skills</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/" target="_blank">How Braze’s CTO is rethinking engineering for the agentic area</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-13 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html" target="_blank">OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-13 11:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:41 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
