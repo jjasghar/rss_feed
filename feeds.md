@@ -1,29 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 13:39:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 14:56:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 13:39 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 14:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial" target="_blank">Alex Murdaugh will get a new murder trial. Here&#x27;s a timeline of his case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8357/live/13ee1bb0-4ecd-11f1-ac78-2112837ce2aa.jpg" alt="Trump arrives in China for high-stakes meeting with Xi Jinping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss" target="_blank">Trump arrives in China for high-stakes meeting with Xi Jinping</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -58,6 +90,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778675313860_now_brk_trump_china_arrival_260513_S3_1920x1080-b1rtxx.jpg" alt="President Trump arrives in China for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/president-trump-arrives-in-china-for-high-stakes-summit-with-xi-263226437977" target="_blank">President Trump arrives in China for high-stakes summit with Xi</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-13 12:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/trump-china-5-rt-gmh-260513_1778674648633_hpMain_4x3t_384.jpg" alt="Trump arrives in Beijing for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -66,38 +107,20 @@
                 <span class="time">2026-05-13 12:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair?traffic_source=rss" target="_blank">Maldives jails two journalists for reporting on president’s alleged affair</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg" alt="Thousands of Waymo robotaxis recalled over risk of entering flooded roads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands of Waymo robotaxis recalled over risk of entering flooded roads</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons" target="_blank">War in Iran costs $29 billion so far. And, students are finally improving in math</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a034d2ce90cf7c0fd36d447/master/pass/GettyImages-2266672994.jpg" alt="WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/" target="_blank">WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +166,47 @@
                 <span class="time">2026-05-13 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0390917ea0996a94ebfefc/master/pass/181827929" alt="NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nasas-curiosity-rover-got-its-drill-stuck-on-a-rock-heres-how-they-freed-it/" target="_blank">NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/audreyhal/the-tanstack-npm-attack-shows-why-pnpm-11-matters-21ff" target="_blank">The TanStack npm Attack Shows Why pnpm 11 Matters</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19017064&w=600" alt="AWS Kiro: The Agentic IDE That Makes Specs the Unit of Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kiro-feature-to-requirements-design-tasks" target="_blank">AWS Kiro: The Agentic IDE That Makes Specs the Unit of Work</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014" target="_blank">Reverting the incremental GC in Python 3.14 and 3.15</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-13 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/gcc-16-vs-clang-22" target="_blank">GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-13 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7tir1yeodxeje8l7s61.png" alt="Why I Created Spec Kitty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,42 +223,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What I Learned Building Multi-Agent Systems From Scratch</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-13 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18979945&w=600" alt="LLM Integration in Enterprise Applications: A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-integration-in-enterprise-applications-guide" target="_blank">LLM Integration in Enterprise Applications: A Practical Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/" target="_blank">I Moved My Digital Stack to Europe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-13 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-26.18.38308.1" target="_blank">Intel Compute Runtime 26.18.38308.1 Brings More Xe3P Enableement, Nova Lake P Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-13 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Discord-Better-Linux-Client" target="_blank">Discord Taunts &quot;Year Of The Linux Desktop&quot; With Linux Client Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-13 10:17</span>
             </div>
         </div>
 </div>
@@ -240,6 +254,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-42-1280x720.jpg" alt="Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/somebody-save-the-overwatch-heroes-from-fortnites-crossover-slop-2000695674" target="_blank">Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-13 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRGJP49ER79JTQSN2VQQ2FMX/hero-image.jpg" alt="Samsung&#x27;s One UI 9 Beta Program Is Rolling Out Now, and Here&#x27;s What to Expect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-rolling-out-one-ui-9-beta?utm_medium=RSS" target="_blank">Samsung&#x27;s One UI 9 Beta Program Is Rolling Out Now, and Here&#x27;s What to Expect</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-13 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Brussels-Sprous.-Photo-terazitu-Shutterstock.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Grocery prices soar as Iran war drags on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/13/grocery-prices-soar-as-iran-war-drags-on.html" target="_blank">Grocery prices soar as Iran war drags on</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-13 11:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/justice.jpg?fit=1200%2C776&amp;quality=60&amp;ssl=1" alt="Man who stole a coworker&#x27;s identity for 30 years had his victim jailed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -264,33 +305,6 @@
                 <span class="title"><a href="https://kotaku.com/playing-forza-horizon-6-early-gets-modder-banned-for-7973-years-2000695347" target="_blank">Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-12 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Samsung-T7-1TB-Portable-SSD.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This pocket-sized 1TB Samsung SSD is just $270 and ridiculously fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/12/this-pocket-sized-1tb-samsung-ssd-is-just-270-and-ridiculously-fast.html" target="_blank">This pocket-sized 1TB Samsung SSD is just $270 and ridiculously fast</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-12 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRECAEM8YMV0MJQW7HBHZ4PS/hero-image.jpg" alt="New Smart Bands Are Coming, and Whoop Is Scared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/new-smart-bands-fitbit-air-whoop-comparison?utm_medium=RSS" target="_blank">New Smart Bands Are Coming, and Whoop Is Scared</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-12 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRENKWC703SHRSVQ82HFXR3A/hero-image.jpg" alt="Spotify Is Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spotify-is-down?utm_medium=RSS" target="_blank">Spotify Is Down</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-12 18:08</span>
             </div>
         </div>
 </div>
@@ -321,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 13:39 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 14:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
