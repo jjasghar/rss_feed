@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 20:30:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 21:28:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 20:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 21:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6b/live/5b767670-4f0f-11f1-bbd7-4dd9e7da3820.jpg" alt="Starmer warns against leadership contest in pleas to ministers and MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&at_campaign=rss" target="_blank">Starmer warns against leadership contest in pleas to ministers and MPs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-13 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds" target="_blank">Foreign ticket holders from World Cup teams&#x27; countries won&#x27;t have to pay bonds to enter U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-13 20:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +97,29 @@
                 <span class="time">2026-05-13 18:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Jeff-Merkley-ht-gmh-260513_1778692350882_hpMain_4x3t_384.jpg" alt="Iran live updates: Senate again fails to advance war powers resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Senate again fails to advance war powers resolution</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-13 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles" target="_blank">Greetings from Seville, where springtime means caracoles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-500x500.jpg" alt="FCC angers small carriers by helping AT&amp;T and Starlink buy EchoStar spectrum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/" target="_blank">FCC angers small carriers by helping AT&amp;T and Starlink buy EchoStar spectrum</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-13 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/" target="_blank">Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-13 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +156,6 @@
                 <span class="time">2026-05-13 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a049fa84dff1cbe64bc343d/master/pass/GettyImages-2275340422.jpg" alt="OpenAI Brings Its Ass to Court" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/" target="_blank">OpenAI Brings Its Ass to Court</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/929791/meta-ai-incognito-chats" target="_blank">Mark Zuckerberg announces &amp;#8216;completely private&amp;#8217; encrypted Meta AI chat</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-13 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n" target="_blank">How AI and Cursor Are Transforming Product Management: From PM to Builder</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18980789&w=600" alt="AI Agents Expose a Design Gap in Microservices Resilience Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agents-expose-a-design-gap-in-microservices-res" target="_blank">AI Agents Expose a Design Gap in Microservices Resilience Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-13 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +215,6 @@
                 <span class="time">2026-05-13 17:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-ISSEI-Linux-Driver" target="_blank">Linux Driver Posted For Intel Silicon Security Engine Interface &quot;ISSEI&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-13 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="The silence around alleged Israeli sexual violence against Palestinians is deafening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/13/the-silence-around-alleged-israeli-sexual-violence-against-palestinians-is-deafening.html" target="_blank">The silence around alleged Israeli sexual violence against Palestinians is deafening</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-13 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRH4W66NWVTMAC08PTXNX62S/hero-image.png" alt="Amazon’s Feature-Packed Echo Dot Max Is $25 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,20 +297,20 @@
                 <span class="time">2026-05-13 15:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-42-1280x720.jpg" alt="Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/somebody-save-the-overwatch-heroes-from-fortnites-crossover-slop-2000695674" target="_blank">Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-13 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/13/the-myriad" target="_blank">The Myriad</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-13 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1778640181-20260513-edit.png" alt="Saturday Morning Breakfast Cereal - Tide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -340,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 20:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 21:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
