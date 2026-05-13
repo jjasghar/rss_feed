@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 14:56:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-13 15:53:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 14:57 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, May 13, 2026 - 15:53 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss" target="_blank">LIVE: Manchester City vs Crystal Palace – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-13 15:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +100,20 @@
                 <span class="time">2026-05-13 12:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-china-5-rt-gmh-260513_1778674648633_hpMain_4x3t_384.jpg" alt="Trump arrives in Beijing for high-stakes summit with Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Trump arrives in Beijing for high-stakes summit with Xi</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-13 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg" alt="Blue Origin may need external funding to hit ambitious launch targets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/" target="_blank">Blue Origin may need external funding to hit ambitious launch targets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-13 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a034d2ce90cf7c0fd36d447/master/pass/GettyImages-2266672994.jpg" alt="WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -157,20 +159,29 @@
                 <span class="time">2026-05-13 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine" target="_blank">Data centers are coming for rural America</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-13 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8" target="_blank">Lambda Just Got a File System. I Put AI Agents on It.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-13 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/airbnb-privacy-identity-model/en/headerimage/generatedHeaderImage-1777161122220.jpg" alt="Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/airbnb-privacy-identity-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Airbnb Implements Context-Aware Identity Model to Support Privacy-First Social Features</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-13 14:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/gcc-16-vs-clang-22" target="_blank">GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-13 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7tir1yeodxeje8l7s61.png" alt="Why I Created Spec Kitty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robert_douglass_59a6e020d/why-i-created-spec-kitty-4nl6" target="_blank">Why I Created Spec Kitty</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/multi-agent-system-lessons/en/mediumimage/medium-1778068150406.jpeg" alt="Presentation: What I Learned Building Multi-Agent Systems From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/multi-agent-system-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What I Learned Building Multi-Agent Systems From Scratch</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-13 12:01</span>
             </div>
         </div>
 </div>
@@ -321,22 +314,13 @@
                 <span class="time">2026-05-13 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778468616-20260512-edit.png" alt="Saturday Morning Breakfast Cereal - Sport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sport-2" target="_blank">Saturday Morning Breakfast Cereal - Sport</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 14:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:53 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
