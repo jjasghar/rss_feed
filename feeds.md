@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 22:20:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 23:15:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 22:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 23:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778797582927_now_hallie_abortion_pill_ruling_260514_S3_1920x1080-4dzqew.jpg" alt="Supreme Court allows abortion pill to remain available by mail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/supreme-court-allows-abortion-pill-to-remain-available-by-mail-263343685552" target="_blank">Supreme Court allows abortion pill to remain available by mail</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-14 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/mifepristone-gty-er-250924_1758750543433_hpMain_4x3t_384.jpg" alt="Supreme Court preserves broad access to abortion drug mifepristone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +99,29 @@
                 <span class="time">2026-05-14 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc" target="_blank">Judge orders Trump administration to return Colombian woman deported to DRC back to the US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-14 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/" target="_blank">What the jury will actually decide in the case of Elon Musk vs. Sam Altman</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-14 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-500x500.jpg" alt="Men use &quot;vocal fry&quot; more than women, counter to stereotype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/" target="_blank">Men use &quot;vocal fry&quot; more than women, counter to stereotype</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-14 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a062f348cd08cd9ab872b72/master/pass/GettyImages-2274860238.jpg" alt="We Now Know How Many People the CDC Is Monitoring for Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +158,38 @@
                 <span class="time">2026-05-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg" alt="Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/memorial-day-mattress-deals-2026/" target="_blank">Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-14 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2171717851-500x500.jpg" alt="Your doctor’s AI notetaker may be making things up, Ontario audit finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/" target="_blank">Your doctor’s AI notetaker may be making things up, Ontario audit finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-14 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnk7yf0t4sfbxjl3se9gx.jpg" alt="The Cruise Passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ldkrx/the-cruise-passengers-4bno" target="_blank">The Cruise Passengers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2013/04/upgrade.jpg?resize=350%2C200&amp;ssl=1" alt="Ubuntu 26.04 LTS upgrade now open for Ubuntu 25.10 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-2604-lts-upgrade-now-available" target="_blank">Ubuntu 26.04 LTS upgrade now open for Ubuntu 25.10 users</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-14 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout" target="_blank">New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 22:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgenlph52xjng5i6spg3s.jpeg" alt="Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,48 +200,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-april-2026/" target="_blank">GitHub availability report: April 2026</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-14 22:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18946358&w=600" alt="The Network Attach Problem Nobody Warns You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/network-attach-problem" target="_blank">The Network Attach Problem Nobody Warns You About</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/fragnesia-linux-vulnerability-fixes-available" target="_blank">Fragnesia Linux kernel local privilege escalation vulnerability mitigations</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-14 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18981856&w=600" alt="DevOps Is Dead, Long Live Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/devops-platform-engineering" target="_blank">DevOps Is Dead, Long Live Platform Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-14 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.7-Beta-Big-Screen" target="_blank">Plasma Big Screen Working Out Quite Well With Plasma 6.7 Beta</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-14 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/" target="_blank">Removing the modem and GPS from my 2024 RAV4 hybrid</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 17:08</span>
             </div>
         </div>
 </div>
@@ -333,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 39 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
