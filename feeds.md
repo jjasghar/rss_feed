@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 12:30:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 13:31:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 12:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis?traffic_source=rss" target="_blank">Serie A finish in chaos, worsened by clash with Italian Open tennis final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 13:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622f/live/67cd8020-4f8d-11f1-9047-c9775177a8ab.png" alt="Wes Streeting resigns as health secretary - his letter in full" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss" target="_blank">Wes Streeting resigns as health secretary - his letter in full</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-14 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia" target="_blank">As Trump visits Beijing, an LA-area mayor admits to acting as an agent for China</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-14 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -63,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees" target="_blank">UN urges Equatorial Guinea to halt plans to return US deportees to home countries</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/trump-china-43-rt-gmh-260514._1778727477962_hpMain_4x3t_384.jpg" alt="Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -71,38 +99,20 @@
                 <span class="time">2026-05-14 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss" target="_blank">Could Iran war trigger a hunger crisis?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-43-rt-gmh-260514._1778727477962_hpMain_4x3t_384.jpg" alt="Trump meets with Xi in Beijing at high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Trump meets with Xi in Beijing at high-stakes summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-14 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia" target="_blank">Voters are caught in the middle as the redistricting battle intensifies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/spain-wildfire-500x500.jpg" alt="Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/" target="_blank">Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-14 13:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a049f8dc0743c7e4e8fbb61/master/pass/Review%20InstaFarm%20Indoor%20Garden%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2026-05-14 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/" target="_blank">Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-14 06:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19018847&w=600" alt="Working With Cowork: Don’t Be Confused" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/working-with-cowork-dont-be-confused" target="_blank">Working With Cowork: Don’t Be Confused</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ls82ynqx3estk4ga9g.jpeg" alt="How we achieved 629ns deterministic latency using eBPF/XDP and 5.1GHz Isolated Cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shankarganesh_chokkalinga/how-we-achieved-629ns-deterministic-latency-using-ebpfxdp-and-51ghz-isolated-cores-471m" target="_blank">How we achieved 629ns deterministic latency using eBPF/XDP and 5.1GHz Isolated Cores</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,22 +217,18 @@
                 <span class="time">2026-05-14 10:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/en/headerimage/header-1778308038640.jpeg" alt="Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-14 10:00</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raxxostudios/replacing-lodash-with-native-es2026-groupby-fromasync-toreversed-and-5-more-1ig6" target="_blank">Replacing Lodash with Native ES2026: groupBy, fromAsync, toReversed, and 5 More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 09:37</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html" target="_blank">How Dangerous Is Anthropic’s Mythos AI?</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-14 11:04</span>
             </div>
         </div>
 </div>
@@ -221,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/sbox-image-from-X-post-Facepunch.jpeg" alt="s&amp;box’s New Update Punishes AI Slop Content By Ranking It Lower To Discourage Users From ‘Making Everything Look Like The Same Sh*t’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sboxs-new-update-punishes-ai-slop-content-by-ranking-it-lower-to-discourage-users-from-making-everything-look-like-the-same-shit-2000696033" target="_blank">s&amp;box’s New Update Punishes AI Slop Content By Ranking It Lower To Discourage Users From ‘Making Everything Look Like The Same Sh*t’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRJNJ5W39T6RD7HVB5W14JEG/hero-image.png" alt="This LG OLED Gaming Monitor Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +290,6 @@
                 <span class="time">2026-05-13 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/02/fallout-1280x720.jpg" alt="93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/93-percent-of-capcoms-game-sales-are-digital-and-the-company-expects-that-number-to-grow-2000695728" target="_blank">93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-13 19:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 12:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
