@@ -1,23 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 14:48:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 15:43:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 15 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 14:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 15:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +51,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc" target="_blank">A Philippine senator wanted by the International Criminal Court flees from Senate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-14 13:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis?traffic_source=rss" target="_blank">Serie A finish in chaos, worsened by clash with Italian Open tennis final</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -49,6 +73,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss" target="_blank">Flattery and fanfare as Trump welcomed to China - but thorny issues remain</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-14 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca8/live/eaf5ba50-4f95-11f1-b682-cf91850925ea.jpg" alt="&#x27;Where we need vision, we have a vacuum&#x27; - read Streeting&#x27;s resignation letter in full" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Where we need vision, we have a vacuum&#x27; - read Streeting&#x27;s resignation letter in full</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-14 12:18</span>
             </div>
         </div>
 <div class="story">
@@ -69,24 +102,6 @@
                 <span class="time">2026-05-14 12:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-and-xi-hail-most-important-relationship?traffic_source=rss" target="_blank">Trump and Xi hail ‘most important’ relationship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees" target="_blank">UN urges Equatorial Guinea to halt plans to return US deportees to home countries</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-14 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -99,6 +114,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/" target="_blank">Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-14 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a04f275366b52a33cd08138/master/pass/GettyImages-458085231.jpg" alt="AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/" target="_blank">AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-14 12:52</span>
             </div>
         </div>
 <div class="story">
@@ -137,20 +161,38 @@
                 <span class="time">2026-05-14 10:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a02312257bdfbf807f9ffd3/master/pass/Instagram-Ads-Cocaine-Culture-1772632329.jpg" alt="These Instagram Ads Sure Seem to Be Selling Cocaine Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/" target="_blank">These Instagram Ads Sure Seem to Be Selling Cocaine Accessories</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-14 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F13147%2F592526f7-0870-4626-ae0f-ba3c820fcfcb.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/apurva_lal/-1mdh" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19017817&w=600" alt="Why Your QA Engineer Should Be the Most Stubborn Person on the Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/stubborn-qa-engineer-value" target="_blank">Why Your QA Engineer Should Be the Most Stubborn Person on the Team</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-14 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline" target="_blank">MIT: 20% drop in incoming graduate students</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-14 14:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19020007&w=600" alt="How to Test a DELETE API Request With REST-Assured Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,33 +218,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20" target="_blank">FOSS Weekly #26.20: Killswitch in Linux, Fedora&amp;#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-14 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19018847&w=600" alt="Working With Cowork: Don’t Be Confused" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/working-with-cowork-dont-be-confused" target="_blank">Working With Cowork: Don’t Be Confused</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-14 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ls82ynqx3estk4ga9g.jpeg" alt="How we achieved 629ns deterministic latency using eBPF/XDP and 5.1GHz Isolated Cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shankarganesh_chokkalinga/how-we-achieved-629ns-deterministic-latency-using-ebpfxdp-and-51ghz-isolated-cores-471m" target="_blank">How we achieved 629ns deterministic latency using eBPF/XDP and 5.1GHz Isolated Cores</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada" target="_blank">Computer Hobby Movement in Canada</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 12:57</span>
             </div>
         </div>
 </div>
@@ -284,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778697043-20260514_edit.png" alt="Saturday Morning Breakfast Cereal - Hierarchy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hierarchy" target="_blank">Saturday Morning Breakfast Cereal - Hierarchy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-14 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -292,22 +316,13 @@
                 <span class="time">2026-05-13 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778640181-20260513-edit.png" alt="Saturday Morning Breakfast Cereal - Tide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/tide" target="_blank">Saturday Morning Breakfast Cereal - Tide</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
