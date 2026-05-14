@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 03:00:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 05:13:03 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 05:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="We-Vibe Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/we-vibe-discount-code/" target="_blank">We-Vibe Discount Codes and Deals: Up to 60% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-14 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -156,20 +156,20 @@
                 <span class="time">2026-05-13 20:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/" target="_blank">Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-13 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-for-small-business" target="_blank">Claude for Small Business</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-14 03:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax7yor3px9hidfz5klqu.png" alt="Build a Real-Time Voice RAG Agent for Your Documentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n" target="_blank">How AI and Cursor Are Transforming Product Management: From PM to Builder</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18980789&w=600" alt="AI Agents Expose a Design Gap in Microservices Resilience Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agents-expose-a-design-gap-in-microservices-res" target="_blank">AI Agents Expose a Design Gap in Microservices Resilience Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-13 20:00</span>
             </div>
         </div>
 </div>
@@ -329,22 +320,13 @@
                 <span class="time">2026-05-13 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/results_age.png" alt="Results Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3245/" target="_blank">Results Age</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-13 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
