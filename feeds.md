@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 20:28:33 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-14 21:23:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778790731770_now_mtp_clip_areporters_260514_S3_1920x1080-8ffxra.jpg" alt="Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/marco-rubio-says-we-re-not-asking-for-china-s-help-with-iran-263338565717" target="_blank">Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-14 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss" target="_blank">Cautious optimism in Lebanon as direct talks with Israel progress</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-05-14 17:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss" target="_blank">Iraq’s parliament approves new Ali al-Zaidi government</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5819740/dinosaur-thailand-sauropod-giant-asia-paleontology" target="_blank">Researchers unearth Southeast Asia&#x27;s largest dinosaur</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-14 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/" target="_blank">OpenAI says Codex is coming to your phone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-14 20:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2250305962-500x500.jpg" alt="Cell phone users can&#x27;t stop incriminating themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/" target="_blank">Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-14 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox" target="_blank">Subnautica 2 is already having a huge launch on Steam</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-14 16:22</span>
             </div>
         </div>
 </div>
@@ -244,12 +249,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israel&#x27;s response to rape allegations: threaten the newspaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/14/israels-response-to-rape-allegations-threaten-the-newspaper.html" target="_blank">Israel&#x27;s response to rape allegations: threaten the newspaper</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-14 20:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/03/marathon-terminals-1280x720.jpg" alt="Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161" target="_blank">Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-14 20:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRKZBWZQE66NVMKW9421DDJ8/hero-image.png" alt="The Hisense CanvasTV Is a Great Alternative to Samsung&#x27;s &#x27;The Frame,&#x27; and Now It&#x27;s $500 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-canvastv-deal-may-2026?utm_medium=RSS" target="_blank">The Hisense CanvasTV Is a Great Alternative to Samsung&#x27;s &#x27;The Frame,&#x27; and Now It&#x27;s $500 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-14 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -279,24 +302,6 @@
                 <span class="time">2026-05-14 17:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KJ8A5T2WQ7APZ78XH5TS12G9/hero-image.png" alt="This 55-Inch Samsung OLED TV Was Already a Great Value, and Now It&#x27;s Over $550 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-s90f-oled-smart-tv-deal-may-2026?utm_medium=RSS" target="_blank">This 55-Inch Samsung OLED TV Was Already a Great Value, and Now It&#x27;s Over $550 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-14 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRKEV2VXQZET3AZTK92ZYPR3/hero-image.jpg" alt="Instagram&#x27;s New Snapchat Clone Makes It Too Easy to Send Disappearing Images to All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/instagram-snapchat-clone-that-lets-you-send-disappearing-messages?utm_medium=RSS" target="_blank">Instagram&#x27;s New Snapchat Clone Makes It Too Easy to Send Disappearing Images to All Your Friends</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-14 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +325,13 @@
                 <span class="time">2026-05-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/13/the-myriad" target="_blank">The Myriad</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-13 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 39 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
