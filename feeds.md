@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 16:35:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-14 17:31:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 16:35 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 17:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hondius-1-gty-jef-260512_1778588305201_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: American who initially tested positive now tests negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: American who initially tested positive now tests negative</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-14 17:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss" target="_blank">Iraq’s parliament approves new Ali al-Zaidi government</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5819740/dinosaur-thailand-sauropod-giant-asia-paleontology" target="_blank">Researchers unearth Southeast Asia&#x27;s largest dinosaur</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-14 16:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc" target="_blank">A Philippine senator wanted by the International Criminal Court flees from Senate</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-14 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis?traffic_source=rss" target="_blank">Serie A finish in chaos, worsened by clash with Italian Open tennis final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0586/live/ada31a10-4f88-11f1-b682-cf91850925ea.jpg" alt="Flattery and fanfare as Trump welcomed to China - but thorny issues remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss" target="_blank">Flattery and fanfare as Trump welcomed to China - but thorny issues remain</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-14 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca8/live/eaf5ba50-4f95-11f1-b682-cf91850925ea.jpg" alt="&#x27;Where we need vision, we have a vacuum&#x27; - read Streeting&#x27;s resignation letter in full" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Where we need vision, we have a vacuum&#x27; - read Streeting&#x27;s resignation letter in full</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-14 12:18</span>
             </div>
         </div>
 </div>
@@ -177,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png" alt="The Pulse: Forward deployed engineering heats up again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering" target="_blank">The Pulse: Forward deployed engineering heats up again</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-14 16:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18981814&w=600" alt="The Update Problem REST Doesn&#x27;t Solve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -195,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/" target="_blank">RTX 5090 and M4 MacBook Air: Can It Game?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-14 15:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F13147%2F592526f7-0870-4626-ae0f-ba3c820fcfcb.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/apurva_lal/-1mdh" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-14 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19017817&w=600" alt="Why Your QA Engineer Should Be the Most Stubborn Person on the Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/stubborn-qa-engineer-value" target="_blank">Why Your QA Engineer Should Be the Most Stubborn Person on the Team</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-14 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline" target="_blank">MIT: 20% drop in incoming graduate students</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 14:51</span>
             </div>
         </div>
 </div>
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KJ8A5T2WQ7APZ78XH5TS12G9/hero-image.png" alt="This 55-Inch Samsung OLED TV Was Already a Great Value, and Now It&#x27;s Over $550 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-s90f-oled-smart-tv-deal-may-2026?utm_medium=RSS" target="_blank">This 55-Inch Samsung OLED TV Was Already a Great Value, and Now It&#x27;s Over $550 Off</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-14 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRKEV2VXQZET3AZTK92ZYPR3/hero-image.jpg" alt="Instagram&#x27;s New Snapchat Clone Makes It Too Easy to Send Disappearing Images to All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-05-14 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/zelda.jpg" alt="Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendos-live-action-zelda-movie-keeps-changing-dates-2000695760" target="_blank">Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-13 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 113 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 16:35 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 38 | 📸 With Images: 255 |
+        🔄 Last Updated: 17:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
