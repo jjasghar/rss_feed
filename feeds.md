@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 01:35:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 03:00:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 01:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-china-27-gty-gmh-260514_1778725277489_hpMain_4x3t_384.jpg" alt="Trump meeting with Xi in Beijing at high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Trump meeting with Xi in Beijing at high-stakes summit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-14 02:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/U.S._President_Trump_Meets_With_Chinas_President_X-2276122767-Getty-nn4mfc.jpg" alt="Trump shakes hands with Xi at start of historic U.S.-China summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-shakes-hands-with-xi-at-start-of-historic-u-s-china-summit-263284293579" target="_blank">Trump shakes hands with Xi at start of historic U.S.-China summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-14 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss" target="_blank">Families demand release of Pakistani crew captured by Somali pirates</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 01:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-arrives-in-china-for-high-stakes-summit-263268933751" target="_blank">Trump arrives in China for high-stakes summit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-13 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco" target="_blank">Remains of second US soldier who went missing during military exercises in Morocco have been recovered</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-13 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6b/live/5b767670-4f0f-11f1-bbd7-4dd9e7da3820.jpg" alt="Starmer warns against leadership contest in pleas to ministers and MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&at_campaign=rss" target="_blank">Starmer warns against leadership contest in pleas to ministers and MPs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds" target="_blank">Foreign ticket holders from World Cup teams&#x27; countries won&#x27;t have to pay bonds to enter U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 20:24</span>
             </div>
         </div>
 </div>
@@ -165,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax7yor3px9hidfz5klqu.png" alt="Build a Real-Time Voice RAG Agent for Your Documentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/reeshee/build-a-real-time-voice-rag-agent-for-your-documentation-3i5d" target="_blank">Build a Real-Time Voice RAG Agent for Your Documentation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 02:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-agents-expose-a-design-gap-in-microservices-res" target="_blank">AI Agents Expose a Design Gap in Microservices Resilience Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/anthropic-claude-aws/en/headerimage/generatedHeaderImage-1778682420283.jpg" alt="Anthropic Launches Claude Platform on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/anthropic-claude-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Launches Claude Platform on AWS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-13 19:20</span>
             </div>
         </div>
 </div>
@@ -337,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 01:35 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
