@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 00:24:13 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-14 01:35:19 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 00:24 UTC</div>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 01:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121987/denise-powell-democrat-wins-nebraska-second-congressional-district" target="_blank">Denise Powell wins Democratic primary for Nebraska&#x27;s 2nd congressional district</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-14 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss" target="_blank">Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778713721737_nn_tll_trump_arrives_china_summit_260513_S3_1920x1080-co30mq.jpg" alt="Trump arrives in China for high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds" target="_blank">Foreign ticket holders from World Cup teams&#x27; countries won&#x27;t have to pay bonds to enter U.S.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-13 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss" target="_blank">Republicans break ranks, but Senate fails to curb Trump’s Iran war powers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-13 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/kevin-warsh-gty-jef-260512_1778597118951_hpMain_4x3t_384.jpg" alt="Senate confirms Fed chair nominee Kevin Warsh, ending standoff over Powell probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/senate-confirms-fed-chair-nominee-kevin-warsh-ending/story?id=132875814" target="_blank">Senate confirms Fed chair nominee Kevin Warsh, ending standoff over Powell probe</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-13 19:11</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muhammad_yasin_f39f26989f/geohazard-ai-building-a-multi-agent-geological-climate-risk-system-with-google-adk-2hld" target="_blank">🌍 GeoHazard AI — Building a Multi-Agent Geological &amp; Climate Risk System with Google ADK</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-DRM-Format-Modifiers-GCN" target="_blank">Older AMD GPUs Score Another Open-Source Driver Win From Valve: DRM Format Modifiers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik" target="_blank">I kept noticing my overtime paycheck felt wrong, so I built a small calculator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-13 22:05</span>
@@ -193,24 +218,6 @@
                 <span class="time">2026-05-13 19:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pyrefly.org/blog/v1.0/" target="_blank">Pyrefly v1.0 is here</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-13 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fryan7k9b8jctxh4vq1wr.png" alt="I Built an SVG Icon Library Because I Was Tired of Installing Heavy Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bidyut_10/i-built-an-svg-icon-library-because-i-was-tired-of-installing-heavy-packages-4ca2" target="_blank">I Built an SVG Icon Library Because I Was Tired of Installing Heavy Packages</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-13 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +244,15 @@
                 <span class="title"><a href="https://kotaku.com/nintendos-live-action-zelda-movie-keeps-changing-dates-2000695760" target="_blank">Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-13 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/goo.jpg?fit=1200%2C670&amp;quality=60&amp;ssl=1" alt="Caracas has a mysterious black highway goo that has killed 1,800 people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/13/caracas-has-a-mysterious-black-highway-goo-that-has-killed-1800-people.html" target="_blank">Caracas has a mysterious black highway goo that has killed 1,800 people</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-13 21:40</span>
             </div>
         </div>
 <div class="story">
@@ -273,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-announced-new-security-upgrades-for-android?utm_medium=RSS" target="_blank">Google Announced a Bunch of Security Upgrades for Android This Week</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-13 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRH14JZ7ADD6GEDAZT86F7GY/hero-image.png" alt="These Craftsman Tools Are Up to 56% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/craftsman-tools-sale-may-2026?utm_medium=RSS" target="_blank">These Craftsman Tools Are Up to 56% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-13 17:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 01:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
