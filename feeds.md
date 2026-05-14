@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-13 23:21:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-14 00:24:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, May 13, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 00:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778713721737_nn_tll_trump_arrives_china_summit_260513_S3_1920x1080-co30mq.jpg" alt="Trump arrives in China for high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-arrives-in-china-for-high-stakes-summit-263268933751" target="_blank">Trump arrives in China for high-stakes summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-13 23:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco" target="_blank">Remains of second US soldier who went missing during military exercises in Morocco have been recovered</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-13 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6b/live/5b767670-4f0f-11f1-bbd7-4dd9e7da3820.jpg" alt="Starmer warns against leadership contest in pleas to ministers and MPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/Business/senate-confirms-fed-chair-nominee-kevin-warsh-ending/story?id=132875814" target="_blank">Senate confirms Fed chair nominee Kevin Warsh, ending standoff over Powell probe</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-13 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/13/nx-s1-5815047/neanderthal-tooth-dentistry-cavity-drill" target="_blank">Neanderthals may have drilled out a cavity 59,000 years ago</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-13 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ba/live/5ed348c0-4edd-11f1-bd52-e755d604ece4.jpg" alt="Rhun ap Iorwerth reveals ministerial team, promising &#x27;new era&#x27; for Wales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crlpzky9y05o?at_medium=RSS&at_campaign=rss" target="_blank">Rhun ap Iorwerth reveals ministerial team, promising &#x27;new era&#x27; for Wales</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-13 18:10</span>
             </div>
         </div>
 </div>
@@ -242,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/zelda.jpg" alt="Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendos-live-action-zelda-movie-keeps-changing-dates-2000695760" target="_blank">Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-13 22:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="The silence around alleged Israeli sexual violence against Palestinians is deafening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,15 +282,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/craftsman-tools-sale-may-2026?utm_medium=RSS" target="_blank">These Craftsman Tools Are Up to 56% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-13 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/googlebook-1.jpg?fit=2371%2C1630&amp;quality=60&amp;ssl=1" alt="Prompt your widgets with Googlebook, a laptop range for people into that sort of thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/13/prompt-your-widgets-with-googlebook-a-laptop-range-for-people-into-that-sort-of-thing.html" target="_blank">Prompt your widgets with Googlebook, a laptop range for people into that sort of thing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-13 15:23</span>
             </div>
         </div>
 </div>
@@ -341,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 23:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
