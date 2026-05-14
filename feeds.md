@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 10:44:16 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-14 11:31:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 37 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 10:44 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 11:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a049f8dc0743c7e4e8fbb61/master/pass/Review%20InstaFarm%20Indoor%20Garden%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/" target="_blank">InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-14 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243556893-500x500.jpg" alt="Desperate Trump taps &quot;Tim Apple,&quot; Jensen Huang, Elon Musk to attend Xi summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/" target="_blank">Desperate Trump taps &quot;Tim Apple,&quot; Jensen Huang, Elon Musk to attend Xi summit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -150,24 +160,6 @@
                 <span class="time">2026-05-14 06:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="We-Vibe Discount Codes and Deals: Up to 60% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/we-vibe-discount-code/" target="_blank">We-Vibe Discount Codes and Deals: Up to 60% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-14 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs" target="_blank">Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-13 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -189,6 +181,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-AMDGPU-FRL-Regs" target="_blank">New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDML 2.1 FRL</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-14 10:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/en/headerimage/header-1778308038640.jpeg" alt="Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Engineers Eliminate CPU Zombies to Resolve Production Bottlenecks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-14 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -216,29 +217,6 @@
                 <span class="title"><a href="https://dev.to/dhruvjoshi9/how-to-build-an-ai-agent-in-2026-tools-architecture-rag-mcp-and-real-world-use-cases-6b5" target="_blank">How To Build An AI Agent In 2026: Tools, Architecture, RAG, MCP, And Real-World Use Cases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-14 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neojuridico/stop-sending-plan-price-to-ga4-as-conversion-value-and-why-your-gtag-is-lying-to-you-anyway-2he8" target="_blank">Stop Sending Plan Price to GA4 as Conversion Value (And Why Your gtag Is Lying to You Anyway)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 06:46</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html" target="_blank">OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-13 11:03</span>
             </div>
         </div>
 </div>
@@ -328,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 10:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
