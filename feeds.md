@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 11:31:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 12:30:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 11:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 12:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622f/live/67cd8020-4f8d-11f1-9047-c9775177a8ab.png" alt="Wes Streeting resigns as health secretary - his letter in full" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss" target="_blank">Wes Streeting resigns as health secretary - his letter in full</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-14 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-and-xi-hail-most-important-relationship?traffic_source=rss" target="_blank">Trump and Xi hail ‘most important’ relationship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-china-43-rt-gmh-260514._1778727477962_hpMain_4x3t_384.jpg" alt="Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia" target="_blank">Voters are caught in the middle as the redistricting battle intensifies</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss" target="_blank">Nepal in a bind as US-China drone war reaches Everest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7f/live/1eda9d40-4f69-11f1-a19d-b3cbcec9450b.jpg" alt="Chris Mason: Potential leadership challengers jostle for position" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c232pz403dko?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Potential leadership challengers jostle for position</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-14 07:37</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-Beta-Released" target="_blank">KDE Plasma 6.7 Beta Released With Plasma Big Screen, Union Modules</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html" target="_blank">Show HN: Running the second public ODoH relay</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-14 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thehydrabytes/building-cpai-an-ai-powered-bank-statement-analysis-dashboard-1ka4" target="_blank">Building CPAi: An AI-Powered Bank Statement Analysis Dashboard</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,29 +216,20 @@
                 <span class="time">2026-05-14 09:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/kubernetes-1-36-released/en/headerimage/generatedHeaderImage-1778700325619.jpg" alt="Kubernetes v1.36: Security Defaults Tighten as AI Workload Support Matures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/kubernetes-1-36-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes v1.36: Security Defaults Tighten as AI Workload Support Matures</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-14 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhruvjoshi9/how-to-build-an-ai-agent-in-2026-tools-architecture-rag-mcp-and-real-world-use-cases-6b5" target="_blank">How To Build An AI Agent In 2026: Tools, Architecture, RAG, MCP, And Real-World Use Cases</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 07:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRJNJ5W39T6RD7HVB5W14JEG/hero-image.png" alt="This LG OLED Gaming Monitor Is 40% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-ultragear-oled-gaming-monitor-sale-may-2026?utm_medium=RSS" target="_blank">This LG OLED Gaming Monitor Is 40% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-14 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/zelda.jpg" alt="Nintendo’s Live-Action Zelda Movie Keeps Changing Release Dates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +275,6 @@
                 <span class="time">2026-05-13 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRH1CRPPGC7GKXG1N60BRWA8/hero-image.jpg" alt="Google Announced a Bunch of Security Upgrades for Android This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-announced-new-security-upgrades-for-android?utm_medium=RSS" target="_blank">Google Announced a Bunch of Security Upgrades for Android This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-13 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 12:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
