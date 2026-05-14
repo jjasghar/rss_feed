@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 21:23:05 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 22:20:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 21:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 22:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/mifepristone-gty-er-250924_1758750543433_hpMain_4x3t_384.jpg" alt="Supreme Court preserves broad access to abortion drug mifepristone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-preserves-broad-access-abortion-drug-mifepristone/story?id=132962639" target="_blank">Supreme Court preserves broad access to abortion drug mifepristone</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-14 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-mifepristone-vl-138p-d0b3a2.jpg" alt="Supreme Court allows abortion pill to remain available by mail nationwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-abortion-pill-mifepristone-available-mail-rcna344081" target="_blank">Supreme Court allows abortion pill to remain available by mail nationwide</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-14 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778790731770_now_mtp_clip_areporters_260514_S3_1920x1080-8ffxra.jpg" alt="Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +105,20 @@
                 <span class="time">2026-05-14 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5822441/jury-award-737-max-crash-ethiopian-airlines" target="_blank">Jury orders Boeing to pay $49.5 million to family of 737 MAX crash victim</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-14 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/hondius-1-gty-jef-260512_1778588305201_hpMain_4x3t_384.jpg" alt="Hantavirus live updates: American who initially tested positive now tests negative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955" target="_blank">Hantavirus live updates: American who initially tested positive now tests negative</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-14 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a062f348cd08cd9ab872b72/master/pass/GettyImages-2274860238.jpg" alt="We Now Know How Many People the CDC Is Monitoring for Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/" target="_blank">We Now Know How Many People the CDC Is Monitoring for Hantavirus</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,20 @@
                 <span class="time">2026-05-14 17:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/" target="_blank">Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-14 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgenlph52xjng5i6spg3s.jpeg" alt="Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kasiukvadim/uncertainty-estimates-of-predictions-via-a-general-bias-variance-decomposition-236c" target="_blank">Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 22:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18946358&w=600" alt="The Network Attach Problem Nobody Warns You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +185,15 @@
                 <span class="title"><a href="https://dzone.com/articles/network-attach-problem" target="_blank">The Network Attach Problem Nobody Warns You About</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-14 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/fragnesia-linux-vulnerability-fixes-available" target="_blank">Fragnesia Linux kernel local privilege escalation vulnerability mitigations</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-14 19:07</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/" target="_blank">Removing the modem and GPS from my 2024 RAV4 hybrid</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-14 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/" target="_blank">Removing the Modem and GPS from My 2024 RAV4 Hybrid</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MSI-Claw-Configuration-Driver" target="_blank">MSI Claw Configuration Driver For Linux Coming Together With The Assistance Of AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-14 16:24</span>
             </div>
         </div>
 </div>
@@ -248,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/controllers-1280x720.jpg" alt="Two New, Very Different Xbox Controllers Have Leaked Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/two-new-very-different-xbox-controllers-have-leaked-online-2000696180" target="_blank">Two New, Very Different Xbox Controllers Have Leaked Online</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 21:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israel&#x27;s response to rape allegations: threaten the newspaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +305,6 @@
                 <span class="time">2026-05-14 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2337208331-scaled.jpg?fit=2560%2C1634&amp;quality=60&amp;ssl=1" alt="Ghostly girl sculptures haunt the woods at Jupiter Artland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/14/ghostly-girl-sculptures-haunt-the-woods-at-jupiter-artland.html" target="_blank">Ghostly girl sculptures haunt the woods at Jupiter Artland</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-14 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 39 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
