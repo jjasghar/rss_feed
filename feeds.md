@@ -1,35 +1,23 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 13:31:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 14:48:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 15 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 14:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +40,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis?traffic_source=rss" target="_blank">Serie A finish in chaos, worsened by clash with Italian Open tennis final</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-14 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0586/live/ada31a10-4f88-11f1-b682-cf91850925ea.jpg" alt="Flattery and fanfare as Trump welcomed to China - but thorny issues remain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss" target="_blank">Flattery and fanfare as Trump welcomed to China - but thorny issues remain</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-14 13:02</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +85,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees" target="_blank">UN urges Equatorial Guinea to halt plans to return US deportees to home countries</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-05-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-43-rt-gmh-260514._1778727477962_hpMain_4x3t_384.jpg" alt="Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-14 10:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +152,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19020007&w=600" alt="How to Test a DELETE API Request With REST-Assured Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/test-delete-api-rest-assured-java" target="_blank">How to Test a DELETE API Request With REST-Assured Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-14 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-rocm7-723" target="_blank">ROCm 7.0.0 vs. ROCm 7.2.3 Performance On The AMD Radeon AI PRO R9700</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341201/foss-weekly-26-20" target="_blank">FOSS Weekly #26.20: Killswitch in Linux, Fedora&amp;#x27;s AI Move, Rat in Terminal, KDE Dolphine Tweaks and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-14 13:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19018847&w=600" alt="Working With Cowork: Don’t Be Confused" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -184,37 +199,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.7-Beta-Released" target="_blank">KDE Plasma 6.7 Beta Released With Plasma Big Screen, Union Modules</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-14 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html" target="_blank">Show HN: Running the second public ODoH relay</a></span>
+                <span class="title"><a href="https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada" target="_blank">Computer Hobby Movement in Canada</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thehydrabytes/building-cpai-an-ai-powered-bank-statement-analysis-dashboard-1ka4" target="_blank">Building CPAi: An AI-Powered Bank Statement Analysis Dashboard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-AMDGPU-FRL-Regs" target="_blank">New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDML 2.1 FRL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-14 10:20</span>
+                <span class="time">2026-05-14 12:57</span>
             </div>
         </div>
 </div>
@@ -236,6 +224,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Jason_Duval_04-1280x720.jpg" alt="Grand Theft Auto 6 Pre-Orders May Go Live On Monday, Thanks To Best Buy Slip-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-pre-orders-may-go-live-on-monday-thanks-to-best-buy-slip-up-2000696046" target="_blank">Grand Theft Auto 6 Pre-Orders May Go Live On Monday, Thanks To Best Buy Slip-Up</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/sbox-image-from-X-post-Facepunch.jpeg" alt="s&amp;box’s New Update Punishes AI Slop Content By Ranking It Lower To Discourage Users From ‘Making Everything Look Like The Same Sh*t’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +278,6 @@
                 <span class="time">2026-05-13 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRH4W66NWVTMAC08PTXNX62S/hero-image.png" alt="Amazon’s Feature-Packed Echo Dot Max Is $25 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-echo-dot-max-sale-may-2026?utm_medium=RSS" target="_blank">Amazon’s Feature-Packed Echo Dot Max Is $25 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-13 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 14:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
