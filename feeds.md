@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 18:31:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-14 19:30:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 18:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss" target="_blank">US Air Force rescues 11 after plane crashes into waters off Florida coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-14 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +95,20 @@
                 <span class="time">2026-05-14 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/israels-netanyahu-says-suing-new-york-times-over-palestinian-rape-article?traffic_source=rss" target="_blank">Israel’s Netanyahu says suing New York Times over Palestinian rape article</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad" target="_blank">Microsoft starts canceling Claude Code licenses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg" alt="Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +154,20 @@
                 <span class="time">2026-05-14 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a04f275366b52a33cd08138/master/pass/GettyImages-458085231.jpg" alt="AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/" target="_blank">AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-14 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18981856&w=600" alt="DevOps Is Dead, Long Live Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/devops-platform-engineering" target="_blank">DevOps Is Dead, Long Live Platform Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +213,20 @@
                 <span class="time">2026-05-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/" target="_blank">RTX 5090 and M4 MacBook Air: Can It Game?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-14 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/party-animals-1280x730.jpg" alt="Devs Behind Beloved Party Game Rush To Apologize After Getting Review-Bombed Over AI Video Contest: ‘Ah Hell Nah’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/devs-behind-beloved-party-game-rush-to-apologize-after-getting-review-bombed-over-ai-video-contest-ah-hell-nah-2000696146" target="_blank">Devs Behind Beloved Party Game Rush To Apologize After Getting Review-Bombed Over AI Video Contest: ‘Ah Hell Nah’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H103N0G5GBZHX9N0YN45W/hero-image.jpg" alt="How to Actually Start Eating Healthy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-to-start-eating-healthy?utm_medium=RSS" target="_blank">How to Actually Start Eating Healthy</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-14 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2337208331-scaled.jpg?fit=2560%2C1634&amp;quality=60&amp;ssl=1" alt="Ghostly girl sculptures haunt the woods at Jupiter Artland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/14/ai-poop-analysis-app-selling-human-verified-poop-photos.html" target="_blank">AI poop analysis app selling human-verified poop photos</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-14 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Jason_Duval_04-1280x720.jpg" alt="Grand Theft Auto 6 Pre-Orders May Go Live On Monday, Thanks To Best Buy Slip-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/grand-theft-auto-6-pre-orders-may-go-live-on-monday-thanks-to-best-buy-slip-up-2000696046" target="_blank">Grand Theft Auto 6 Pre-Orders May Go Live On Monday, Thanks To Best Buy Slip-Up</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/sbox-image-from-X-post-Facepunch.jpeg" alt="s&amp;box’s New Update Punishes AI Slop Content By Ranking It Lower To Discourage Users From ‘Making Everything Look Like The Same Sh*t’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sboxs-new-update-punishes-ai-slop-content-by-ranking-it-lower-to-discourage-users-from-making-everything-look-like-the-same-shit-2000696033" target="_blank">s&amp;box’s New Update Punishes AI Slop Content By Ranking It Lower To Discourage Users From ‘Making Everything Look Like The Same Sh*t’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 13:17</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 18:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
