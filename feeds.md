@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 19:30:19 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2026-05-14 20:28:33 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss" target="_blank">US Air Force rescues 11 after plane crashes into waters off Florida coast</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-14 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc" target="_blank">Judge orders Trump administration to return Colombian woman deported to DRC back to the US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-14 18:49</span>
             </div>
         </div>
 <div class="story">
@@ -86,20 +97,20 @@
                 <span class="time">2026-05-14 16:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-52-gty-gmh-260514._1778728945036_hpMain_4x3t_384.jpg" alt="Trump-Xi summit Day 1 takeaways: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-summit-day-1-takeaways-analysis/story?id=132963988" target="_blank">Trump-Xi summit Day 1 takeaways: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-14 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2250305962-500x500.jpg" alt="Cell phone users can&#x27;t stop incriminating themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/" target="_blank">Cell phone users can&#x27;t stop incriminating themselves</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-14 19:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +156,20 @@
                 <span class="time">2026-05-14 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/spain-wildfire-500x500.jpg" alt="Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/" target="_blank">Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-14 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18946358&w=600" alt="The Network Attach Problem Nobody Warns You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/network-attach-problem" target="_blank">The Network Attach Problem Nobody Warns You About</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-14 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18981856&w=600" alt="DevOps Is Dead, Long Live Platform Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -166,6 +177,24 @@
                 <span class="title"><a href="https://dzone.com/articles/devops-platform-engineering" target="_blank">DevOps Is Dead, Long Live Platform Engineering</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.7-Beta-Big-Screen" target="_blank">Plasma Big Screen Working Out Quite Well With Plasma 6.7 Beta</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/" target="_blank">Removing the modem and GPS from my 2024 RAV4 hybrid</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-14 17:08</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/MSI-Claw-Configuration-Driver" target="_blank">MSI Claw Configuration Driver For Linux Coming Together With The Assistance Of AI</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-14 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!RbLf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0e23f7-eda1-4ceb-9cd0-37106afa3828_1202x684.png" alt="The Pulse: Forward deployed engineering heats up again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering" target="_blank">The Pulse: Forward deployed engineering heats up again</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-14 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18981814&w=600" alt="The Update Problem REST Doesn&#x27;t Solve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/rest-update-problem" target="_blank">The Update Problem REST Doesn&#x27;t Solve</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/" target="_blank">From latency to instant: Modernizing GitHub Issues navigation performance</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-14 16:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/03/marathon-terminals-1280x720.jpg" alt="Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161" target="_blank">Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/party-animals-1280x730.jpg" alt="Devs Behind Beloved Party Game Rush To Apologize After Getting Review-Bombed Over AI Video Contest: ‘Ah Hell Nah’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +297,6 @@
                 <span class="time">2026-05-14 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2601338705.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="AI poop analysis app selling human-verified poop photos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/14/ai-poop-analysis-app-selling-human-verified-poop-photos.html" target="_blank">AI poop analysis app selling human-verified poop photos</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-14 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 39 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
