@@ -1,38 +1,45 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 09:45:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-14 10:44:16 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 09:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, May 14, 2026 - 10:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +55,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-china-43-rt-gmh-260514._1778727477962_hpMain_4x3t_384.jpg" alt="Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-arrives-beijing-high-stakes-summit-xi/story?id=132910116" target="_blank">Xi warns Trump that US and China will &#x27;clash&#x27; if Taiwan is handled &#x27;improperly&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-14 10:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,21 +101,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7f/live/1eda9d40-4f69-11f1-a19d-b3cbcec9450b.jpg" alt="Chris Mason: Potential leadership challengers jostle for position" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit" target="_blank">UAE denies Netanyahu secretly visited the country during the Iran war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-14 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss" target="_blank">Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 07:00</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c232pz403dko?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Potential leadership challengers jostle for position</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-14 07:37</span>
             </div>
         </div>
 </div>
@@ -107,6 +114,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-feature-rollout" target="_blank">Android’s latest AI feature predicts what you’ll do next</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-14 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a04979bbea0227db8538835/master/pass/Review%20Klipsch%20the%20Fives%20speakers%20top%20art%20052026%20SOURCE%20Best%20Buy.jpg" alt="Klipsch the Fives II Speakers Review for Music, Movies, More (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/klipsch-the-fives-ii/" target="_blank">Klipsch the Fives II Speakers Review for Music, Movies, More (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-14 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a02312257bdfbf807f9ffd3/master/pass/Instagram-Ads-Cocaine-Culture-1772632329.jpg" alt="These Instagram Ads Sure Seem to Be Selling Cocaine Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +168,29 @@
                 <span class="time">2026-05-13 22:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a04d12cd7be752b48cba4af/master/pass/Model-Behavior-Musk-v-Altman-Butt-Pillows-Business-Court-Image.jpg" alt="Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/" target="_blank">Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-13 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/skydweller-predawn-flight-500x500.jpg" alt="Solar drone with jumbo jet wingspan broke a flight record—then it crashed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/" target="_blank">Solar drone with jumbo jet wingspan broke a flight record—then it crashed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-13 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thehydrabytes/building-cpai-an-ai-powered-bank-statement-analysis-dashboard-1ka4" target="_blank">Building CPAi: An AI-Powered Bank Statement Analysis Dashboard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-14 10:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-AMDGPU-FRL-Regs" target="_blank">New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDML 2.1 FRL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-14 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +225,6 @@
                 <span class="title"><a href="https://dev.to/neojuridico/stop-sending-plan-price-to-ga4-as-conversion-value-and-why-your-gtag-is-lying-to-you-anyway-2he8" target="_blank">Stop Sending Plan Price to GA4 as Conversion Value (And Why Your gtag Is Lying to You Anyway)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-14 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-for-small-business" target="_blank">Claude for Small Business</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-14 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fax7yor3px9hidfz5klqu.png" alt="Build a Real-Time Voice RAG Agent for Your Documentation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/reeshee/build-a-real-time-voice-rag-agent-for-your-documentation-3i5d" target="_blank">Build a Real-Time Voice RAG Agent for Your Documentation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 02:37</span>
             </div>
         </div>
 </div>
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 09:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 10:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
