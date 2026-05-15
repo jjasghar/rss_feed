@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 15:38:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 16:31:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 15:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 16:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -87,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump says he &#x27;made no commitment either way&#x27; to Xi on Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;made no commitment either way&#x27; to Xi on Taiwan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 14:13</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -95,20 +97,20 @@
                 <span class="time">2026-05-15 13:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85aa/live/3c9e1750-5052-11f1-89a3-d1f559421220.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Xi conclude &#x27;very successful&#x27; talks but no deals confirmed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/" target="_blank">OpenAI launches ChatGPT for personal finance, will let you connect bank accounts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a04fd3b34992d430cd2f12d/master/pass/Backchannel-Employee-Benefits-Are-in-Bigger-Trouble-Than-You-Think-Business-83077313jpg.jpg" alt="Companies Keep Slashing Employees’ Benefits for the Worst Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,20 @@
                 <span class="time">2026-05-15 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/" target="_blank">Even GoPro is pivoting to defense</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984666&w=600" alt="The Agent Protocol Stack: MCP vs. A2A vs. AG-UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/mcp-vs-a2a-vs-agui" target="_blank">The Agent Protocol Stack: MCP vs. A2A vs. AG-UI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,27 +201,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://turso.tech/blog/the-wonders-of-ai" target="_blank">The Wonders of AI: We Are Retiring Our Bug Bounty Program</a></span>
+                <span class="title"><a href="https://projectzero.google/2026/05/pixel-10-exploit.html" target="_blank">A 0-click exploit chain for the Pixel 10</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 13:33</span>
+                <span class="time">2026-05-15 13:39</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/zimacube-2" target="_blank">ZimaCube 2 Makes For A Nice Personal Cloud/NAS With Power Of Linux + Intel CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18983646&w=600" alt="Designing Effective Meetings in Tech: From Time Wasters to Strategic Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-effective-meetings-in-tech-strategic" target="_blank">Designing Effective Meetings in Tech: From Time Wasters to Strategic Tools</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-15 13:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://turso.tech/blog/the-wonders-of-ai" target="_blank">The Wonders of AI: We Are Retiring Our Bug Bounty Program</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 13:33</span>
             </div>
         </div>
 </div>
@@ -236,20 +229,29 @@
                 <span class="time">2026-05-15 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-14 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-79.jpg" alt="Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/horizon-forbidden-west-composer-says-using-ai-for-creative-art-feels-fcking-insane-2000696519" target="_blank">Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-15 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/12/scam-call.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="What does it look like inside a scam call center?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/15/what-does-it-look-like-inside-a-scam-call-center.html" target="_blank">What does it look like inside a scam call center?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-15 15:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQXYEDQT5EMDS58YRY60R48Z/hero-image.jpg" alt="10 Hacks Every Apple Mail User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +288,6 @@
                 <span class="time">2026-05-14 21:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-14 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=1200%2C1500&amp;quality=60&amp;ssl=1" alt="Instead of paying $20/month for Microsoft 365, why not get Microsoft Office for life for $17" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/14/instead-of-paying-20-month-for-microsoft-365-why-not-get-microsoft-office-for-life-for-17.html" target="_blank">Instead of paying $20/month for Microsoft 365, why not get Microsoft Office for life for $17</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +311,13 @@
                 <span class="time">2026-05-15 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/we-are-bugs/" target="_blank">We Are Bugs</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-05-14 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 15:39 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 266 |
+        🔄 Last Updated: 16:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
