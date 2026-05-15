@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 17:29:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-15 18:28:12 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 17:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 18:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian" target="_blank">The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-15 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-china-23-gty-gmh-260515_1778848335847_hpMain_4x3t_384.jpg" alt="Trump-Xi summit Day 2 takeaways: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-summit-day-2-takeaways-analysis/story?id=133001947" target="_blank">Trump-Xi summit Day 2 takeaways: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/3b5014b0-506c-11f1-b25f-935f2b5ef09e.jpg" alt="Teenager&#x27;s family &#x27;heartbroken&#x27; by meningitis death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +100,29 @@
                 <span class="time">2026-05-15 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists" target="_blank">Mali’s forces target rebel alliance in junta’s fight to keep power</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-15 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump says he &#x27;made no commitment either way&#x27; to Xi on Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he &#x27;made no commitment either way&#x27; to Xi on Taiwan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle" target="_blank">OpenAI keeps shuffling its executives in bid to win AI agent battle</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-15 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/" target="_blank">Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 18:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg" alt="Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +159,20 @@
                 <span class="time">2026-05-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-memorial-day-deals-2026/" target="_blank">Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-500x500.jpg" alt="Rocket Report: Cowboy up for data centers in LEO; Russia&#x27;s new ICBM actually works" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/" target="_blank">Rocket Report: Cowboy up for data centers in LEO; Russia&#x27;s new ICBM actually works</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-15 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984726&w=600" alt="The Hidden Bottlenecks That Break Microservices in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microservices-hidden-bottlenecks" target="_blank">The Hidden Bottlenecks That Break Microservices in Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984683&w=600" alt="Observability in Spring Boot 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +180,15 @@
                 <span class="title"><a href="https://dzone.com/articles/observability-in-spring-boot-4" target="_blank">Observability in Spring Boot 4</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-15 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/" target="_blank">Building a general-purpose accessibility agent—and what we learned in the process</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-15 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="time">2026-05-15 15:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/cloudflare-workflows-v2-release/en/headerimage/generatedHeaderImage-1777438019188.jpg" alt="Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-15 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/" target="_blank">Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/PS5-Players.jpg" alt="PS5 Will Now Tell You Exactly How Many People Are Playing GTA 5 As Sony Debuts A New Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556" target="_blank">PS5 Will Now Tell You Exactly How Many People Are Playing GTA 5 As Sony Debuts A New Ranking</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-15 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/popeye.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="A choral group&#x27;s Popeye cover is bringing back Saturday mornings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/15/a-choral-groups-popeye-cover-is-bringing-back-saturday-mornings.html" target="_blank">A choral group&#x27;s Popeye cover is bringing back Saturday mornings</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-15 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-79.jpg" alt="Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +291,6 @@
                 <span class="time">2026-05-15 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="13 Things To Know Before Playing Forza Horizon 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/13-things-to-know-before-playing-forza-horizon-6-xbox-guide-open-world-2000695715" target="_blank">13 Things To Know Before Playing Forza Horizon 6</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus: ‘You Have To Be Cutting The Baby In Half All The Time’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194" target="_blank">BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus: ‘You Have To Be Cutting The Baby In Half All The Time’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 22:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
