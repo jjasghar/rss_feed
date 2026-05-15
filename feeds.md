@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 19:29:06 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-15 20:23:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 20:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8682/live/c678dde0-507d-11f1-b637-39d6d94b351f.jpg" alt="Burnham cleared to run for selection in pivotal by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham cleared to run for selection in pivotal by-election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 18:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump warns Taiwan against declaring independence, hours after summit with China&#x27;s Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -92,15 +90,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/trump-xi-summit-day-2-takeaways-analysis/story?id=133001947" target="_blank">Trump-Xi summit Day 2 takeaways: ANALYSIS</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-15 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/3b5014b0-506c-11f1-b25f-935f2b5ef09e.jpg" alt="Teenager&#x27;s family &#x27;heartbroken&#x27; by meningitis death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&at_campaign=rss" target="_blank">Teenager&#x27;s family &#x27;heartbroken&#x27; by meningitis death</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 15:31</span>
             </div>
         </div>
 </div>
@@ -186,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-R-Linux" target="_blank">Linux Patch Introduces Panther Lake R: Ruggedized Version Of Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 18:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984726&w=600" alt="The Hidden Bottlenecks That Break Microservices in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -212,15 +210,6 @@
                 <span class="time">2026-05-15 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/" target="_blank">Building a general-purpose accessibility agent—and what we learned in the process</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRPG8SVY18NH5HDWA9MKC65V/hero-image.jpg" alt="Chatbots May Be Giving Out Your Phone Number" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chatbots-may-be-giving-out-your-phone-number?utm_medium=RSS" target="_blank">Chatbots May Be Giving Out Your Phone Number</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-15 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/The-House-of-The-Dead-2-Remake-official-image-Forever-Entertainment-1280x720.jpg" alt="Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +283,20 @@
                 <span class="time">2026-05-15 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRP4KW3RKQEA0WVAX5V31JCM/hero-image.jpg" alt="Apple Just Expanded This Privacy Feature to More iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-expanded-privacy-feature-more-iphones?utm_medium=RSS" target="_blank">Apple Just Expanded This Privacy Feature to More iPhones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/15/adjacency" target="_blank">Adjacency</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-15 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1778650911-20260515.png" alt="Saturday Morning Breakfast Cereal - Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
