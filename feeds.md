@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 06:59:48 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 08:05:27 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 06:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 08:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +39,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-china-3-rt-gmh-260515_1778814989399_hpMain_4x3t_384.jpg" alt="Trump and Xi end 2nd round of talks in high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump and Xi end 2nd round of talks in high-stakes summit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 06:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778818649570_nbc_china_trump_comments_260514_S3_1920x1080-l8wjvi.jpg" alt="Trump praises Xi, says ‘wonderful things’ done during China summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-praises-xi-says-wonderful-things-done-during-china-summit-263361093722" target="_blank">Trump praises Xi, says ‘wonderful things’ done during China summit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-15 04:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg" alt="CIA chief visits Cuba as energy crisis worsens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss" target="_blank">CIA chief visits Cuba as energy crisis worsens</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 02:40</span>
             </div>
         </div>
 <div class="story">
@@ -83,24 +90,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/supreme-court-allows-abortion-pill-to-remain-available-by-mail-263343685552" target="_blank">Supreme Court allows abortion pill to remain available by mail</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-14 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a995/live/3035ec10-4fd3-11f1-89a3-d1f559421220.jpg" alt="Burnham to make bid to return as MP as pressure mounts on Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to make bid to return as MP as pressure mounts on Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-14 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mifepristone-gty-er-250924_1758750543433_hpMain_4x3t_384.jpg" alt="Supreme Court preserves broad access to abortion drug mifepristone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/supreme-court-preserves-broad-access-abortion-drug-mifepristone/story?id=132962639" target="_blank">Supreme Court preserves broad access to abortion drug mifepristone</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-14 21:39</span>
             </div>
         </div>
 </div>
@@ -170,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341706/testing-local-llms-without-gpu" target="_blank">Can You Run LLMs Locally Without a GPU? I Tested 8 Models on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-15 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/" target="_blank">UK Government Kicks Out Palantir</a></span>
                 <span class="feed">Hacker News</span>
@@ -210,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/SDL-Steam-Controller-2026" target="_blank">SDL Library Adds Support For The New Steam Controller Without Depending On Steam</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-15 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/misosoup/how-i-built-an-ai-that-replies-to-messages-in-my-voice-2cni" target="_blank">How I Built an AI That Replies to Messages in My Voice</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-15 00:13</span>
             </div>
         </div>
 </div>
@@ -311,6 +300,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/15/adjacency" target="_blank">Adjacency</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-15 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/we-are-bugs/" target="_blank">We Are Bugs</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:59 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 08:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
