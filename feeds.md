@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 08:05:27 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-15 09:52:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 08:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 09:52 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24" target="_blank">Death toll in attack on Kyiv apartment building now stands at 24</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-15 09:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/7807af40-503e-11f1-b682-cf91850925ea.jpg" alt="Xi takes Trump on tour of Communist Party&#x27;s seat of power as China visit ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss" target="_blank">Xi takes Trump on tour of Communist Party&#x27;s seat of power as China visit ends</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss" target="_blank">How Xi-Trump summit failed to yield Iran war breakthrough</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-china-3-rt-gmh-260515_1778814989399_hpMain_4x3t_384.jpg" alt="Trump and Xi end 2nd round of talks in high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -57,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg" alt="CIA chief visits Cuba as energy crisis worsens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f912/live/1d0d4f60-4efd-11f1-85df-7fe19d922bf1.jpg" alt="&#x27;Don&#x27;t swim&#x27; warnings in place at nearly all of England&#x27;s official river bathing sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss" target="_blank">CIA chief visits Cuba as energy crisis worsens</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Don&#x27;t swim&#x27; warnings in place at nearly all of England&#x27;s official river bathing sites</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-china-83-ap-gmh-260514_1778762312853_hpMain_4x3t_384.jpg" alt="Trump and Xi set to hold 2nd round of talks ahead of high-stakes summit&#x27;s conclusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump and Xi set to hold 2nd round of talks ahead of high-stakes summit&#x27;s conclusion</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss" target="_blank">Iran war live: Trump’s visit to China shadowed by conflict with Tehran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778797582927_now_hallie_abortion_pill_ruling_260514_S3_1920x1080-4dzqew.jpg" alt="Supreme Court allows abortion pill to remain available by mail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/supreme-court-allows-abortion-pill-to-remain-available-by-mail-263343685552" target="_blank">Supreme Court allows abortion pill to remain available by mail</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-14 22:26</span>
+                <span class="time">2026-05-15 04:13</span>
             </div>
         </div>
 </div>
@@ -157,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/solidjs-2-async/en/headerimage/generatedHeaderImage-1778258271112.jpg" alt="SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/solidjs-2-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-15 07:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -199,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ynwd/the-secret-of-the-small-database-why-big-technology-often-slows-you-down-150" target="_blank">The Secret of the Small Database: Why &quot;Big&quot; Technology Often Slows You Down</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SDL-Steam-Controller-2026" target="_blank">SDL Library Adds Support For The New Steam Controller Without Depending On Steam</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 00:46</span>
             </div>
         </div>
 </div>
@@ -329,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 08:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:52 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
