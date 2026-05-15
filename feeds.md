@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 03:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 05:14:17 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 03:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 05:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceljw9x0c10oriwvqk84.png" alt="Scaling WebSocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrbprakash06/scaling-websocket-1dfa" target="_blank">Scaling WebSocket</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-15 05:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/ldkrx/the-cruise-passengers-4bno" target="_blank">The Cruise Passengers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-14 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2013/04/upgrade.jpg?resize=350%2C200&amp;ssl=1" alt="Ubuntu 26.04 LTS upgrade now open for Ubuntu 25.10 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-2604-lts-upgrade-now-available" target="_blank">Ubuntu 26.04 LTS upgrade now open for Ubuntu 25.10 users</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-14 22:53</span>
             </div>
         </div>
 </div>
@@ -268,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-14 21:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israel&#x27;s response to rape allegations: threaten the newspaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -292,15 +302,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/hisense-canvastv-deal-may-2026?utm_medium=RSS" target="_blank">The Hisense CanvasTV Is a Great Alternative to Samsung&#x27;s &#x27;The Frame,&#x27; and Now It&#x27;s $500 Off</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/party-animals-1280x730.jpg" alt="Devs Behind Beloved Party Game Rush To Apologize After Getting Review-Bombed Over AI Video Contest: ‘Ah Hell Nah’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/devs-behind-beloved-party-game-rush-to-apologize-after-getting-review-bombed-over-ai-video-contest-ah-hell-nah-2000696146" target="_blank">Devs Behind Beloved Party Game Rush To Apologize After Getting Review-Bombed Over AI Video Contest: ‘Ah Hell Nah’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 19:24</span>
             </div>
         </div>
 </div>
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
