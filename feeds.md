@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 10:45:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 11:36:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 10:45 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 11:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5a/live/1af75870-5041-11f1-acce-79302838e29f.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss" target="_blank">Finland ends drone alert amid regional fears of Ukraine war spillover</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 10:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss" target="_blank">Xi takes Trump on tour of Communist Party&#x27;s seat of power as China visit ends</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-15 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss" target="_blank">How Xi-Trump summit failed to yield Iran war breakthrough</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-3-rt-gmh-260515_1778814989399_hpMain_4x3t_384.jpg" alt="Trump and Xi end 2nd round of talks in high-stakes summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump and Xi end 2nd round of talks in high-stakes summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 06:02</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1" target="_blank">Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341808/fedora-ai-developer-desktop-stalled" target="_blank">Heavy Community Backlash Blocks Fedora&amp;#x27;s AI Developer Desktop Initiative</a></span>
                 <span class="feed">It's FOSS</span>
@@ -197,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/" target="_blank">Observability and human intuition in an AI world</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-15 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/solidjs-2-async/en/headerimage/generatedHeaderImage-1778258271112.jpg" alt="SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/solidjs-2-async/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-15 07:30</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai" target="_blank">Finding the blind spot: How Canonical hunts logic flaws with AI</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-15 08:53</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341706/testing-local-llms-without-gpu" target="_blank">Can You Run LLMs Locally Without a GPU? I Tested 8 Models on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-15 07:27</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://explorer.samismith.com/" target="_blank">Explore Wikipedia Like a Windows XP Desktop</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 08:45</span>
             </div>
         </div>
 </div>
@@ -230,18 +226,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html" target="_blank">Bypassing On-Camera Age-Verification Checks</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-14 16:01</span>
+                <span class="time">2026-05-15 11:06</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html" target="_blank">How Dangerous Is Anthropic’s Mythos AI?</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html" target="_blank">Upcoming Speaking Engagements</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-14 11:04</span>
+                <span class="time">2026-05-14 16:01</span>
             </div>
         </div>
 </div>
@@ -340,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:45 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
