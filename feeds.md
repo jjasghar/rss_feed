@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 00:21:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-15 01:33:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 00:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 01:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-china-83-ap-gmh-260514_1778762312853_hpMain_4x3t_384.jpg" alt="Trump and Xi set to hold 2nd round of talks ahead of high-stakes summit&#x27;s conclusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump and Xi set to hold 2nd round of talks ahead of high-stakes summit&#x27;s conclusion</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a995/live/3035ec10-4fd3-11f1-89a3-d1f559421220.jpg" alt="Burnham to make bid to return as MP as pressure mounts on Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&at_campaign=rss" target="_blank">Burnham to make bid to return as MP as pressure mounts on Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-14 22:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/mifepristone-gty-er-250924_1758750543433_hpMain_4x3t_384.jpg" alt="Supreme Court preserves broad access to abortion drug mifepristone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -75,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs" target="_blank">The 10 best songs competing at (a very contentious) Eurovision</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-14 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-mifepristone-vl-138p-d0b3a2.jpg" alt="Supreme Court allows abortion pill to remain available by mail nationwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-abortion-pill-mifepristone-available-mail-rcna344081" target="_blank">Supreme Court allows abortion pill to remain available by mail nationwide</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-14 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778790731770_now_mtp_clip_areporters_260514_S3_1920x1080-8ffxra.jpg" alt="Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/marco-rubio-says-we-re-not-asking-for-china-s-help-with-iran-263338565717" target="_blank">Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-14 20:32</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ynwd/the-secret-of-the-small-database-why-big-technology-often-slows-you-down-150" target="_blank">The Secret of the Small Database: Why &quot;Big&quot; Technology Often Slows You Down</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-15 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SDL-Steam-Controller-2026" target="_blank">SDL Library Adds Support For The New Steam Controller Without Depending On Steam</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/misosoup/how-i-built-an-ai-that-replies-to-messages-in-my-voice-2cni" target="_blank">How I Built an AI That Replies to Messages in My Voice</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 00:13</span>
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout" target="_blank">New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-14 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgenlph52xjng5i6spg3s.jpeg" alt="Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kasiukvadim/uncertainty-estimates-of-predictions-via-a-general-bias-variance-decomposition-236c" target="_blank">Uncertainty Estimates of Predictions via a General Bias-Variance Decomposition</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-april-2026/" target="_blank">GitHub availability report: April 2026</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-14 22:02</span>
             </div>
         </div>
 </div>
@@ -323,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
