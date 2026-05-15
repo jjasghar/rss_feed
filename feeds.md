@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 05:14:17 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-15 06:59:48 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 05:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 06:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778818649570_nbc_china_trump_comments_260514_S3_1920x1080-l8wjvi.jpg" alt="Trump praises Xi, says ‘wonderful things’ done during China summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-praises-xi-says-wonderful-things-done-during-china-summit-263361093722" target="_blank">Trump praises Xi, says ‘wonderful things’ done during China summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-15 04:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-china-83-ap-gmh-260514_1778762312853_hpMain_4x3t_384.jpg" alt="Trump and Xi set to hold 2nd round of talks ahead of high-stakes summit&#x27;s conclusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/supreme-court-preserves-broad-access-abortion-drug-mifepristone/story?id=132962639" target="_blank">Supreme Court preserves broad access to abortion drug mifepristone</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-14 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs" target="_blank">The 10 best songs competing at (a very contentious) Eurovision</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-14 21:33</span>
             </div>
         </div>
 </div>
@@ -169,12 +168,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/" target="_blank">UK Government Kicks Out Palantir</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 06:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceljw9x0c10oriwvqk84.png" alt="Scaling WebSocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mrbprakash06/scaling-websocket-1dfa" target="_blank">Scaling WebSocket</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 05:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-ssh-keysign-pwn" target="_blank">Linux&#x27;s Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 01:35</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/misosoup/how-i-built-an-ai-that-replies-to-messages-in-my-voice-2cni" target="_blank">How I Built an AI That Replies to Messages in My Voice</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-15-2026-red-hat" target="_blank">Friday Five — May 15, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-05-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnk7yf0t4sfbxjl3se9gx.jpg" alt="The Cruise Passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ldkrx/the-cruise-passengers-4bno" target="_blank">The Cruise Passengers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-14 23:14</span>
             </div>
         </div>
 </div>
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 06:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
