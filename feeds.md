@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 09:52:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-15 10:45:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 09:52 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 10:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss" target="_blank">India hikes fuel prices as Iran crisis bites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 10:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-china-3-rt-gmh-260515_1778814989399_hpMain_4x3t_384.jpg" alt="Trump says he and Chinese President Xi Jinping feel &#x27;very similar on Iran&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump says he and Chinese President Xi Jinping feel &#x27;very similar on Iran&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 10:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +103,20 @@
                 <span class="time">2026-05-15 06:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778818649570_nbc_china_trump_comments_260514_S3_1920x1080-l8wjvi.jpg" alt="Trump praises Xi, says ‘wonderful things’ done during China summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-praises-xi-says-wonderful-things-done-during-china-summit-263361093722" target="_blank">Trump praises Xi, says ‘wonderful things’ done during China summit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-15 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f912/live/1d0d4f60-4efd-11f1-85df-7fe19d922bf1.jpg" alt="&#x27;Don&#x27;t swim&#x27; warnings in place at nearly all of England&#x27;s official river bathing sites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Don&#x27;t swim&#x27; warnings in place at nearly all of England&#x27;s official river bathing sites</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 04:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a05f7ba777517f18b69ac48/master/pass/Best%20Griddles%20(update)%20top%20art%20052026%20SOURCE%20Home%20Depot.jpg" alt="The 5 Best Outdoor Griddles and Flat Top Grills (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-backyard-griddles-flat-top-grills/" target="_blank">The 5 Best Outdoor Griddles and Flat Top Grills (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 10:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a063a9b1d5880149b6572f1/master/pass/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg" alt="The Real Losers of the Musk v. Altman Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +162,47 @@
                 <span class="time">2026-05-14 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/" target="_blank">OpenAI says Codex is coming to your phone</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-14 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341808/fedora-ai-developer-desktop-stalled" target="_blank">Heavy Community Backlash Blocks Fedora&amp;#x27;s AI Developer Desktop Initiative</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-15 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Cloud-Hypervisor-52" target="_blank">Cloud Hypervisor 52 Now Supports Launching AMD SEV-SNP Confidential VMs With KVM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/ai-agents-kubernetes-rag/en/headerimage/generatedHeaderImage-1778830649459.jpg" alt="Benchmarking AI Agents on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Benchmarking AI Agents on Kubernetes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-15 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/" target="_blank">Observability and human intuition in an AI world</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-15 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/solidjs-2-async/en/headerimage/generatedHeaderImage-1778258271112.jpg" alt="SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,42 +219,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341706/testing-local-llms-without-gpu" target="_blank">Can You Run LLMs Locally Without a GPU? I Tested 8 Models on Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-15 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/" target="_blank">UK Government Kicks Out Palantir</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceljw9x0c10oriwvqk84.png" alt="Scaling WebSocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrbprakash06/scaling-websocket-1dfa" target="_blank">Scaling WebSocket</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-15 05:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-ssh-keysign-pwn" target="_blank">Linux&#x27;s Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ynwd/the-secret-of-the-small-database-why-big-technology-often-slows-you-down-150" target="_blank">The Secret of the Small Database: Why &quot;Big&quot; Technology Often Slows You Down</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-15 01:28</span>
             </div>
         </div>
 </div>
@@ -335,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:52 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 10:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
