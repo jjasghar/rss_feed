@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 01:33:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 03:01:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 01:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 03:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,12 +109,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a063a9b1d5880149b6572f1/master/pass/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg" alt="The Real Losers of the Musk v. Altman Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/musk-v-altman-trial-closing-arguments/" target="_blank">The Real Losers of the Musk v. Altman Trial</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 00:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/" target="_blank">What the jury will actually decide in the case of Elon Musk vs. Sam Altman</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-14 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx" target="_blank">Honda&amp;#8217;s hybrid future starts with new Accord and RDX prototypes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-14 22:46</span>
             </div>
         </div>
 <div class="story">
@@ -135,24 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/" target="_blank">OpenAI says Codex is coming to your phone</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-14 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2250305962-500x500.jpg" alt="Cell phone users can&#x27;t stop incriminating themselves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/" target="_blank">Cell phone users can&#x27;t stop incriminating themselves</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-14 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad" target="_blank">Microsoft starts canceling Claude Code licenses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-14 19:00</span>
             </div>
         </div>
 </div>
@@ -188,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-15-2026-red-hat" target="_blank">Friday Five — May 15, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnk7yf0t4sfbxjl3se9gx.jpg" alt="The Cruise Passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-2604-lts-upgrade-now-available" target="_blank">Ubuntu 26.04 LTS upgrade now open for Ubuntu 25.10 users</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-05-14 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Dynamic-EPP-Fallout" target="_blank">New AMD Dynamic EPP Feature Causing Some Problems With Linux 7.1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-14 22:46</span>
             </div>
         </div>
 </div>
@@ -242,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus: ‘You Have To Be Cutting The Baby In Half All The Time’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194" target="_blank">BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus: ‘You Have To Be Cutting The Baby In Half All The Time’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-14 22:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/controllers-1280x720.jpg" alt="Two New, Very Different Xbox Controllers Have Leaked Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +303,6 @@
                 <span class="time">2026-05-14 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H103N0G5GBZHX9N0YN45W/hero-image.jpg" alt="How to Actually Start Eating Healthy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-to-start-eating-healthy?utm_medium=RSS" target="_blank">How to Actually Start Eating Healthy</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-14 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,7 +332,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:34 UTC
+        🔄 Last Updated: 03:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
