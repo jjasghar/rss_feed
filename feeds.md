@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 12:31:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 13:31:03 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 12:31 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 13:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85aa/live/3c9e1750-5052-11f1-89a3-d1f559421220.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Xi conclude &#x27;very successful&#x27; talks but no deals confirmed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths" target="_blank">Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-15 11:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778843493697_tdy_news_7a_haake_welker_trump_china_summitt_260515_S3_1920x1080-wwad2p.jpg" alt="Trump Wraps China Summit With Xi Jinping: What Are the Results?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -85,29 +101,38 @@
                 <span class="time">2026-05-15 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss" target="_blank">Finland ends drone alert amid regional fears of Ukraine war spillover</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss" target="_blank">India hikes fuel prices as Iran crisis bites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation" target="_blank">X is fighting Andrew Tate’s attempt to unmask his critics</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-15 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/" target="_blank">Even GoPro is pivoting to defense</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a05dc700a5241122d1f7f77/master/pass/26-04-16-MOVEMENT-521_HR.jpg" alt="Gantri’s 3D-Printed Lamps Are Going Wireless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/" target="_blank">Gantri’s 3D-Printed Lamps Are Going Wireless</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +160,29 @@
                 <span class="time">2026-05-15 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem" target="_blank">AI research papers are getting better, and it’s a big problem for scientists</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a05f7ba777517f18b69ac48/master/pass/Best%20Griddles%20(update)%20top%20art%20052026%20SOURCE%20Home%20Depot.jpg" alt="The 5 Best Outdoor Griddles and Flat Top Grills (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-backyard-griddles-flat-top-grills/" target="_blank">The 5 Best Outdoor Griddles and Flat Top Grills (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a063a9b1d5880149b6572f1/master/pass/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg" alt="The Real Losers of the Musk v. Altman Trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/musk-v-altman-trial-closing-arguments/" target="_blank">The Real Losers of the Musk v. Altman Trial</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 00:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/zimacube-2" target="_blank">ZimaCube 2 Makes For A Nice Personal Cloud/NAS With Power Of Linux + Intel CPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18983646&w=600" alt="Designing Effective Meetings in Tech: From Time Wasters to Strategic Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-effective-meetings-in-tech-strategic" target="_blank">Designing Effective Meetings in Tech: From Time Wasters to Strategic Tools</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341808/fedora-ai-developer-desktop-stalled" target="_blank">Heavy Community Backlash Blocks Fedora&amp;#x27;s AI Developer Desktop Initiative</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-15 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Cloud-Hypervisor-52" target="_blank">Cloud Hypervisor 52 Now Supports Launching AMD SEV-SNP Confidential VMs With KVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/ai-agents-kubernetes-rag/en/headerimage/generatedHeaderImage-1778830649459.jpg" alt="Benchmarking AI Agents on Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Benchmarking AI Agents on Kubernetes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-15 10:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
