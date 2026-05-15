@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 21:20:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 22:16:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 21:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +114,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/" target="_blank">RJ Scaringe has raised more than $12B across three startups and investors still want more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/" target="_blank">RJ Scaringe has raised more than $12 billion across three startups and investors still want more</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-15 20:30</span>
@@ -150,15 +155,6 @@
                 <span class="time">2026-05-15 18:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/" target="_blank">Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +167,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs" target="_blank">Linux Kernel Adds Documentation For What Qualifies As A Security Bug, Responsible AI Use</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-15 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18969280&w=600" alt="Building an Image Classification Pipeline With Apache Camel and Deep Java Library (DJL)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/image-classification-pipeline-camel-djl" target="_blank">Building an Image Classification Pipeline With Apache Camel and Deep Java Library (DJL)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +214,6 @@
                 <span class="time">2026-05-15 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984683&w=600" alt="Observability in Spring Boot 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-in-spring-boot-4" target="_blank">Observability in Spring Boot 4</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-15-at-4.45.36-PM.jpg" alt="Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/donald-trump-video-game-satire-rpg-play-arcade-cabinet-2000696590" target="_blank">Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C.</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-15 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRAJJTQCP37CS32XXPT00SN0/hero-image.jpg" alt="10 Hacks Every Microsoft Teams User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2026-05-15 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/popeye.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="A choral group&#x27;s Popeye cover is bringing back Saturday mornings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/15/a-choral-groups-popeye-cover-is-bringing-back-saturday-mornings.html" target="_blank">A choral group&#x27;s Popeye cover is bringing back Saturday mornings</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-15 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:20 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
