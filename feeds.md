@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 11:36:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-15 12:31:13 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 11:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 12:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students" target="_blank">SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-15 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4109/live/013e27b0-5037-11f1-948b-c3db1a508f68.jpg" alt="UK borrowing costs rise and pound falls as leadership drama continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss" target="_blank">UK borrowing costs rise and pound falls as leadership drama continues</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 11:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5a/live/1af75870-5041-11f1-acce-79302838e29f.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-15 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778843493697_tdy_news_7a_haake_welker_trump_china_summitt_260515_S3_1920x1080-wwad2p.jpg" alt="Trump Wraps China Summit With Xi Jinping: What Are the Results?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-wraps-up-high-stakes-china-summit-with-unclear-results-263367237753" target="_blank">Trump Wraps China Summit With Xi Jinping: What Are the Results?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-15 11:11</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +103,47 @@
                 <span class="time">2026-05-15 10:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-3-rt-gmh-260515_1778814989399_hpMain_4x3t_384.jpg" alt="Trump says he and Chinese President Xi Jinping feel &#x27;very similar on Iran&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-set-hold-2nd-round-talks-ahead/story?id=132938291" target="_blank">Trump says he and Chinese President Xi Jinping feel &#x27;very similar on Iran&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24" target="_blank">Death toll in attack on Kyiv apartment building now stands at 24</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-15 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/7807af40-503e-11f1-b682-cf91850925ea.jpg" alt="Xi takes Trump on tour of Communist Party&#x27;s seat of power as China visit ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss" target="_blank">Xi takes Trump on tour of Communist Party&#x27;s seat of power as China visit ends</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 09:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/" target="_blank">Osaurus brings both local and cloud AI models to your Mac</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 12:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a05d5da5b4904f75ff9fb46/master/pass/Review%20Buzz%20Bicycles%20Centris%202%20Folding%20Ebike%20top%20art%20052026%20SOURCE%20Buzz%20Bicycles.jpg" alt="Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/buzz-bicycles-centris-2/" target="_blank">Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_1961-500x500.jpeg" alt="The perfect commuter bike? Velotric&#x27;s Discover 3 makes its case." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/" target="_blank">The perfect commuter bike? Velotric&#x27;s Discover 3 makes its case.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem" target="_blank">AI research papers are getting better, and it’s a big problem for scientists</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a05f7ba777517f18b69ac48/master/pass/Best%20Griddles%20(update)%20top%20art%20052026%20SOURCE%20Home%20Depot.jpg" alt="The 5 Best Outdoor Griddles and Flat Top Grills (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,42 +162,6 @@
                 <span class="time">2026-05-15 00:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/" target="_blank">What the jury will actually decide in the case of Elon Musk vs. Sam Altman</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-14 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx" target="_blank">Honda&amp;#8217;s hybrid future starts with new Accord and RDX prototypes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-14 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-500x500.jpg" alt="Men use &quot;vocal fry&quot; more than women, counter to stereotype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/" target="_blank">Men use &quot;vocal fry&quot; more than women, counter to stereotype</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-14 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a062f348cd08cd9ab872b72/master/pass/GettyImages-2274860238.jpg" alt="We Now Know How Many People the CDC Is Monitoring for Hantavirus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/" target="_blank">We Now Know How Many People the CDC Is Monitoring for Hantavirus</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rocky-Linux-Security-Repo" target="_blank">Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 12:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1" target="_blank">Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-15 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gazagnaire.org/blog/2026-05-14-borealis.html" target="_blank">O(x)Caml in Space</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 10:55</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Benchmarking AI Agents on Kubernetes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-15 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/finding-the-blind-spot-how-canonical-hunts-logic-flaws-with-ai" target="_blank">Finding the blind spot: How Canonical hunts logic flaws with AI</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-15 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://explorer.samismith.com/" target="_blank">Explore Wikipedia Like a Windows XP Desktop</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 08:45</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="13 Things To Know Before Playing Forza Horizon 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/13-things-to-know-before-playing-forza-horizon-6-xbox-guide-open-world-2000695715" target="_blank">13 Things To Know Before Playing Forza Horizon 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Exodus-1280x720.jpg" alt="BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus: ‘You Have To Be Cutting The Baby In Half All The Time’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +303,6 @@
                 <span class="time">2026-05-14 20:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRKZBWZQE66NVMKW9421DDJ8/hero-image.png" alt="The Hisense CanvasTV Is a Great Alternative to Samsung&#x27;s &#x27;The Frame,&#x27; and Now It&#x27;s $500 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-canvastv-deal-may-2026?utm_medium=RSS" target="_blank">The Hisense CanvasTV Is a Great Alternative to Samsung&#x27;s &#x27;The Frame,&#x27; and Now It&#x27;s $500 Off</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-14 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:36 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
