@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-14 23:15:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 00:21:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 14, 2026 - 23:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss" target="_blank">Iran war live: Trump’s visit to China shadowed by conflict with Tehran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778797582927_now_hallie_abortion_pill_ruling_260514_S3_1920x1080-4dzqew.jpg" alt="Supreme Court allows abortion pill to remain available by mail" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs" target="_blank">The 10 best songs competing at (a very contentious) Eurovision</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-14 21:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260507-mifepristone-vl-138p-d0b3a2.jpg" alt="Supreme Court allows abortion pill to remain available by mail nationwide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -79,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/marco-rubio-says-we-re-not-asking-for-china-s-help-with-iran-263338565717" target="_blank">Marco Rubio says &#x27;we&#x27;re not asking for China&#x27;s help&#x27; with Iran</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-14 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss" target="_blank">Cautious optimism in Lebanon as direct talks with Israel progress</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss" target="_blank">US Air Force rescues 11 after plane crashes into waters off Florida coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-14 19:16</span>
             </div>
         </div>
 </div>
@@ -164,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/misosoup/how-i-built-an-ai-that-replies-to-messages-in-my-voice-2cni" target="_blank">How I Built an AI That Replies to Messages in My Voice</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-15 00:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnk7yf0t4sfbxjl3se9gx.jpg" alt="The Cruise Passengers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-april-2026/" target="_blank">GitHub availability report: April 2026</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-14 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18946358&w=600" alt="The Network Attach Problem Nobody Warns You About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/network-attach-problem" target="_blank">The Network Attach Problem Nobody Warns You About</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-14 20:00</span>
             </div>
         </div>
 </div>
@@ -328,7 +324,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:15 UTC
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
