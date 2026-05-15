@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 16:31:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 17:29:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 16:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 17:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo_7249654.jpg?20260515163150" alt="New Ebola outbreak in Congo kills more than 60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395" target="_blank">New Ebola outbreak in Congo kills more than 60</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-15 15:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -88,20 +99,29 @@
                 <span class="time">2026-05-15 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/pressure-mounts-on-embattled-uk-pm-keir-starmer-as-rivals-circle?traffic_source=rss" target="_blank">Pressure mounts on embattled UK PM Keir Starmer as rivals circle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg" alt="Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-reorg-greg-brockman-product/" target="_blank">Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 17:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-500x500.jpg" alt="Making cement from a different type of rock could clean up emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/" target="_blank">Making cement from a different type of rock could clean up emissions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-15 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,20 @@
                 <span class="time">2026-05-15 14:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/" target="_blank">Runway started by helping filmmakers. Now it wants to beat Google at AI.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation" target="_blank">X is fighting Andrew Tate’s attempt to unmask his critics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-15 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984683&w=600" alt="Observability in Spring Boot 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-in-spring-boot-4" target="_blank">Observability in Spring Boot 4</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984666&w=600" alt="The Agent Protocol Stack: MCP vs. A2A vs. AG-UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/anthropic-routines-claude/en/headerimage/generatedHeaderImage-1778774115333.jpg" alt="Anthropic Introduces Routines for Claude Code Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/anthropic-routines-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Routines for Claude Code Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-15 15:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/05/cloudflare-workflows-v2-release/en/headerimage/generatedHeaderImage-1777438019188.jpg" alt="Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/" target="_blank">Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://projectzero.google/2026/05/pixel-10-exploit.html" target="_blank">A 0-click exploit chain for the Pixel 10</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://turso.tech/blog/the-wonders-of-ai" target="_blank">The Wonders of AI: We Are Retiring Our Bug Bounty Program</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 13:33</span>
             </div>
         </div>
 </div>
@@ -241,6 +243,15 @@
                 <span class="title"><a href="https://kotaku.com/horizon-forbidden-west-composer-says-using-ai-for-creative-art-feels-fcking-insane-2000696519" target="_blank">Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-15 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRP4KW3RKQEA0WVAX5V31JCM/hero-image.jpg" alt="Apple Just Expanded This Privacy Feature to More iPhones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-expanded-privacy-feature-more-iphones?utm_medium=RSS" target="_blank">Apple Just Expanded This Privacy Feature to More iPhones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-15 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -279,15 +290,6 @@
                 <span class="time">2026-05-14 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/controllers-1280x720.jpg" alt="Two New, Very Different Xbox Controllers Have Leaked Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/two-new-very-different-xbox-controllers-have-leaked-online-2000696180" target="_blank">Two New, Very Different Xbox Controllers Have Leaked Online</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 39 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
