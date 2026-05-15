@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 22:16:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-15 23:16:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 22:16 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 23:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-251205_1764955759412_hpMain_4x3t_384.jpg" alt="Supreme Court US Supreme Court denies Va. Dems&#x27; request on redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-supreme-court-denies-virginia-democrats-request-override/story?id=133019449" target="_blank">Supreme Court US Supreme Court denies Va. Dems&#x27; request on redistricting plan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 23:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting" target="_blank">Supreme Court is death knell for Virginia&#x27;s Democratic-friendly congressional maps</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-15 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260421-virginia-redistricting-mn-1530-46075f.jpg" alt="Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/justices-reject-virginia-democrats-attempt-revive-congressional-map-rcna344799" target="_blank">Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-15 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +102,20 @@
                 <span class="time">2026-05-15 18:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian" target="_blank">The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-15 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8682/live/c678dde0-507d-11f1-b637-39d6d94b351f.jpg" alt="Burnham cleared to run for selection in pivotal by-election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss" target="_blank">Burnham cleared to run for selection in pivotal by-election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump warns Taiwan against declaring independence, hours after summit with China&#x27;s Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Taiwan against declaring independence, hours after summit with China&#x27;s Xi</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps" target="_blank">Xbox is now XBOX</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-15 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg" alt="The Best Outdoor Deals From the REI Anniversary Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +161,29 @@
                 <span class="time">2026-05-15 18:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle" target="_blank">OpenAI keeps shuffling its executives in bid to win AI agent battle</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-15 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f" target="_blank">Designing REST APIs That Developers Love</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-15 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.9-Released" target="_blank">Wine 11.9 Released With Wayland Pointer Warp, Initial Support For System Threads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +220,6 @@
                 <span class="time">2026-05-15 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-R-Linux" target="_blank">Linux Patch Introduces Panther Lake R: Ruggedized Version Of Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984726&w=600" alt="The Hidden Bottlenecks That Break Microservices in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/microservices-hidden-bottlenecks" target="_blank">The Hidden Bottlenecks That Break Microservices in Production</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-15 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +246,15 @@
                 <span class="title"><a href="https://kotaku.com/donald-trump-video-game-satire-rpg-play-arcade-cabinet-2000696590" target="_blank">Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C.</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="One of the most popular microlearning apps finally added fiction books, and it&#x27;s only $60 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/15/one-of-the-most-popular-microlearning-apps-finally-added-fiction-books-and-its-only-60-for-life.html" target="_blank">One of the most popular microlearning apps finally added fiction books, and it&#x27;s only $60 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-15 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/15/ted-turners-secret-newsroom-lair-looks-like-the-saddest-airport-lounge-ever.html" target="_blank">Ted Turner&#x27;s secret newsroom lair looks like the saddest airport lounge ever</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-15 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/PS5-Players.jpg" alt="PS5 Will Now Tell You Exactly How Many People Are Playing GTA 5 As Sony Debuts A New Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556" target="_blank">PS5 Will Now Tell You Exactly How Many People Are Playing GTA 5 As Sony Debuts A New Ranking</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-15 17:59</span>
             </div>
         </div>
 </div>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
