@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 13:31:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 14:45:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 13:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 14:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/pressure-mounts-on-embattled-uk-pm-keir-starmer-as-rivals-circle?traffic_source=rss" target="_blank">Pressure mounts on embattled UK PM Keir Starmer as rivals circle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85aa/live/3c9e1750-5052-11f1-89a3-d1f559421220.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals confirmed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,38 @@
                 <span class="time">2026-05-15 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1778843493697_tdy_news_7a_haake_welker_trump_china_summitt_260515_S3_1920x1080-wwad2p.jpg" alt="Trump Wraps China Summit With Xi Jinping: What Are the Results?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-wraps-up-high-stakes-china-summit-with-unclear-results-263367237753" target="_blank">Trump Wraps China Summit With Xi Jinping: What Are the Results?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-15 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-memorial-day-deals-2026/" target="_blank">Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-500x500.jpg" alt="Rocket Report: Cowboy up for data centers in LEO; Russia&#x27;s new ICBM actually works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/" target="_blank">Rocket Report: Cowboy up for data centers in LEO; Russia&#x27;s new ICBM actually works</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-15 14:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/" target="_blank">Runway started by helping filmmakers. Now it wants to beat Google at AI.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +159,38 @@
                 <span class="time">2026-05-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/" target="_blank">Osaurus brings both local and cloud AI models to your Mac</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a05d5da5b4904f75ff9fb46/master/pass/Review%20Buzz%20Bicycles%20Centris%202%20Folding%20Ebike%20top%20art%20052026%20SOURCE%20Buzz%20Bicycles.jpg" alt="Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/buzz-bicycles-centris-2/" target="_blank">Centris 2 Folding Ebike Review: Compact, Sturdy, Budget-Friendly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_1961-500x500.jpeg" alt="The perfect commuter bike? Velotric&#x27;s Discover 3 makes its case." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/" target="_blank">The perfect commuter bike? Velotric&#x27;s Discover 3 makes its case.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-15 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/" target="_blank">No Dumb Questions: What is cloud computing and why is everyone doing it?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/" target="_blank">Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://turso.tech/blog/the-wonders-of-ai" target="_blank">The Wonders of AI: We Are Retiring Our Bug Bounty Program</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rocky-Linux-Security-Repo" target="_blank">Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-15 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1" target="_blank">Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gazagnaire.org/blog/2026-05-14-borealis.html" target="_blank">O(x)Caml in Space</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17341808/fedora-ai-developer-desktop-stalled" target="_blank">Heavy Community Backlash Blocks Fedora&amp;#x27;s AI Developer Desktop Initiative</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-15 10:34</span>
             </div>
         </div>
 </div>
@@ -247,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQXYEDQT5EMDS58YRY60R48Z/hero-image.jpg" alt="10 Hacks Every Apple Mail User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-mail-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Mail User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-15 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/01/ss_17b0e8d6a90e174e45f4c7438167d-1280x720.jpg" alt="13 Things To Know Before Playing Forza Horizon 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +300,6 @@
                 <span class="time">2026-05-14 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/03/marathon-terminals-1280x720.jpg" alt="Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161" target="_blank">Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-14 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
