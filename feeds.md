@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 20:23:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 21:20:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 20:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 21:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump" target="_blank">Colorado&#x27;s Democratic governor will let Trump ally Tina Peters out of prison early</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-15 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/israel-lebanon-ht-gmh-260515_1778871198509_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel-Lebanon ceasefire extended for 45 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +100,29 @@
                 <span class="time">2026-05-15 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-china-23-gty-gmh-260515_1778848335847_hpMain_4x3t_384.jpg" alt="Trump-Xi summit Day 2 takeaways: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/trump-xi-summit-day-2-takeaways-analysis/story?id=133001947" target="_blank">Trump-Xi summit Day 2 takeaways: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg" alt="The Best Outdoor Deals From the REI Anniversary Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-anniversary-sale-2026/" target="_blank">The Best Outdoor Deals From the REI Anniversary Sale 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/" target="_blank">RJ Scaringe has raised more than $12 billion across three startups and investors still want more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +159,20 @@
                 <span class="time">2026-05-15 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a04fdfc7cb32425fb0e71cc/master/pass/Spencer-Pratt-Reviving-Super-Meth-Trope-Culture-2258667345.jpg" alt="Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/" target="_blank">Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg" alt="Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-reorg-greg-brockman-product/" target="_blank">Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs" target="_blank">Linux Kernel Adds Documentation For What Qualifies As A Security Bug, Responsible AI Use</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-15 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +218,6 @@
                 <span class="time">2026-05-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg – keeps getting better</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 16:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRAJJTQCP37CS32XXPT00SN0/hero-image.jpg" alt="10 Hacks Every Microsoft Teams User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-microsoft-teams-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Microsoft Teams User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-15 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRPG8SVY18NH5HDWA9MKC65V/hero-image.jpg" alt="Chatbots May Be Giving Out Your Phone Number" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +291,6 @@
                 <span class="time">2026-05-15 17:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-79.jpg" alt="Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/horizon-forbidden-west-composer-says-using-ai-for-creative-art-feels-fcking-insane-2000696519" target="_blank">Horizon Forbidden West Composer Says Using AI For Creative Art Feels ‘F*cking Insane’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-15 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
