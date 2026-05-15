@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 14:45:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-15 15:38:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 14:46 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 15:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/3b5014b0-506c-11f1-b25f-935f2b5ef09e.jpg" alt="Teenager&#x27;s family &#x27;heartbroken&#x27; by meningitis death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&at_campaign=rss" target="_blank">Teenager&#x27;s family &#x27;heartbroken&#x27; by meningitis death</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 15:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/dr-steve-kornfeld-ht-jt-260509_1778364213931_hpMain_4x3t_384.jpg" alt="Doctor from cruise ship who initially tested positive for hantavirus speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/american-doctor-initially-tested-positive-testing-shows-evidence/story?id=132996595" target="_blank">Doctor from cruise ship who initially tested positive for hantavirus speaks out</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 15:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss" target="_blank">Trump says he discussed Taiwan arms sale with China’s Xi Jinping</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists" target="_blank">Mali’s forces target rebel alliance in junta’s fight to keep power</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-15 14:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,47 +104,20 @@
                 <span class="time">2026-05-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students" target="_blank">SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-15 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4109/live/013e27b0-5037-11f1-948b-c3db1a508f68.jpg" alt="UK borrowing costs rise and pound falls as leadership drama continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss" target="_blank">UK borrowing costs rise and pound falls as leadership drama continues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5a/live/1af75870-5041-11f1-acce-79302838e29f.jpg" alt="Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Xi conclude &#x27;very successful&#x27; talks but no deals announced</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-15 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths" target="_blank">Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-15 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a04fd3b34992d430cd2f12d/master/pass/Backchannel-Employee-Benefits-Are-in-Bigger-Trouble-Than-You-Think-Business-83077313jpg.jpg" alt="Companies Keep Slashing Employees’ Benefits for the Worst Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/" target="_blank">Companies Keep Slashing Employees’ Benefits for the Worst Reasons</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +163,6 @@
                 <span class="time">2026-05-15 13:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a05dc700a5241122d1f7f77/master/pass/26-04-16-MOVEMENT-521_HR.jpg" alt="Gantri’s 3D-Printed Lamps Are Going Wireless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/" target="_blank">Gantri’s 3D-Printed Lamps Are Going Wireless</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +175,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/" target="_blank">No Dumb Questions: What is cloud computing and why is everyone doing it?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-05-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/cloudflare-workflows-v2-release/en/headerimage/generatedHeaderImage-1777438019188.jpg" alt="Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-15 14:04</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/designing-effective-meetings-in-tech-strategic" target="_blank">Designing Effective Meetings in Tech: From Time Wasters to Strategic Tools</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rocky-Linux-Security-Repo" target="_blank">Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 12:15</span>
             </div>
         </div>
 </div>
@@ -292,12 +296,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/shutterstock_2519492239.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Israel&#x27;s response to rape allegations: threaten the newspaper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?fit=1200%2C1500&amp;quality=60&amp;ssl=1" alt="Instead of paying $20/month for Microsoft 365, why not get Microsoft Office for life for $17" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/14/israels-response-to-rape-allegations-threaten-the-newspaper.html" target="_blank">Israel&#x27;s response to rape allegations: threaten the newspaper</a></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/14/instead-of-paying-20-month-for-microsoft-365-why-not-get-microsoft-office-for-life-for-17.html" target="_blank">Instead of paying $20/month for Microsoft 365, why not get Microsoft Office for life for $17</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-14 20:43</span>
+                <span class="time">2026-05-14 21:00</span>
             </div>
         </div>
 </div>
@@ -305,6 +309,15 @@
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778650911-20260515.png" alt="Saturday Morning Breakfast Cereal - Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bot-3" target="_blank">Saturday Morning Breakfast Cereal - Bot</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-15 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,22 +336,13 @@
                 <span class="time">2026-05-14 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1778697043-20260514_edit.png" alt="Saturday Morning Breakfast Cereal - Hierarchy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hierarchy" target="_blank">Saturday Morning Breakfast Cereal - Hierarchy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:46 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
