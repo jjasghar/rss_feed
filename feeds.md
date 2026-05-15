@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 18:28:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-15 19:29:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 18:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 15, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/israel-lebanon-ht-gmh-260515_1778871198509_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel-Lebanon ceasefire extended for 45 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Israel-Lebanon ceasefire extended for 45 days</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-15 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free?traffic_source=rss" target="_blank">WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-15 18:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian" target="_blank">The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-15 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump warns Taiwan against declaring independence, hours after summit with China&#x27;s Xi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns Taiwan against declaring independence, hours after summit with China&#x27;s Xi</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-15 17:50</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +103,29 @@
                 <span class="time">2026-05-15 15:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/dr-steve-kornfeld-ht-jt-260509_1778364213931_hpMain_4x3t_384.jpg" alt="Doctor from cruise ship who initially tested positive for hantavirus speaks out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/american-doctor-initially-tested-positive-testing-shows-evidence/story?id=132996595" target="_blank">Doctor from cruise ship who initially tested positive for hantavirus speaks out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo_7249654.jpg?20260515163150" alt="New Ebola outbreak in Congo kills more than 60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/new-ebola-outbreak-in-congo-kills-65-13544395" target="_blank">New Ebola outbreak in Congo kills more than 60</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-15 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss" target="_blank">Trump says he discussed Taiwan arms sale with China’s Xi Jinping</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/" target="_blank">A hotel check-in system left a million passports and driver’s licenses open for anyone to see</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-15 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state" target="_blank">The Analogue 3D is finally getting save states</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-15 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,6 +145,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a04fdfc7cb32425fb0e71cc/master/pass/Spencer-Pratt-Reviving-Super-Meth-Trope-Culture-2258667345.jpg" alt="Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spencer-pratt-is-creating-panic-over-super-meth-the-drug-trope-that-wont-die/" target="_blank">Spencer Pratt Is Creating Panic Over ‘Super Meth.’ It’s Not Even Real</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-15 17:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg" alt="Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -132,38 +162,29 @@
                 <span class="time">2026-05-15 17:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-500x500.jpg" alt="Making cement from a different type of rock could clean up emissions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/" target="_blank">Making cement from a different type of rock could clean up emissions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-15 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/" target="_blank">OpenAI launches ChatGPT for personal finance, will let you connect bank accounts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a04fd3b34992d430cd2f12d/master/pass/Backchannel-Employee-Benefits-Are-in-Bigger-Trouble-Than-You-Think-Business-83077313jpg.jpg" alt="Companies Keep Slashing Employees’ Benefits for the Worst Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/" target="_blank">Companies Keep Slashing Employees’ Benefits for the Worst Reasons</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/richardwrobinson/when-google-can-read-javascript-now-isnt-enough-a-teardown-of-a-react-spa-marketing-site-in-2026-1a5m" target="_blank">When &#x27;Google can read JavaScript now&#x27; isn&#x27;t enough: a teardown of a React SPA marketing site in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-15 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984740&w=600" alt="Why Pass/Fail CI Pipelines Are Insufficient for Enterprise Release Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ci-pass-fail-insufficient-enterprise-releases" target="_blank">Why Pass/Fail CI Pipelines Are Insufficient for Enterprise Release Decisions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984726&w=600" alt="The Hidden Bottlenecks That Break Microservices in Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/" target="_blank">Building a general-purpose accessibility agent—and what we learned in the process</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984666&w=600" alt="The Agent Protocol Stack: MCP vs. A2A vs. AG-UI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/mcp-vs-a2a-vs-agui" target="_blank">The Agent Protocol Stack: MCP vs. A2A vs. AG-UI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-15 16:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg – keeps getting better</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 16:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/" target="_blank">No Dumb Questions: What is cloud computing and why is everyone doing it?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/" target="_blank">Building a general-purpose accessibility agent—and what we learned in the process</a></span>
+                <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/anthropic-routines-claude/en/headerimage/generatedHeaderImage-1778774115333.jpg" alt="Anthropic Introduces Routines for Claude Code Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/anthropic-routines-claude/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces Routines for Claude Code Automation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-15 15:51</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/The-House-of-The-Dead-2-Remake-official-image-Forever-Entertainment-1280x720.jpg" alt="Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/director-infamous-for-terrible-video-game-movies-announces-unofficial-sequel-to-house-of-the-dead-23-years-later-2000696506" target="_blank">Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-15 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2312427865-e1772212434907.jpg?fit=768%2C586&amp;quality=60&amp;ssl=1" alt="Ted Turner&#x27;s secret newsroom lair looks like the saddest airport lounge ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/15/ted-turners-secret-newsroom-lair-looks-like-the-saddest-airport-lounge-ever.html" target="_blank">Ted Turner&#x27;s secret newsroom lair looks like the saddest airport lounge ever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-15 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/PS5-Players.jpg" alt="PS5 Will Now Tell You Exactly How Many People Are Playing GTA 5 As Sony Debuts A New Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +294,6 @@
                 <span class="time">2026-05-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/12/scam-call.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="What does it look like inside a scam call center?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/15/what-does-it-look-like-inside-a-scam-call-center.html" target="_blank">What does it look like inside a scam call center?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-15 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KQXYEDQT5EMDS58YRY60R48Z/hero-image.jpg" alt="10 Hacks Every Apple Mail User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-apple-mail-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Apple Mail User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-15 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
