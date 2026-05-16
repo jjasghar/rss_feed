@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 20:13:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 21:14:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 20:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 21:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/cuba-cooking-gty-jt-260515_1778867181201_hpMain_4x3t_384.jpg" alt="Cuba grid collapse: The situation is growing more dire, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/cuba-grid-collapse-situation-growing-dire-experts/story?id=133001706" target="_blank">Cuba grid collapse: The situation is growing more dire, experts say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-16 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark" target="_blank">Timmy the humpback whale found dead off Danish coast</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-16 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss" target="_blank">Tens of thousands march in London in far-right and pro-Palestine protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 13:59</span>
             </div>
         </div>
 </div>
@@ -161,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://assets.dev.to/assets/wikipedia-logo-0a3e76624c7b1c3ccdeb9493ea4add6ef5bd82d7e88d102d5ddfd7c981efa2e7.svg" alt="I see Dead Internet Theory playing out in real-time on DEV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6" target="_blank">I see Dead Internet Theory playing out in real-time on DEV</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-51-Resources-Possible" target="_blank">GNOME 51 Could End Up Replacing System Tools With &quot;Resources&quot; App</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-16 20:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnudl3iep4szs6b3gdcdg.webp" alt="Stop letting npm install run untrusted code on your machine — meet np-audit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh" target="_blank">What Years of WordPress Development Taught Me About Modern Frontend Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-16 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nvlabs.github.io/Sana/WM/" target="_blank">SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-16 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Marek-Joins-Valve" target="_blank">Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-16 11:03</span>
             </div>
         </div>
 </div>
@@ -278,22 +280,13 @@
                 <span class="time">2026-05-15 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="One of the most popular microlearning apps finally added fiction books, and it&#x27;s only $60 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/15/one-of-the-most-popular-microlearning-apps-finally-added-fiction-books-and-its-only-60-for-life.html" target="_blank">One of the most popular microlearning apps finally added fiction books, and it&#x27;s only $60 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-15 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:13 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
