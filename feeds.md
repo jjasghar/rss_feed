@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 08:31:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 09:29:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 08:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 09:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-cassidy-Letlow-Fleming-vsb-2121-254a88.jpg" alt="Sen. Bill Cassidy faces a primary for the first time since his Trump impeachment vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/sen-bill-cassidy-faces-louisiana-republican-primary-first-time-trump-i-rcna344476" target="_blank">Sen. Bill Cassidy faces a primary for the first time since his Trump impeachment vote</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg" alt="Senior IS leader killed by US and Nigerian forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +104,20 @@
                 <span class="time">2026-05-16 04:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jimmy-lai-court-of-final-appeal_7159679.jpg?20260209002717" alt="Trump says freeing activist Jimmy Lai jailed in China is &#x27;tough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-freeing-activist-jimmy-lai-jailed-in-china-is-tough-13544545" target="_blank">Trump says freeing activist Jimmy Lai jailed in China is &#x27;tough&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-16 01:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a05e911665d59959599f85b/master/pass/2232599685" alt="Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/" target="_blank">Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Sportsman&#x27;s Warehouse Promo Code: Save in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +163,20 @@
                 <span class="time">2026-05-15 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/" target="_blank">RJ Scaringe has raised more than $12 billion across three startups and investors still want more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/en/headerimage/generatedHeaderImage-1777383901225.jpg" alt="Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-16 08:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd" target="_blank">I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-16 07:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kabir.au/blog/the-ctf-scene-is-dead" target="_blank">Frontier AI has broken the open CTF format</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-16 07:01</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/ROCm-7.13-Released" target="_blank">AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-16 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ricardobucho/origami-a-workspace-oriented-terminal-37gc" target="_blank">Origami - a workspace-oriented terminal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.erlang.org/news/188" target="_blank">Erlang/OTP 29.0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-15 23:33</span>
             </div>
         </div>
 </div>
@@ -324,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 08:31 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
