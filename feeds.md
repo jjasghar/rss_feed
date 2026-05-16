@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 05:58:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 06:58:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 05:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 06:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +48,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss" target="_blank">Trump says ISIL second-in-command Abu-Bilal al-Minuki killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 06:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna" target="_blank">The Eurovision Song Contest reaches its grand final with pop and protests</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-16 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says" target="_blank">Trump says Islamic State ‘second in command’ killed by US and Nigerian forces</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-16 04:56</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/us-supreme-court-denies-virginia-democrats-request-override/story?id=133019449" target="_blank">Supreme Court US Supreme Court denies Va. Dems&#x27; request on redistricting plan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-15 23:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting" target="_blank">Supreme Court is death knell for Virginia&#x27;s Democratic-friendly congressional maps</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-15 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260421-virginia-redistricting-mn-1530-46075f.jpg" alt="Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/justices-reject-virginia-democrats-attempt-revive-congressional-map-rcna344799" target="_blank">Supreme Court rejects Virginia Democrats’ attempt to revive new congressional map</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-15 22:41</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 05:58 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 06:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
