@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 21:14:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 22:13:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 21:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 22:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss" target="_blank">Two presidential campaign staffers killed in Colombia as elections near</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/cuba-cooking-gty-jt-260515_1778867181201_hpMain_4x3t_384.jpg" alt="Cuba grid collapse: The situation is growing more dire, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +108,20 @@
                 <span class="time">2026-05-16 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark" target="_blank">Timmy the humpback whale found dead off Danish coast</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/" target="_blank">The haves and have nots of the AI gold rush</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-16 20:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +165,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant" target="_blank">Sony tries to explain that its AI Camera Assistant doesn’t suck</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-16 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire" target="_blank">NPR’s Manoush Zomorodi talks about living with too much tech</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-16 15:00</span>
             </div>
         </div>
 </div>
@@ -210,10 +220,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh" target="_blank">What Years of WordPress Development Taught Me About Modern Frontend Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 13:18</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574" target="_blank">Kioxia and Dell cram 10 PB into slim 2RU server</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-16 17:12</span>
             </div>
         </div>
 </div>
@@ -262,31 +272,13 @@
                 <span class="time">2026-05-16 14:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-15-at-4.45.36-PM.jpg" alt="Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/donald-trump-video-game-satire-rpg-play-arcade-cabinet-2000696590" target="_blank">Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C.</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-15 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-15 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:14 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 22:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
