@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 12:15:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-16 13:28:37 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 12:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/dbe3b2f0-5112-11f1-b682-cf91850925ea.jpg" alt="Tens of thousands descend on London for rival protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands descend on London for rival protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-16 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss" target="_blank">Zimbabwe’s diaspora reshapes real estate and farming investment trends</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump" target="_blank">This Republican voted to convict Trump. Now he&#x27;s up for reelection. Can he survive?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-16 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg" alt="Senior IS leader killed in joint operation, US and Nigeria say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss" target="_blank">Senior IS leader killed in joint operation, US and Nigeria say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-16 11:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -57,42 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka" target="_blank">Elephants eat their crops. Farmers strike back. It&#x27;s a war that&#x27;s only getting worse</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-16 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260515_1778859506169_hpMain_4x3t_384.jpg" alt="DOJ to create &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trump-administration-create-1776b-truth-justice-commission-compensate/story?id=133005480" target="_blank">DOJ to create &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-16 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck" target="_blank">The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss" target="_blank">Israeli settler blindfolds and detains Palestinian in occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260515_1778859506169_hpMain_4x3t_384.jpg" alt="DOJ to create $1.776B &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trump-administration-create-1776b-truth-justice-commission-compensate/story?id=133005480" target="_blank">DOJ to create $1.776B &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-16 09:15</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh" target="_blank">What Years of WordPress Development Taught Me About Modern Frontend Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-Marek-Joins-Valve" target="_blank">Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd" target="_blank">I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-16 07:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kabir.au/blog/the-ctf-scene-is-dead" target="_blank">Frontier AI has broken the open CTF format</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-16 07:01</span>
             </div>
         </div>
 </div>
@@ -314,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
