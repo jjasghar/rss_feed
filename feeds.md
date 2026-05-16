@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 14:25:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-16 15:19:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 14:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 15:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +105,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire" target="_blank">NPR’s Manoush Zomorodi talks about living with too much tech</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on" target="_blank">Turtle Beach made a good SteelSeries headset clone that’s $50 less</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-16 14:00</span>
@@ -149,15 +155,6 @@
                 <span class="time">2026-05-16 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Sportsman&#x27;s Warehouse Promo Code: Save in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sportsmans-warehouse-promo-code/" target="_blank">Sportsman&#x27;s Warehouse Promo Code: Save in May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-16 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh" target="_blank">What Years of WordPress Development Taught Me About Modern Frontend Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-16 13:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nvlabs.github.io/Sana/WM/" target="_blank">SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-16 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +214,6 @@
                 <span class="time">2026-05-16 08:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd" target="_blank">I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 07:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/SanDisk-Extreme-USB-3.2-Portable-SSD-2TB.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Capture as many pictures as you want with this 2TB SanDisk Extreme Portable SSD for just $270" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/16/capture-as-many-pictures-as-you-want-with-this-2tb-sandisk-extreme-portable-ssd-for-just-270.html" target="_blank">Capture as many pictures as you want with this 2TB SanDisk Extreme Portable SSD for just $270</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-16 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="The Internet Reacts To Xbox Trying To Rebrand As XBOX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2026-05-15 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRPG8SVY18NH5HDWA9MKC65V/hero-image.jpg" alt="Chatbots May Be Giving Out Your Phone Number" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chatbots-may-be-giving-out-your-phone-number?utm_medium=RSS" target="_blank">Chatbots May Be Giving Out Your Phone Number</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-15 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
