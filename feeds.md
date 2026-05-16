@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 19:23:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-16 20:13:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 19:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 20:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss" target="_blank">Can new Pakistan-Afghanistan tensions lead to another border clash?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451e/live/50c85140-5143-11f1-b682-cf91850925ea.jpg" alt="Tens of thousands join rival marches in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands join rival marches in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-16 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +96,20 @@
                 <span class="time">2026-05-16 13:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/dbe3b2f0-5112-11f1-b682-cf91850925ea.jpg" alt="Tens of thousands descend on London for rival protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands descend on London for rival protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-16 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss" target="_blank">Zimbabwe’s diaspora reshapes real estate and farming investment trends</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/" target="_blank">Marketing operating system Nectar Social raises $30M Series A led by Menlo</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-16 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +155,29 @@
                 <span class="time">2026-05-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on" target="_blank">Turtle Beach made a good SteelSeries headset clone that’s $50 less</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnudl3iep4szs6b3gdcdg.webp" alt="Stop letting npm install run untrusted code on your machine — meet np-audit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koblers/stop-letting-npm-install-run-untrusted-code-on-your-machine-meet-np-audit-3kj4" target="_blank">Stop letting npm install run untrusted code on your machine — meet np-audit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/ubuntu-on-device-ai/en/headerimage/ubuntu-on-device-ai-1778958515321.jpeg" alt="Ubuntu Embraces Local AI Instead of Cloud-First OS Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ubuntu Embraces Local AI Instead of Cloud-First OS Integration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +214,6 @@
                 <span class="time">2026-05-16 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2atys2d74myp9xrt9ux3.png" alt="How AI Can Help You Recover Your Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/auyeungdavid_2847435260/how-ai-can-help-you-recover-your-bitcoin-1j1c" target="_blank">How AI Can Help You Recover Your Bitcoin</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2605.12357" target="_blank">Δ-Mem: Efficient Online Memory for Large Language Models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-16 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/gundam.jpg" alt="Forza Horizon 6 Lets You Race A Gundam And It Looks Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forza-horizon-6-pits-your-acura-against-a-giant-mech-2000696781" target="_blank">Forza Horizon 6 Lets You Race A Gundam And It Looks Awesome</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-16 18:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/SanDisk-Extreme-USB-3.2-Portable-SSD-2TB.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Capture as many pictures as you want with this 2TB SanDisk Extreme Portable SSD for just $270" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,22 +287,13 @@
                 <span class="time">2026-05-15 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRAJJTQCP37CS32XXPT00SN0/hero-image.jpg" alt="10 Hacks Every Microsoft Teams User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-microsoft-teams-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Microsoft Teams User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-15 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 19:23 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
