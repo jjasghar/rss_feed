@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 11:20:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 12:15:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 11:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 12:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss" target="_blank">Israel’s Image Crisis: Becoming Too Big to Spin?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka" target="_blank">Elephants eat their crops. Farmers strike back. It&#x27;s a war that&#x27;s only getting worse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-16 11:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260515_1778859506169_hpMain_4x3t_384.jpg" alt="DOJ to create &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +95,20 @@
                 <span class="time">2026-05-16 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-cassidy-Letlow-Fleming-vsb-2121-254a88.jpg" alt="Sen. Bill Cassidy faces a primary for the first time since his Trump impeachment vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/sen-bill-cassidy-faces-louisiana-republican-primary-first-time-trump-i-rcna344476" target="_blank">Sen. Bill Cassidy faces a primary for the first time since his Trump impeachment vote</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg" alt="Senior IS leader killed by US and Nigerian forces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss" target="_blank">Senior IS leader killed by US and Nigerian forces</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-16 08:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc" target="_blank">Mixtape is a musical portrait of teenage life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a079d3343055fabd16c1020/master/pass/Old-Oil-Gas-Wells-Could-Find-Second-Life-Science-1088012650.jpg" alt="Old Oil and Gas Wells Could Find Second Life Producing Clean Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +152,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/" target="_blank">Russia pressures university students to become wartime drone pilots</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-15 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg" alt="The Best Outdoor Deals From the REI Anniversary Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-anniversary-sale-2026/" target="_blank">The Best Outdoor Deals From the REI Anniversary Sale 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-15 20:57</span>
             </div>
         </div>
 </div>
@@ -321,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 11:20 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
