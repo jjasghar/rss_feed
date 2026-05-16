@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 10:24:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-16 11:20:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 10:25 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 11:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260515_1778859506169_hpMain_4x3t_384.jpg" alt="DOJ to create &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trump-administration-create-1776b-truth-justice-commission-compensate/story?id=133005480" target="_blank">DOJ to create &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-16 10:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +102,20 @@
                 <span class="time">2026-05-16 08:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss" target="_blank">Man killed in great white shark attack in western Australia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 07:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a079d3343055fabd16c1020/master/pass/Old-Oil-Gas-Wells-Could-Find-Second-Life-Science-1088012650.jpg" alt="Old Oil and Gas Wells Could Find Second Life Producing Clean Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/oil-wells-second-life-clean-energy/" target="_blank">Old Oil and Gas Wells Could Find Second Life Producing Clean Energy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a05e911665d59959599f85b/master/pass/2232599685" alt="Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +161,20 @@
                 <span class="time">2026-05-15 20:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/" target="_blank">RJ Scaringe has raised more than $12B across three startups and investors still want more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Marek-Joins-Valve" target="_blank">Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-16 11:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2atys2d74myp9xrt9ux3.png" alt="How AI Can Help You Recover Your Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2026-05-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zonayedpca/static-export-but-for-apis-why-i-built-statikapi-i34" target="_blank">Static Export, but for APIs: Why I Built StatikAPI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 05:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +232,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html" target="_blank">Friday Squid Blogging: Bigfin Squid</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2026-05-16 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html" target="_blank">Bypassing On-Camera Age-Verification Checks</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-15 11:06</span>
             </div>
         </div>
 </div>
@@ -329,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 10:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 11:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
