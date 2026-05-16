@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 00:19:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 01:31:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-251205_1764955759412_hpMain_4x3t_384.jpg" alt="US Supreme Court denies Va. Dems&#x27; request on redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/us-supreme-court-denies-virginia-democrats-request-override/story?id=133019449" target="_blank">US Supreme Court denies Va. Dems&#x27; request on redistricting plan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-16 00:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-251205_1764955759412_hpMain_4x3t_384.jpg" alt="Supreme Court US Supreme Court denies Va. Dems&#x27; request on redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +103,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Israel-Lebanon ceasefire extended for 45 days</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-15 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free?traffic_source=rss" target="_blank">WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-15 18:49</span>
             </div>
         </div>
 </div>
@@ -177,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.erlang.org/news/188" target="_blank">Erlang/OTP 29.0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-15 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f" target="_blank">Designing REST APIs That Developers Love</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +221,6 @@
                 <span class="title"><a href="https://dzone.com/articles/image-classification-pipeline-camel-djl" target="_blank">Building an Image Classification Pipeline With Apache Camel and Deep Java Library (DJL)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/richardwrobinson/when-google-can-read-javascript-now-isnt-enough-a-teardown-of-a-react-spa-marketing-site-in-2026-1a5m" target="_blank">When &#x27;Google can read JavaScript now&#x27; isn&#x27;t enough: a teardown of a React SPA marketing site in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-15 19:20</span>
             </div>
         </div>
 </div>
@@ -324,13 +328,22 @@
                 <span class="time">2026-05-15 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/speedrun.png" alt="Speedrun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3246/" target="_blank">Speedrun</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-15 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
