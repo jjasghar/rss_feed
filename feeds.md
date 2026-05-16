@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 17:19:02 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 18:14:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 1 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 18:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -119,6 +118,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant" target="_blank">Sony tries to explain that its AI Camera Assistant doesn’t suck</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-16 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire" target="_blank">NPR’s Manoush Zomorodi talks about living with too much tech</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-16 15:00</span>
@@ -148,15 +156,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/" target="_blank">The US is betting on AI to catch insider trading in prediction markets</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a079d3343055fabd16c1020/master/pass/Old-Oil-Gas-Wells-Could-Find-Second-Life-Science-1088012650.jpg" alt="Old Oil and Gas Wells Could Find Second Life Producing Clean Energy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oil-wells-second-life-clean-energy/" target="_blank">Old Oil and Gas Wells Could Find Second Life Producing Clean Energy</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2026-05-16 11:00</span>
             </div>
         </div>
@@ -294,25 +293,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/15/adjacency" target="_blank">Adjacency</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-15 17:36</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
