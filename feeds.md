@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 22:13:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-16 23:14:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 22:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 23:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://crates.io/crates/zerostack/1.0.0" target="_blank">Zerostack – A Unix-inspired coding agent written in pure Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-16 22:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/wikipedia-logo-0a3e76624c7b1c3ccdeb9493ea4add6ef5bd82d7e88d102d5ddfd7c981efa2e7.svg" alt="I see Dead Internet Theory playing out in real-time on DEV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Memtest86-Plus-8.10" target="_blank">Memtest86+ 8.10 Improves Support For Newer Hardware</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-16 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574" target="_blank">Kioxia and Dell cram 10 PB into slim 2RU server</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-16 17:12</span>
             </div>
         </div>
 </div>
@@ -277,8 +267,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 22:13 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
