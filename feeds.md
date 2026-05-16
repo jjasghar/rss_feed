@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 18:14:40 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 19:23:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 18:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 19:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people" target="_blank">A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-16 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg" alt="Taiwan insists it is independent after Trump warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2026-05-16 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump" target="_blank">This Republican voted to convict Trump. Now he&#x27;s up for reelection. Can he survive?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 12:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/" target="_blank">Research repository ArXiv will ban authors for a year if they let AI do all the work</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-16 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools" target="_blank">Snap, YouTube, and TikTok settle suit over harm to students</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-16 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,20 @@
                 <span class="time">2026-05-16 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc" target="_blank">Mixtape is a musical portrait of teenage life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-500x500.jpg" alt="The US is betting on AI to catch insider trading in prediction markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/" target="_blank">The US is betting on AI to catch insider trading in prediction markets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Memtest86-Plus-8.10" target="_blank">Memtest86+ 8.10 Improves Support For Newer Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-16 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://arxiv.org/abs/2605.12357" target="_blank">Δ-Mem: Efficient Online Memory for Large Language Models</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-16 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/en/headerimage/generatedHeaderImage-1777383901225.jpg" alt="Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-16 08:39</span>
             </div>
         </div>
 </div>
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:14 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 19:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
