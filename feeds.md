@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 09:29:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-16 10:24:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 09:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 10:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck" target="_blank">The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-16 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss" target="_blank">Israeli settler blindfolds and detains Palestinian in occupied West Bank</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 09:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-ap-gmh-260515_1778859506169_hpMain_4x3t_384.jpg" alt="DOJ to create $1.776B &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trump-administration-create-1776b-truth-justice-commission-compensate/story?id=133005480" target="_blank">DOJ to create $1.776B &#x27;Truth and Justice Commission&#x27; to compensate allies: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-16 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-cassidy-Letlow-Fleming-vsb-2121-254a88.jpg" alt="Sen. Bill Cassidy faces a primary for the first time since his Trump impeachment vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss" target="_blank">Man killed in great white shark attack in western Australia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-16 07:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss" target="_blank">Trump says ISIL second-in-command Abu-Bilal al-Minuki killed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 06:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna" target="_blank">The Eurovision Song Contest reaches its grand final with pop and protests</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says" target="_blank">Trump says Islamic State ‘second in command’ killed by US and Nigerian forces</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-16 04:56</span>
             </div>
         </div>
 </div>
@@ -169,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2atys2d74myp9xrt9ux3.png" alt="How AI Can Help You Recover Your Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/auyeungdavid_2847435260/how-ai-can-help-you-recover-your-bitcoin-1j1c" target="_blank">How AI Can Help You Recover Your Bitcoin</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 10:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2605.12357" target="_blank">Δ-Mem: Efficient Online Memory for Large Language Models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-16 09:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/en/headerimage/generatedHeaderImage-1777383901225.jpg" alt="Google Introduces Cloud Fraud Defense as Successor to reCAPTCHA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/zonayedpca/static-export-but-for-apis-why-i-built-statikapi-i34" target="_blank">Static Export, but for APIs: Why I Built StatikAPI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-16 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17342273/aerion" target="_blank">I Gave Desktop Email Clients Another Shot and This New App Delivered</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-16 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ROCm-7.13-Released" target="_blank">AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-16 01:55</span>
             </div>
         </div>
 </div>
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
