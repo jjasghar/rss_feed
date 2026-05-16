@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-15 23:16:55 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 00:19:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, May 15, 2026 - 23:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 00:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ricardobucho/origami-a-workspace-oriented-terminal-37gc" target="_blank">Origami - a workspace-oriented terminal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 00:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f" target="_blank">Designing REST APIs That Developers Love</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 23:14</span>
@@ -211,15 +219,6 @@
                 <span class="time">2026-05-15 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984740&w=600" alt="Why Pass/Fail CI Pipelines Are Insufficient for Enterprise Release Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ci-pass-fail-insufficient-enterprise-releases" target="_blank">Why Pass/Fail CI Pipelines Are Insufficient for Enterprise Release Decisions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-15 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,15 @@
                 <span class="title"><a href="https://kotaku.com/donald-trump-video-game-satire-rpg-play-arcade-cabinet-2000696590" target="_blank">Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C.</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-15 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -282,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/director-infamous-for-terrible-video-game-movies-announces-unofficial-sequel-to-house-of-the-dead-23-years-later-2000696506" target="_blank">Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-15 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2312427865-e1772212434907.jpg?fit=768%2C586&amp;quality=60&amp;ssl=1" alt="Ted Turner&#x27;s secret newsroom lair looks like the saddest airport lounge ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/15/ted-turners-secret-newsroom-lair-looks-like-the-saddest-airport-lounge-ever.html" target="_blank">Ted Turner&#x27;s secret newsroom lair looks like the saddest airport lounge ever</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-15 18:43</span>
             </div>
         </div>
 </div>
@@ -330,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:17 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
