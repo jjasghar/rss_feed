@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 04:19:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-16 05:58:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 04:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 05:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna" target="_blank">The Eurovision Song Contest reaches its grand final with pop and protests</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-16 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/02/1920x1080/skynews-jimmy-lai-court-of-final-appeal_7159679.jpg?20260209002717" alt="Trump says freeing activist Jimmy Lai jailed in China is &#x27;tough&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-freeing-activist-jimmy-lai-jailed-in-china-is-tough-13544545" target="_blank">Trump says freeing activist Jimmy Lai jailed in China is &#x27;tough&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-16 01:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/supreme-court-gty-jt-251205_1764955759412_hpMain_4x3t_384.jpg" alt="US Supreme Court denies Va. Dems&#x27; request on redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2026-05-15 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump" target="_blank">Colorado&#x27;s Democratic governor will let Trump ally Tina Peters out of prison early</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-15 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/israel-lebanon-ht-gmh-260515_1778871198509_hpMain_4x3t_384.jpg" alt="Iran live updates: Israel-Lebanon ceasefire extended for 45 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701" target="_blank">Iran live updates: Israel-Lebanon ceasefire extended for 45 days</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-15 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Sportsman&#x27;s Warehouse Promo Code: Save in May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sportsmans-warehouse-promo-code/" target="_blank">Sportsman&#x27;s Warehouse Promo Code: Save in May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-16 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,29 @@
                 <span class="time">2026-05-15 20:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/" target="_blank">A hotel check-in system left a million passports and driver’s licenses open for anyone to see</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-15 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zonayedpca/static-export-but-for-apis-why-i-built-statikapi-i34" target="_blank">Static Export, but for APIs: Why I Built StatikAPI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-16 05:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17342273/aerion" target="_blank">I Gave Desktop Email Clients Another Shot and This New App Delivered</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-16 05:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f" target="_blank">Designing REST APIs That Developers Love</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-15 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.9-Released" target="_blank">Wine 11.9 Released With Wayland Pointer Warp, Initial Support For System Threads</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-Kernel-Docs-AI-Bugs" target="_blank">Linux Kernel Adds Documentation For What Qualifies As A Security Bug, Responsible AI Use</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-15 20:30</span>
             </div>
         </div>
 </div>
@@ -334,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:19 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
