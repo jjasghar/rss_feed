@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-16 13:28:37 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-16 14:25:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 16, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, May 16, 2026 - 14:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss" target="_blank">Tens of thousands march in London in far-right and pro-Palestine protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-16 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/dbe3b2f0-5112-11f1-b682-cf91850925ea.jpg" alt="Tens of thousands descend on London for rival protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="time">2026-05-16 11:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka" target="_blank">Elephants eat their crops. Farmers strike back. It&#x27;s a war that&#x27;s only getting worse</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 11:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,9 +108,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on" target="_blank">Turtle Beach made a good SteelSeries headset clone that’s $50 less</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc" target="_blank">Mixtape is a musical portrait of teenage life</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/roulette-500x500.jpg" alt="The US is betting on AI to catch insider trading in prediction markets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/" target="_blank">The US is betting on AI to catch insider trading in prediction markets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-16 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sportsmans-warehouse-promo-code/" target="_blank">Sportsman&#x27;s Warehouse Promo Code: Save in May 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-16 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps" target="_blank">Xbox is now XBOX</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-15 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-500x500.jpg" alt="Russia pressures university students to become wartime drone pilots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/" target="_blank">Russia pressures university students to become wartime drone pilots</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-15 22:19</span>
             </div>
         </div>
 </div>
@@ -238,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="The Internet Reacts To Xbox Trying To Rebrand As XBOX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-xbox-trying-to-rebrand-as-xbox-2000696758" target="_blank">The Internet Reacts To Xbox Trying To Rebrand As XBOX</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-16 14:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-15-at-4.45.36-PM.jpg" alt="Arcade Cabinets For A Satirical Trump RPG Have Appeared In Washington D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +290,6 @@
                 <span class="time">2026-05-15 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/The-House-of-The-Dead-2-Remake-official-image-Forever-Entertainment-1280x720.jpg" alt="Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/director-infamous-for-terrible-video-game-movies-announces-unofficial-sequel-to-house-of-the-dead-23-years-later-2000696506" target="_blank">Director Infamous For Terrible Video Game Movies Announces ‘Unofficial Sequel’ To House Of The Dead 23 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-15 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
