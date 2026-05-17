@@ -1,38 +1,27 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 06:52:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-17 07:49:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 06:52 UTC</div>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 07:49 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss" target="_blank">India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122501/napoleon-solo-preakness-laurel-park" target="_blank">Napoleon Solo holds off Iron Honor to win the Preakness</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-17 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss" target="_blank">Iraq’s new PM Ali al-Zaidi formally takes over</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 00:14</span>
             </div>
         </div>
 </div>
@@ -169,6 +158,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2" target="_blank">PyCon US 2026 Packaging Summit Recap</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-17 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mubaraqabba/two-weeks-of-solana-familiar-but-different-163m" target="_blank">Two Weeks of Solana: Familiar but Different</a></span>
                 <span class="feed">DEV Community</span>
@@ -182,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8" target="_blank">The Agent Is 20% of the Work. The Platform Is the Other 80%.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 04:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.1-Beta-3" target="_blank">FreeBSD 15.1 Beta 3 Updates OpenZFS, Ensures Cloud Images Up-To-Date On First Boot</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +207,6 @@
                 <span class="title"><a href="https://mdk.fr/blog/django-debug-toolbar-checkbox.html" target="_blank">A checkbox to enable the Django debug toolbar</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2026-05-16 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://crates.io/crates/zerostack/1.0.0" target="_blank">Zerostack – A Unix-inspired coding agent written in pure Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-16 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/wikipedia-logo-0a3e76624c7b1c3ccdeb9493ea4add6ef5bd82d7e88d102d5ddfd7c981efa2e7.svg" alt="I see Dead Internet Theory playing out in real-time on DEV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6" target="_blank">I see Dead Internet Theory playing out in real-time on DEV</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 21:07</span>
             </div>
         </div>
 </div>
@@ -266,8 +255,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 64 | 📡 Total Sources: 39 | 📸 With Images: 258 |
-        🔄 Last Updated: 06:52 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:49 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
