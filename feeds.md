@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 17:19:23 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 18:17:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 17:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 18:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss" target="_blank">Three community kitchen workers among five killed by Israel in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824960/bus-riders-to-montgomery-retrace-old-steps-while-fighting-a-new-fight" target="_blank">Bus riders to Montgomery retrace old steps while fighting a new fight</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-17 16:21</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss" target="_blank">WHO declares Ebola outbreak in DR Congo an international emergency</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4840/live/a983c310-51d3-11f1-88a8-f9e787ff27f2.jpg" alt="Personal decision for Starmer on whether to fight leadership contest, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss" target="_blank">Personal decision for Starmer on whether to fight leadership contest, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-17 11:11</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fktkl6paklix6ng9e2i1r.png" alt="I make an app to help you make money while traveling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fikuri/i-make-an-app-to-help-you-make-money-while-traveling-293d" target="_blank">I make an app to help you make money while traveling</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/" target="_blank">Americans Are Smashing Flock Cameras</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 17:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33" target="_blank">Creating Dynamic Lists in React: A Step-by-Step Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/tech4bot/rk3562deb" target="_blank">I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/" target="_blank">I don&#x27;t think AI will make your processes go faster</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 12:13</span>
             </div>
         </div>
 </div>
@@ -276,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 17:19 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 18:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
