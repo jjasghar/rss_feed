@@ -1,26 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 03:00:34 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 05:13:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 17 feeds processed -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 05:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -155,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8" target="_blank">The Agent Is 20% of the Work. The Platform Is the Other 80%.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 04:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuq4kc3xb8bopc1nu0d0.png" alt="Anatomy of Duck DB for Python Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-51-Resources-Possible" target="_blank">GNOME 51 Could End Up Replacing System Tools With &quot;Resources&quot; App</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-16 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnudl3iep4szs6b3gdcdg.webp" alt="Stop letting npm install run untrusted code on your machine — meet np-audit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koblers/stop-letting-npm-install-run-untrusted-code-on-your-machine-meet-np-audit-3kj4" target="_blank">Stop letting npm install run untrusted code on your machine — meet np-audit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-16 20:06</span>
             </div>
         </div>
 </div>
@@ -254,8 +261,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 05:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
