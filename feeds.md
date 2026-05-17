@@ -1,26 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 20:13:52 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 21:15:03 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 18 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 20:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 21:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +105,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/" target="_blank">Apple’s Siri revamp could include auto-deleting chats</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-17 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/" target="_blank">If you’re giving a commencement speech in 2026, maybe don’t mention AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-17 16:32</span>
@@ -140,20 +155,20 @@
                 <span class="time">2026-05-17 11:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-538030120-500x500.jpg" alt="A revolutionary cancer treatment could transform autoimmune disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/" target="_blank">A revolutionary cancer treatment could transform autoimmune disease</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tunmi_stom/building-ethereum-wallet-authentication-with-fastapi-and-web3py-182c" target="_blank">Building Ethereum Wallet Authentication with FastAPI and Web3.py</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fktkl6paklix6ng9e2i1r.png" alt="I make an app to help you make money while traveling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,20 +214,20 @@
                 <span class="time">2026-05-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fplay-codesandbox.svg" alt="Creating Dynamic Lists in React: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33" target="_blank">Creating Dynamic Lists in React: A Step-by-Step Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/IQ-Career-Lab-Unlimited-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A new type of IQ test pairs you with potential jobs, and it&#x27;s on sale for $20 (was $297)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/17/a-new-type-of-iq-test-pairs-you-with-potential-jobs-and-its-on-sale-for-20-was-297.html" target="_blank">A new type of IQ test pairs you with potential jobs, and it&#x27;s on sale for $20 (was $297)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/bfibadgers.jpg" alt="The BFI Are Preserving Vintage Memes On An Ever-Changing Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,15 +264,6 @@
                 <span class="time">2026-05-17 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/flowkey-Piano-Learning-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The flowkey app is just $40 through 5/17 if you&#x27;re finally ready to learn piano" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/16/the-flowkey-app-is-just-40-through-5-17-if-youre-finally-ready-to-learn-piano.html" target="_blank">The flowkey app is just $40 through 5/17 if you&#x27;re finally ready to learn piano</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-16 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -278,7 +284,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 20:13 UTC
+        🔄 Last Updated: 21:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
