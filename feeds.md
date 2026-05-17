@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 14:27:58 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-17 15:20:12 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 14:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 15:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss" target="_blank">How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg" alt="WHO declares Ebola outbreak in DR Congo an international emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss" target="_blank">WHO declares Ebola outbreak in DR Congo an international emergency</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-17 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +96,20 @@
                 <span class="time">2026-05-17 09:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/louisiana-candidates-ap-jt-260515_1778880339290_hpMain_4x3t_384.jpg" alt="Cassidy defeated, Trump-backed Letlow and Fleming advance to runoff: AP projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/gop-sen-bill-cassidy-faces-trump-backed-challenger/story?id=132977846" target="_blank">Cassidy defeated, Trump-backed Letlow and Fleming advance to runoff: AP projects</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-17 09:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/" target="_blank">For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="time">2026-05-16 20:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/" target="_blank">Marketing operating system Nectar Social raises $30M Series A led by Menlo</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-16 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,12 +170,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/" target="_blank">I don&#x27;t think AI will make your processes go faster</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 12:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F25tznzwmv9hw47ikn59v.png" alt="Why I Still Choose Ruby on Rails in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hulkinpublic/why-i-still-choose-ruby-on-rails-in-the-age-of-ai-m3h" target="_blank">Why I Still Choose Ruby on Rails in the Age of AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Low-Latency-Layer" target="_blank">Open-Source &quot;low_latency_layer&quot; Brings Reflex &amp; Anti-Lag 2 To AMD &amp; Intel GPUs On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +214,20 @@
                 <span class="time">2026-05-17 11:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/monzo-data-mesh/en/headerimage/generatedHeaderImage-1777979720119.jpg" alt="Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-17 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Adobe-Lightroom-CC-Linux" target="_blank">Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 10:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2021/09/d661c9bbaac8799a40eb091110672311.jpg" alt="The Entire Nintendo 64 Library Now Has Rollback Netcode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785" target="_blank">The Entire Nintendo 64 Library Now Has Rollback Netcode</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-17 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/flowkey-Piano-Learning-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The flowkey app is just $40 through 5/17 if you&#x27;re finally ready to learn piano" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -239,22 +246,13 @@
                 <span class="time">2026-05-16 18:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/SanDisk-Extreme-USB-3.2-Portable-SSD-2TB.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Capture as many pictures as you want with this 2TB SanDisk Extreme Portable SSD for just $270" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/16/capture-as-many-pictures-as-you-want-with-this-2tb-sandisk-extreme-portable-ssd-for-just-270.html" target="_blank">Capture as many pictures as you want with this 2TB SanDisk Extreme Portable SSD for just $270</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-16 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 14:28 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 15:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
