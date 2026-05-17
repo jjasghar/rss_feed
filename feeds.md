@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 10:27:24 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 11:23:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 10:27 UTC</div>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 11:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children" target="_blank">One clinic tracks the heavy toll Trump&#x27;s immigration crackdown takes on mental health</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-17 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss" target="_blank">Republican Senator Cassidy loses Louisiana primary after opposing Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 10:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-apartment-stirke-strike_7251057.jpg?20260517102612" alt="Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/17/modest-fashions-global?traffic_source=rss" target="_blank">Modest fashion’s global turn</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 08:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss" target="_blank">India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss" target="_blank">‘Timmy’ the rescued humpback whale confirmed dead</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 05:51</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979" target="_blank">Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-17 08:12</span>
             </div>
         </div>
 </div>
@@ -101,6 +110,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a07975ab881502fc5a53048/master/pass/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/oto-smart-sprinkler/" target="_blank">Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-17 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-538030120-500x500.jpg" alt="A revolutionary cancer treatment could transform autoimmune disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/" target="_blank">A revolutionary cancer treatment could transform autoimmune disease</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +164,29 @@
                 <span class="time">2026-05-16 18:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/" target="_blank">The offline desk gadget that actually got me to sit up straight</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant" target="_blank">Sony tries to explain that its AI Camera Assistant doesn’t suck</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-16 15:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/monzo-data-mesh/en/headerimage/generatedHeaderImage-1777979720119.jpg" alt="Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/monzo-data-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-17 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Adobe-Lightroom-CC-Linux" target="_blank">Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FluidX3D-3.7-Released" target="_blank">FluidX3D Lands A Big Speed-Up For This OpenCL CFD Software</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-17 08:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2" target="_blank">PyCon US 2026 Packaging Summit Recap</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-17 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mubaraqabba/two-weeks-of-solana-familiar-but-different-163m" target="_blank">Two Weeks of Solana: Familiar but Different</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 06:35</span>
             </div>
         </div>
 </div>
@@ -260,8 +269,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 10:27 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 11:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
