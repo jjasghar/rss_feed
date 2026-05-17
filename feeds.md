@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 21:15:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 22:14:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 21:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss" target="_blank">‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 20:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2026-05-17 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg" alt="WHO declares Ebola outbreak in DR Congo an international emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss" target="_blank">WHO declares Ebola outbreak in DR Congo an international emergency</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/932215/microsoft-teams-together-mode" target="_blank">Microsoft is retiring Teams’ Together Mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-17 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,29 @@
                 <span class="time">2026-05-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a07975ab881502fc5a53048/master/pass/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/oto-smart-sprinkler/" target="_blank">Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-17 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7ogh4fxvdtak2xfsbw1.jpg" alt="660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/660-ai-agents-ran-27000-experiments-their-biggest-discovery-was-a-2015-textbook-result-1bp2" target="_blank">660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc4-Released" target="_blank">Linux 7.1-rc4 Released With Many Fixes, New Documentation For Security/AI Topics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +218,20 @@
                 <span class="time">2026-05-17 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/achiya-automation/buying-a-whatsapp-bot-in-2026-five-traps-to-avoid-32a9" target="_blank">Buying a WhatsApp Bot in 2026? Five Traps to Avoid</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Concept-CIX-P1-CPU" target="_blank">Ubuntu Concept ISOs Published For CIX P1 AI CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/bman64.jpg" alt="Bomberman 64 Is A Masterpiece Of 3D Platformers Without A Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848" target="_blank">Bomberman 64 Is A Masterpiece Of 3D Platformers Without A Playbook</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-17 21:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/IQ-Career-Lab-Unlimited-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A new type of IQ test pairs you with potential jobs, and it&#x27;s on sale for $20 (was $297)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:15 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
