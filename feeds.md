@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 00:20:44 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 01:32:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 00:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss" target="_blank">Iraq’s new PM Ali al-Zaidi formally takes over</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss" target="_blank">Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/538f/live/25317530-5075-11f1-89a3-d1f559421220.png" alt="Hezbollah drone strike videos show evolving tactics against Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss" target="_blank">Hezbollah drone strike videos show evolving tactics against Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-16 23:10</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss" target="_blank">Can new Pakistan-Afghanistan tensions lead to another border clash?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451e/live/50c85140-5143-11f1-b682-cf91850925ea.jpg" alt="Tens of thousands join rival marches in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss" target="_blank">Tens of thousands join rival marches in London</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-16 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people" target="_blank">A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-16 18:37</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuq4kc3xb8bopc1nu0d0.png" alt="Anatomy of Duck DB for Python Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh" target="_blank">Anatomy of Duck DB for Python Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://mdk.fr/blog/django-debug-toolbar-checkbox.html" target="_blank">A checkbox to enable the Django debug toolbar</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-16 22:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -197,43 +220,20 @@
                 <span class="time">2026-05-16 20:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/ubuntu-on-device-ai/en/headerimage/ubuntu-on-device-ai-1778958515321.jpeg" alt="Ubuntu Embraces Local AI Instead of Cloud-First OS Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Ubuntu Embraces Local AI Instead of Cloud-First OS Integration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Memtest86-Plus-8.10" target="_blank">Memtest86+ 8.10 Improves Support For Newer Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-16 18:37</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html" target="_blank">Friday Squid Blogging: Bigfin Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-16 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/flowkey-Piano-Learning-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The flowkey app is just $40 through 5/17 if you&#x27;re finally ready to learn piano" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/16/the-flowkey-app-is-just-40-through-5-17-if-youre-finally-ready-to-learn-piano.html" target="_blank">The flowkey app is just $40 through 5/17 if you&#x27;re finally ready to learn piano</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/gundam.jpg" alt="Forza Horizon 6 Lets You Race A Gundam And It Looks Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,8 +266,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 63 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:20 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
