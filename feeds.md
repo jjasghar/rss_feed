@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 11:23:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-17 12:13:58 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 11:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4840/live/a983c310-51d3-11f1-88a8-f9e787ff27f2.jpg" alt="Personal decision for Starmer on whether to fight leadership contest, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss" target="_blank">Personal decision for Starmer on whether to fight leadership contest, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-17 11:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss" target="_blank">WHO declares Ebola outbreak in DR Congo a global health emergency</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-17 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-apartment-stirke-strike_7251057.jpg?20260517102612" alt="Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979" target="_blank">Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-17 08:12</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F25tznzwmv9hw47ikn59v.png" alt="Why I Still Choose Ruby on Rails in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hulkinpublic/why-i-still-choose-ruby-on-rails-in-the-age-of-ai-m3h" target="_blank">Why I Still Choose Ruby on Rails in the Age of AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://klaxon.live/" target="_blank">Klaxon a livr earthquake map with no back end</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 11:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/05/monzo-data-mesh/en/headerimage/generatedHeaderImage-1777979720119.jpg" alt="Neobank Monzo Builds Governed Data Mesh Across 100 Teams and 12000 dbt Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Framework-Laptop-13-Pro-Audio" target="_blank">Panther Lake Powered Framework Laptop 13 Pro Sees Linux Microphone Fix</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-17 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh" target="_blank">GraphQL Authorization Bypass: A Real CVE Code Review</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 08:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FluidX3D-3.7-Released" target="_blank">FluidX3D Lands A Big Speed-Up For This OpenCL CFD Software</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 08:09</span>
             </div>
         </div>
 </div>
@@ -269,8 +262,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 11:23 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
