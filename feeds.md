@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 13:28:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-17 14:27:58 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 13:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 14:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss" target="_blank">How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4840/live/a983c310-51d3-11f1-88a8-f9e787ff27f2.jpg" alt="Personal decision for Starmer on whether to fight leadership contest, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,20 +98,20 @@
                 <span class="time">2026-05-17 09:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/7be494d0-51be-11f1-a61d-97b09d8870ae.jpg" alt="WHO declares Ebola outbreak in DR Congo a global health emergency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss" target="_blank">WHO declares Ebola outbreak in DR Congo a global health emergency</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-17 09:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum" target="_blank">Oddity is masterfully tense horror from the director of Hokum</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +157,20 @@
                 <span class="time">2026-05-16 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/" target="_blank">Research repository ArXiv will ban authors for a year if they let AI do all the work</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-16 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fplay-codesandbox.svg" alt="Creating Dynamic Lists in React: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33" target="_blank">Creating Dynamic Lists in React: A Step-by-Step Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 14:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F25tznzwmv9hw47ikn59v.png" alt="Why I Still Choose Ruby on Rails in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -217,15 +216,6 @@
                 <span class="time">2026-05-17 10:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-ProRes-RAW-Vulkan" target="_blank">FFmpeg Introduces Apple ProRes RAW Vulkan-Powered Video Acceleration</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 10:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -258,22 +248,13 @@
                 <span class="time">2026-05-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/The-latest-Xbox-logo-1280x720.jpg" alt="The Internet Reacts To Xbox Trying To Rebrand As XBOX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-xbox-trying-to-rebrand-as-xbox-2000696758" target="_blank">The Internet Reacts To Xbox Trying To Rebrand As XBOX</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-16 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 13:28 UTC
+        📊 Displayed: 21 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
