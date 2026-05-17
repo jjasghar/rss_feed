@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 16:17:51 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 17:19:23 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 16:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 17:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss" target="_blank">Three community kitchen workers among five killed by Israel in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss" target="_blank">US college graduates face harsh job market amid economic uncertainty</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/jan6-capitol-20260517-ap-jh_1779027575756_hpMain_4x3t_384.jpg" alt="Top Judiciary Democrat Raskin blasts possible Trump-IRS settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/top-judiciary-democrat-raskin-blasts-trump-irs-settlement/story?id=133046931" target="_blank">Top Judiciary Democrat Raskin blasts possible Trump-IRS settlement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-17 14:37</span>
             </div>
         </div>
 <div class="story">
@@ -74,29 +98,20 @@
                 <span class="time">2026-05-17 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children" target="_blank">One clinic tracks the heavy toll Trump&#x27;s immigration crackdown takes on mental health</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss" target="_blank">Republican Senator Cassidy loses Louisiana primary after opposing Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/" target="_blank">If you’re giving a commencement speech in 2026, maybe don’t mention AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-17 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +157,20 @@
                 <span class="time">2026-05-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/" target="_blank">The haves and have nots of the AI gold rush</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-16 20:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samson_tanimawo/the-role-of-platform-engineering-in-a-startup-1me0" target="_blank">The Role of Platform Engineering in a Startup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,27 +202,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/" target="_blank">I don&#x27;t think AI will make your processes go faster</a></span>
+                <span class="title"><a href="https://github.com/tech4bot/rk3562deb" target="_blank">I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F25tznzwmv9hw47ikn59v.png" alt="Why I Still Choose Ruby on Rails in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hulkinpublic/why-i-still-choose-ruby-on-rails-in-the-age-of-ai-m3h" target="_blank">Why I Still Choose Ruby on Rails in the Age of AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 12:11</span>
+                <span class="time">2026-05-17 13:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Low-Latency-Layer" target="_blank">Open-Source &quot;low_latency_layer&quot; Brings Reflex &amp; Anti-Lag 2 To AMD &amp; Intel GPUs On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 12:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/" target="_blank">I don&#x27;t think AI will make your processes go faster</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 12:13</span>
             </div>
         </div>
 </div>
@@ -253,11 +259,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1778989227-20260516-edit.png" alt="Saturday Morning Breakfast Cereal - Experiencing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/experiencing" target="_blank">Saturday Morning Breakfast Cereal - Experiencing</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-17 15:30</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:17 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 17:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
