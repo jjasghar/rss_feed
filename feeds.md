@@ -1,38 +1,26 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 01:32:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-17 03:00:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +36,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6fd/live/09763bc0-5190-11f1-89a3-d1f559421220.jpg" alt="Labour leadership jostling puts Brexit back under political spotlight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss" target="_blank">Labour leadership jostling puts Brexit back under political spotlight</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-17 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260515-bill-cassidy-mn-1320-f217b0.jpg" alt="Sen. Bill Cassidy loses GOP primary in Louisiana, as two rivals advance to a runoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/julia-letlow-advances-louisiana-senate-gop-runoff-sen-bill-cassidy-tra-rcna344954" target="_blank">Sen. Bill Cassidy loses GOP primary in Louisiana, as two rivals advance to a runoff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-17 02:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122501/napoleon-solo-preakness-laurel-park" target="_blank">Napoleon Solo holds off Iron Honor to win the Preakness</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-17 00:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +88,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss" target="_blank">Hezbollah drone strike videos show evolving tactics against Israel</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-16 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss" target="_blank">Two presidential campaign staffers killed in Colombia as elections near</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/cuba-cooking-gty-jt-260515_1778867181201_hpMain_4x3t_384.jpg" alt="Cuba grid collapse: The situation is growing more dire, experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/cuba-grid-collapse-situation-growing-dire-experts/story?id=133001706" target="_blank">Cuba grid collapse: The situation is growing more dire, experts say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-16 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss" target="_blank">Can new Pakistan-Afghanistan tensions lead to another border clash?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-16 20:00</span>
             </div>
         </div>
 </div>
@@ -266,8 +254,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
