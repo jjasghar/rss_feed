@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 18:17:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-17 19:24:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 19:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -222,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/titanfall2-1280x720.jpg" alt="Splitgate Developer Said He Wanted Titanfall 3 And It Appears He’s Making His Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/splitgate-developer-said-he-wanted-titanfall-3-and-it-appears-hes-making-his-own-2000696833" target="_blank">Splitgate Developer Said He Wanted Titanfall 3 And It Appears He’s Making His Own</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-17 18:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Last chance to get GPT, Claude, and Gemini for life at $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -248,15 +267,6 @@
                 <span class="time">2026-05-16 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/gundam.jpg" alt="Forza Horizon 6 Lets You Race A Gundam And It Looks Awesome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-6-pits-your-acura-against-a-giant-mech-2000696781" target="_blank">Forza Horizon 6 Lets You Race A Gundam And It Looks Awesome</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-16 18:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -276,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 19:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
