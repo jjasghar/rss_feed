@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 12:13:58 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 13:28:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +114,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale" target="_blank">Fujifilm’s X Half is even more whimsical with a $300 price cut</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a07975ab881502fc5a53048/master/pass/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,15 +167,6 @@
                 <span class="time">2026-05-16 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools" target="_blank">Snap, YouTube, and TikTok settle suit over harm to students</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-16 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/hulkinpublic/why-i-still-choose-ruby-on-rails-in-the-age-of-ai-m3h" target="_blank">Why I Still Choose Ruby on Rails in the Age of AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/" target="_blank">Native all the way, until you need text</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 11:49</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +224,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-ProRes-RAW-Vulkan" target="_blank">FFmpeg Introduces Apple ProRes RAW Vulkan-Powered Video Acceleration</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-17 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Framework-Laptop-13-Pro-Audio" target="_blank">Panther Lake Powered Framework Laptop 13 Pro Sees Linux Microphone Fix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 09:10</span>
             </div>
         </div>
 </div>
@@ -262,8 +272,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
