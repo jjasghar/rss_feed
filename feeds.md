@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 15:20:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 16:17:51 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 15:20 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss" target="_blank">US college graduates face harsh job market amid economic uncertainty</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 15:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss" target="_blank">Republican Senator Cassidy loses Louisiana primary after opposing Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss" target="_blank">Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 09:44</span>
             </div>
         </div>
 </div>
@@ -161,6 +157,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/achiya-automation/buying-a-whatsapp-bot-in-2026-five-traps-to-avoid-32a9" target="_blank">Buying a WhatsApp Bot in 2026? Five Traps to Avoid</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Concept-CIX-P1-CPU" target="_blank">Ubuntu Concept ISOs Published For CIX P1 AI CPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcodesandbox.io%2Fstatic%2Fimg%2Fplay-codesandbox.svg" alt="Creating Dynamic Lists in React: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,29 +210,20 @@
                 <span class="time">2026-05-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/" target="_blank">Native all the way, until you need text</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://klaxon.live/" target="_blank">Klaxon a livr earthquake map with no back end</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Last chance to get GPT, Claude, and Gemini for life at $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/17/last-chance-to-get-gpt-claude-and-gemini-for-life-at-80.html" target="_blank">Last chance to get GPT, Claude, and Gemini for life at $80</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2021/09/d661c9bbaac8799a40eb091110672311.jpg" alt="The Entire Nintendo 64 Library Now Has Rollback Netcode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,8 +256,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 21 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 15:20 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 69 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
