@@ -1,27 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 07:49:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-17 08:39:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 07:49 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, May 17, 2026 - 08:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/17/modest-fashions-global?traffic_source=rss" target="_blank">Modest fashion’s global turn</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-17 08:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss" target="_blank">India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 07:24</span>
@@ -53,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss" target="_blank">‘Timmy’ the rescued humpback whale confirmed dead</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 05:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan" target="_blank">New York Magazine reviewing work of writer facing plagiarism allegations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-17 04:23</span>
             </div>
         </div>
 <div class="story">
@@ -71,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss" target="_blank">Labour leadership jostling puts Brexit back under political spotlight</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-17 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260515-bill-cassidy-mn-1320-f217b0.jpg" alt="Sen. Bill Cassidy loses GOP primary in Louisiana, as two rivals advance to a runoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/julia-letlow-advances-louisiana-senate-gop-runoff-sen-bill-cassidy-tra-rcna344954" target="_blank">Sen. Bill Cassidy loses GOP primary in Louisiana, as two rivals advance to a runoff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-17 02:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/16/g-s1-122501/napoleon-solo-preakness-laurel-park" target="_blank">Napoleon Solo holds off Iron Honor to win the Preakness</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-17 00:52</span>
             </div>
         </div>
 </div>
@@ -158,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh" target="_blank">GraphQL Authorization Bypass: A Real CVE Code Review</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-17 08:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FluidX3D-3.7-Released" target="_blank">FluidX3D Lands A Big Speed-Up For This OpenCL CFD Software</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-17 08:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2" target="_blank">PyCon US 2026 Packaging Summit Recap</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -189,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.1-Beta-3" target="_blank">FreeBSD 15.1 Beta 3 Updates OpenZFS, Ensures Cloud Images Up-To-Date On First Boot</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-17 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuq4kc3xb8bopc1nu0d0.png" alt="Anatomy of Duck DB for Python Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh" target="_blank">Anatomy of Duck DB for Python Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://mdk.fr/blog/django-debug-toolbar-checkbox.html" target="_blank">A checkbox to enable the Django debug toolbar</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-16 22:25</span>
             </div>
         </div>
 </div>
@@ -255,8 +265,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 64 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:49 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 08:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
