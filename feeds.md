@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-17 23:16:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-18 00:21:39 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, May 17, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 00:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss" target="_blank">Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss" target="_blank">US college graduates face harsh job market amid economic uncertainty</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-17 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/jan6-capitol-20260517-ap-jh_1779027575756_hpMain_4x3t_384.jpg" alt="Top Judiciary Democrat Raskin blasts possible Trump-IRS settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/top-judiciary-democrat-raskin-blasts-trump-irs-settlement/story?id=133046931" target="_blank">Top Judiciary Democrat Raskin blasts possible Trump-IRS settlement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-17 14:37</span>
             </div>
         </div>
 </div>
@@ -161,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/1grace/strategic-leadership-communication-mastering-conflict-management-in-the-modern-workplace-b9o" target="_blank">Strategic Leadership Communication: Mastering Conflict Management in the Modern Workplace</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tempuskg/session-control-update-5fij" target="_blank">Session Control Update</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 23:00</span>
@@ -200,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/fikuri/i-make-an-app-to-help-you-make-money-while-traveling-293d" target="_blank">I make an app to help you make money while traveling</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/" target="_blank">Americans Are Smashing Flock Cameras</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 17:09</span>
             </div>
         </div>
 </div>
@@ -289,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 00:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
