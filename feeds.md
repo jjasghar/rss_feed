@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 11:15:18 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-18 13:03:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 11:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 13:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2026/5/18/the-gulf-does-not-have-to-choose-iran-or-israel?traffic_source=rss" target="_blank">The Gulf does not have to choose Iran or Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 12:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision" target="_blank">Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-18 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779102947293_tdy_news_7a_nobles_primary_results_260518_S3_1920x1080-47i376.jpg" alt="High-Stakes Primary Elections Test Trump’s Influence of GOP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/what-the-primary-results-signal-about-november-midterms-263503429505" target="_blank">High-Stakes Primary Elections Test Trump’s Influence of GOP</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-18 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss" target="_blank">Russian drone hits Chinese ship off Ukraine before Putin visits Xi Jinping</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-18 10:52</span>
@@ -68,39 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/Tehran-DB-260518_1779090914569_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;TIME IS OF THE ESSENCE&#x27; for Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/266523c0-52a5-11f1-89a3-d1f559421220.jpg" alt="At least six Americans exposed to Ebola during DR Congo outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says &#x27;TIME IS OF THE ESSENCE&#x27; for Iran deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-18 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260515-Thomas-Massie-rs-d3cc9c.jpg" alt="Rep. Thomas Massie confronts the full force of Trump’s wrath in a GOP primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/rep-thomas-massie-confronts-full-force-trumps-wrath-republican-primary-rcna345257" target="_blank">Rep. Thomas Massie confronts the full force of Trump’s wrath in a GOP primary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/18/why-was-neymar-angry-at-his-substitution-and-will-he-play-in-the-world-cup?traffic_source=rss" target="_blank">Why was Neymar angry at his substitution and will he play in the World Cup?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/18/nx-s1-5820716/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-18 08:47</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss" target="_blank">At least six Americans exposed to Ebola during DR Congo outbreak</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-18 10:46</span>
             </div>
         </div>
 </div>
@@ -109,11 +109,29 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks" target="_blank">Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-18 12:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-v3-500x500.jpg" alt="The US space enterprise is desperately waiting for Starship—will it finally deliver?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" target="_blank">The US space enterprise is desperately waiting for Starship—will it finally deliver?</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a048013fa064c678fe3dcee/master/pass/GettyImages-2215577822.jpg" alt="How to Watch Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-watch-google-io/" target="_blank">How to Watch Google I/O 2026</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2026-05-18 11:00</span>
             </div>
         </div>
@@ -144,29 +162,38 @@
                 <span class="time">2026-05-17 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/" target="_blank">If you’re giving a commencement speech in 2026, maybe don’t mention AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-17 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/" target="_blank">For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1WCgs_OruAYEFk8tPiAxItPTsWeXrjq4j%26sz%3Dw751" alt="Elevating Open Source: Integrating Accessibility for Superior Engineering Outcomes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devactivity/elevating-open-source-integrating-accessibility-for-superior-engineering-outcomes-3h7i" target="_blank">Elevating Open Source: Integrating Accessibility for Superior Engineering Outcomes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/java-news-roundup-may11-2026/en/headerimage/java-news-roundup-image-1779108213136.jpg" alt="Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-18 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984925&w=600" alt="Swift Concurrency Part 4: Actors, Executors, and Reentrancy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/swift-actors-executors-reentrancy" target="_blank">Swift Concurrency Part 4: Actors, Executors, and Reentrancy</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-GKH-Clanker-2000" target="_blank">gkh_clanker_t1000 &amp; gkh_clanker_2000 Continue Uncovering Linux Kernel Bugs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-18 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/three-memory-leak-patterns-in-long-running-scrapers-and-how-i-caught-them-after-968-trustpilot-5202" target="_blank">Three memory-leak patterns in long-running scrapers (and how I caught them after 968 Trustpilot runs)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/cix-p1-sbcs.webp?resize=406%2C232&amp;ssl=1" alt="Canonical share Ubuntu 26.04 concept build for CIX P1 devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-cix-p1-support" target="_blank">Canonical share Ubuntu 26.04 concept build for CIX P1 devices</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-18 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmizqj3gaxw5q0zspakv.png" alt="GemmaChallenge: Build a Socratic Study Buddy with Gemma 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leslysandra/gemmachallenge-build-a-socratic-study-buddy-with-gemma-4-5c44" target="_blank">GemmaChallenge: Build a Socratic Study Buddy with Gemma 4</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 01:29</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 11:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
