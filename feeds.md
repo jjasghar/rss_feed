@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 03:00:57 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-18 05:18:58 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 05:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss" target="_blank">US says China to buy billions in agricultural goods after Trump-Xi talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 02:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report" target="_blank">Executions nearly doubled in the U.S. last year, and soared abroad</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-18 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns &#x27;clock is ticking&#x27; for Iran as peace progress stalls</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-17 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss" target="_blank">Three community kitchen workers among five killed by Israel in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824960/bus-riders-to-montgomery-retrace-old-steps-while-fighting-a-new-fight" target="_blank">Bus riders to Montgomery retrace old steps while fighting a new fight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-17 16:21</span>
             </div>
         </div>
 </div>
@@ -165,10 +170,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-GKH-Clanker-2000" target="_blank">gkh_clanker_t1000 &amp; gkh_clanker_2000 Continue Uncovering Linux Kernel Bugs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-18 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/0012303/three-memory-leak-patterns-in-long-running-scrapers-and-how-i-caught-them-after-968-trustpilot-5202" target="_blank">Three memory-leak patterns in long-running scrapers (and how I caught them after 968 Trustpilot runs)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-18 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/cix-p1-sbcs.webp?resize=406%2C232&amp;ssl=1" alt="Canonical share Ubuntu 26.04 concept build for CIX P1 devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-cix-p1-support" target="_blank">Canonical share Ubuntu 26.04 concept build for CIX P1 devices</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-18 02:17</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/tempuskg/session-control-update-5fij" target="_blank">Session Control Update</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-17 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg7ogh4fxvdtak2xfsbw1.jpg" alt="660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vektor_memory_43f51a32376/660-ai-agents-ran-27000-experiments-their-biggest-discovery-was-a-2015-textbook-result-1bp2" target="_blank">660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gencad.github.io/" target="_blank">GenCAD</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-17 21:40</span>
             </div>
         </div>
 </div>
@@ -294,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 05:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
