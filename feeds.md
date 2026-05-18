@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 20:28:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-18 21:24:07 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 20:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 21:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg" alt="Trump says he called off new Iran attack at request of Gulf states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he called off new Iran attack at request of Gulf states</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-18 21:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Police respond to report of active shooter at San Diego mosque" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,28 +86,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear" target="_blank">‘It is heartbreaking’: panic in eastern DRC over return of Ebola</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-18 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/18/who-chief-ties-funding-cuts-to-ebola-hantavirus-outbreaks?traffic_source=rss" target="_blank">WHO chief ties funding cuts to Ebola, hantavirus outbreaks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-18 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-elon-musk-sam-altman_7252510.jpg?20260518190618" alt="Elon Musk loses lawsuit against OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/elon-musk-loses-lawsuit-against-openai-13545636" target="_blank">Elon Musk loses lawsuit against OpenAI</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-18 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png" alt="Married at First Sight UK brides tell BBC they were raped by on-screen husbands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight UK brides tell BBC they were raped by on-screen husbands</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 16:53</span>
             </div>
         </div>
 </div>
@@ -103,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276381480-500x500.jpg" alt="Ebola outbreak: WHO declares emergency, US restricts travel, American infected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/" target="_blank">Ebola outbreak: WHO declares emergency, US restricts travel, American infected</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2026-05-18 17:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/P90641074_highRes_the-bmw-m3-cs-handsc-1-500x500.jpg" alt="BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/" target="_blank">BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-18 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Multi-Crescent-Island" target="_blank">New Intel Xe Linux Graphics Driver Code Now Cites Multiple Crescent Island SKUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-18 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,19 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/" target="_blank">Take your local GitHub sessions anywhere</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-18 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1noaqzbdnf2u9xgg0u5.png" alt="Memory management in C# - Part 2: hands-on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/helfo2/memory-management-in-c-part-2-hands-on-52b" target="_blank">Memory management in C# - Part 2: hands-on</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 16:51</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/anthropic-acquires-stainless" target="_blank">Anthropic acquires Stainless</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-18 17:01</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JMYVKCC8N0627KVP2VQC6PKW/hero-image.png" alt="This Four-Pack of AirTags Is on Sale for $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-airtags-deal?utm_medium=RSS" target="_blank">This Four-Pack of AirTags Is on Sale for $60</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KQFZEE6D8E2FX04CRQG0CNGW/hero-image.jpg" alt="Here&#x27;s What We Expect to See at Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +292,6 @@
                 <span class="time">2026-05-18 17:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/8085439ad4f0ce310d33524280ead7e7-1280x719.jpg" alt="Sony Is Raising The Price Of Playing Multiplayer Games On PlayStation 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-is-raising-the-price-of-playing-multiplayer-games-on-playstation-5-2000697079" target="_blank">Sony Is Raising The Price Of Playing Multiplayer Games On PlayStation 5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-18 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 20:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 21:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
