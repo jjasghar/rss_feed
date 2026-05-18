@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 09:03:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-18 11:15:18 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 11:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss" target="_blank">Russian drone hits Chinese ship off Ukraine before Putin visits Xi Jinping</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in" target="_blank">Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-18 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260518_1779090914569_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says &#x27;TIME IS OF THE ESSENCE&#x27; for Iran deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says &#x27;TIME IS OF THE ESSENCE&#x27; for Iran deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-18 10:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260515-Thomas-Massie-rs-d3cc9c.jpg" alt="Rep. Thomas Massie confronts the full force of Trump’s wrath in a GOP primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/rep-thomas-massie-confronts-full-force-trumps-wrath-republican-primary-rcna345257" target="_blank">Rep. Thomas Massie confronts the full force of Trump’s wrath in a GOP primary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/18/why-was-neymar-angry-at-his-substitution-and-will-he-play-in-the-world-cup?traffic_source=rss" target="_blank">Why was Neymar angry at his substitution and will he play in the World Cup?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-18 08:53</span>
@@ -67,47 +103,20 @@
                 <span class="time">2026-05-18 08:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8152/live/b431dc40-5294-11f1-8b8c-6d33e1d5abb6.jpg" alt="UK companies linked to payments for small-boat crossings, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss" target="_blank">UK companies linked to payments for small-boat crossings, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c93/live/1f467620-4eb3-11f1-b55d-0f258dce1735.jpg" alt="UK-registered firms linked to payments for small-boat crossings, BBC finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss" target="_blank">UK-registered firms linked to payments for small-boat crossings, BBC finds</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss" target="_blank">US says China to buy billions in agricultural goods after Trump-Xi talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report" target="_blank">Executions nearly doubled in the U.S. last year, and soared abroad</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-18 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-v3-500x500.jpg" alt="The US space enterprise is desperately waiting for Starship—will it finally deliver?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" target="_blank">The US space enterprise is desperately waiting for Starship—will it finally deliver?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69dd2761ffeed07de38ddc88/master/pass/Danish-Couples-Maverick-African-Research-Finds-Its-Moment-in-RFK-Jr-Vaccine-Policy-Science-2268917469.jpg" alt="A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +162,29 @@
                 <span class="time">2026-05-17 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum" target="_blank">Oddity is masterfully tense horror from the director of Hokum</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saurabh_naik_b213f3bbeafe/graphrag-vs-vector-rag-when-the-knowledge-graph-pays-for-itself-3386" target="_blank">GraphRAG vs vector RAG: when the knowledge graph pays for itself</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 11:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://www.csl.sri.com/users/neumann/psos.pdf" target="_blank">The foundations of a provably secure operating system (PSOS) (1979) [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-18 09:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,22 +221,18 @@
                 <span class="time">2026-05-18 01:29</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/1grace/strategic-leadership-communication-mastering-conflict-management-in-the-modern-workplace-b9o" target="_blank">Strategic Leadership Communication: Mastering Conflict Management in the Modern Workplace</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tempuskg/session-control-update-5fij" target="_blank">Session Control Update</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 23:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html" target="_blank">Zero-Day Exploit Against Windows BitLocker</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-18 11:08</span>
             </div>
         </div>
 </div>
@@ -286,6 +300,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/18/sentenced" target="_blank">Sentenced</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-18 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1778989227-20260516-edit.png" alt="Saturday Morning Breakfast Cereal - Experiencing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -299,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 11:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
