@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 17:40:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-18 18:31:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 17:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 18:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/18/who-chief-ties-funding-cuts-to-ebola-hantavirus-outbreaks?traffic_source=rss" target="_blank">WHO chief ties funding cuts to Ebola, hantavirus outbreaks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-elon-musk-sam-altman_7252510.jpg?20260518190618" alt="Elon Musk loses lawsuit against OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/elon-musk-loses-lawsuit-against-openai-13545636" target="_blank">Elon Musk loses lawsuit against OpenAI</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-18 17:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c8/live/f72c0590-4f63-11f1-b55d-0f258dce1735.png" alt="Married at First Sight UK brides tell BBC they were raped by on-screen husbands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss" target="_blank">At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-18 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right" target="_blank">The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-18 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/18/belgium-diplomat-dies-etienne-davignon-congo-leader-patrice-lumumba" target="_blank">Belgian ex-diplomat dies before standing trial over 1961 murder of Congolese leader</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-18 14:58</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0f7lsc0gsnzssmt4jmmz.png" alt="Modeling a nut, in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lzpel/a-nut-in-rust-2oed" target="_blank">Modeling a nut, in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 18:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +221,6 @@
                 <span class="time">2026-05-18 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://archestra.ai/blog/only-responsible-ai" target="_blank">We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-18 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2023/09/89d6851f4269e69486ef67711ff56aa5.jpg" alt="Netflix And Riot Seem To Be Scrubbing D4vd’s Arcane Song From The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/d4vd-burke-arcane-remember-me-song-netflix-episode-2000697087" target="_blank">Netflix And Riot Seem To Be Scrubbing D4vd’s Arcane Song From The Internet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-18 18:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get a Free Band or a $35 Credit When You Preorder the New Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +294,6 @@
                 <span class="time">2026-05-18 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/bman64.jpg" alt="Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848" target="_blank">Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-17 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 17:40 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 18:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
