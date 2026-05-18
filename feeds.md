@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 22:17:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-18 23:20:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 22:17 UTC</div>
+    <div class="newspaper-date">Monday, May 18, 2026 - 23:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss" target="_blank">Brazil call up Neymar to World Cup 2026 squad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/isalmic-ctr-sd-15-ap-gmh-260518_1779135977925_hpMain_4x3t_384.jpg" alt="3 adults killed in shooting at Islamic Center of San Diego; both suspects dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-islamic-center-san-diego-police/story?id=133081988" target="_blank">3 adults killed in shooting at Islamic Center of San Diego; both suspects dead</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-18 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779139020081_nbc_spec_sd_mosque_shooting_260518_S3_1920x1080-f6j9jt.jpg" alt="Three adults dead in shooting at San Diego Islamic Center, police chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/three-adults-dead-in-shooting-at-san-diego-islamic-center-police-chief-says-263540805607" target="_blank">Three adults dead in shooting at San Diego Islamic Center, police chief says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-18 21:17</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss" target="_blank">Police say they are responding to ‘active shooter’ at San Diego mosque</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-18 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss" target="_blank">Protests over fuel price hikes turn deadly in Kenya</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear" target="_blank">‘It is heartbreaking’: panic in eastern DRC over return of Ebola</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-18 18:33</span>
             </div>
         </div>
 </div>
@@ -161,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl" target="_blank">The second-order cost of a(nother) layoff year.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-May-2026-OSS-Archived" target="_blank">More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit &amp; Others</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-18 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18988371&w=600" alt="Securing Everything: Mapping the Right Identity and Access Protocol (OIDC, OAuth2, and SAML) to the Right Identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/securing-everything-mapping-the-right-identity-and" target="_blank">Securing Everything: Mapping the Right Identity and Access Protocol (OIDC, OAuth2, and SAML) to the Right Identity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-18 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,29 +216,20 @@
                 <span class="time">2026-05-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0f7lsc0gsnzssmt4jmmz.png" alt="Modeling a nut, in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lzpel/a-nut-in-rust-2oed" target="_blank">Modeling a nut, in Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iancowley/i-built-a-c-knowledge-layer-to-solve-the-ai-agent-memory-crisis-34mj" target="_blank">I built a C# Knowledge Layer to solve the AI Agent Memory Crisis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/" target="_blank">CISA Admin Leaked AWS GovCloud Keys on Github</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-05-18 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -232,12 +245,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/mel-brooks.jpg?fit=956%2C1200&amp;quality=60&amp;ssl=1" alt="Drew Friedman&#x27;s new Mel Brooks portrait marks the comedian&#x27;s 100th birthday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/18/drew-friedmans-new-mel-brooks-portrait-marks-the-comedians-100th-birthday.html" target="_blank">Drew Friedman&#x27;s new Mel Brooks portrait marks the comedian&#x27;s 100th birthday</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-18 22:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/02/8ba7c86c2021a9a0e23c91f6a637a337-1280x720.jpg" alt="Even The Worst Pokémon Are Someone’s Favorite And Now There’s Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/even-the-worst-pokemon-someones-favorites-now-theres-proof-2000697141" target="_blank">Even The Worst Pokémon Are Someone’s Favorite And Now There’s Proof</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-18 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRP8Y27T89EYCP84KX6CD96K/hero-image.jpg" alt="10 Hacks Every 1Password User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-1password-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every 1Password User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-18 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -267,29 +298,20 @@
                 <span class="time">2026-05-18 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2023/09/89d6851f4269e69486ef67711ff56aa5.jpg" alt="Netflix And Riot Seem To Be Scrubbing D4vd’s Arcane Song From The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/d4vd-burke-arcane-remember-me-song-netflix-episode-2000697087" target="_blank">Netflix And Riot Seem To Be Scrubbing D4vd’s Arcane Song From The Internet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-18 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get a Free Band or a $35 Credit When You Preorder the New Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbit-air-preorder-deal-may-2026?utm_medium=RSS" target="_blank">You Can Get a Free Band or a $35 Credit When You Preorder the New Fitbit Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-18 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/18/sentenced" target="_blank">Sentenced</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-18 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1779062362-20260517_edit.png" alt="Saturday Morning Breakfast Cereal - Criminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 96 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
