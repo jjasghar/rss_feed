@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 18:31:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-18 19:30:14 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 18:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 19:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss" target="_blank">Protests over fuel price hikes turn deadly in Kenya</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +102,38 @@
                 <span class="time">2026-05-18 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg" alt="At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss" target="_blank">At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/932817/playstation-exclusive-games-pc" target="_blank">PlayStation exclusives aren&amp;#8217;t coming to PC anymore</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-18 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Excavation.-Photo-BQ-500x500.jpg" alt="Australian Aboriginals cared for a dingo&#x27;s grave for decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/" target="_blank">Australian Aboriginals cared for a dingo&#x27;s grave for decades</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0b2e0760e580d0daee595e/master/pass/The%20Best%20Automatic%20Cat%20Feeders%20top%20art%20052026%20SOURCE%20PetKit-cheerble.jpg" alt="These 11 Automatic Cat Feeders Were the Best We Tested in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-automatic-cat-feeders/" target="_blank">These 11 Automatic Cat Feeders Were the Best We Tested in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-18 18:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-500x500.jpg" alt="New Lanterns teaser brings back the superhero vibes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,38 +161,29 @@
                 <span class="time">2026-05-18 13:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks" target="_blank">Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-18 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-v3-500x500.jpg" alt="The US space enterprise is desperately waiting for Starship—will it finally deliver?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/" target="_blank">The US space enterprise is desperately waiting for Starship—will it finally deliver?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a048013fa064c678fe3dcee/master/pass/GettyImages-2215577822.jpg" alt="How to Watch Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-watch-google-io/" target="_blank">How to Watch Google I/O 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b" target="_blank">Front Controller: The Pattern That Unifies Your Web Application&#x27;s Entry Point</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18986708&w=600" alt="The Third Culture: Blending Teams With Different Management Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-third-culture-blending-teams-with" target="_blank">The Third Culture: Blending Teams With Different Management Models</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-18 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0f7lsc0gsnzssmt4jmmz.png" alt="Modeling a nut, in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="time">2026-05-18 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/" target="_blank">Interviews Aren’t About You (Sorry)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-18 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18985306&w=600" alt="Bridging Gaps in SOC Maturity Using Detection Engineering and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/soc-maturity-detection-engineering-automation" target="_blank">Bridging Gaps in SOC Maturity Using Detection Engineering and Automation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/saroseclipseedit-1280x720.jpg" alt="Sony Reportedly Won’t Release Its Biggest Single-Player PlayStation Hits On PC Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-reportedly-wont-release-biggest-playstation-hits-pc-2000697092" target="_blank">Sony Reportedly Won’t Release Its Biggest Single-Player PlayStation Hits On PC Anymore</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-18 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2023/09/89d6851f4269e69486ef67711ff56aa5.jpg" alt="Netflix And Riot Seem To Be Scrubbing D4vd’s Arcane Song From The Internet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +293,6 @@
                 <span class="time">2026-05-18 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/ff6.jpg" alt="Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-creator-says-viral-ai-generated-final-fantasy-6-remake-video-looks-awesome-2000697042" target="_blank">Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-18 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 18:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 19:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
