@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 01:37:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-18 03:00:57 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 01:37 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/9ba8d540-5215-11f1-8b8c-6d33e1d5abb6.jpg" alt="Trump warns &#x27;clock is ticking&#x27; for Iran as peace progress stalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss" target="_blank">Trump warns &#x27;clock is ticking&#x27; for Iran as peace progress stalls</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-17 19:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/17/nx-s1-5824960/bus-riders-to-montgomery-retrace-old-steps-while-fighting-a-new-fight" target="_blank">Bus riders to Montgomery retrace old steps while fighting a new fight</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-17 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss" target="_blank">US college graduates face harsh job market amid economic uncertainty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-17 15:41</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0012303/three-memory-leak-patterns-in-long-running-scrapers-and-how-i-caught-them-after-968-trustpilot-5202" target="_blank">Three memory-leak patterns in long-running scrapers (and how I caught them after 968 Trustpilot runs)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 02:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmizqj3gaxw5q0zspakv.png" alt="GemmaChallenge: Build a Socratic Study Buddy with Gemma 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,19 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc4-Released" target="_blank">Linux 7.1-rc4 Released With Many Fixes, New Documentation For Security/AI Topics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-17 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tunmi_stom/building-ethereum-wallet-authentication-with-fastapi-and-web3py-182c" target="_blank">Building Ethereum Wallet Authentication with FastAPI and Web3.py</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-17 21:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gencad.github.io/" target="_blank">GenCAD</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-17 21:40</span>
             </div>
         </div>
 </div>
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 01:37 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
