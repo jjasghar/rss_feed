@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 13:03:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-18 15:01:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 13:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak" target="_blank">Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-18 14:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-260515_1778860067817_hpMain_4x3t_384.jpg" alt="Trump, in court filing, says he&#x27;s dropping his $10B lawsuit against IRS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trump-court-filings-plans-drop-10b-lawsuit-irs/story?id=133066043" target="_blank">Trump, in court filing, says he&#x27;s dropping his $10B lawsuit against IRS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-18 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +96,20 @@
                 <span class="time">2026-05-18 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in" target="_blank">Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-18 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/266523c0-52a5-11f1-89a3-d1f559421220.jpg" alt="At least six Americans exposed to Ebola during DR Congo outbreak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss" target="_blank">At least six Americans exposed to Ebola during DR Congo outbreak</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/P90641074_highRes_the-bmw-m3-cs-handsc-1-500x500.jpg" alt="BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/" target="_blank">BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +155,29 @@
                 <span class="time">2026-05-17 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/" target="_blank">Apple’s Siri revamp could include auto-deleting chats</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-17 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/en/headerimage/header-1778975533066.jpg" alt="Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-18 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19019749&w=600" alt="Genkit Middleware: Intercept, Extend, and Harden your Gen AI Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/genkit-middleware-ai-pipelines" target="_blank">Genkit Middleware: Intercept, Extend, and Harden your Gen AI Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-18 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1WCgs_OruAYEFk8tPiAxItPTsWeXrjq4j%26sz%3Dw751" alt="Elevating Open Source: Integrating Accessibility for Superior Engineering Outcomes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +214,6 @@
                 <span class="time">2026-05-18 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://www.csl.sri.com/users/neumann/psos.pdf" target="_blank">The foundations of a provably secure operating system (PSOS) (1979) [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-18 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-GKH-Clanker-2000" target="_blank">gkh_clanker_t1000 &amp; gkh_clanker_2000 Continue Uncovering Linux Kernel Bugs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-18 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/ff6.jpg" alt="Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/final-fantasy-creator-says-viral-ai-generated-final-fantasy-6-remake-video-looks-awesome-2000697042" target="_blank">Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-18 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/bman64.jpg" alt="Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +287,6 @@
                 <span class="time">2026-05-17 18:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Last chance to get GPT, Claude, and Gemini for life at $80" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/17/last-chance-to-get-gpt-claude-and-gemini-for-life-at-80.html" target="_blank">Last chance to get GPT, Claude, and Gemini for life at $80</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 68 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 13:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 66 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
