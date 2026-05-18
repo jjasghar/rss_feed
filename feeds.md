@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 19:30:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-18 20:28:30 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 19:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 20:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Police respond to report of active shooter at San Diego mosque" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Police respond to report of active shooter at San Diego mosque</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-18 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss" target="_blank">Police say they are responding to ‘active shooter’ at San Diego mosque</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-18 19:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +98,6 @@
                 <span class="time">2026-05-18 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-6-ap-gmh-260515_1778860067817_hpMain_4x3t_384.jpg" alt="DOJ announces $1.7B &#x27;Anti-Weaponization Fund&#x27; as part of Trump IRS lawsuit settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trump-court-filings-plans-drop-10b-lawsuit-irs/story?id=133066043" target="_blank">DOJ announces $1.7B &#x27;Anti-Weaponization Fund&#x27; as part of Trump IRS lawsuit settlement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-18 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/18/what-we-know-about-israels-interception-of-gaza-aid-flotilla?traffic_source=rss" target="_blank">What we know about Israel’s interception of Gaza aid flotilla</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/932817/playstation-exclusive-games-pc" target="_blank">PlayStation exclusives aren&amp;#8217;t coming to PC anymore</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-18 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/" target="_blank">Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-18 19:27</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/" target="_blank">BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-18 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0b109066c802d5da1c81d4/master/pass/GettyImages-2275947215.jpg" alt="The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/" target="_blank">The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-18 13:38</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KQFZEE6D8E2FX04CRQG0CNGW/hero-image.jpg" alt="Here&#x27;s What We Expect to See at Google I/O 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-we-expect-to-see-google-io-2026?utm_medium=RSS" target="_blank">Here&#x27;s What We Expect to See at Google I/O 2026</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-18 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/saroseclipseedit-1280x720.jpg" alt="Sony Reportedly Won’t Release Its Biggest Single-Player PlayStation Hits On PC Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +289,6 @@
                 <span class="time">2026-05-18 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/11/Steam-Machine.png?fit=1133%2C491&amp;quality=55&amp;ssl=1" alt="The Steam Controller doesn&#x27;t just scream. It sings, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/18/the-steam-controller-doesnt-just-scream-it-sings-too.html" target="_blank">The Steam Controller doesn&#x27;t just scream. It sings, too</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-18 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,13 +312,22 @@
                 <span class="time">2026-05-18 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/particle_census.png" alt="Particle Census" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3247/" target="_blank">Particle Census</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-18 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 19:30 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 20:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
