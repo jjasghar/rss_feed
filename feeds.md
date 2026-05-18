@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-18 16:54:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-18 17:40:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 15 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, May 18, 2026 - 16:54 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, May 18, 2026 - 17:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg" alt="At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss" target="_blank">At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-18 16:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,20 +97,20 @@
                 <span class="time">2026-05-18 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak" target="_blank">Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-18 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-500x500.jpg" alt="New Lanterns teaser brings back the superhero vibes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/" target="_blank">New Lanterns teaser brings back the superhero vibes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-18 17:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/P90641074_highRes_the-bmw-m3-cs-handsc-1-500x500.jpg" alt="BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +156,29 @@
                 <span class="time">2026-05-18 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69dd2761ffeed07de38ddc88/master/pass/Danish-Couples-Maverick-African-Research-Finds-Its-Moment-in-RFK-Jr-Vaccine-Policy-Science-2268917469.jpg" alt="A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/" target="_blank">A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-18 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/iancowley/i-built-a-c-knowledge-layer-to-solve-the-ai-agent-memory-crisis-34mj" target="_blank">I built a C# Knowledge Layer to solve the AI Agent Memory Crisis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-18 17:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/" target="_blank">Take your local GitHub sessions anywhere</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-18 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1noaqzbdnf2u9xgg0u5.png" alt="Memory management in C# - Part 2: hands-on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2026-05-18 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/en/headerimage/header-1778975533066.jpg" alt="Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swiggy Improves Search Autocomplete Using Real Time Machine Learning Ranking</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-18 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19019749&w=600" alt="Genkit Middleware: Intercept, Extend, and Harden your Gen AI Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/genkit-middleware-ai-pipelines" target="_blank">Genkit Middleware: Intercept, Extend, and Harden your Gen AI Pipelines</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-18 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KR4ATG8B9JQHQT5KTJEE2EVD/hero-image.png" alt="You Can Get a Free Band or a $35 Credit When You Preorder the New Fitbit Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbit-air-preorder-deal-may-2026?utm_medium=RSS" target="_blank">You Can Get a Free Band or a $35 Credit When You Preorder the New Fitbit Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-18 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/shutterstock_2129528744-scaled.jpg?fit=2560%2C1440&amp;quality=60&amp;ssl=1" alt="This website shows you exactly what sites know about you" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/18/this-website-shows-you-exactly-what-sites-know-about-you.html" target="_blank">This website shows you exactly what sites know about you</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-18 17:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/02/8085439ad4f0ce310d33524280ead7e7-1280x719.jpg" alt="Sony Is Raising The Price Of Playing Multiplayer Games On PlayStation 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +288,6 @@
                 <span class="time">2026-05-17 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/bman64.jpg" alt="Bomberman 64 Is A Masterpiece Of 3D Platformers Without A Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848" target="_blank">Bomberman 64 Is A Masterpiece Of 3D Platformers Without A Playbook</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-17 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/IQ-Career-Lab-Unlimited-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="A new type of IQ test pairs you with potential jobs, and it&#x27;s on sale for $20 (was $297)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/17/a-new-type-of-iq-test-pairs-you-with-potential-jobs-and-its-on-sale-for-20-was-297.html" target="_blank">A new type of IQ test pairs you with potential jobs, and it&#x27;s on sale for $20 (was $297)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 16:54 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 17:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
