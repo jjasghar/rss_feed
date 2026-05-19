@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 01:36:32 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2026-05-19 03:00:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 01:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +110,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b" target="_blank">LG will release the first 1000Hz, 1080p gaming monitor this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/" target="_blank">OSHA probing worker death at SpaceX’s Starbase site</a></span>
                 <span class="feed">TechCrunch</span>
@@ -142,20 +161,20 @@
                 <span class="time">2026-05-18 19:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Excavation.-Photo-BQ-500x500.jpg" alt="Australian Aboriginals cared for a dingo&#x27;s grave for decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/" target="_blank">Australian Aboriginals cared for a dingo&#x27;s grave for decades</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-18 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mike_anderson_d01f52129fb/from-idea-to-image-a-practical-midjourney-prompting-guide-1pad" target="_blank">From Idea to Image: A Practical Midjourney Prompting Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Multi-Crescent-Island" target="_blank">New Intel Xe Linux Graphics Driver Code Now Cites Multiple Crescent Island SKUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-18 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b" target="_blank">Front Controller: The Pattern That Unifies Your Web Application&#x27;s Entry Point</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 19:22</span>
             </div>
         </div>
 </div>
@@ -338,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:36 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
