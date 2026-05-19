@@ -1,20 +1,24 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 19:31:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 20:30:08 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
@@ -23,14 +27,18 @@
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 19:31 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 20:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +58,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss" target="_blank">Does Ukraine have the advantage at the moment?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss" target="_blank">Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-19 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola" target="_blank">Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-19 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +108,20 @@
                 <span class="time">2026-05-19 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/San-Diego-Db-260519_1779187164913_hpMain_4x3t_384.jpg" alt="What to know about the San Diego Islamic Center shooting suspects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/san-diego-islamic-center-shooting-suspects/story?id=133100694" target="_blank">What to know about the San Diego Islamic Center shooting suspects</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-19 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af70/live/fab5e320-5396-11f1-a6d5-ff84d685a95b.jpg" alt="Surrey Police investigating child sex abuse allegations after Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss" target="_blank">Surrey Police investigating child sex abuse allegations after Epstein files release</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-19 16:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a047ecbec98d3bd8037fdbe/master/pass/GettyImages-2215577882.jpg" alt="Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everything-google-announced-at-google-io-2026/" target="_blank">Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0cb2b791b600abc11af14d/master/pass/Meta-Employees-Scrambling-to-Use-Up-Benefits-Ahead-of-Layoffs-Business-2272777092.jpg" alt="Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +167,29 @@
                 <span class="time">2026-05-19 16:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/" target="_blank">OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-19 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg" target="_blank">Sanity SEO done right: Open Graph, JSON-LD, fallbacks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.autonocion.com/us/tesla-lithium-refinery-texas/" target="_blank">Tesla&#x27;s lithium refinery discharges 231,000 gallons of polluted wastewater a day</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-19 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3936242%2F5cebb340-ec45-4f77-b185-19f2c7d7a5e8.png" alt="RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +226,6 @@
                 <span class="time">2026-05-19 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18988005&w=600" alt="Ujorm3: A New Lightweight ORM for JavaBeans and Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ujorm3-lightweight-orm-java" target="_blank">Ujorm3: A New Lightweight ORM for JavaBeans and Records</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/" target="_blank">Gemini 3.5 Flash</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-19 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-1.jpg" alt="The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/latest-magic-the-gathering-secret-lair-drop-mess-creator-deck-2000697515" target="_blank">The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-19 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/cybertruck-dune-e1779218788744.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Tesla Cybertruck owner, intending to test &quot;wade mode,&quot; learns about &quot;sink mode&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/19/tesla-cybertruck-owner-intending-to-test-wade-mode-learns-about-sink-mode.html" target="_blank">Tesla Cybertruck owner, intending to test &quot;wade mode,&quot; learns about &quot;sink mode&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-19 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Kickstarter-official-image-from-blog-post.jpg" alt="Kickstarter Reverts Controversial Ban On ‘NSFW’ Projects But Says Stripe ‘Can Still Suspend’ Approved Campaigns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +308,6 @@
                 <span class="time">2026-05-19 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/The-Mandalorian-and-Grogu-official-artwork-Disney-1280x718.jpg" alt="Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-the-mandalorian-and-grogu-reviews-say-its-bringing-little-screen-energy-and-lacking-anything-special-2000697398" target="_blank">Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRZD59BMBX687WXHA203FR5C/hero-image.png" alt="These DeWalt Tools Are Up to 54% Off During an Early Memorial Day Sale at Home Depot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/dewalt-tools-early-memorial-day-sale-at-home-depot?utm_medium=RSS" target="_blank">These DeWalt Tools Are Up to 54% Off During an Early Memorial Day Sale at Home Depot</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,6 +320,15 @@
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/largest-cat-2/" target="_blank">Largest Cat 2</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
                 <span class="time">2026-05-19 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779137714-20260519-edit.png" alt="Saturday Morning Breakfast Cereal - Sick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sick-2" target="_blank">Saturday Morning Breakfast Cereal - Sick</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-19 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -328,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 38 | 📸 With Images: 247 |
-        🔄 Last Updated: 19:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 20:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
