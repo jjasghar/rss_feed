@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 09:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-19 11:00:11 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china?traffic_source=rss" target="_blank">At least 10 dead as huge floods sweep southern and central China</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-19 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113e/live/1244ba40-5327-11f1-b682-cf91850925ea.jpg" alt="Married at First Sight rape allegations serious, says government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight rape allegations serious, says government</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-19 08:40</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +92,29 @@
                 <span class="time">2026-05-19 05:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court" target="_blank">‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-19 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace" target="_blank">Gemini is in danger of going full Copilot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/" target="_blank">Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Norton Coupon Codes: Up to 58% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +151,29 @@
                 <span class="time">2026-05-18 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276381480-500x500.jpg" alt="Ebola outbreak: WHO declares emergency, US restricts travel, American infected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/" target="_blank">Ebola outbreak: WHO declares emergency, US restricts travel, American infected</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-18 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60" target="_blank">Volvo teases a new affordable EV to replace discontinued EX30</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-18 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslbwjyjpvpd8tzxbrzbn.png" alt="# Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/l00p4/-feature-flags-em-reactnextjs-guia-completo-com-configcat-e-context-api-4716" target="_blank"># Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-launches-ubuntu-core-26" target="_blank">Canonical launches Ubuntu Core 26</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-19 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +210,20 @@
                 <span class="time">2026-05-19 06:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://mtendekuyokwa.github.io/blog/end-of-semester/" target="_blank">End of the semester</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-19 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17343901/bleachbit-tui-alpha" target="_blank">The Famous Linux System Cleaner BleachBit Now Has a TUI (And I Tried It Out)</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-19 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html" target="_blank">Laurie Anderson Is Quoting Me</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
