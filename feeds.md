@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 16:56:09 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-19 17:46:03 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 15 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 16:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 17:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss" target="_blank">Trump says Xi assured him China would not send weapons to Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5736175/trump-endorses-ken-paxton-texas-senate" target="_blank">Trump endorses Ken Paxton over incumbent John Cornyn in Texas Senate primary runoff</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/San-Diego-Db-260519_1779187164913_hpMain_4x3t_384.jpg" alt="What to know about the San Diego Islamic Center shooting suspects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/blanche-pressed-over-who-can-get-compensation-from-anti-weaponization-fund-263580229829" target="_blank">&#x27;Anybody can apply&#x27;: Blanche pressed over who can get compensation from DOJ fund</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-19 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c01/live/1535d640-52a4-11f1-8b8c-6d33e1d5abb6.png" alt="HS2 could cost up to £102.7bn and trains will be slower than first planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss" target="_blank">HS2 could cost up to £102.7bn and trains will be slower than first planned</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-19 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss" target="_blank">Flight to Argentina: How significant is it for Israel’s LatAm outreach?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 14:22</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://virtualosmuseum.org/" target="_blank">I’ve built a virtual museum with nearly every operating system you can think of</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-19 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://virtualosmuseum.org/" target="_blank">I&#x27;ve built a virtual museum with nearly every operating system you can think of</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-19 15:53</span>
@@ -213,15 +217,6 @@
                 <span class="time">2026-05-19 13:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cvchelles/how-to-build-a-real-time-trading-bot-with-nodejs-20fg" target="_blank">How to Build a Real-Time Trading Bot with Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Lord-of-the-Fallen-2-official-image-from-CI-Games-1280x720.jpg" alt="Steam Players Rejoice As Lords Of The Fallen 2 Exclusivity Deal With Epic Games Store Goes In The Trash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-players-rejoice-as-lords-of-the-fallen-2-exclusivity-deal-with-epic-games-store-goes-in-the-trash-2000697375" target="_blank">Steam Players Rejoice As Lords Of The Fallen 2 Exclusivity Deal With Epic Games Store Goes In The Trash</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-19 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KRXPAV3MSYNDJRASC8SRHC37/hero-image.jpg" alt="10 Shows Like &#x27;Big Mistakes&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +299,20 @@
                 <span class="time">2026-05-18 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/02/8ba7c86c2021a9a0e23c91f6a637a337-1280x720.jpg" alt="Even The Worst Pokémon Are Someone’s Favorite And Now There’s Proof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/even-the-worst-pokemon-someones-favorites-now-theres-proof-2000697141" target="_blank">Even The Worst Pokémon Are Someone’s Favorite And Now There’s Proof</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-18 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/largest-cat-2/" target="_blank">Largest Cat 2</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-05-19 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 38 | 📸 With Images: 251 |
-        🔄 Last Updated: 16:56 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 39 | 📸 With Images: 249 |
+        🔄 Last Updated: 17:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
