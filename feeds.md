@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 11:00:11 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-19 12:07:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 11:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 12:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5805950/artificial-eggs-dodo-moa" target="_blank">To revive an extinct bird, you first need an artificial egg</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned" target="_blank">WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +101,38 @@
                 <span class="time">2026-05-19 07:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/g-s1-122775/putin-visits-china" target="_blank">Putin visits China to reaffirm Russia ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-19 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/19/wembanyama-scores-41-as-spurs-upset-thunder-in-game-1-thriller?traffic_source=rss" target="_blank">Wembanyama scores 41 as Spurs upset Thunder in Game 1 thriller</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 05:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones" target="_blank">Marshall brings ANC back to its smaller on-ear wireless headphones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Strait-of-Hormuz-TeleGeography-500x500.webp" alt="Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/" target="_blank">Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0b7e3cffc895e9e1d06f36/master/pass/gear_HMG_COYL_HeroStill_Desk_03_02.jpg" alt="The Herman Miller Coyl Standing Desk Is Built Just for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/" target="_blank">The Herman Miller Coyl Standing Desk Is Built Just for Gamers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,38 +160,20 @@
                 <span class="time">2026-05-19 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tempo-meals-promo-code/" target="_blank">Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b" target="_blank">LG will release the first 1000Hz, 1080p gaming monitor this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/" target="_blank">OSHA probing worker death at SpaceX’s Starbase site</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-18 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cvchelles/how-to-build-a-real-time-trading-bot-with-nodejs-20fg" target="_blank">How to Build a Real-Time Trading Bot with Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 12:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslbwjyjpvpd8tzxbrzbn.png" alt="# Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -163,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/l00p4/-feature-flags-em-reactnextjs-guia-completo-com-configcat-e-context-api-4716" target="_blank"># Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Bartlett-Lake-P-State-7.2" target="_blank">Linux 7.2 Will Fix The Intel P-State Driver For The New Bartlett Lake CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-19 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +219,6 @@
                 <span class="time">2026-05-19 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cool_x/devopsecr-107i" target="_blank">DEVOPS_ECR</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/vite-v8-rust/en/headerimage/generatedHeaderImage-1778770731355.jpg" alt="Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-19 06:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +242,20 @@
                 <span class="time">2026-05-18 20:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html" target="_blank">Zero-Day Exploit Against Windows BitLocker</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-18 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-18-144617-1280x761.jpg" alt="Zero Parades: For Dead Spies — The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/zero-parades-for-dead-spies-review-zaum-disco-elysium-pc-steam-2000697108" target="_blank">Zero Parades: For Dead Spies — The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/mel-brooks.jpg?fit=956%2C1200&amp;quality=60&amp;ssl=1" alt="Drew Friedman&#x27;s new Mel Brooks portrait marks the comedian&#x27;s 100th birthday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +301,6 @@
                 <span class="time">2026-05-18 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/saroseclipseedit-1280x720.jpg" alt="Sony Reportedly Won’t Release Its Biggest Single-Player PlayStation Hits On PC Anymore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-reportedly-wont-release-biggest-playstation-hits-pc-2000697092" target="_blank">Sony Reportedly Won’t Release Its Biggest Single-Player PlayStation Hits On PC Anymore</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-18 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 12:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
