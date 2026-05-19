@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 18:31:56 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 19:31:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 18:32 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 19:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss" target="_blank">Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bb/live/9d165df0-5394-11f1-82e5-bb1c743931bd.jpg" alt="&#x27;Ebola has tortured us&#x27;: Fear grips eastern DR Congo as deadly virus spreads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Ebola has tortured us&#x27;: Fear grips eastern DR Congo as deadly virus spreads</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-19 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af70/live/fab5e320-5396-11f1-a6d5-ff84d685a95b.jpg" alt="Surrey Police investigating child sex abuse allegations after Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/19/i-knew-amin-abdullah-the-hero-of-the-san-diego-mosque-shooting?traffic_source=rss" target="_blank">I knew Amin Abdullah, the hero of the San Diego mosque shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets" target="_blank">Minnesota becomes first state to ban prediction markets</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-19 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779202038546_f_mo_blanche_fund_compensation_260519_S3_1920x1080-354c7q.jpg" alt="&#x27;Anybody can apply&#x27;: Blanche pressed over who can get compensation from DOJ fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/blanche-pressed-over-who-can-get-compensation-from-anti-weaponization-fund-263580229829" target="_blank">&#x27;Anybody can apply&#x27;: Blanche pressed over who can get compensation from DOJ fund</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-19 14:47</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss" target="_blank">Surrey Police investigating child sex abuse allegations after Epstein files release</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-19 16:44</span>
             </div>
         </div>
 </div>
@@ -103,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0cb2b791b600abc11af14d/master/pass/Meta-Employees-Scrambling-to-Use-Up-Benefits-Ahead-of-Layoffs-Business-2272777092.jpg" alt="Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/" target="_blank">Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,29 @@
                 <span class="time">2026-05-19 15:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0c7b88cffddde770352b0c/master/pass/GettyImages-2158701398.jpg" alt="Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/" target="_blank">Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3936242%2F5cebb340-ec45-4f77-b185-19f2c7d7a5e8.png" alt="RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2" target="_blank">RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Removing-Deepin" target="_blank">Fedora Retiring Its Deepin Desktop Packages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-19 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +189,15 @@
                 <span class="title"><a href="https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn" target="_blank">ASN Lookup for Security Engineers: From Concept to Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ssh-keysign-pwn-linux-vulnerability-fixes-available" target="_blank">CVE-2026-46333 (ssh-keysign-pwn) Linux kernel vulnerability mitigations</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-19 18:20</span>
             </div>
         </div>
 <div class="story">
@@ -181,39 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!tEGy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F039155a2-16a1-481e-bddd-8774cb34e85d_1424x1174.png" alt="AI’s impact on software engineers in 2026: key trends, Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2" target="_blank">AI’s impact on software engineers in 2026: key trends, Part 2</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-19 16:43</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://virtualosmuseum.org/" target="_blank">I’ve built a virtual museum with nearly every operating system you can think of</a></span>
+                <span class="title"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/" target="_blank">Gemini 3.5 Flash</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-19 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://virtualosmuseum.org/" target="_blank">I&#x27;ve built a virtual museum with nearly every operating system you can think of</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-19 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-EPYC-8005-SKU-Table" target="_blank">AMD Announces The EPYC 8005 Series SKUs From 8 To 84 Cores</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-19 15:25</span>
+                <span class="time">2026-05-19 17:43</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 18:32 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 38 | 📸 With Images: 247 |
+        🔄 Last Updated: 19:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
