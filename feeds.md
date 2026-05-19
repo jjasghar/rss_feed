@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 05:16:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 07:05:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113e/live/1244ba40-5327-11f1-b682-cf91850925ea.jpg" alt="Married at First Sight rape allegations &#x27;serious&#x27;, says government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight rape allegations &#x27;serious&#x27;, says government</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-19 07:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/g-s1-122775/putin-visits-china" target="_blank">Putin visits China to reaffirm Russia ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/19/wembanyama-scores-41-as-spurs-upset-thunder-in-game-1-thriller?traffic_source=rss" target="_blank">Wembanyama scores 41 as Spurs upset Thunder in Game 1 thriller</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 05:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +103,20 @@
                 <span class="time">2026-05-18 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/isalmic-ctr-sd-15-ap-gmh-260518_1779135977925_hpMain_4x3t_384.jpg" alt="3 adults killed in shooting at Islamic Center of San Diego; both suspects dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/active-shooter-reported-islamic-center-san-diego-police/story?id=133081988" target="_blank">3 adults killed in shooting at Islamic Center of San Diego; both suspects dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-18 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779139020081_nbc_spec_sd_mosque_shooting_260518_S3_1920x1080-f6j9jt.jpg" alt="Three adults dead in shooting at San Diego Islamic Center, police chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/three-adults-dead-in-shooting-at-san-diego-islamic-center-police-chief-says-263540805607" target="_blank">Three adults dead in shooting at San Diego Islamic Center, police chief says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-18 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg" alt="Trump says he called off new Iran attack at request of Gulf states" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he called off new Iran attack at request of Gulf states</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-18 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tempo-meals-promo-code/" target="_blank">Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +162,6 @@
                 <span class="time">2026-05-18 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/" target="_blank">Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-18 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,45 +180,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mike_anderson_d01f52129fb/from-idea-to-image-a-practical-midjourney-prompting-guide-1pad" target="_blank">From Idea to Image: A Practical Midjourney Prompting Guide</a></span>
+                <span class="title"><a href="https://dev.to/cool_x/devopsecr-107i" target="_blank">DEVOPS_ECR</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 02:51</span>
+                <span class="time">2026-05-19 07:03</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-151.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 151: New Tab design changes, PDF merging + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://mtendekuyokwa.github.io/blog/end-of-semester/" target="_blank">End of the semester</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-19 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/firefox-151-released" target="_blank">Firefox 151: New Tab design changes, PDF merging + more</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-18 23:43</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17343901/bleachbit-tui-alpha" target="_blank">The Famous Linux System Cleaner BleachBit Now Has a TUI (And I Tried It Out)</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-19 04:29</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl" target="_blank">The second-order cost of a(nother) layoff year.</a></span>
+                <span class="title"><a href="https://dev.to/mike_anderson_d01f52129fb/from-idea-to-image-a-practical-midjourney-prompting-guide-1pad" target="_blank">From Idea to Image: A Practical Midjourney Prompting Guide</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-05-18 23:14</span>
+                <span class="time">2026-05-19 02:51</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://clickclickclick.click/" target="_blank">Click (2016)</a></span>
+                <span class="title"><a href="https://simonwillison.net/2026/May/19/5-minute-llms/" target="_blank">The last six months in LLMs in five minutes</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-18 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-May-2026-OSS-Archived" target="_blank">More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit &amp; Others</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-18 22:00</span>
+                <span class="time">2026-05-19 01:30</span>
             </div>
         </div>
 </div>
@@ -318,22 +326,13 @@
                 <span class="time">2026-05-18 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/18/sentenced" target="_blank">Sentenced</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-18 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
