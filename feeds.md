@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 00:24:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 01:36:32 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 01:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779149677707_nn_mch_IslamicCenterShooting_260518_S3_1920x1080-xbwbxm.jpg" alt="Deadly shooting at San Diego Islamic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/deadly-shooting-at-san-diego-islamic-center-263548997741" target="_blank">Deadly shooting at San Diego Islamic center</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-19 00:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +90,6 @@
                 <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Police respond to report of active shooter at San Diego mosque</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-18 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center?traffic_source=rss" target="_blank">Police say they are responding to ‘active shooter’ at San Diego mosque</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 19:42</span>
             </div>
         </div>
 </div>
@@ -177,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://clickclickclick.click/" target="_blank">Click (2016)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-18 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-May-2026-OSS-Archived" target="_blank">More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit &amp; Others</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b" target="_blank">Front Controller: The Pattern That Unifies Your Web Application&#x27;s Entry Point</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-18 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18986708&w=600" alt="The Third Culture: Blending Teams With Different Management Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-third-culture-blending-teams-with" target="_blank">The Third Culture: Blending Teams With Different Management Models</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-18 19:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
