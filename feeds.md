@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 03:00:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-19 05:16:27 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 05:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court" target="_blank">‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-19 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779149677707_nn_mch_IslamicCenterShooting_260518_S3_1920x1080-xbwbxm.jpg" alt="Deadly shooting at San Diego Islamic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss" target="_blank">Trump says he called off new Iran attack at request of Gulf states</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-18 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Police respond to report of active shooter at San Diego mosque" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  Police respond to report of active shooter at San Diego mosque</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-18 19:48</span>
             </div>
         </div>
 </div>
@@ -169,10 +162,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/" target="_blank">Your fridge could be a threat to national security</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-19 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mike_anderson_d01f52129fb/from-idea-to-image-a-practical-midjourney-prompting-guide-1pad" target="_blank">From Idea to Image: A Practical Midjourney Prompting Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 02:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/firefox-151.webp?resize=406%2C232&amp;ssl=1" alt="Firefox 151: New Tab design changes, PDF merging + more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/firefox-151-released" target="_blank">Firefox 151: New Tab design changes, PDF merging + more</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-18 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-May-2026-OSS-Archived" target="_blank">More Intel Open-Source Projects Formally Sunset: BigDL Time Series Toolkit &amp; Others</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-18 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18988371&w=600" alt="Securing Everything: Mapping the Right Identity and Access Protocol (OIDC, OAuth2, and SAML) to the Right Identity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/securing-everything-mapping-the-right-identity-and" target="_blank">Securing Everything: Mapping the Right Identity and Access Protocol (OIDC, OAuth2, and SAML) to the Right Identity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Multi-Crescent-Island" target="_blank">New Intel Xe Linux Graphics Driver Code Now Cites Multiple Crescent Island SKUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-18 19:50</span>
             </div>
         </div>
 </div>
@@ -334,22 +327,13 @@
                 <span class="time">2026-05-18 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/particle_census.png" alt="Particle Census" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3247/" target="_blank">Particle Census</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-18 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
