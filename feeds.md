@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 07:05:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-19 09:01:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 07:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china?traffic_source=rss" target="_blank">At least 10 dead as huge floods sweep southern and central China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-iran-waghorn_7252498.jpg?20260518185444" alt="&lt;a href=&quot;https://news.sky.com/video/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545637&quot;&gt;Who&#x27;s responsible for the atrocity that killed scores of children? The evidence points to America&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545788" target="_blank">&lt;a href=&quot;https://news.sky.com/video/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545637&quot;&gt;Who&#x27;s responsible for the atrocity that killed scores of children? The evidence points to America&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-19 08:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113e/live/1244ba40-5327-11f1-b682-cf91850925ea.jpg" alt="Married at First Sight rape allegations &#x27;serious&#x27;, says government" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +101,20 @@
                 <span class="time">2026-05-19 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779149677707_nn_mch_IslamicCenterShooting_260518_S3_1920x1080-xbwbxm.jpg" alt="Deadly shooting at San Diego Islamic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/deadly-shooting-at-san-diego-islamic-center-263548997741" target="_blank">Deadly shooting at San Diego Islamic center</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-19 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss" target="_blank">Brazil call up Neymar to World Cup 2026 squad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-18 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Norton Coupon Codes: Up to 58% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/norton-coupon-code/" target="_blank">Norton Coupon Codes: Up to 58% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" alt="Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2026-05-18 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/932817/playstation-exclusive-games-pc" target="_blank">PlayStation exclusives aren&amp;#8217;t coming to PC anymore</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-18 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Kernel-Untrusted-Data-API" target="_blank">The Linux Kernel Working On A Rust-Based Untrusted Data API</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-19 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/vite-v8-rust/en/headerimage/generatedHeaderImage-1778770731355.jpg" alt="Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/vite-v8-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-19 06:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -201,24 +217,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17343901/bleachbit-tui-alpha" target="_blank">The Famous Linux System Cleaner BleachBit Now Has a TUI (And I Tried It Out)</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-19 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mike_anderson_d01f52129fb/from-idea-to-image-a-practical-midjourney-prompting-guide-1pad" target="_blank">From Idea to Image: A Practical Midjourney Prompting Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonwillison.net/2026/May/19/5-minute-llms/" target="_blank">The last six months in LLMs in five minutes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-19 01:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 257 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
