@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 22:24:11 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 23:22:10 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 22:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 23:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike" target="_blank">Plex is tripling the price of a lifetime pass to $750 after doubling it last year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 23:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/master/pass/Commonwealth-Prize-AI-Scandal-Culture.jpg" alt="Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/" target="_blank">Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 22:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a0cd0c6b111266ea02ec093/master/pass/science_CAfire_AP26138855942421.jpg" alt="California&#x27;s Wildfire Season Is Already Overactive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -146,29 +161,20 @@
                 <span class="time">2026-05-19 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a047ecbec98d3bd8037fdbe/master/pass/GettyImages-2215577882.jpg" alt="Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everything-google-announced-at-google-io-2026/" target="_blank">Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0cb2b791b600abc11af14d/master/pass/Meta-Employees-Scrambling-to-Use-Up-Benefits-Ahead-of-Layoffs-Business-2272777092.jpg" alt="Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/" target="_blank">Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg" target="_blank">The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 23:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1579154204601-01588f351e67%3Fixlib%3Drb-4.0.3%26auto%3Dformat%26fit%3Dcrop%26w%3D1200%26q%3D80" alt="Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="title"><a href="https://www.autonocion.com/us/tesla-lithium-refinery-texas/" target="_blank">Tesla&#x27;s lithium refinery discharges 231,000 gallons of polluted wastewater a day</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-19 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3936242%2F5cebb340-ec45-4f77-b185-19f2c7d7a5e8.png" alt="RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2" target="_blank">RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 19:28</span>
             </div>
         </div>
 </div>
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:24 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 23:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
