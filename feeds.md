@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 21:27:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-19 22:24:11 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 21:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 22:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue" target="_blank">&#x27;Taiwan Travelogue&#x27; wins the 2026 International Booker Prize</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 21:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +105,38 @@
                 <span class="time">2026-05-19 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" alt="UK waters down Russian oil sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009" target="_blank">UK waters down Russian oil sanctions</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-19 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0cd0c6b111266ea02ec093/master/pass/science_CAfire_AP26138855942421.jpg" alt="California&#x27;s Wildfire Season Is Already Overactive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/californias-wildfire-season-already-overactive/" target="_blank">California&#x27;s Wildfire Season Is Already Overactive</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis" target="_blank">Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/" target="_blank">Google just declared itself a contender in AI design at IO 2026</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-19 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,38 +164,20 @@
                 <span class="time">2026-05-19 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules" target="_blank">Kickstarter just killed its new mature content rules</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1303783356-500x500.jpg" alt="In stunning display of stupid, secret CISA credentials found in public GitHub repo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/" target="_blank">In stunning display of stupid, secret CISA credentials found in public GitHub repo</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-19 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote" target="_blank">Google I/O 2026 live blog: On the ground at Google’s keynote</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1579154204601-01588f351e67%3Fixlib%3Drb-4.0.3%26auto%3Dformat%26fit%3Dcrop%26w%3D1200%26q%3D80" alt="Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-mj9" target="_blank">Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-19 22:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkw0adpa9jk82yi0kj66q.png" alt="Agent Traces Need to Cross the MCP Boundary | Focused Labs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +223,6 @@
                 <span class="time">2026-05-19 19:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/claude-mcp-tunnels/en/headerimage/generatedHeaderImage-1779216964890.jpg" alt="Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/claude-mcp-tunnels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Introduces MCP Tunnels for Private Agent Access to Internal Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-19 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +242,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/startrekcomic-1280x720.jpg" alt="One Of The Last Surviving Writers On The Original Star Trek Is Returning As Part Of A New, Massive 60th Anniversary Comic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-trek-60th-anniversary-comic-idw-original-series-writer-tribbles-special-paramount-picard-2000697531" target="_blank">One Of The Last Surviving Writers On The Original Star Trek Is Returning As Part Of A New, Massive 60th Anniversary Comic</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-19 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS0X7610RKKWSB4P8TX5E2DC/hero-image.png" alt="Google Just Announced When Its First &#x27;Intelligent Eyewear&#x27; Smart Glasses Will Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-samsung-smart-glasses-coming-this-fall?utm_medium=RSS" target="_blank">Google Just Announced When Its First &#x27;Intelligent Eyewear&#x27; Smart Glasses Will Launch</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-19 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-2024-Home-Business-Windows-11-Pro-Bundle-1.jpg?fit=1536%2C1024&amp;quality=60&amp;ssl=1" alt="Microsoft 365 is almost $100/year, but you can get Microsoft Office and Windows 11 Pro for life for only $135" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/19/microsoft-365-is-almost-100-year-but-you-can-get-microsoft-office-and-windows-11-pro-for-life-for-only-135.html" target="_blank">Microsoft 365 is almost $100/year, but you can get Microsoft Office and Windows 11 Pro for life for only $135</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-1.jpg" alt="The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +296,6 @@
                 <span class="time">2026-05-19 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/image-3.jpeg?fit=1810%2C1168&amp;quality=60&amp;ssl=1" alt="The UK has formally declared Badger Badger Badger worthy of preservation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/19/the-uk-has-formally-declared-badger-badger-badger-worthy-of-preservation.html" target="_blank">The UK has formally declared Badger Badger Badger worthy of preservation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-19 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Lord-of-the-Fallen-2-official-image-from-CI-Games-1280x720.jpg" alt="Steam Players Rejoice As Lords Of The Fallen 2 Exclusivity Deal With Epic Games Store Goes In The Trash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-players-rejoice-as-lords-of-the-fallen-2-exclusivity-deal-with-epic-games-store-goes-in-the-trash-2000697375" target="_blank">Steam Players Rejoice As Lords Of The Fallen 2 Exclusivity Deal With Epic Games Store Goes In The Trash</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRXPAV3MSYNDJRASC8SRHC37/hero-image.jpg" alt="10 Shows Like &#x27;Big Mistakes&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-big-mistakes?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Big Mistakes&#x27; You Should Watch Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-19 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,22 +319,13 @@
                 <span class="time">2026-05-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/18/sentenced" target="_blank">Sentenced</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-18 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 21:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
