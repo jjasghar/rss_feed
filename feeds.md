@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 12:07:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-19 13:58:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 12:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 13:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem" target="_blank">Activists say Israel tries to expel a whole Palestinian neighborhood in East Jerusalem</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad?traffic_source=rss" target="_blank">Ronaldo to lead Portugal at sixth World Cup as Martinez names squad</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again" target="_blank">As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-19 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/islamic-center-shooting-security-guard_1779188833953_hpMain_4x3t_384.jpg" alt="Security guard at Islamic Center of San Diego hailed as a hero" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/security-guard-islamic-center-san-diego-hailed-hero/story?id=133101287" target="_blank">Security guard at Islamic Center of San Diego hailed as a hero</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-19 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5805950/artificial-eggs-dodo-moa" target="_blank">To revive an extinct bird, you first need an artificial egg</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-19 12:00</span>
@@ -65,47 +100,20 @@
                 <span class="time">2026-05-19 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china?traffic_source=rss" target="_blank">At least 10 dead as huge floods sweep southern and central China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113e/live/1244ba40-5327-11f1-b682-cf91850925ea.jpg" alt="Married at First Sight rape allegations serious, says government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight rape allegations serious, says government</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-19 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-iran-waghorn_7252498.jpg?20260518185444" alt="&lt;a href=&quot;https://news.sky.com/video/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545637&quot;&gt;Who&#x27;s responsible for the atrocity that killed scores of children? The evidence points to America&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545788" target="_blank">&lt;a href=&quot;https://news.sky.com/video/sky-news-is-the-first-international-news-team-at-school-hit-by-alleged-us-strike-13545637&quot;&gt;Who&#x27;s responsible for the atrocity that killed scores of children? The evidence points to America&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-19 08:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113e/live/1244ba40-5327-11f1-b682-cf91850925ea.jpg" alt="Married at First Sight rape allegations &#x27;serious&#x27;, says government" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss" target="_blank">Married at First Sight rape allegations &#x27;serious&#x27;, says government</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-19 07:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/" target="_blank">Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/" target="_blank">Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Norton Coupon Codes: Up to 58% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/norton-coupon-code/" target="_blank">Norton Coupon Codes: Up to 58% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 05:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 12:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 13:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
