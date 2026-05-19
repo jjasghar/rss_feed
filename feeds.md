@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 15:11:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-19 16:56:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 15 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, May 19, 2026 - 16:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/San-Diego-Db-260519_1779187164913_hpMain_4x3t_384.jpg" alt="What to know about the San Diego Islamic Center shooting suspects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/san-diego-islamic-center-shooting-suspects/story?id=133100694" target="_blank">What to know about the San Diego Islamic Center shooting suspects</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-19 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/19/i-knew-amin-abdullah-the-hero-of-the-san-diego-mosque-shooting?traffic_source=rss" target="_blank">I knew Amin Abdullah, the hero of the San Diego mosque shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-19 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets" target="_blank">Minnesota becomes first state to ban prediction markets</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-19 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779202038546_f_mo_blanche_fund_compensation_260519_S3_1920x1080-354c7q.jpg" alt="&#x27;Anybody can apply&#x27;: Blanche pressed over who can get compensation from DOJ fund" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/blanche-pressed-over-who-can-get-compensation-from-anti-weaponization-fund-263580229829" target="_blank">&#x27;Anybody can apply&#x27;: Blanche pressed over who can get compensation from DOJ fund</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-19 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c01/live/1535d640-52a4-11f1-8b8c-6d33e1d5abb6.png" alt="HS2 could cost up to £102.7bn and trains will be slower than first planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss" target="_blank">HS2 could cost up to £102.7bn and trains will be slower than first planned</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-19 14:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -57,56 +104,47 @@
                 <span class="time">2026-05-19 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff64/live/547a9890-536c-11f1-89a3-d1f559421220.jpg" alt="Ebola outbreak may be spreading faster than first thought, WHO doctor warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss" target="_blank">Ebola outbreak may be spreading faster than first thought, WHO doctor warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-19 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned" target="_blank">WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-19 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/g-s1-122281/u-s-aid-usaid-trump-violence" target="_blank">A study investigates: Did the abrupt end of USAID have an impact on violence?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-19 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem" target="_blank">Activists say Israel tries to expel a whole Palestinian neighborhood in East Jerusalem</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-19 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad?traffic_source=rss" target="_blank">Ronaldo to lead Portugal at sixth World Cup as Martinez names squad</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote" target="_blank">Google I/O 2026 live blog: On the ground at Google’s keynote</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-19 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/1000hz-500x500-1779206000.webp" alt="The era of 1,000 Hz gaming monitors has arrived, but why?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/" target="_blank">The era of 1,000 Hz gaming monitors has arrived, but why?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-19 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/" target="_blank">OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-19 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0c7b88cffddde770352b0c/master/pass/GettyImages-2158701398.jpg" alt="Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/" target="_blank">Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0c7a91ad145d0ad7988f7a/master/pass/2255688649" alt="Former OpenAI Staffers Warn xAI&#x27;s Poor Safety Record Could Complicate SpaceX’s IPO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,47 +163,38 @@
                 <span class="time">2026-05-19 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/" target="_blank">Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones" target="_blank">Marshall brings ANC back to its smaller on-ear wireless headphones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Strait-of-Hormuz-TeleGeography-500x500.webp" alt="Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/" target="_blank">Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0b7e3cffc895e9e1d06f36/master/pass/gear_HMG_COYL_HeroStill_Desk_03_02.jpg" alt="The Herman Miller Coyl Standing Desk Is Built Just for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/" target="_blank">The Herman Miller Coyl Standing Desk Is Built Just for Gamers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://virtualosmuseum.org/" target="_blank">I&#x27;ve built a virtual museum with nearly every operating system you can think of</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-19 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-EPYC-8005-SKU-Table" target="_blank">AMD Announces The EPYC 8005 Series SKUs From 8 To 84 Cores</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-19 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17344234/bitwarden-quiet-changes" target="_blank">Things Are Quietly Changing at Bitwarden, and People Are Worried</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-19 15:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18988631&w=600" alt="Lambda-Driven API Design: Building Composable Node.js Endpoints With Functional Primitives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/cvchelles/how-to-build-a-real-time-trading-bot-with-nodejs-20fg" target="_blank">How to Build a Real-Time Trading Bot with Node.js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17344118/azure-linux-4" target="_blank">Wow! Microsoft Now Has a Fedora-based Linux Distro</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-19 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslbwjyjpvpd8tzxbrzbn.png" alt="# Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/l00p4/-feature-flags-em-reactnextjs-guia-completo-com-configcat-e-context-api-4716" target="_blank"># Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Bartlett-Lake-P-State-7.2" target="_blank">Linux 7.2 Will Fix The Intel P-State Driver For The New Bartlett Lake CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-19 10:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KRXPAV3MSYNDJRASC8SRHC37/hero-image.jpg" alt="10 Shows Like &#x27;Big Mistakes&#x27; You Should Watch Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/shows-like-big-mistakes?utm_medium=RSS" target="_blank">10 Shows Like &#x27;Big Mistakes&#x27; You Should Watch Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-19 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/The-Mandalorian-and-Grogu-official-artwork-Disney-1280x718.jpg" alt="Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +304,6 @@
                 <span class="time">2026-05-18 21:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KRP8Y27T89EYCP84KX6CD96K/hero-image.jpg" alt="10 Hacks Every 1Password User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hacks-every-1password-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every 1Password User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-18 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +318,13 @@
                 <span class="time">2026-05-18 21:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779062362-20260517_edit.png" alt="Saturday Morning Breakfast Cereal - Criminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/criminal" target="_blank">Saturday Morning Breakfast Cereal - Criminal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-18 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 38 | 📸 With Images: 254 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 38 | 📸 With Images: 251 |
+        🔄 Last Updated: 16:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
