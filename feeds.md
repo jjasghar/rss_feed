@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 10:58:18 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 11:59:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 10:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 11:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721d/live/80717220-543e-11f1-be9a-315565996c62.jpg" alt="Xi basks in spotlight as he hosts Putin days after Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss" target="_blank">Xi basks in spotlight as he hosts Putin days after Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-20 11:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -62,6 +71,15 @@
                 <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022" target="_blank">Trump helps oust Massie and other takeaways from Tuesday&#x27;s primaries</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-20 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo-bunia_7253826.jpg?20260520104653" alt="Suspected Ebola cases reaches 600 and more expected - WHO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/suspected-ebola-cases-reaches-600-and-more-expected-who-13546173" target="_blank">Suspected Ebola cases reaches 600 and more expected - WHO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-20 09:38</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +100,20 @@
                 <span class="time">2026-05-20 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/20/bangladesh-beat-pakistan-by-78-runs-to-clinch-historic-test-series-win?traffic_source=rss" target="_blank">Bangladesh beat Pakistan by 78 runs to clinch historic Test series win</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis" target="_blank">Bolivia&#x27;s capital under siege as protests deepen crisis for President Paz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="How to Upgrade Weber and Kamado Joe Into Smart Grills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/" target="_blank">How to Upgrade Weber and Kamado Joe Into Smart Grills</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg" alt="Election Officials Are Getting Ready for ICE to Show Up at the Polls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +159,6 @@
                 <span class="time">2026-05-20 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs" target="_blank">Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-20 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,10 +176,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17344740/onlyoffice-docs-9-4-release" target="_blank">Open Source ONLYOFFICE Docs 9.4 Brings Dark Spreadsheets, Smarter Forms, and a Licensing Cleanup</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-20 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/HP-Sponsoring-LVFS-Fwupd" target="_blank">HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-20 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html" target="_blank">Learnings from 100K lines of Rust with AI (2025)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-20 10:04</span>
             </div>
         </div>
 <div class="story">
@@ -200,43 +218,20 @@
                 <span class="time">2026-05-20 06:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html" target="_blank">Everything in C is undefined behavior</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-20 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/xu_xu_b2179aa8fc958d531d1/the-subscription-you-dont-actually-own-what-github-copilots-new-pricing-reveals-about-ai-tool-32e" target="_blank">The Subscription You Don&#x27;t Actually Own: What GitHub Copilot&#x27;s New Pricing Reveals About AI Tool Dependency</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 05:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html" target="_blank">Laurie Anderson Is Quoting Me</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-19 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/broken-sword.jpg" alt="Sonic The Hedgehog Production Company Is Bringing Classic Adventure Broken Sword To The Big Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/broken-sword-movie-sonic-the-hedgehog-templar-2000697783" target="_blank">Sonic The Hedgehog Production Company Is Bringing Classic Adventure Broken Sword To The Big Screen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/samizdat.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Sci-Hub and Libgen descend from a Soviet tradition of smuggled science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +277,6 @@
                 <span class="time">2026-05-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-1.jpg" alt="The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/latest-magic-the-gathering-secret-lair-drop-mess-creator-deck-2000697515" target="_blank">The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-19 20:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 10:58 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 11:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
