@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 05:17:19 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 07:04:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 05:17 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/20/bangladesh-beat-pakistan-by-78-runs-to-clinch-historic-test-series-win?traffic_source=rss" target="_blank">Bangladesh beat Pakistan by 78 runs to clinch historic Test series win</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis" target="_blank">Bolivia&#x27;s capital under siege as protests deepen crisis for President Paz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-20 05:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/massie-3-ap-gmh-260519_1779238913925_hpMain_4x3t_384.jpg" alt="Takeaways from Tuesday&#x27;s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022" target="_blank">Takeaways from Tuesday&#x27;s primaries</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-20 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d456/live/c9a74fe0-53fe-11f1-89a3-d1f559421220.jpg" alt="Trump&#x27;s Greenland envoy faces uphill battle on mission to make &#x27;friends&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s Greenland envoy faces uphill battle on mission to make &#x27;friends&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-20 03:49</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +98,29 @@
                 <span class="time">2026-05-20 01:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss" target="_blank">US Senate advances resolution to curb Trump’s power to wage war on Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, Republican primary for governor goes to a runoff between Trump backers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">Dell Coupon Codes: 20% Off for May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs" target="_blank">Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-20 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +157,20 @@
                 <span class="time">2026-05-19 22:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/" target="_blank">Google just declared itself a contender in AI design at IO 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-19 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg" alt="FBI seeks US-wide access to license plate cameras, wants &quot;data in near real time&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/" target="_blank">FBI seeks US-wide access to license plate cameras, wants &quot;data in near real time&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-19 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lukas_brunner/detecting-silent-model-failure-drift-monitoring-that-actually-works-58lh" target="_blank">Detecting Silent Model Failure: Drift Monitoring That Actually Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 06:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg" target="_blank">The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1579154204601-01588f351e67%3Fixlib%3Drb-4.0.3%26auto%3Dformat%26fit%3Dcrop%26w%3D1200%26q%3D80" alt="Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-mj9" target="_blank">Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 22:18</span>
             </div>
         </div>
 </div>
@@ -316,7 +318,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 05:17 UTC
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
