@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 09:00:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 10:58:18 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 09:00 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 10:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/us-and-israel-planned-to-install-ahmadinejad-as-iranian-leader-nyt-says?traffic_source=rss" target="_blank">US and Israel planned to install Ahmadinejad as Iranian leader, NYT says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/massie-3-ap-gmh-260519_1779238913925_hpMain_4x3t_384.jpg" alt="Trump helps oust Massie and other takeaways from Tuesday&#x27;s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022" target="_blank">Trump helps oust Massie and other takeaways from Tuesday&#x27;s primaries</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-20 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss" target="_blank">Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-20 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/c5cfe140-542e-11f1-89a3-d1f559421220.png" alt="Supermarkets hit back over pressure to cap price of milk, bread and eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss" target="_blank">Supermarkets hit back over pressure to cap price of milk, bread and eggs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-20 08:30</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +100,29 @@
                 <span class="time">2026-05-20 05:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/massie-3-ap-gmh-260519_1779238913925_hpMain_4x3t_384.jpg" alt="Takeaways from Tuesday&#x27;s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022" target="_blank">Takeaways from Tuesday&#x27;s primaries</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-20 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d456/live/c9a74fe0-53fe-11f1-89a3-d1f559421220.jpg" alt="Trump&#x27;s Greenland envoy faces uphill battle on mission to make &#x27;friends&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s Greenland envoy faces uphill battle on mission to make &#x27;friends&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast?traffic_source=rss" target="_blank">Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 02:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a05ea458888ff8e2bbc35f3/master/pass/GettyImages-1244618007.jpg" alt="Election Officials Are Getting Ready for ICE to Show Up at the Polls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms/" target="_blank">Election Officials Are Getting Ready for ICE to Show Up at the Polls</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply" target="_blank">Samsung workers set to strike at worst possible time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-20 08:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/33-500x500-1779202639.jpg" alt="Moose-proof and megacasting: Ars drives the new Volvo EX60" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +159,29 @@
                 <span class="time">2026-05-20 03:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike" target="_blank">Plex is tripling the price of a lifetime pass to $750 after doubling it last year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/master/pass/Commonwealth-Prize-AI-Scandal-Culture.jpg" alt="Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/" target="_blank">Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yamuno-software/how-to-document-apis-in-confluence-4kja" target="_blank">How to Document APIs in Confluence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HP-Sponsoring-LVFS-Fwupd" target="_blank">HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-20 10:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,37 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html" target="_blank">Everything in C is undefined behavior</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-20 06:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/xu_xu_b2179aa8fc958d531d1/the-subscription-you-dont-actually-own-what-github-copilots-new-pricing-reveals-about-ai-tool-32e" target="_blank">The Subscription You Don&#x27;t Actually Own: What GitHub Copilot&#x27;s New Pricing Reveals About AI Tool Dependency</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/" target="_blank">Pack your agentic stack in Slack</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-20 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgk7re0348wp1wb9mgdv.png" alt="Building Real-Time Trading Systems: Why We Abandoned Go for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/speed_engineer/building-real-time-trading-systems-why-we-abandoned-go-for-rust-21km" target="_blank">Building Real-Time Trading Systems: Why We Abandoned Go for Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fivethirtyeightindex.com/" target="_blank">FiveThirtyEight articles on the Internet Archive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-20 01:34</span>
             </div>
         </div>
 </div>
@@ -296,6 +299,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/20/it-s-an-older-code-but-it-checks-out" target="_blank">It&#x27;s An Older Code, But it Checks Out</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-20 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/largest-cat-2/" target="_blank">Largest Cat 2</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -316,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 09:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 10:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
