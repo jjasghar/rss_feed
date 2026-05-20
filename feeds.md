@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 11:59:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-20 13:10:24 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 11:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo-bunia_7253826.jpg?20260520104653" alt="Suspected Ebola cases reach 600 and more expected - WHO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/suspected-ebola-cases-reaches-600-and-more-expected-who-13546173" target="_blank">Suspected Ebola cases reach 600 and more expected - WHO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-20 09:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo-bunia_7253826.jpg?20260520104653" alt="Suspected Ebola cases reaches 600 and more expected - WHO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss" target="_blank">Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-20 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/c5cfe140-542e-11f1-89a3-d1f559421220.png" alt="Supermarkets hit back over pressure to cap price of milk, bread and eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss" target="_blank">Supermarkets hit back over pressure to cap price of milk, bread and eggs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 08:30</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Greg-KH-More-Rust-Linux" target="_blank">Greg KH Calls For More Rust Linux Developers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-20 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18984386&w=600" alt="How AI Coding Assistants Are Changing Developer Flow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-assistants-change-developer-flow" target="_blank">How AI Coding Assistants Are Changing Developer Flow</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yamuno-software/how-to-document-apis-in-confluence-4kja" target="_blank">How to Document APIs in Confluence</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,24 +210,6 @@
                 <span class="title"><a href="https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html" target="_blank">Learnings from 100K lines of Rust with AI (2025)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-20 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pickuma/conductor-joins-the-cloud-coding-agent-rush-remote-ai-devs-leave-the-laptop-27cl" target="_blank">Conductor Joins the Cloud Coding Agent Rush: Remote AI Devs Leave the Laptop</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lukas_brunner/detecting-silent-model-failure-drift-monitoring-that-actually-works-58lh" target="_blank">Detecting Silent Model Failure: Drift Monitoring That Actually Works</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 06:55</span>
             </div>
         </div>
 </div>
@@ -314,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 122 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
