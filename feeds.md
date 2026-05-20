@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 00:25:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-20 01:37:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 01:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss" target="_blank">US Senate advances resolution to curb Trump’s power to wage war on Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 00:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, Republican primary for governor goes to a runoff between Trump backers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-20 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-Rep-94cf2a.jpg" alt="Trump-endorsed Ed Gallrein unseats Rep. Thomas Massie in Kentucky GOP primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-agrees-not-pursue-tax-claims-trump-part-irs-deal-rcna345973" target="_blank">Justice Department agrees not to pursue any tax claims against Trump as part of IRS deal</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-19 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2026/5/19/does-ukraine-have-the-advantage-at-the-moment?traffic_source=rss" target="_blank">Does Ukraine have the advantage at the moment?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss" target="_blank">Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 18:55</span>
             </div>
         </div>
 </div>
@@ -172,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GTK4-For-Vim" target="_blank">Vim Merges GTK4 Toolkit Support, Co-Authored-By Claude</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-20 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg" target="_blank">The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/retesting-best-practices-for-agile-teams-a-guide" target="_blank">Retesting Best Practices for Agile Teams: A Quick Guide to Bug Fix Verification</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.autonocion.com/us/tesla-lithium-refinery-texas/" target="_blank">Tesla&#x27;s lithium refinery discharges 231,000 gallons of polluted wastewater a day</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-19 19:52</span>
             </div>
         </div>
 </div>
@@ -324,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
