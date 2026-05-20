@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 07:04:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-20 09:00:45 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 09:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss" target="_blank">Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 08:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2026-05-20 02:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg" alt="UK loosens Russian oil sanctions as fuel prices rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss" target="_blank">UK loosens Russian oil sanctions as fuel prices rise</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 01:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/33-500x500-1779202639.jpg" alt="Moose-proof and megacasting: Ars drives the new Volvo EX60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/" target="_blank">Moose-proof and megacasting: Ars drives the new Volvo EX60</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-20 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/" target="_blank">‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-20 05:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +156,20 @@
                 <span class="time">2026-05-19 22:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0cd0c6b111266ea02ec093/master/pass/science_CAfire_AP26138855942421.jpg" alt="California&#x27;s Wildfire Season Is Already Overactive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/californias-wildfire-season-already-overactive/" target="_blank">California&#x27;s Wildfire Season Is Already Overactive</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-19 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis" target="_blank">Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-19 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pickuma/conductor-joins-the-cloud-coding-agent-rush-remote-ai-devs-leave-the-laptop-27cl" target="_blank">Conductor Joins the Cloud Coding Agent Rush: Remote AI Devs Leave the Laptop</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 08:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/" target="_blank">Pack your agentic stack in Slack</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-20 04:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgk7re0348wp1wb9mgdv.png" alt="Building Real-Time Trading Systems: Why We Abandoned Go for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,28 +209,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GTK4-For-Vim" target="_blank">Vim Merges GTK4 Toolkit Support, Co-Authored-By Claude</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-20 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://status.railway.com/?date=20260519" target="_blank">Railway Blocked by Google Cloud</a></span>
+                <span class="title"><a href="https://fivethirtyeightindex.com/" target="_blank">FiveThirtyEight articles on the Internet Archive</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-20 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg" target="_blank">The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 23:16</span>
+                <span class="time">2026-05-20 01:34</span>
             </div>
         </div>
 </div>
@@ -317,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 09:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
