@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 20:39:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 21:31:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 20:39 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 21:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-500x500.jpg" alt="NASA&#x27;s Psyche spacecraft returns unfamiliar views of a familiar world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/" target="_blank">NASA&#x27;s Psyche spacecraft returns unfamiliar views of a familiar world</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-20 21:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-500x500.jpg" alt="Masters of the Universe final trailer brings the &#x27;80s nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -148,20 +162,29 @@
                 <span class="time">2026-05-20 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-search-500x500.jpg" alt="Buckle up: Google is set to remake search with agentic AI in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/" target="_blank">Buckle up: Google is set to remake search with agentic AI in 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-20 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/retrovirusretro/chat-with-your-database-in-plain-english-locally-for-free-2l0c" target="_blank">Chat with your database in plain English — locally, for free</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub’s internal repositories</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-20 21:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/ubuntu-core-iot.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +221,6 @@
                 <span class="time">2026-05-20 19:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990912&w=600" alt="From APIs to Actions: Rethinking Back-End Design for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apis-to-actions-backend-for-agents" target="_blank">From APIs to Actions: Rethinking Back-End Design for Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vanenshi/spec-anchor-development-the-methodology-that-replaced-our-ai-chaos-40pf" target="_blank">Spec Anchor Development: The Methodology That Replaced Our AI Chaos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Fix Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952" target="_blank">Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Fix Its Console</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +294,6 @@
                 <span class="time">2026-05-20 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Limmy-waking-up-meme-with-Batman-mask.jpg" alt="Lego Batman: Legacy Of The Dark Knight Features A Limmy Show Deep Cut Most People Probably Won’t Understand" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-batman-legacy-of-the-dark-knight-features-a-limmy-show-deep-cut-most-people-probably-wont-understand-2000697535" target="_blank">Lego Batman: Legacy Of The Dark Knight Features A Limmy Show Deep Cut Most People Probably Won’t Understand</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 20:39 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 21:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
