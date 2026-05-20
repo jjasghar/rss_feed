@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 22:27:47 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 23:25:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 22:27 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 23:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss" target="_blank">Elon Musk’s SpaceX unveils filing for blockbuster IPO</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 22:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +105,6 @@
                 <span class="time">2026-05-20 19:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5828826/us-palestinians-un" target="_blank">US threatens to revoke the Palestinian UN ambassador&#x27;s visa</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 18:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,6 +117,24 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/" target="_blank">xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-20 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg" alt="The Best Outdoor Deals From the REI Anniversary Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-anniversary-sale-2026/" target="_blank">The Best Outdoor Deals From the REI Anniversary Sale 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 22:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/business/902219/spacex-ipo-details" target="_blank">SpaceX just filed for what could be the biggest IPO ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-20 21:29</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +164,20 @@
                 <span class="time">2026-05-20 20:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/" target="_blank">Tesla’s Full Self-Driving software is creeping into Europe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-20 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/791574/best-switch-2-controllers" target="_blank">I’ve tested the latest Switch 2 controllers, and this one is the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-20 18:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andremmfaria/raising-a-good-junior-what-ai-gets-wrong-about-knowledge-and-what-it-means-for-the-next-generation-18ne" target="_blank">Raising a Good Junior: What AI Gets Wrong About Knowledge and What It Means for the Next Generation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +223,6 @@
                 <span class="time">2026-05-20 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm" target="_blank">Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +249,15 @@
                 <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-the-boys-series-finale-and-that-scene-with-homelander-2000697982" target="_blank">The Internet Reacts To The Boys Series Finale And That Scene With Homelander</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-20 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Fooducate-Pro-Meal-Tracking-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $40 food-tracking app may tell you more about your groceries than the box does" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/20/this-40-food-tracking-app-may-tell-you-more-about-your-groceries-than-the-box-does.html" target="_blank">This $40 food-tracking app may tell you more about your groceries than the box does</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-20 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,20 +296,20 @@
                 <span class="time">2026-05-20 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J5R8K2SBTJDTSYWN3F1QS498/hero-image.png" alt="Sony&#x27;s Signature WH-1000XM5 Headphones Are $150 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-wh-1000xm5-headphones-deal-may-2026?utm_medium=RSS" target="_blank">Sony&#x27;s Signature WH-1000XM5 Headphones Are $150 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-20 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.penny-arcade.com/news/image%20%282%29.6YCwoFek.png" alt="It&#x27;s An Older Code, But it Checks Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/20/it-s-an-older-code-but-it-checks-out" target="_blank">It&#x27;s An Older Code, But it Checks Out</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-20 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1779137781-20260520-edit.png" alt="Saturday Morning Breakfast Cereal - Trash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 22:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 23:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
