@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-19 23:22:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 00:25:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, May 19, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-Rep-94cf2a.jpg" alt="Trump-endorsed Ed Gallrein unseats Rep. Thomas Massie in Kentucky GOP primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/kentucky-house-district-4-winners-primary-election-gallrein-massie-rcna345010" target="_blank">Trump-endorsed Ed Gallrein unseats Rep. Thomas Massie in Kentucky GOP primary</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-19 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss" target="_blank">Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-19 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola" target="_blank">Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-19 18:44</span>
             </div>
         </div>
 </div>
@@ -153,12 +156,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg" alt="FBI seeks US-wide access to license plate cameras, wants &quot;data in near real time&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/" target="_blank">You can now talk to your Gmail inbox, as seen at Google IO 2026</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-19 21:25</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/" target="_blank">FBI seeks US-wide access to license plate cameras, wants &quot;data in near real time&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-19 21:29</span>
             </div>
         </div>
 </div>
@@ -240,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/samizdat.jpg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Sci-Hub and Libgen descend from a Soviet tradition of smuggled science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/19/sci-hub-and-libgen-descend-from-a-soviet-tradition-of-smuggled-science.html" target="_blank">Sci-Hub and Libgen descend from a Soviet tradition of smuggled science</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-19 23:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/startrekcomic-1280x720.jpg" alt="One Of The Last Surviving Writers On The Original Star Trek Is Returning As Part Of A New, Massive 60th Anniversary Comic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +296,6 @@
                 <span class="time">2026-05-19 19:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Kickstarter-official-image-from-blog-post.jpg" alt="Kickstarter Reverts Controversial Ban On ‘NSFW’ Projects But Says Stripe ‘Can Still Suspend’ Approved Campaigns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kickstarter-nsfw-rules-stripe-payment-processor-apology-2000697494" target="_blank">Kickstarter Reverts Controversial Ban On ‘NSFW’ Projects But Says Stripe ‘Can Still Suspend’ Approved Campaigns</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-19 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:22 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
