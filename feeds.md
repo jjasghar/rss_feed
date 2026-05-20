@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 18:59:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-20 19:48:28 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 18:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 19:48 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5828826/us-palestinians-un" target="_blank">US threatens to revoke the Palestinian UN ambassador&#x27;s visa</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-20 18:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/raul-castro-ap-jef-260520_1779277565384_hpMain_4x3t_384.jpg" alt="DOJ indicts former Cuban leader Raul Castro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/Politics/justice-department-expected-announce-charges-raul-castro/story?id=133144411" target="_blank">DOJ indicts former Cuban leader Raul Castro</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-20 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779299434964_nbc_spec_doj_indicts_raul_castro_260520_S3_1920x1080-w543yn.jpg" alt="Justice Department indicts former Cuban leader Raúl Castro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/justice-department-indicts-former-cuban-leader-raul-castro-263662149775" target="_blank">Justice Department indicts former Cuban leader Raúl Castro</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-20 17:50</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss" target="_blank">Controlled reopening ends Iran’s lengthy stock market shutdown</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-20 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b68/live/23f33fd0-545a-11f1-a996-23a66636b2cc.png" alt="Women who died in sea off Brighton were sisters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss" target="_blank">Women who died in sea off Brighton were sisters</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31d/live/403b1fd0-5466-11f1-90bc-1d92dab59cbe.jpg" alt="Rosenberg: Putin enjoys Xi&#x27;s Chinese welcome but heads home without pipeline deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss" target="_blank">Rosenberg: Putin enjoys Xi&#x27;s Chinese welcome but heads home without pipeline deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 16:34</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm" target="_blank">Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990912&w=600" alt="From APIs to Actions: Rethinking Back-End Design for Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/apis-to-actions-backend-for-agents" target="_blank">From APIs to Actions: Rethinking Back-End Design for Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-20 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vanenshi/spec-anchor-development-the-methodology-that-replaced-our-ai-chaos-40pf" target="_blank">Spec Anchor Development: The Methodology That Replaced Our AI Chaos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 18:58</span>
@@ -191,28 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17344914/fedora-ditches-deepin" target="_blank">Fedora Pulls the Plug on Deepin Over Security and Maintenance Failures</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-20 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aftermathtech/cryptographic-forensics-for-ai-coding-agent-sessions-2oaa" target="_blank">Cryptographic Forensics for AI Coding Agent Sessions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/grab-multi-agent-support-system/en/headerimage/generatedHeaderImage-1778992985157.jpg" alt="Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Designing a Multi-Agent System for Engineering Support at Scale: A Case Study From Grab</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-20 14:38</span>
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice" target="_blank">Why Rust is different, with Alice Ryhl</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-20 16:22</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Image-From-GrammaCrackers-YouTube-video-I-Got-Swatted.jpg" alt="An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/81-year-old-minecraft-streamer-just-got-swatted-during-cancer-fundraiser-for-her-teenage-grandson-2000697822" target="_blank">An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/CleanShot-2026-05-20-at-11.34.27%402x.jpg?fit=2392%2C2096&amp;quality=60&amp;ssl=1" alt="H.P. Lovecraft borrowed from this real Connecticut seismic phenomenon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2026-05-20 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/broken-sword.jpg" alt="Sonic The Hedgehog Production Company Is Bringing Classic Adventure Broken Sword To The Big Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/broken-sword-movie-sonic-the-hedgehog-templar-2000697783" target="_blank">Sonic The Hedgehog Production Company Is Bringing Classic Adventure Broken Sword To The Big Screen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 18:59 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 19:48 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
