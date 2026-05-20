@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 01:37:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-20 03:00:43 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 01:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast?traffic_source=rss" target="_blank">Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 02:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/302c5ff0-53d5-11f1-8a2e-c1781efb369b.jpg" alt="UK loosens Russian oil sanctions as fuel prices rise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss" target="_blank">UK loosens Russian oil sanctions as fuel prices rise</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-20 01:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue" target="_blank">&#x27;Taiwan Travelogue&#x27; wins the 2026 International Booker Prize</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-19 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss" target="_blank">Video shows oil spill on Iranian island after refinery attack last month</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-19 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260519-trump-aa-400-545d52.jpg" alt="Justice Department agrees not to pursue any tax claims against Trump as part of IRS deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/doj-agrees-not-pursue-tax-claims-trump-part-irs-deal-rcna345973" target="_blank">Justice Department agrees not to pursue any tax claims against Trump as part of IRS deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-19 20:30</span>
             </div>
         </div>
 </div>
@@ -160,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgk7re0348wp1wb9mgdv.png" alt="Building Real-Time Trading Systems: Why We Abandoned Go for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/speed_engineer/building-real-time-trading-systems-why-we-abandoned-go-for-rust-21km" target="_blank">Building Real-Time Trading Systems: Why We Abandoned Go for Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 03:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -204,15 +212,6 @@
                 <span class="time">2026-05-19 20:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18977595&w=600" alt="Retesting Best Practices for Agile Teams: A Quick Guide to Bug Fix Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/retesting-best-practices-for-agile-teams-a-guide" target="_blank">Retesting Best Practices for Agile Teams: A Quick Guide to Bug Fix Verification</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-19 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-19 22:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KS0X7610RKKWSB4P8TX5E2DC/hero-image.png" alt="Google Just Announced When Its First &#x27;Intelligent Eyewear&#x27; Smart Glasses Will Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -275,15 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/latest-magic-the-gathering-secret-lair-drop-mess-creator-deck-2000697515" target="_blank">The Latest MTG Secret Lair Drop Was Such A Mess, Even Its Creator Couldn’t Buy Anything</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-19 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/cybertruck-dune-e1779218788744.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="Tesla Cybertruck owner, intending to test &quot;wade mode,&quot; learns about &quot;sink mode&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/19/tesla-cybertruck-owner-intending-to-test-wade-mode-learns-about-sink-mode.html" target="_blank">Tesla Cybertruck owner, intending to test &quot;wade mode,&quot; learns about &quot;sink mode&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-19 19:27</span>
             </div>
         </div>
 </div>
@@ -314,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
