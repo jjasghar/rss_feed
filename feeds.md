@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 19:48:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-20 20:39:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 19:48 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 20:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/d01980d0-5482-11f1-89a3-d1f559421220.jpg" alt="US charges Cuba&#x27;s Raúl Castro with murder over 1996 downing of two planes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss" target="_blank">US charges Cuba&#x27;s Raúl Castro with murder over 1996 downing of two planes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-20 20:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss" target="_blank">James Murdoch to acquire New York Magazine and Vox Media Podcast Network</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 19:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +98,29 @@
                 <span class="time">2026-05-20 17:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  DOJ announces charges against former Cuban President Raul Castro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  DOJ announces charges against former Cuban President Raul Castro</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-20 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss" target="_blank">Controlled reopening ends Iran’s lengthy stock market shutdown</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-500x500.jpg" alt="Masters of the Universe final trailer brings the &#x27;80s nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/" target="_blank">Masters of the Universe final trailer brings the &#x27;80s nostalgia</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-20 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0d0506b111266ea02ec0ec/master/pass/Show-Guide-Culture-Maximum_Pleasure_Guaranteed_010106.jpg" alt="The 10 Best TV Shows to Stream This Month (May 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-10-best-shows-to-stream-right-now/" target="_blank">The 10 Best TV Shows to Stream This Month (May 2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 20:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2026-05-20 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai" target="_blank">You can now remix other people’s YouTube Shorts with AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-20 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a07a29943055fabd16c102c/master/pass/GettyImages-1765612191.jpg" alt="A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/" target="_blank">A New York Cop Got Injured at a Boxing Match. Now Madison Square Garden Is Banning His Lawyer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-20 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/ubuntu-core-iot.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-core-26-release" target="_blank">Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-20 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,6 +178,24 @@
                 <span class="title"><a href="https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm" target="_blank">Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Likely-CAS" target="_blank">The Very Exciting Cache Aware Scheduling Looks Like It Will Land For Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-20 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/" target="_blank">An OpenAI model has disproved a central conjecture in discrete geometry</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-20 19:05</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/vanenshi/spec-anchor-development-the-methodology-that-replaced-our-ai-chaos-40pf" target="_blank">Spec Anchor Development: The Methodology That Replaced Our AI Chaos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990885&w=600" alt="Detecting Bugs and Vulnerabilities in Java With SonarQube" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/detecting-bugs-vulnerabilities-java-sonarqube" target="_blank">Detecting Bugs and Vulnerabilities in Java With SonarQube</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-Nightly-New-Settings" target="_blank">Firefox 153 Nightly Rolls Out New Settings UI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-20 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/why-rust-is-different-with-alice" target="_blank">Why Rust is different, with Alice Ryhl</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-20 16:22</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952" target="_blank">Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 20:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Image-From-GrammaCrackers-YouTube-video-I-Got-Swatted.jpg" alt="An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +289,6 @@
                 <span class="time">2026-05-20 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KS1YPD95XQ5T8HG159KQ6NVK/hero-image.jpg" alt="I Use These Milwaukee Tools Every Day, and They&#x27;re up to 50% Off Ahead of Memorial Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/milwaukee-tools-home-depot-sale-may-2026?utm_medium=RSS" target="_blank">I Use These Milwaukee Tools Every Day, and They&#x27;re up to 50% Off Ahead of Memorial Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-20 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 19:48 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 20:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
