@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 03:00:43 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-20 05:17:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 05:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/massie-3-ap-gmh-260519_1779238913925_hpMain_4x3t_384.jpg" alt="Takeaways from Tuesday&#x27;s primaries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022" target="_blank">Takeaways from Tuesday&#x27;s primaries</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-20 05:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,27 +82,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, Republican primary for governor goes to a runoff between Trump backers</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-20 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260513-Rep-94cf2a.jpg" alt="Trump-endorsed Ed Gallrein unseats Rep. Thomas Massie in Kentucky GOP primary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/kentucky-house-district-4-winners-primary-election-gallrein-massie-rcna345010" target="_blank">Trump-endorsed Ed Gallrein unseats Rep. Thomas Massie in Kentucky GOP primary</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-19 23:48</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue" target="_blank">&#x27;Taiwan Travelogue&#x27; wins the 2026 International Booker Prize</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/19/nx-s1-5823613/georgia-primaries-elections-governor-senate" target="_blank">In Georgia, Republican primary for governor goes to a runoff between Trump backers</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-19 21:31</span>
+                <span class="time">2026-05-20 00:45</span>
             </div>
         </div>
 </div>
@@ -159,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/xu_xu_b2179aa8fc958d531d1/the-subscription-you-dont-actually-own-what-github-copilots-new-pricing-reveals-about-ai-tool-32e" target="_blank">The Subscription You Don&#x27;t Actually Own: What GitHub Copilot&#x27;s New Pricing Reveals About AI Tool Dependency</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 05:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhgk7re0348wp1wb9mgdv.png" alt="Building Real-Time Trading Systems: Why We Abandoned Go for Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -179,6 +190,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://status.railway.com/?date=20260519" target="_blank">Railway Blocked by Google Cloud</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-20 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg" target="_blank">The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-mj9" target="_blank">Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-19 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkw0adpa9jk82yi0kj66q.png" alt="Agent Traces Need to Cross the MCP Boundary | Focused Labs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/focused_dot_io/agent-traces-need-to-cross-the-mcp-boundary-focused-labs-5f2l" target="_blank">Agent Traces Need to Cross the MCP Boundary | Focused Labs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg" target="_blank">Sanity SEO done right: Open Graph, JSON-LD, fallbacks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-19 20:25</span>
             </div>
         </div>
 </div>
@@ -313,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 05:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
