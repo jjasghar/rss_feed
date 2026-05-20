@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 21:31:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-20 22:27:47 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 21:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 22:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs?traffic_source=rss" target="_blank">US lawyers say man on death row could be executed with expired lethal drugs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-20 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260520_1779286338409_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he’s in &#x27;no hurry&#x27; to make a peace deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says he’s in &#x27;no hurry&#x27; to make a peace deal with Iran</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-20 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing" target="_blank">Advice for 2026 commencement speakers: Don&#x27;t bring up AI</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-20 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/d01980d0-5482-11f1-89a3-d1f559421220.jpg" alt="US charges Cuba&#x27;s Raúl Castro with murder over 1996 downing of two planes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +94,20 @@
                 <span class="time">2026-05-20 18:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/raul-castro-ap-jef-260520_1779277565384_hpMain_4x3t_384.jpg" alt="DOJ indicts former Cuban leader Raul Castro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/justice-department-expected-announce-charges-raul-castro/story?id=133144411" target="_blank">DOJ indicts former Cuban leader Raul Castro</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-20 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779299434964_nbc_spec_doj_indicts_raul_castro_260520_S3_1920x1080-w543yn.jpg" alt="Justice Department indicts former Cuban leader Raúl Castro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/justice-department-indicts-former-cuban-leader-raul-castro-263662149775" target="_blank">Justice Department indicts former Cuban leader Raúl Castro</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-20 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5827166/house-passes-housing-affordability-bill" target="_blank">Bipartisan home affordability bill passes the House</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/" target="_blank">xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-20 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-500x500.jpg" alt="NASA&#x27;s Psyche spacecraft returns unfamiliar views of a familiar world" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +153,20 @@
                 <span class="time">2026-05-20 18:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores" target="_blank">Anthropic and OpenAI take their beef to the midterm elections</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-20 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default" target="_blank">AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-20 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,30 +195,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990926&w=600" alt="Zone-Free Angular: Unlocking High-Performance Change Detection With Signals and Modern Reactivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zone-free-angular" target="_blank">Zone-Free Angular: Unlocking High-Performance Change Detection With Signals and Modern Reactivity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm" target="_blank">Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.2-Likely-CAS" target="_blank">The Very Exciting Cache Aware Scheduling Looks Like It Will Land For Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-20 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/" target="_blank">An OpenAI model has disproved a central conjecture in discrete geometry</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-20 19:05</span>
             </div>
         </div>
 </div>
@@ -240,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/The-boys--1280x720.jpg" alt="The Internet Reacts To The Boys Series Finale And That Scene With Homelander" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-internet-reacts-to-the-boys-series-finale-and-that-scene-with-homelander-2000697982" target="_blank">The Internet Reacts To The Boys Series Finale And That Scene With Homelander</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Fix Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +285,6 @@
                 <span class="time">2026-05-20 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/LEgobatman2-1280x720.jpg" alt="8 Of Our Favorite Lego Batman: Legacy Of The Dark Knight Easter Eggs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-batman-legacy-dark-knight-references-easter-eggs-2000697892" target="_blank">8 Of Our Favorite Lego Batman: Legacy Of The Dark Knight Easter Eggs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 21:31 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 22:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
