@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 13:10:24 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-05-20 15:00:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 20, 2026 - 15:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Larry-Bushart-via-FIRE.jpg-500x500-1779285866.jpeg" alt="Man wins $835K after sheriff jailed him for a month over Charlie Kirk post" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/" target="_blank">Man wins $835K after sheriff jailed him for a month over Charlie Kirk post</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-20 14:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a0b7cdeabf886305a556f72/master/pass/Tech%20to%20Make%20Your%20Dumb%20Grill%20Smart%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="How to Upgrade Weber and Kamado Joe Into Smart Grills" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -144,20 +159,29 @@
                 <span class="time">2026-05-20 05:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" alt="Dell Coupon Codes: 20% Off for May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-coupon-code/" target="_blank">Dell Coupon Codes: 20% Off for May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-20 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aftermathtech/cryptographic-forensics-for-ai-coding-agent-sessions-2oaa" target="_blank">Cryptographic Forensics for AI Coding Agent Sessions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-20 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19025097&w=600" alt="No More Cheap Claude: 4 First Principles of Token Economics in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/claude-token-principles" target="_blank">No More Cheap Claude: 4 First Principles of Token Economics in 2026</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-20 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,22 +218,18 @@
                 <span class="time">2026-05-20 10:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HP-Sponsoring-LVFS-Fwupd" target="_blank">HP Now Sponsoring The Linux Vendor Firmware Service / Fwupd</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-20 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html" target="_blank">Learnings from 100K lines of Rust with AI (2025)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-20 10:04</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/on-ai-security.html" target="_blank">On AI Security</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-20 14:21</span>
             </div>
         </div>
 </div>
@@ -217,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Limmy-waking-up-meme-with-Batman-mask.jpg" alt="Lego Batman: Legacy Of The Dark Knight Features A Limmy Show Deep Cut Most People Probably Won’t Understand" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-batman-legacy-of-the-dark-knight-features-a-limmy-show-deep-cut-most-people-probably-wont-understand-2000697535" target="_blank">Lego Batman: Legacy Of The Dark Knight Features A Limmy Show Deep Cut Most People Probably Won’t Understand</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-20 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS1YPD95XQ5T8HG159KQ6NVK/hero-image.jpg" alt="I Use These Milwaukee Tools Every Day, and They&#x27;re up to 50% Off Ahead of Memorial Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/milwaukee-tools-home-depot-sale-may-2026?utm_medium=RSS" target="_blank">I Use These Milwaukee Tools Every Day, and They&#x27;re up to 50% Off Ahead of Memorial Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-20 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/broken-sword.jpg" alt="Sonic The Hedgehog Production Company Is Bringing Classic Adventure Broken Sword To The Big Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-19 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KS0X7610RKKWSB4P8TX5E2DC/hero-image.png" alt="Google Just Announced When Its First &#x27;Intelligent Eyewear&#x27; Smart Glasses Will Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-samsung-smart-glasses-coming-this-fall?utm_medium=RSS" target="_blank">Google Just Announced When Its First &#x27;Intelligent Eyewear&#x27; Smart Glasses Will Launch</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-19 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-2024-Home-Business-Windows-11-Pro-Bundle-1.jpg?fit=1536%2C1024&amp;quality=60&amp;ssl=1" alt="Microsoft 365 is almost $100/year, but you can get Microsoft Office and Windows 11 Pro for life for only $135" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/19/microsoft-365-is-almost-100-year-but-you-can-get-microsoft-office-and-windows-11-pro-for-life-for-only-135.html" target="_blank">Microsoft 365 is almost $100/year, but you can get Microsoft Office and Windows 11 Pro for life for only $135</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-19 21:00</span>
             </div>
         </div>
 </div>
@@ -308,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 15:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
