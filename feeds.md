@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 09:01:42 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2026-05-21 11:00:46 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 11:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +44,36 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/21/philippines-orders-arrest-of-fugitive-senator-wanted-by-icc?traffic_source=rss" target="_blank">Philippines orders arrest of fugitive senator wanted by ICC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-21 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health" target="_blank">US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-21 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5820719/morning-news-brief" target="_blank">Morning news brief</a></span>
                 <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-21 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260521_1779352367537_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran issues Strait of Hormuz control map, Trump hints at strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Tehran issues Strait of Hormuz control map, Trump hints at strikes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-21 08:43</span>
             </div>
         </div>
@@ -70,38 +95,29 @@
                 <span class="time">2026-05-21 06:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/21/bolivias-president-reshuffles-cabinet-amid-anti-government-protests?traffic_source=rss" target="_blank">Bolivia’s president reshuffles cabinet amid anti-government protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-21 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban" target="_blank">Liberal U.S. mayors team up with European counterparts to fight authoritarianism</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-21 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss" target="_blank">US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-21 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/" target="_blank">Beauty booking startup Fresha hits $1 billion valuation with KKR backing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github" target="_blank">‘Fuck you, Bambu’: How one private message could change the face of 3D printing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0e2ee08910d0bdf1e565fe/master/pass/GettyImages-2153790890.jpg" alt="The EU Is Going Through a Trump-Fueled Breakup With Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +154,29 @@
                 <span class="time">2026-05-21 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor" target="_blank">In SpaceX’s IPO, Elon Musk is a risk factor</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-21 03:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/" target="_blank">Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-21 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Media-Entertainment" target="_blank">AlmaLinux To Unveil Media/Entertainment Linux OS Edition</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-21 10:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/opentofu-release-terraform/en/headerimage/generatedHeaderImage-1779290214223.jpg" alt="OpenTofu 1.12 The Feature Terraform Never Shipped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenTofu 1.12 The Feature Terraform Never Shipped</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.apidog.com%2Fblog-next%2F2026%2F05%2Fimage-151.png" alt="Como Usar Qwen 3.7 Grátis?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/futuredevtech/what-is-mcp-model-context-protocol-and-why-developers-suddenly-care-4l7d" target="_blank">What is MCP (Model Context Protocol) and Why Developers Suddenly Care</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-21 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andremmfaria/raising-a-good-junior-what-ai-gets-wrong-about-knowledge-and-what-it-means-for-the-next-generation-18ne" target="_blank">Raising a Good Junior: What AI Gets Wrong About Knowledge and What It Means for the Next Generation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default" target="_blank">AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-20 21:34</span>
             </div>
         </div>
 </div>
@@ -316,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 11:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
