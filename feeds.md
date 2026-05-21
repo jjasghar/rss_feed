@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 07:09:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-21 09:01:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 07:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5820719/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-21 08:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0484/live/d27c4ad0-5494-11f1-a1d5-55f015dfb1f3.jpg" alt="Wes Streeting pledges &#x27;wealth tax that works&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss" target="_blank">US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-21 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/spacex-gty-jef-260519_1779208101400_hpMain_4x3t_384.jpg" alt="Elon Musk-led SpaceX files for stock listing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Business/elon-musk-led-spacex-files-publicly-stock-listing/story?id=133065672" target="_blank">Elon Musk-led SpaceX files for stock listing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-21 00:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.apidog.com%2Fblog-next%2F2026%2F05%2Fimage-151.png" alt="Como Usar Qwen 3.7 Grátis?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucas_ferreira/como-usar-qwen-37-gratis-27ej" target="_blank">Como Usar Qwen 3.7 Grátis?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-21 08:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-FRL-Disabled-By-Default" target="_blank">AMDGPU HDMI 2.1 FRL To Be Initially Disabled-By-Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-20 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/retrovirusretro/chat-with-your-database-in-plain-english-locally-for-free-2l0c" target="_blank">Chat with your database in plain English — locally, for free</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-20 21:28</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 07:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
