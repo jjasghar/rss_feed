@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 12:57:25 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-21 14:06:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 12:57 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 14:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5823448/susan-collins-maine-senate-graham-platner" target="_blank">Susan Collins brings federal dollars to Maine. She&#x27;s hoping that&#x27;s worth it to voters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-21 12:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e72/live/49c2cb20-550b-11f1-9922-c1ca78961024.jpg" alt="Cheaper theme park tickets and children&#x27;s meals as VAT to be cut for some attractions this summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,29 @@
                 <span class="time">2026-05-21 08:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Hormuz-DB-260521_1779352367537_hpMain_4x3t_384.jpg" alt="Iran live updates: Tehran issues Strait of Hormuz control map, Trump hints at strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Tehran issues Strait of Hormuz control map, Trump hints at strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-21 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/" target="_blank">The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0e0dd7a38dc9cb19f67138/master/pass/NY-LA-Teaming-Up-EVs-Gear-55281267645_f3b617d84a_b.jpg" alt="NYC and LA Are Teaming Up to Fight for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/" target="_blank">NYC and LA Are Teaming Up to Fight for EVs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-21 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="time">2026-05-21 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Columbia Promo Codes: 15% Off | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/columbia-promo-code/" target="_blank">Columbia Promo Codes: 15% Off | May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/" target="_blank">Imperagen raises £5 million to use quantum physics, AI on enzyme engineering</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-21 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,55 +164,55 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/pintheft-linux-kernel-vulnerability-mitigation" target="_blank">PinTheft Linux kernel vulnerability mitigation</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-21 12:30</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nosyos/react-server-components-dont-make-your-app-fast-by-default-3442" target="_blank">React Server Components Don&#x27;t Make Your App Fast by Default</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-21 14:05</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990967&w=600" alt="Querying Without a Query Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KMSCON-10.0-Released" target="_blank">KMSCON 10.0 Released With Natural Scrolling Option, Libseat VT Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-21 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17345650/linux-kernel-rust-cve-reduction" target="_blank">Rust Could Eliminate 80% of Linux Kernel CVEs!</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-21 13:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html" target="_blank">Python 3.15: features that didn&#x27;t make the headlines</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-21 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990974&w=600" alt="Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 2]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/querying-without-a-query-language" target="_blank">Querying Without a Query Language</a></span>
+                <span class="title"><a href="https://dzone.com/articles/db-migration-modernization-guide-part-2" target="_blank">Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 2]</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-21 12:00</span>
+                <span class="time">2026-05-21 13:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2026/05/platform-golden-bricks/en/headerimage/platform-golden-bricks-header-1779109898033.jpg" alt="How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/presentations/automation-incidents-ai/en/mediumimage/medium-1778662652640.jpg" alt="Presentation: The Ironies of A^2 I^2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery</a></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/automation-incidents-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Ironies of A^2 I^2</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2026-05-21 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/VKD3D-2.0-Released" target="_blank">VKD3D 2.0 Released For Wine&#x27;s Direct3D 12 Implementation Atop Vulkan</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-21 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.flipper.net/flipper-one-we-need-your-help/" target="_blank">Flipper One – we need your help</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-21 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Media-Entertainment" target="_blank">AlmaLinux To Unveil Media/Entertainment Linux OS Edition</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-21 10:31</span>
+                <span class="time">2026-05-21 12:55</span>
             </div>
         </div>
 </div>
@@ -317,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:57 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 14:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
