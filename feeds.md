@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 11:00:46 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2026-05-21 12:57:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 11:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 12:57 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e72/live/49c2cb20-550b-11f1-9922-c1ca78961024.jpg" alt="Cheaper theme park tickets and children&#x27;s meals as VAT to be cut for some attractions this summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss" target="_blank">Cheaper theme park tickets and children&#x27;s meals as VAT to be cut for some attractions this summer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-21 12:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260521-iran-rs-87b01b.jpg" alt="Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258" target="_blank">Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-21 09:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -75,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Tehran issues Strait of Hormuz control map, Trump hints at strikes</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-21 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0484/live/d27c4ad0-5494-11f1-a1d5-55f015dfb1f3.jpg" alt="Wes Streeting pledges &#x27;wealth tax that works&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss" target="_blank">Wes Streeting pledges &#x27;wealth tax that works&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-21 07:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/21/mvp-gilgeous-alexander-stars-as-thunder-level-series-with-spurs?traffic_source=rss" target="_blank">MVP Gilgeous-Alexander stars as Thunder level series with Spurs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-21 06:26</span>
             </div>
         </div>
 </div>
@@ -162,55 +165,55 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/pintheft-linux-kernel-vulnerability-mitigation" target="_blank">PinTheft Linux kernel vulnerability mitigation</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-21 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990967&w=600" alt="Querying Without a Query Language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/querying-without-a-query-language" target="_blank">Querying Without a Query Language</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/platform-golden-bricks/en/headerimage/platform-golden-bricks-header-1779109898033.jpg" alt="How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-21 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/VKD3D-2.0-Released" target="_blank">VKD3D 2.0 Released For Wine&#x27;s Direct3D 12 Implementation Atop Vulkan</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-21 11:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.flipper.net/flipper-one-we-need-your-help/" target="_blank">Flipper One – we need your help</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-21 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-Media-Entertainment" target="_blank">AlmaLinux To Unveil Media/Entertainment Linux OS Edition</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-21 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/opentofu-release-terraform/en/headerimage/generatedHeaderImage-1779290214223.jpg" alt="OpenTofu 1.12 The Feature Terraform Never Shipped" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/opentofu-release-terraform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenTofu 1.12 The Feature Terraform Never Shipped</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.apidog.com%2Fblog-next%2F2026%2F05%2Fimage-151.png" alt="Como Usar Qwen 3.7 Grátis?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucas_ferreira/como-usar-qwen-37-gratis-27ej" target="_blank">Como Usar Qwen 3.7 Grátis?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-21 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0" target="_blank">Every Developer Is Lying About Something — And AI Won’t Fix It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-21 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sreejit_/93-agents-26-billion-tokens-one-working-os-and-a-bill-under-1000-1182" target="_blank">93 Agents. 2.6 Billion Tokens. One Working OS. And a Bill Under $1,000.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-21 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/futuredevtech/what-is-mcp-model-context-protocol-and-why-developers-suddenly-care-4l7d" target="_blank">What is MCP (Model Context Protocol) and Why Developers Suddenly Care</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-21 01:30</span>
             </div>
         </div>
 </div>
@@ -314,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 11:00 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:57 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
