@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 05:20:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-21 07:09:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 05:21 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 07:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0484/live/d27c4ad0-5494-11f1-a1d5-55f015dfb1f3.jpg" alt="Wes Streeting pledges &#x27;wealth tax that works&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss" target="_blank">Wes Streeting pledges &#x27;wealth tax that works&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-21 07:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/21/mvp-gilgeous-alexander-stars-as-thunder-level-series-with-spurs?traffic_source=rss" target="_blank">MVP Gilgeous-Alexander stars as Thunder level series with Spurs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-21 06:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +101,29 @@
                 <span class="time">2026-05-21 00:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-bolivia-protests_7254468.jpg?20260521003734" alt="Unrest in Bolivia as protests cause widespread disruption and force cabinet reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/weeks-of-unrest-in-bolivia-causes-widespread-disruption-and-forces-president-to-reshuffle-cabinet-13546461" target="_blank">Unrest in Bolivia as protests cause widespread disruption and force cabinet reshuffle</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-20 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo?traffic_source=rss" target="_blank">Elon Musk’s SpaceX unveils filing for blockbuster IPO</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0e2ee08910d0bdf1e565fe/master/pass/GettyImages-2153790890.jpg" alt="The EU Is Going Through a Trump-Fueled Breakup With Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/" target="_blank">The EU Is Going Through a Trump-Fueled Breakup With Big Tech</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-21 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/" target="_blank">Truecaller gets into the eSIM business to diversify its revenue streams</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 06:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Columbia Promo Codes: 15% Off | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +160,20 @@
                 <span class="time">2026-05-21 00:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/" target="_blank">Anthropic says it’s about to have its first profitable quarter</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-21 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0e35cf773c1aab709e1077/master/pass/Elon-Musk-SpaceX-Spending-2.8-Billion-on-Gas-Turbines-Business-2275592313.jpg" alt="SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/" target="_blank">SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-20 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0" target="_blank">Every Developer Is Lying About Something — And AI Won’t Fix It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-21 07:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/retrovirusretro/chat-with-your-database-in-plain-english-locally-for-free-2l0c" target="_blank">Chat with your database in plain English — locally, for free</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub-owned repositories</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-20 21:07</span>
             </div>
         </div>
 </div>
@@ -316,22 +315,13 @@
                 <span class="time">2026-05-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/20/it-s-an-older-code-but-it-checks-out" target="_blank">It&#x27;s An Older Code, But it Checks Out</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 05:21 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 07:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
