@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-20 23:25:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-21 00:25:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, May 20, 2026 - 23:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo_7254458.jpg?20260520231531" alt="UK to provide up to &amp;#163;20m funding for fight against Ebola outbreak in Africa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-to-provide-up-to-16320m-for-fight-against-ebola-outbreak-in-democratic-republic-of-the-congo-and-uganda-13546456" target="_blank">UK to provide up to &amp;#163;20m funding for fight against Ebola outbreak in Africa</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-20 21:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260520_1779286338409_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he’s in &#x27;no hurry&#x27; to make a peace deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -88,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/d01980d0-5482-11f1-89a3-d1f559421220.jpg" alt="US charges Cuba&#x27;s Raúl Castro with murder over 1996 downing of two planes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260519-Rob-Bresnahan-aa-1040-44add8.jpg" alt="Four swing House races in Pennsylvania loom large for both parties — and for 2028, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss" target="_blank">US charges Cuba&#x27;s Raúl Castro with murder over 1996 downing of two planes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-20 20:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss" target="_blank">James Murdoch to acquire New York Magazine and Vox Media Podcast Network</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 19:39</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/four-swing-house-races-pennsylvania-loom-large-both-parties-2028-rcna345885" target="_blank">Four swing House races in Pennsylvania loom large for both parties — and for 2028, too</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-20 21:38</span>
             </div>
         </div>
 </div>
@@ -110,6 +103,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/" target="_blank">Anthropic says it’s about to have its first profitable quarter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0e35cf773c1aab709e1077/master/pass/Elon-Musk-SpaceX-Spending-2.8-Billion-on-Gas-Turbines-Business-2275592313.jpg" alt="SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/" target="_blank">SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-20 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11pre1-500x500.jpg" alt="Famously secret about its finances, SpaceX opens its books for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" target="_blank">Famously secret about its finances, SpaceX opens its books for the first time</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-20 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/business/902219/spacex-ipo-details" target="_blank">SpaceX just filed for what could be the biggest IPO ever</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-20 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/1-PIA26771_Mars-crescent-pYdenxFS-500x500.jpg" alt="NASA&#x27;s Psyche spacecraft returns unfamiliar views of a familiar world" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/" target="_blank">NASA&#x27;s Psyche spacecraft returns unfamiliar views of a familiar world</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-20 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/heman1-500x500.jpg" alt="Masters of the Universe final trailer brings the &#x27;80s nostalgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/" target="_blank">Masters of the Universe final trailer brings the &#x27;80s nostalgia</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-20 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0d0506b111266ea02ec0ec/master/pass/Show-Guide-Culture-Maximum_Pleasure_Guaranteed_010106.jpg" alt="The 10 Best TV Shows to Stream This Month (May 2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-10-best-shows-to-stream-right-now/" target="_blank">The 10 Best TV Shows to Stream This Month (May 2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-20 20:02</span>
             </div>
         </div>
 </div>
@@ -252,6 +245,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS3AY0C748994DFEV0SJH524/hero-image.png" alt="These Google Search Alternatives Actually Let You Control Your AI Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-search-alternatives-to-control-your-ai-experience?utm_medium=RSS" target="_blank">These Google Search Alternatives Actually Let You Control Your AI Experience</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-20 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Fooducate-Pro-Meal-Tracking-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $40 food-tracking app may tell you more about your groceries than the box does" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -285,15 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/81-year-old-minecraft-streamer-just-got-swatted-during-cancer-fundraiser-for-her-teenage-grandson-2000697822" target="_blank">An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-20 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/CleanShot-2026-05-20-at-11.34.27%402x.jpg?fit=2392%2C2096&amp;quality=60&amp;ssl=1" alt="H.P. Lovecraft borrowed from this real Connecticut seismic phenomenon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/20/h-p-lovecraft-borrowed-from-this-real-connecticut-seismic-phenomenon.html" target="_blank">H.P. Lovecraft borrowed from this real Connecticut seismic phenomenon</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-20 18:34</span>
             </div>
         </div>
 </div>
@@ -333,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
