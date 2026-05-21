@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 01:36:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-21 03:00:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 01:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +60,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss" target="_blank">US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-21 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/spacex-gty-jef-260519_1779208101400_hpMain_4x3t_384.jpg" alt="Elon Musk-led SpaceX files for stock listing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Business/elon-musk-led-spacex-files-publicly-stock-listing/story?id=133065672" target="_blank">Elon Musk-led SpaceX files for stock listing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-21 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-bolivia-protests_7254468.jpg?20260521003734" alt="Unrest in Bolivia as protests cause widespread disruption and force cabinet reshuffle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/weeks-of-unrest-in-bolivia-causes-widespread-disruption-and-forces-president-to-reshuffle-cabinet-13546461" target="_blank">Unrest in Bolivia as protests cause widespread disruption and force cabinet reshuffle</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-20 22:42</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +107,20 @@
                 <span class="time">2026-05-20 21:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-260520_1779286338409_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says he’s in &#x27;no hurry&#x27; to make a peace deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says he’s in &#x27;no hurry&#x27; to make a peace deal with Iran</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-20 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing" target="_blank">Advice for 2026 commencement speakers: Don&#x27;t bring up AI</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-20 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/" target="_blank">Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +164,6 @@
                 <span class="title"><a href="https://www.wired.com/story/rei-anniversary-sale-2026/" target="_blank">The Best Outdoor Deals From the REI Anniversary Sale 2026</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-20 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/business/902219/spacex-ipo-details" target="_blank">SpaceX just filed for what could be the biggest IPO ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-20 21:29</span>
             </div>
         </div>
 </div>
@@ -202,18 +211,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub’s internal repositories</a></span>
+                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub-owned repositories</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-20 21:07</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/06/ubuntu-core-iot.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-core-26-release" target="_blank">Ubuntu Core 26 cuts OTA update size, enables ARM64 Livepatch</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-20 20:04</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub’s internal repositories</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-20 21:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:36 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
