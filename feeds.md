@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 00:25:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-21 01:36:08 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 01:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights?traffic_source=rss" target="_blank">US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-21 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing" target="_blank">Advice for 2026 commencement speakers: Don&#x27;t bring up AI</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-20 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260519-Rob-Bresnahan-aa-1040-44add8.jpg" alt="Four swing House races in Pennsylvania loom large for both parties — and for 2028, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/four-swing-house-races-pennsylvania-loom-large-both-parties-2028-rcna345885" target="_blank">Four swing House races in Pennsylvania loom large for both parties — and for 2028, too</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-20 21:38</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/futuredevtech/what-is-mcp-model-context-protocol-and-why-developers-suddenly-care-4l7d" target="_blank">What is MCP (Model Context Protocol) and Why Developers Suddenly Care</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-21 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/andremmfaria/raising-a-good-junior-what-ai-gets-wrong-about-knowledge-and-what-it-means-for-the-next-generation-18ne" target="_blank">Raising a Good Junior: What AI Gets Wrong About Knowledge and What It Means for the Next Generation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-20 23:16</span>
@@ -207,15 +216,6 @@
                 <span class="time">2026-05-20 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990926&w=600" alt="Zone-Free Angular: Unlocking High-Performance Change Detection With Signals and Modern Reactivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zone-free-angular" target="_blank">Zone-Free Angular: Unlocking High-Performance Change Detection With Signals and Modern Reactivity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-20 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/browsers.jpg?fit=1868%2C1066&amp;quality=60&amp;ssl=1" alt="A virtual museum runs 570 operating systems in your browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/20/a-virtual-museum-runs-570-operating-systems-in-your-browser.html" target="_blank">A virtual museum runs 570 operating systems in your browser</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-21 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/The-boys--1280x720.jpg" alt="The Internet Reacts To The Boys Series Finale And That Scene With Homelander" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +289,6 @@
                 <span class="time">2026-05-20 20:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Image-From-GrammaCrackers-YouTube-video-I-Got-Swatted.jpg" alt="An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/81-year-old-minecraft-streamer-just-got-swatted-during-cancer-fundraiser-for-her-teenage-grandson-2000697822" target="_blank">An 81-Year-Old Minecraft Streamer Just Got Swatted During Cancer Fundraiser For Her Teenage Grandson</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
