@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 14:06:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-21 16:03:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 14 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 14:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 16:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-marco-rubio_7254951.jpg?20260521164542" alt="&#x27;Some good signs&#x27; a US-Iran deal to end war could be in sight, Marco Rubio reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/some-good-signs-a-us-iran-deal-to-end-war-could-be-in-sight-marco-rubio-reveals-13546696" target="_blank">&#x27;Some good signs&#x27; a US-Iran deal to end war could be in sight, Marco Rubio reveals</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-21 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo" target="_blank">A trillion dollar question: Will SpaceX&#x27;s Starship launch go well?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-21 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260129-Ken-Martin-aa-857-253857.jpg" alt="DNC releases 2024 autopsy, with chair apologizing for ‘creating an even bigger distraction’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/dnc-releases-2024-autopsy-chair-apologizing-creating-even-bigger-distr-rcna345963" target="_blank">DNC releases 2024 autopsy, with chair apologizing for ‘creating an even bigger distraction’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-21 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +98,20 @@
                 <span class="time">2026-05-21 10:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health" target="_blank">US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260521-iran-rs-87b01b.jpg" alt="Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258" target="_blank">Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-21 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5820719/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-21 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/935299/bossware-employer-surveillance" target="_blank">Meta and Google get data from the app your boss uses to track you</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-21 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +157,6 @@
                 <span class="time">2026-05-21 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/" target="_blank">Truecaller gets into the eSIM business to diversify its revenue streams</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-21 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,54 +166,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nosyos/react-server-components-dont-make-your-app-fast-by-default-3442" target="_blank">React Server Components Don&#x27;t Make Your App Fast by Default</a></span>
+                <span class="title"><a href="https://dev.to/croviatrust/i-built-a-cli-that-eliminates-readme-reading-forever-4794" target="_blank">I built a CLI that eliminates README reading forever</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2026-05-21 14:05</span>
+                <span class="time">2026-05-21 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/" target="_blank">Building GitHub’s next chapter in accessibility</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-21 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KMSCON-10.0-Released" target="_blank">KMSCON 10.0 Released With Natural Scrolling Option, Libseat VT Support</a></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-rtx-pro-blackwell" target="_blank">NVIDIA RTX PRO Blackwell Performance Delivering Excellent Linux Performance</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2026-05-21 13:45</span>
+                <span class="time">2026-05-21 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19027187&w=600" alt="How to Detect Spam Content in Documents Using C#" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/detect-spam-documents-csharp" target="_blank">How to Detect Spam Content in Documents Using C#</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-21 15:30</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17345650/linux-kernel-rust-cve-reduction" target="_blank">Rust Could Eliminate 80% of Linux Kernel CVEs!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-21 13:19</span>
+                <span class="title"><a href="https://ubuntu.com//blog/developing-web-apps-with-local-llm-inference" target="_blank">Developing web apps with local LLM inference</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-21 14:19</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html" target="_blank">Python 3.15: features that didn&#x27;t make the headlines</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-21 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18990974&w=600" alt="Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 2]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/db-migration-modernization-guide-part-2" target="_blank">Production Database Migration or Modernization: A Comprehensive Planning Guide [Part 2]</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/automation-incidents-ai/en/mediumimage/medium-1778662652640.jpg" alt="Presentation: The Ironies of A^2 I^2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/automation-incidents-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Ironies of A^2 I^2</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-21 12:55</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/" target="_blank">Coding agents are giving everyone decision fatigue</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-21 14:19</span>
             </div>
         </div>
 </div>
@@ -224,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/on-ai-security.html" target="_blank">On AI Security</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html" target="_blank">macOS Kernel Memory Corruption Exploit</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-20 14:21</span>
+                <span class="time">2026-05-21 16:03</span>
             </div>
         </div>
 </div>
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/acblackfglaf-summer-1280x720.jpg" alt="I Played 4 Hours Of The Assassin’s Creed Black Flag Remake And Its Exactly What I Want" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-played-4-hours-of-the-assassins-creed-black-flag-remake-and-its-exactly-what-i-want-2000696586" target="_blank">I Played 4 Hours Of The Assassin’s Creed Black Flag Remake And Its Exactly What I Want</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS5G6Y3Z65VE18TPMGBR2JYH/hero-image.png" alt="The &#x27;Now Playing&#x27; Switcher Might Be Android 17&#x27;s Most Useful New Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/now-playing-switcher-might-be-android-17s-most-useful-features?utm_medium=RSS" target="_blank">The &#x27;Now Playing&#x27; Switcher Might Be Android 17&#x27;s Most Useful New Feature</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-21 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/browsers.jpg?fit=1868%2C1066&amp;quality=60&amp;ssl=1" alt="A virtual museum runs 570 operating systems in your browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="time">2026-05-20 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Fix Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952" target="_blank">Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Fix Its Console</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 20:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1280x720.jpg" alt="Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952" target="_blank">Xbox Taps Everyone’s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-20 20:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +303,13 @@
                 <span class="time">2026-05-20 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779137781-20260520-edit.png" alt="Saturday Morning Breakfast Cereal - Trash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/trash" target="_blank">Saturday Morning Breakfast Cereal - Trash</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 14:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 114 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 16:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
