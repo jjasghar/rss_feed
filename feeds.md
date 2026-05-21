@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-21 03:00:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-21 05:20:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, May 21, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, May 21, 2026 - 05:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/21/bolivias-president-reshuffles-cabinet-amid-anti-government-protests?traffic_source=rss" target="_blank">Bolivia’s president reshuffles cabinet amid anti-government protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-21 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/21/nx-s1-5827032/liberal-u-s-mayor-trump-europe-pact-of-free-cities-democracy-authoritarianism-orban" target="_blank">Liberal U.S. mayors team up with European counterparts to fight authoritarianism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-21 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +102,38 @@
                 <span class="time">2026-05-20 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs?traffic_source=rss" target="_blank">US lawyers say man on death row could be executed with expired lethal drugs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-20 22:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-congo_7254458.jpg?20260520231531" alt="UK to provide up to &amp;#163;20m funding for fight against Ebola outbreak in Africa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-to-provide-up-to-16320m-for-fight-against-ebola-outbreak-in-democratic-republic-of-the-congo-and-uganda-13546456" target="_blank">UK to provide up to &amp;#163;20m funding for fight against Ebola outbreak in Africa</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-20 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Columbia Promo Codes: 15% Off | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/columbia-promo-code/" target="_blank">Columbia Promo Codes: 15% Off | May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/" target="_blank">Imperagen raises £5 million to use quantum physics, AI on enzyme engineering</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-21 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor" target="_blank">In SpaceX’s IPO, Elon Musk is a risk factor</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-21 03:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,38 +161,20 @@
                 <span class="time">2026-05-20 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11pre1-500x500.jpg" alt="Famously secret about its finances, SpaceX opens its books for the first time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/" target="_blank">Famously secret about its finances, SpaceX opens its books for the first time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-20 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/" target="_blank">xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-20 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a077e5a1a9b4bf58e46bc10/master/pass/REI%20Deals%20top%20art%20052026%20SOURCE%20REI.jpg" alt="The Best Outdoor Deals From the REI Anniversary Sale 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-anniversary-sale-2026/" target="_blank">The Best Outdoor Deals From the REI Anniversary Sale 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-20 22:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sreejit_/93-agents-26-billion-tokens-one-working-os-and-a-bill-under-1000-1182" target="_blank">93 Agents. 2.6 Billion Tokens. One Working OS. And a Bill Under $1,000.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-21 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +216,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub-owned repositories</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-20 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/" target="_blank">Investigating unauthorized access to GitHub’s internal repositories</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-20 21:07</span>
             </div>
@@ -335,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 05:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
