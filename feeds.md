@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-22 19:29:46 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-22 20:30:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 22, 2026 - 19:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, May 22, 2026 - 20:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss" target="_blank">Man City boss and Palestine advocate Pep Guardiola to step down</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-22 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260521_1779381971475_hpMain_4x3t_384.jpg" alt="Trump&#x27;s &#x27;Anti-Weaponization Fund&#x27; faces 2nd federal lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/trumps-anti-weaponization-fund-faces-2nd-federal-lawsuit/story?id=133228507" target="_blank">Trump&#x27;s &#x27;Anti-Weaponization Fund&#x27; faces 2nd federal lawsuit</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-22 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg" alt="Russia&#x27;s Putin vows retaliation after accusing Ukraine of hitting student dormitory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s Putin vows retaliation after accusing Ukraine of hitting student dormitory</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-22 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779472110455_nbc_spec_full_gabbard_resignation_260522_S3_1920x1080-d6lvp1.jpg" alt="Tulsi Gabbard resigns as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,33 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/white-house/tulsi-gabbard-resign-director-national-intelligence-sources-say-rcna264273" target="_blank">Tulsi Gabbard resigns as director of national intelligence</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2026-05-22 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd5/live/0bec13a0-55f7-11f1-b682-cf91850925ea.jpg" alt="Attorney general to review teen boys&#x27; rape sentences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss" target="_blank">Attorney general to review teen boys&#x27; rape sentences</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-22 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc" target="_blank">Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-22 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ebola-rwampara-drc_7255047.jpg?20260521182733" alt="Ebola outbreak &#x27;spreading rapidly&#x27; - as vaccine from UK scientists &#x27;months away&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ebola-outbreak-spreading-rapidly-as-vaccine-from-uk-scientists-months-away-13546988" target="_blank">Ebola outbreak &#x27;spreading rapidly&#x27; - as vaccine from UK scientists &#x27;months away&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-22 14:05</span>
             </div>
         </div>
 </div>
@@ -136,19 +148,19 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Spotify, UMG To Let Fans Make Their Own Music With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Trump Mobile Exposed Customers&#x27; Personal Data, Including Phone Numbers and Home Addresses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Spotify, UMG To Let Fans Make Their Own Music With AI</a></span>
+                <span class="title"><a href="https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Trump Mobile Exposed Customers&#x27; Personal Data, Including Phone Numbers and Home Addresses</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Spotify, UMG To Let Fans Make Their Own Music With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://entertainment.slashdot.org/story/26/05/22/1723236/this-cannes-film-cost-500000-to-make-400000-was-ai-compute-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs.</a></span>
+                <span class="title"><a href="https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Spotify, UMG To Let Fans Make Their Own Music With AI</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -158,6 +170,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd" target="_blank">Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-22 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +224,6 @@
                 <span class="time">2026-05-22 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/" target="_blank">GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-22 16:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/06/da77fa3aa2122feda604db15eb412ec7.jpg" alt="Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675" target="_blank">Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-22 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Trump-Phone-T1-1-2.webp?fit=2048%2C1152&amp;quality=55&amp;ssl=1" alt="No sign of fabled Trump phone in the wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 26 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 19:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 20:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
