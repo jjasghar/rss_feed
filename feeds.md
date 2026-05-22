@@ -1,12 +1,11 @@
-<!-- Processing 54 RSS feeds at 2026-05-22 21:23:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-22 22:18:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
@@ -14,22 +13,26 @@
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 22, 2026 - 21:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, May 22, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +54,15 @@
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia" target="_blank">Federal judge dismisses criminal charges against Kilmar Abrego Garcia</a></span>
                 <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-22 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Four killed and 90 trapped following coal mine accident in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200" target="_blank">Four killed and 90 trapped following coal mine accident in China</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-22 21:13</span>
             </div>
         </div>
@@ -90,20 +102,29 @@
                 <span class="time">2026-05-22 17:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official?traffic_source=rss" target="_blank">Tulsi Gabbard resigns as Trump’s top US intelligence official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-22 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-500x500-1779483051.jpg" alt="First-generation Chromecast users stressed by devices suddenly failing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/" target="_blank">First-generation Chromecast users stressed by devices suddenly failing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-22 21:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/" target="_blank">Blue Origin cleared to fly New Glenn mega-rocket after April mishap</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-22 21:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale" target="_blank">Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/" target="_blank">Kash Patel’s clothing brand website shut down after reports it was hacked</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-22 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Trump Mobile Exposed Customers&#x27; Personal Data, Including Phone Numbers and Home Addresses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Trump Mobile Exposed Customers&#x27; Personal Data, Including Phone Numbers and Home Addresses</a></span>
-                <span class="feed">Slashdot</span>
-                
             </div>
         </div>
 </div>
@@ -193,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/research/glasswing-initial-update" target="_blank">Project Glasswing: An Initial Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-22 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo" target="_blank">Why your Claude API bill is 3x what it should be (and how to fix it)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-PM-Dynamic-EPP-Bart" target="_blank">Linux 7.1 Merges AMD Dynamic EPP Fixes, Intel Bartlett Lake Scaling Fix</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-22 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5" target="_blank">Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-22 18:24</span>
             </div>
         </div>
 </div>
@@ -254,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-251.jpg" alt="Everyone Online Is Convinced This Retired Admiral Just Wore A Mask On Live TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everyone-online-is-convinced-this-retired-admiral-just-wore-a-mask-on-live-tv-2000698787" target="_blank">Everyone Online Is Convinced This Retired Admiral Just Wore A Mask On Live TV</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-22 21:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Mac people who think faster than they type: the Voibe dictation tool is now $40 for lifetime access" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,6 +308,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779413076-20260522-edit.png" alt="Saturday Morning Breakfast Cereal - Ex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ex-3" target="_blank">Saturday Morning Breakfast Cereal - Ex</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-22 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -318,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
