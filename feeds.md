@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-22 20:30:14 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-22 21:23:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, May 22, 2026 - 20:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 22, 2026 - 21:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia" target="_blank">Federal judge dismisses criminal charges against Kilmar Abrego Garcia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-22 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +99,20 @@
                 <span class="time">2026-05-22 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/230618-tulsi-gabbard-mn-1245-db8329.jpg" alt="Tulsi Gabbard resigns as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/tulsi-gabbard-resign-director-national-intelligence-sources-say-rcna264273" target="_blank">Tulsi Gabbard resigns as director of national intelligence</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-22 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/" target="_blank">Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-22 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Memorial Day Tech Deals: Sony, Apple, Beats (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -156,20 +158,20 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Spotify, UMG To Let Fans Make Their Own Music With AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Spotify, UMG To Let Fans Make Their Own Music With AI</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknn46spbnxs8nyxr4p70.png" alt="Building a Live Solana TPS Meter with OrbitFlare&#x27;s TypeScript SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orbitflarerpc/building-a-live-solana-tps-meter-with-orbitflares-typescript-sdk-b66" target="_blank">Building a Live Solana TPS Meter with OrbitFlare&#x27;s TypeScript SDK</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-22 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd" target="_blank">Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-22 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995227&w=600" alt="A Deep Dive into Tracing Agentic Workflows (Part 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/a-deep-dive-into-tracing-agentic-workflows-part-1" target="_blank">A Deep Dive into Tracing Agentic Workflows (Part 1)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-22 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -206,29 +217,20 @@
                 <span class="time">2026-05-22 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995187&w=600" alt="Why AI-Generated Code Breaks Your Testing Assumptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-ai-generated-code-breaks-your-testing-assumpti" target="_blank">Why AI-Generated Code Breaks Your Testing Assumptions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-22 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/sushi.webp?resize=406%2C232&amp;ssl=1" alt="GNOME Sushi spacebar preview fix coming to Ubuntu 26.04" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/gnome-sushi-not-working-ubuntu-26-04" target="_blank">GNOME Sushi spacebar preview fix coming to Ubuntu 26.04</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-22 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Regulating Squid Fishing in the South Pacific</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-22 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -252,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Mac people who think faster than they type: the Voibe dictation tool is now $40 for lifetime access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/22/mac-people-who-think-faster-than-they-type-the-voibe-dictation-tool-is-now-40-for-lifetime-access.html" target="_blank">Mac people who think faster than they type: the Voibe dictation tool is now $40 for lifetime access</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-22 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/06/da77fa3aa2122feda604db15eb412ec7.jpg" alt="Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -307,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 32 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 20:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 39 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
