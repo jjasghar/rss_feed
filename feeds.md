@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 08:38:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-23 09:31:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 08:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 09:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg" alt="At least 90 killed in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 90 killed in Chinese coal mine explosion, state media reports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-23 09:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2026-05-23 05:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss" target="_blank">Ebola outbreak disrupts life along the DRC-Uganda border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-23 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/" target="_blank">Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-23 07:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2026-05-22 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard" target="_blank">Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-22 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ymwuaf63dxuicbahitp.png" alt="I Deployed Netflix&#x27;s Web Server in 30 Seconds (And So Can You) - Docker Project 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1" target="_blank">I Deployed Netflix&#x27;s Web Server in 30 Seconds (And So Can You) - Docker Project 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 09:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2yonvkqhrrlgsr2srp9.png" alt="Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="title"><a href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/" target="_blank">Microsoft reports AI is more expensive than paying human employees</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-23 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17346790/firefox-pdf-merge" target="_blank">Firefox Just Saved Us All from Spammy Online PDF Tools</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-23 03:42</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 62 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 08:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 65 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 09:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
