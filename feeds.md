@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 22:14:39 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-23 23:16:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 22:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 23:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/WhiteHouse5-23_1779575505066_hpMain_4x3t_384.jpg" alt="Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-23 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss" target="_blank">Funerals for medics killed in Israeli air strikes in southern Lebanon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-23 21:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss" target="_blank">Iran &#x27;getting a lot closer&#x27; to agreement with US, Trump says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-23 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision" target="_blank">What will Trump do next with Iran?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-23 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6b/live/ba1bf5f0-5690-11f1-9615-e14e530a4b81.jpg" alt="France suspends extra EU border checks at Dover after hours-long queues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss" target="_blank">France suspends extra EU border checks at Dover after hours-long queues</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 16:55</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502" target="_blank">How do you handle bugs in apps built with AI builders?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nmiller15/quidditch-powered-by-postgresql-and-aspnet-44d7" target="_blank">Quidditch - Powered By PostgreSQL and ASP.NET</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 19:23</span>
@@ -208,20 +221,20 @@
                 <span class="time">2026-05-23 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sadiqbd/stop-guessing-your-regex-test-it-live-in-the-browser-20p2" target="_blank">Stop Guessing Your Regex — Test It Live in the Browser</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/kowloon-1280x815.jpg" alt="Hilltop Works Announce Fan Translation Of Infamous Kowloon Walled City PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hilltop-works-announce-fan-translation-of-infamous-kowloon-walled-city-playstation-game-2000698985" target="_blank">Hilltop Works Announce Fan Translation Of Infamous Kowloon Walled City PlayStation Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-23 21:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC with this $26 MS Office and Windows 11 Pro bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 22:14 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 23:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
