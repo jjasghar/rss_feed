@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 21:15:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-23 22:14:39 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 21:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 22:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -62,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ukraine-soldiers-army_7256758.jpg?20260523214231" alt="Death of British national confirmed in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417" target="_blank">Death of British national confirmed in Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-23 20:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Iran &#x27;getting a lot closer&#x27; to agreement with US, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss" target="_blank">France suspends extra EU border checks at Dover after hours-long queues</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-23 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss" target="_blank">Spanish police beat and detain Gaza flotilla activists at airport</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-23 16:38</span>
             </div>
         </div>
 </div>
@@ -173,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://veronicaexplains.net/my-first-writerdeck/" target="_blank">It&#x27;s time to talk about my writerdeck</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-23 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-de-permiso-al-ejecutar-pipexe-en-entorno-virtual-python-310-en-3jcj" target="_blank">Cómo solucionar el error de permiso al ejecutar `pip.exe` en entorno virtual (Python 3.10 en Windows)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,20 +217,20 @@
                 <span class="time">2026-05-23 14:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://benmyers.dev/blog/on-the-dl/" target="_blank">On The &lt;dl&gt; (2021)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-23 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/The-All-in-One-Microsoft-Office-Pro-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Upgrade your PC with this $26 MS Office and Windows 11 Pro bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/23/upgrade-your-pc-with-this-26-ms-office-and-windows-11-pro-bundle.html" target="_blank">Upgrade your PC with this $26 MS Office and Windows 11 Pro bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-23 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/colbert.jpg" alt="Stephen Colbert Lands New Hosting Gig On Michigan Public Access 24 Hours After Wrapping Up Late Night Career" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,24 +258,6 @@
                 <span class="time">2026-05-23 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/farcry3.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="Ubisoft lost a billion and a half dollars last year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/22/ubisoft-lost-a-billion-and-a-half-dollars-last-year.html" target="_blank">Ubisoft lost a billion and a half dollars last year</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-22 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-251.jpg" alt="Everyone Online Is Convinced This Retired Admiral Just Wore A Mask On Live TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/everyone-online-is-convinced-this-retired-admiral-just-wore-a-mask-on-live-tv-2000698787" target="_blank">Everyone Online Is Convinced This Retired Admiral Just Wore A Mask On Live TV</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-22 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -284,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:15 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 22:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
