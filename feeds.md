@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 12:14:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-23 13:28:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 12:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 13:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/" target="_blank">Elon Musk has given up on solar power (on Earth)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer" target="_blank">I have a new go-to browser</a></span>
                 <span class="feed">The Verge</span>
@@ -123,6 +125,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/" target="_blank">Two space shuttle-era spacewalkers enter Astronaut Hall of Fame</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-23 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0c7736cffddde770352aa6/master/pass/1%20-%20Courtesy-of-L.L.-Bean.jpg" alt="L.L.Bean&#x27;s Zip Hunter&#x27;s Tote Is the Only Carryall You Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/llbean-zip-hunters-tote-bag/" target="_blank">L.L.Bean&#x27;s Zip Hunter&#x27;s Tote Is the Only Carryall You Need</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-23 11:01</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video" target="_blank">Google’s new anything-to-anything AI model is wild</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69f8b35fae7585ea23948deb/master/pass/GettyImages-90532973.jpg" alt="Cosmic Voids May Contain the Universe’s Best Secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/" target="_blank">Cosmic Voids May Contain the Universe’s Best Secrets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/" target="_blank">Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-23 07:01</span>
             </div>
         </div>
 </div>
@@ -339,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 12:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 13:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
