@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 02:59:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-23 04:22:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 04:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/" target="_blank">AI is being used to resurrect the voices of dead pilots</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-22 23:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-500x500.jpg" alt="Four Russian satellites are now within striking distance of an ICEYE radarsat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,20 +159,29 @@
                 <span class="time">2026-05-22 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Memorial Day Tech Deals: Sony, Apple, Beats (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/memorial-day-tech-deals-2026-1/" target="_blank">Memorial Day Tech Deals: Sony, Apple, Beats (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-22 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fshankulkarni.com%2Fimages%2Fblog%2Fcountry-state-city-picker%2Fpicker.png" alt="Why Country/State/City Pickers Are Weirdly Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1" target="_blank">Why Country/State/City Pickers Are Weirdly Hard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17346790/firefox-pdf-merge" target="_blank">Firefox Just Saved Us All from Spammy Online PDF Tools</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-23 03:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd" target="_blank">Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-22 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995227&w=600" alt="A Deep Dive into Tracing Agentic Workflows (Part 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-deep-dive-into-tracing-agentic-workflows-part-1" target="_blank">A Deep Dive into Tracing Agentic Workflows (Part 1)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/research/glasswing-initial-update" target="_blank">Project Glasswing: An Initial Update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-22 19:31</span>
             </div>
         </div>
 </div>
@@ -335,22 +332,13 @@
                 <span class="time">2026-05-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/neutrino_project.png" alt="Neutrino Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3249/" target="_blank">Neutrino Project</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-22 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 04:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
