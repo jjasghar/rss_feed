@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 11:24:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-23 12:14:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 11:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 12:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5823640/opinion-remembering-barney-frank-trailblazing-public-servant" target="_blank">Opinion: Remembering Barney Frank, trailblazing public servant</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/23/cockroach-janta-partys-founder-says-indian-government-took-website-down?traffic_source=rss" target="_blank">Cockroach Janta Party’s founder says Indian government took website down</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-23 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,29 @@
                 <span class="time">2026-05-23 06:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/26de5e00-566c-11f1-b6cc-4175dfd9c219.jpg" alt="At least 90 dead in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 90 dead in Chinese coal mine explosion, state media reports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="At least 82 dead in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 82 dead in Chinese coal mine explosion, state media reports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer" target="_blank">I have a new go-to browser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/news-051626b-lg-500x500.jpg" alt="Two space shuttle-era spacewalkers enter Astronaut Hall of Fame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/" target="_blank">Two space shuttle-era spacewalkers enter Astronaut Hall of Fame</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-23 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-500x500.jpg" alt="China’s shark finning could lead to US seafood sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +161,20 @@
                 <span class="time">2026-05-23 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/" target="_blank">AI is being used to resurrect the voices of dead pilots</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-22 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-500x500.jpg" alt="Four Russian satellites are now within striking distance of an ICEYE radarsat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/" target="_blank">Four Russian satellites are now within striking distance of an ICEYE radarsat</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-22 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sunilprakash/i-tested-4-ai-agent-governance-tools-against-an-open-spec-heres-the-matrix-4l2a" target="_blank">I tested 4 AI agent-governance tools against an open spec - here&#x27;s the matrix</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 12:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fshiftaidownload.xyz%2Fui-preview.jpg" alt="I built a local voice AI that can change to 9 different personalities!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/lasha_gamzardia_f6414c12d/i-built-a-local-voice-ai-that-can-change-to-9-different-personalities-12i3" target="_blank">I built a local voice AI that can change to 9 different personalities!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AV2-Next-Week" target="_blank">AV2 Codec Looks Like It Will Be Officially Released Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-23 10:38</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2026-05-23 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2yonvkqhrrlgsr2srp9.png" alt="Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/zero-downtime-blue-green-and-ip-based-canary-deployments-on-ecs-fargate-4ea8" target="_blank">Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yasirawan4831/building-a-production-style-multi-tool-ai-agent-with-python-flask-react-gemini-ai-47n3" target="_blank">Building a Production-Style Multi-Tool AI Agent with Python, Flask, React &amp; Gemini AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 07:32</span>
             </div>
         </div>
 </div>
@@ -257,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-50.jpg" alt="A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spyro-dragon-statue-e3-insomniac-playstation-activision-2000698746" target="_blank">A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/farcry3.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="Ubisoft lost a billion and a half dollars last year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 11:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 12:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
