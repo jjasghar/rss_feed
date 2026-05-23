@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 10:28:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-23 11:24:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 10:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 11:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control" target="_blank">Chile&#x27;s MAGA-inspired border control</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg" alt="At least 90 killed in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +102,29 @@
                 <span class="time">2026-05-23 05:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight" target="_blank">SpaceX launches its biggest, most beefed-up Starship yet on a test flight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-23 05:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-500x500.jpg" alt="China’s shark finning could lead to US seafood sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/" target="_blank">China’s shark finning could lead to US seafood sanctions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video" target="_blank">Google’s new anything-to-anything AI model is wild</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/69f8b35fae7585ea23948deb/master/pass/GettyImages-90532973.jpg" alt="Cosmic Voids May Contain the Universe’s Best Secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +161,20 @@
                 <span class="time">2026-05-22 22:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-500x500-1779483051.jpg" alt="First-generation Chromecast users stressed by devices suddenly failing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/" target="_blank">First-generation Chromecast users stressed by devices suddenly failing</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-22 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/" target="_blank">Blue Origin cleared to fly New Glenn mega-rocket after April mishap</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-22 21:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fshiftaidownload.xyz%2Fui-preview.jpg" alt="I built a local voice AI that can change to 9 different personalities!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lasha_gamzardia_f6414c12d/i-built-a-local-voice-ai-that-can-change-to-9-different-personalities-12i3" target="_blank">I built a local voice AI that can change to 9 different personalities!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="I Fed React&#x27;s Entire Hooks Transition History to Gemma 4. Here&#x27;s What It Found That We Missed." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2026/05/google-cross-engine-iceberg/en/headerimage/generatedHeaderImage-1778071626715.jpg" alt="Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Cross-Engine Iceberg Support in BigQuery</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-23 08:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2yonvkqhrrlgsr2srp9.png" alt="Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/yasirawan4831/building-a-production-style-multi-tool-ai-agent-with-python-flask-react-gemini-ai-47n3" target="_blank">Building a Production-Style Multi-Tool AI Agent with Python, Flask, React &amp; Gemini AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/spylang/spy" target="_blank">SPy: an interpreter and a compiler for a statically typed variant of Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-23 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fshankulkarni.com%2Fimages%2Fblog%2Fcountry-state-city-picker%2Fpicker.png" alt="Why Country/State/City Pickers Are Weirdly Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1" target="_blank">Why Country/State/City Pickers Are Weirdly Hard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 04:21</span>
             </div>
         </div>
 </div>
@@ -322,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
