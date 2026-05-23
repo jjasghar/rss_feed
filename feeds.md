@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 06:01:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-23 07:46:23 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 07:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss" target="_blank">Gas explosion at Chinese coal mine kills at least 90</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-23 06:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/26de5e00-566c-11f1-b6cc-4175dfd9c219.jpg" alt="At least 90 dead in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 90 dead in Chinese coal mine explosion, state media reports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-23 06:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="At least 82 dead in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id=133234846" target="_blank">Evacuation orders issued for 40,000 people in California over explosion threat</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-23 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779486090535_now_hallie_allen_green_card_260522_S3_1920x1080-9ml65a.jpg" alt="DHS to require green card applicants to return to home countries to apply" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/dhs-to-require-green-card-applicants-to-return-to-home-countries-to-apply-263828037835" target="_blank">DHS to require green card applicants to return to home countries to apply</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-22 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia" target="_blank">Federal judge dismisses criminal charges against Kilmar Abrego Garcia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-22 21:13</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yasirawan4831/building-a-production-style-multi-tool-ai-agent-with-python-flask-react-gemini-ai-47n3" target="_blank">Building a Production-Style Multi-Tool AI Agent with Python, Flask, React &amp; Gemini AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-23 07:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/spylang/spy" target="_blank">SPy: an interpreter and a compiler for a statically typed variant of Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17346770/deutsche-bahn-blocking-linux-users" target="_blank">In a Weird Case, German Deutsche Bahn&amp;#x27;s Website Was Locking Out Linux Users</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-23 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda" target="_blank">Shipping a laptop to a refugee camp in Uganda</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-22 21:36</span>
             </div>
         </div>
 </div>
@@ -322,22 +323,13 @@
                 <span class="time">2026-05-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/22/chicanery" target="_blank">Chicanery</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-22 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 60 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 07:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
