@@ -1,37 +1,25 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 15:21:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-23 16:17:28 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 15:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 16:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +106,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech" target="_blank">The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/" target="_blank">Elon Musk has given up on solar power (on Earth)</a></span>
                 <span class="feed">TechCrunch</span>
@@ -149,15 +146,6 @@
                 <span class="title"><a href="https://www.wired.com/story/llbean-zip-hunters-tote-bag/" target="_blank">L.L.Bean&#x27;s Zip Hunter&#x27;s Tote Is the Only Carryall You Need</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-23 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240037962-500x500.jpg" alt="China’s shark finning could lead to US seafood sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/" target="_blank">China’s shark finning could lead to US seafood sanctions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-23 11:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Hive-AI.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This tool replaces your pile of productivity apps for $65 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/23/this-tool-replaces-your-pile-of-productivity-apps-for-65-for-life.html" target="_blank">This tool replaces your pile of productivity apps for $65 for life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-50.jpg" alt="A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -292,15 +289,6 @@
                 <span class="time">2026-05-22 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Trump-Phone-T1-1-2.webp?fit=2048%2C1152&amp;quality=55&amp;ssl=1" alt="No sign of fabled Trump phone in the wild" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/22/no-sign-of-fabled-trump-phone-in-the-wild.html" target="_blank">No sign of fabled Trump phone in the wild</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-22 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 15:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 85 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 16:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
