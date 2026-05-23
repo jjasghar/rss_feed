@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 04:22:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-23 06:01:13 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 04:22 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="At least 82 dead in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 82 dead in Chinese coal mine explosion, state media reports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-23 05:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight" target="_blank">SpaceX launches its biggest, most beefed-up Starship yet on a test flight</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-23 05:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia" target="_blank">Federal judge dismisses criminal charges against Kilmar Abrego Garcia</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-22 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-china-coal_7256254.jpg?20260522234351" alt="Eight killed and 38 trapped following coal mine accident in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200" target="_blank">Eight killed and 38 trapped following coal mine accident in China</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-22 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Four killed and 90 trapped following coal mine accident in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200" target="_blank">Four killed and 90 trapped following coal mine accident in China</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-22 21:13</span>
             </div>
         </div>
@@ -165,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/spylang/spy" target="_blank">SPy: an interpreter and a compiler for a statically typed variant of Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-23 05:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fshankulkarni.com%2Fimages%2Fblog%2Fcountry-state-city-picker%2Fpicker.png" alt="Why Country/State/City Pickers Are Weirdly Hard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1" target="_blank">Why Country/State/City Pickers Are Weirdly Hard</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/" target="_blank">Microsoft reports AI is more expensive than paying human employees</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-23 03:44</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda" target="_blank">Shipping a laptop to a refugee camp in Uganda</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-22 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknn46spbnxs8nyxr4p70.png" alt="Building a Live Solana TPS Meter with OrbitFlare&#x27;s TypeScript SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orbitflarerpc/building-a-live-solana-tps-meter-with-orbitflares-typescript-sdk-b66" target="_blank">Building a Live Solana TPS Meter with OrbitFlare&#x27;s TypeScript SDK</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-22 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pasquale_molinaro/stop-retraining-yolo-a-developers-guide-to-zero-shot-object-detection-with-generative-vlms-37gd" target="_blank">Stop retraining YOLO: a developer’s guide to zero-shot object detection with generative VLMs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-22 20:20</span>
             </div>
         </div>
 </div>
@@ -337,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 54 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 04:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 57 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
