@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 20:14:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-23 21:15:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 20:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 21:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-23 21:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260522_1779475992207_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says framework of Iran peace deal to be announced shortly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says framework of Iran peace deal to be announced shortly</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-23 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Iran &#x27;getting a lot closer&#x27; to agreement with US, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss" target="_blank">Spanish police beat and detain Gaza flotilla activists at airport</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-23 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg" alt="At least 82 killed in Chinese coal mine explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 82 killed in Chinese coal mine explosion</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg" alt="At least 82 killed in Chinese coal mine explosion, state media reports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss" target="_blank">At least 82 killed in Chinese coal mine explosion, state media reports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 15:18</span>
             </div>
         </div>
 </div>
@@ -223,20 +217,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html" target="_blank">Friday Squid Blogging: Regulating Squid Fishing in the South Pacific</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-22 21:04</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -285,15 +265,6 @@
                 <span class="time">2026-05-22 21:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Voibe-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Mac people who think faster than they type: the Voibe dictation tool is now $40 for lifetime access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/22/mac-people-who-think-faster-than-they-type-the-voibe-dictation-tool-is-now-40-for-lifetime-access.html" target="_blank">Mac people who think faster than they type: the Voibe dictation tool is now $40 for lifetime access</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 20:14 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
