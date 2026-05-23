@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 01:32:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-23 02:59:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 01:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss" target="_blank">Ebola outbreak disrupts life along the DRC-Uganda border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-23 00:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/hazmat-1-ht-gmh-260522_1779481918122_hpMain_4x3t_384.jpg" alt="Evacuation orders issued for 40,000 people in California over explosion threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-china-coal_7256254.jpg?20260522234351" alt="Eight killed and 38 trapped following coal mine accident in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200" target="_blank">Eight killed and 38 trapped following coal mine accident in China</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-22 21:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/26/04/1920x1080/skynews-breaking-breakingnews_7210863.png?20260516142605" alt="Four killed and 90 trapped following coal mine accident in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -75,29 +103,20 @@
                 <span class="time">2026-05-22 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss" target="_blank">Man City boss and Palestine advocate Pep Guardiola to step down</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-22 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-260521_1779381971475_hpMain_4x3t_384.jpg" alt="Trump&#x27;s &#x27;Anti-Weaponization Fund&#x27; faces 2nd federal lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/trumps-anti-weaponization-fund-faces-2nd-federal-lawsuit/story?id=133228507" target="_blank">Trump&#x27;s &#x27;Anti-Weaponization Fund&#x27; faces 2nd federal lawsuit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-22 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-500x500.jpg" alt="Four Russian satellites are now within striking distance of an ICEYE radarsat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/" target="_blank">Four Russian satellites are now within striking distance of an ICEYE radarsat</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-22 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-500x500-1779483051.jpg" alt="First-generation Chromecast users stressed by devices suddenly failing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,6 +145,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard" target="_blank">Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-22 20:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Memorial Day Tech Deals: Sony, Apple, Beats (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -134,29 +162,20 @@
                 <span class="time">2026-05-22 18:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/mando1-500x500-1779114357.jpg" alt="Review: The Mandalorian and Grogu is average Star Wars—no more, no less" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/" target="_blank">Review: The Mandalorian and Grogu is average Star Wars—no more, no less</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-22 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale" target="_blank">Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-22 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17346770/deutsche-bahn-blocking-linux-users" target="_blank">In a Weird Case, German Deutsche Bahn&amp;#x27;s Website Was Locking Out Linux Users</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-23 01:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +219,6 @@
                 <span class="title"><a href="https://www.anthropic.com/research/glasswing-initial-update" target="_blank">Project Glasswing: An Initial Update</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-22 19:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo" target="_blank">Why your Claude API bill is 3x what it should be (and how to fix it)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-22 19:24</span>
             </div>
         </div>
 </div>
@@ -339,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 01:32 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 52 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
