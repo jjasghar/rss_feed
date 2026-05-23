@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-22 22:18:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-23 01:32:17 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, May 22, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 23, 2026 - 01:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hazmat-1-ht-gmh-260522_1779481918122_hpMain_4x3t_384.jpg" alt="Evacuation orders issued for 40,000 people in California over explosion threat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id=133234846" target="_blank">Evacuation orders issued for 40,000 people in California over explosion threat</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-23 00:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779486090535_now_hallie_allen_green_card_260522_S3_1920x1080-9ml65a.jpg" alt="DHS to require green card applicants to return to home countries to apply" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/dhs-to-require-green-card-applicants-to-return-to-home-countries-to-apply-263828037835" target="_blank">DHS to require green card applicants to return to home countries to apply</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-22 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.com/US/trumps-anti-weaponization-fund-faces-2nd-federal-lawsuit/story?id=133228507" target="_blank">Trump&#x27;s &#x27;Anti-Weaponization Fund&#x27; faces 2nd federal lawsuit</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-22 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg" alt="Russia&#x27;s Putin vows retaliation after accusing Ukraine of hitting student dormitory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss" target="_blank">Russia&#x27;s Putin vows retaliation after accusing Ukraine of hitting student dormitory</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-22 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779472110455_nbc_spec_full_gabbard_resignation_260522_S3_1920x1080-d6lvp1.jpg" alt="Tulsi Gabbard resigns as director of national intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/tulsi-gabbard-resigns-as-director-of-national-intelligence-263812677836" target="_blank">Tulsi Gabbard resigns as director of national intelligence</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-22 17:48</span>
             </div>
         </div>
 </div>
@@ -167,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda" target="_blank">Shipping a laptop to a refugee camp in Uganda</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-22 21:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fknn46spbnxs8nyxr4p70.png" alt="Building a Live Solana TPS Meter with OrbitFlare&#x27;s TypeScript SDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +211,6 @@
                 <span class="time">2026-05-22 19:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-PM-Dynamic-EPP-Bart" target="_blank">Linux 7.1 Merges AMD Dynamic EPP Fixes, Intel Bartlett Lake Scaling Fix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-22 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -257,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/01/farcry3.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="Ubisoft lost a billion and a half dollars last year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/22/ubisoft-lost-a-billion-and-a-half-dollars-last-year.html" target="_blank">Ubisoft lost a billion and a half dollars last year</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-22 21:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-251.jpg" alt="Everyone Online Is Convinced This Retired Admiral Just Wore A Mask On Live TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -339,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 45 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 48 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 01:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
