@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 08:47:33 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 09:34:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 08:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 09:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6a0c785e25e6c2e7a731681d/master/pass/WIRED_CAMPING_STOVE_17_04_20263191TIFF16-bit-WF_Cutout.jpg" alt="14 New Tools for Taking on the Great Outdoors Properly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/" target="_blank">14 New Tools for Taking on the Great Outdoors Properly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-24 09:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,20 +161,20 @@
                 <span class="time">2026-05-23 15:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech" target="_blank">The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-24 08:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank">Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-24 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wild-Linker-0.9" target="_blank">Rust-Based Wild Linker 0.9 Brings New Platform Coverage, Linker Plugin API</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-24 00:33</span>
             </div>
         </div>
 </div>
@@ -286,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 244 |
-        🔄 Last Updated: 08:47 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 09:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
