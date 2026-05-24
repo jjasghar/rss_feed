@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 14:28:10 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 15:22:16 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 14:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 15:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +111,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/" target="_blank">I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/935545/hackers-ai-chatbots" target="_blank">Hackers are learning to exploit chatbot &amp;#8216;personalities&amp;#8217;</a></span>
                 <span class="feed">The Verge</span>
@@ -148,20 +162,20 @@
                 <span class="time">2026-05-24 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0c785e25e6c2e7a731681d/master/pass/WIRED_CAMPING_STOVE_17_04_20263191TIFF16-bit-WF_Cutout.jpg" alt="14 New Tools for Taking on the Great Outdoors Properly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/" target="_blank">14 New Tools for Taking on the Great Outdoors Properly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-24 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4dz9ehd0n8k7iax7x19i.jpg" alt="Caching Layers in 2026: CDN, App, DB, Query: What Goes Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m" target="_blank">Caching Layers in 2026: CDN, App, DB, Query: What Goes Where</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3442406%2Fa8f8305b-ac37-401d-af17-221c18c10e80.png" alt="🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.
 
@@ -173,6 +187,24 @@ Would love feedback from the dev community 🙌" class="story-image" loading="la
 Would love feedback from the dev community 🙌</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/" target="_blank">Microsoft&#x27;s 6502 BASIC is now Open Source (2025)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-24 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 daily builds now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-26-10-daily-builds" target="_blank">Ubuntu 26.10 daily builds now available to download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-24 13:14</span>
             </div>
         </div>
 <div class="story">
@@ -193,38 +225,20 @@ Would love feedback from the dev community 🙌</a></span>
                 <span class="time">2026-05-24 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KernelScript" target="_blank">KernelScript: A Programming Language For Kernel Customization &amp; App Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-24 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suda8866/hi-im-su-girl-in-tech-art-somewhere-in-sea-4pbm" target="_blank">hi 👋 i&#x27;m Su - girl in tech &amp; art, somewhere in SEA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 10:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/aws-mcp-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-24 08:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/piker.jpg" alt="Twitch Streamer Hasan Piker Subpoenaed Over Aid Trip To Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/twitch-streamer-hasan-piker-subpoenaed-over-aid-trip-to-cuba-2000699014" target="_blank">Twitch Streamer Hasan Piker Subpoenaed Over Aid Trip To Cuba</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-24 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/pokemonpentecost-1280x720.jpg" alt="Here Are The Perfect Pokémon For Each Of Jesus Christ’s 12 Apostles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,36 +275,13 @@ Would love feedback from the dev community 🙌</a></span>
                 <span class="time">2026-05-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Hive-AI.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This tool replaces your pile of productivity apps for $65 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/23/this-tool-replaces-your-pile-of-productivity-apps-for-65-for-life.html" target="_blank">This tool replaces your pile of productivity apps for $65 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-23 15:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779491306-20260523 - edit.png" alt="Saturday Morning Breakfast Cereal - Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/safe" target="_blank">Saturday Morning Breakfast Cereal - Safe</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 14:28 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 15:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
