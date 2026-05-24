@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 21:16:11 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-24 22:16:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 21:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 22:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate" target="_blank">California chemical tank has cracked causing state of emergency, thousands to evacuate</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss" target="_blank">Inside a Beirut barbershop shaped by war and crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 21:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2026-05-24 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss" target="_blank">‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5305/live/6c77b5c0-5779-11f1-bafe-434e6ec4ac4b.jpg" alt="Starmer says case of girls raped by boys spared custody &#x27;appalling&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says case of girls raped by boys spared custody &#x27;appalling&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-24 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/" target="_blank">Everyone is navigating AI security in real time — even Google</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-24 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2026-05-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/935545/hackers-ai-chatbots" target="_blank">Hackers are learning to exploit chatbot &amp;#8216;personalities&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/nswitzer/vessel-ops-3i2a" target="_blank">Vessel Ops</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc5-Released" target="_blank">Linux 7.1-rc5 Released With Fixes Ramping Up From AI Coding Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-24 20:51</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +221,29 @@
                 <span class="time">2026-05-24 17:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc5-AI-This-Week" target="_blank">GitHub Copilot &amp; Claude Code Helped With Graphics, WiFi Linux Driver Issues This Week</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-24 16:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/MeetScribe-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $60 AI meeting assistant listens to your meetings so you don&#x27;t have to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/24/this-60-ai-meeting-assistant-listens-to-your-meetings-so-you-dont-have-to.html" target="_blank">This $60 AI meeting assistant listens to your meetings so you don&#x27;t have to</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-24 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/rtype3-1280x769.jpg" alt="R-Type Dimensions III Gives Shoot ‘Em Up Classic Amazing Look And Awful Hitboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/r-type-dimensions-iii-gives-shoot-em-up-classic-amazing-look-and-awful-hitboxes-2000699042" target="_blank">R-Type Dimensions III Gives Shoot ‘Em Up Classic Amazing Look And Awful Hitboxes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-24 20:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/rocketleague.jpg" alt="First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +280,6 @@
                 <span class="time">2026-05-24 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Work offline and on the go with MS Office 2021 for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/24/work-offline-and-on-the-go-with-ms-office-2021-for-just-30.html" target="_blank">Work offline and on the go with MS Office 2021 for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/pokemonpentecost-1280x720.jpg" alt="Here Are The Perfect Pokémon For Each Of Jesus Christ’s 12 Apostles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-teams-twelve-apostles-2000698265" target="_blank">Here Are The Perfect Pokémon For Each Of Jesus Christ’s 12 Apostles</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 21:16 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 22:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
