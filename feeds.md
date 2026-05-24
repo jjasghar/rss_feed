@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 00:22:37 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-24 01:37:05 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 00:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 01:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/cc2e1e60-570a-11f1-b6ba-0f41b010246c.jpg" alt="Heatwave likely to be confirmed as record-breaking temperatures forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss" target="_blank">Heatwave likely to be confirmed as record-breaking temperatures forecast</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-24 00:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +95,20 @@
                 <span class="time">2026-05-23 21:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds" target="_blank">Record Club is trying to be Letterboxd for music nerds</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-23 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,20 @@
                 <span class="time">2026-05-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/" target="_blank">Elon Musk has given up on solar power (on Earth)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47" target="_blank">React.js ~use() hook for Caching Problem~</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 01:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-de-permiso-al-ejecutar-pipexe-en-entorno-virtual-python-310-en-3jcj" target="_blank">Cómo solucionar el error de permiso al ejecutar `pip.exe` en entorno virtual (Python 3.10 en Windows)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 17:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yahya_saleh_d157cf3d7fe2e/using-an-llm-to-automate-a-task-that-used-to-take-hours-by-hand-16c2" target="_blank">Using an LLM to automate a task that used to take hours by hand</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 15:15</span>
             </div>
         </div>
 </div>
@@ -285,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 00:22 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 247 |
+        🔄 Last Updated: 01:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
