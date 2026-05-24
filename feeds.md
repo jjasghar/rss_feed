@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 05:16:36 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 07:00:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 07:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss" target="_blank">Usyk avoids shock defeat with 11th-round stoppage of Verhoeven</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 06:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af8/live/21744ff0-5735-11f1-b682-cf91850925ea.jpg" alt="Suspect killed after opening fire on Secret Service near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss" target="_blank">Suspect killed after opening fire on Secret Service near White House</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-24 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779598204821_nbc_spec_secret_service_white_house_260523_S3_1920x1080-nd6xxr.jpg" alt="Special Report: Secret Service kill man who opened fire outside of White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/special-report-secret-service-kill-man-who-opened-fire-outside-of-white-house-263868485559" target="_blank">Special Report: Secret Service kill man who opened fire outside of White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-24 04:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/wh-incident-5-23-5_1779578274510_hpMain_4x3t_384.jpg" alt="Suspect dead, bystander wounded after gunfire near White House: Secret Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,33 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house" target="_blank">Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-24 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival" target="_blank">Romanian director Cristian Mungiu&#x27;s &#x27;Fjord&#x27; wins top prize at Cannes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-24 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779577751927_wnn_jts_gunshots_heard_near_white_house_260523_S3_1920x1080-fjy0g9.jpg" alt="Gunshots heard near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/gunshots-heard-near-white-house-263861829945" target="_blank">Gunshots heard near White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-23 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/WhiteHouse5-23_1779575505066_hpMain_4x3t_384.jpg" alt="Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-23 23:06</span>
             </div>
         </div>
 </div>
@@ -168,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5" target="_blank">Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 06:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/built-from-africa/i-still-remember-the-day-our-server-stall-almost-killed-the-product-launch-44ig" target="_blank">I Still Remember the Day Our Server Stall Almost Killed the Product Launch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 05:09</span>
@@ -207,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/pid-tuning-that-actually-converges-ziegler-nichols-and-the-root-locus-view-206n" target="_blank">PID Tuning That Actually Converges: Ziegler-Nichols and the Root Locus View</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502" target="_blank">How do you handle bugs in apps built with AI builders?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 22:59</span>
             </div>
         </div>
 </div>
@@ -287,8 +279,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 07:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
