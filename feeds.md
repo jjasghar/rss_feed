@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 10:29:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-24 11:26:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 10:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 11:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026?traffic_source=rss" target="_blank">What to know about Cape Verde at World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-train-bombing-pakistan_7256957.jpg?20260524081605" alt="24 people die after suicide bomber targets train carrying military personnel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487" target="_blank">24 people die after suicide bomber targets train carrying military personnel</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-24 06:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,29 +100,29 @@
                 <span class="time">2026-05-24 06:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1af8/live/21744ff0-5735-11f1-b682-cf91850925ea.jpg" alt="Suspect killed after opening fire on Secret Service near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss" target="_blank">Suspect killed after opening fire on Secret Service near White House</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-24 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges" target="_blank">Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-24 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-500x500.jpg" alt="Belugas may pass the mirror test—but does the mirror test still pass?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/" target="_blank">Belugas may pass the mirror test—but does the mirror test still pass?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-24 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo" target="_blank">Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0c785e25e6c2e7a731681d/master/pass/WIRED_CAMPING_STOVE_17_04_20263191TIFF16-bit-WF_Cutout.jpg" alt="14 New Tools for Taking on the Great Outdoors Properly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +159,29 @@
                 <span class="time">2026-05-23 17:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/69b9d28bd522b4f35aea0a0d/master/pass/The-Best-Power-Banks-for-All-Your-Devices.jpg" alt="Best Power Banks (2026): My Picks After Testing Over 100" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-portable-chargers-power-banks/" target="_blank">Best Power Banks (2026): My Picks After Testing Over 100</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-23 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/" target="_blank">Ferrari is using IBM’s AI to create F1 superfans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-23 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mudassirworks/building-mcp-servers-in-typescript-that-dont-fall-apart-2m6a" target="_blank">Building MCP Servers in TypeScript That Don&#x27;t Fall Apart</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KernelScript" target="_blank">KernelScript: A Programming Language For Kernel Customization &amp; App Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-24 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5" target="_blank">Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/built-from-africa/i-still-remember-the-day-our-server-stall-almost-killed-the-product-launch-44ig" target="_blank">I Still Remember the Day Our Server Stall Almost Killed the Product Launch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47" target="_blank">React.js ~use() hook for Caching Problem~</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 01:26</span>
             </div>
         </div>
 </div>
@@ -287,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
-        🔄 Last Updated: 10:30 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 242 |
+        🔄 Last Updated: 11:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
