@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 09:34:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 10:29:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 09:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 10:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss" target="_blank">Senegal football fans return home after royal pardon in Morocco</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 10:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error" target="_blank">Nurse convicted in patient&#x27;s death is now a national speaker on hospital safety</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8961/live/22088430-5736-11f1-8b8c-6d33e1d5abb6.jpg" alt="Girl raped by boys spared jail tells BBC judge&#x27;s decision was like &#x27;rock in my face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges" target="_blank">Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2026-05-24 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779598204821_nbc_spec_secret_service_white_house_260523_S3_1920x1080-nd6xxr.jpg" alt="Special Report: Secret Service kill man who opened fire outside of White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/special-report-secret-service-kill-man-who-opened-fire-outside-of-white-house-263868485559" target="_blank">Special Report: Secret Service kill man who opened fire outside of White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-24 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/wh-incident-5-23-5_1779578274510_hpMain_4x3t_384.jpg" alt="Suspect dead, bystander wounded after gunfire near White House: Secret Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Suspect dead, bystander wounded after gunfire near White House: Secret Service</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-24 02:39</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suda8866/hi-im-su-girl-in-tech-art-somewhere-in-sea-4pbm" target="_blank">hi 👋 i&#x27;m Su - girl in tech &amp; art, somewhere in SEA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 10:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS MCP Server Reaches GA with Full API Coverage and IAM-Based Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47" target="_blank">React.js ~use() hook for Caching Problem~</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank">Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-24 01:21</span>
             </div>
         </div>
 </div>
@@ -289,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 245 |
-        🔄 Last Updated: 09:34 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 243 |
+        🔄 Last Updated: 10:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
