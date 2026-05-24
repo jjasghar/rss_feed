@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 19:27:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-24 20:17:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 19:27 UTC</div>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 20:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks" target="_blank">Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-24 19:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,15 +100,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says case of girls raped by boys spared custody &#x27;appalling&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-24 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5305/live/6c77b5c0-5779-11f1-bafe-434e6ec4ac4b.jpg" alt="Keir Starmer says rape of two girls by boys spared custody &#x27;appalling&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer says rape of two girls by boys spared custody &#x27;appalling&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-24 14:51</span>
             </div>
@@ -158,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/canonical-donate.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical to shut Ubuntu Pastebin after 18 years of service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/canonical-ubuntu-pastebin-shutdown" target="_blank">Canonical to shut Ubuntu Pastebin after 18 years of service</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-24 18:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/canonical-donate.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical to shut down Ubuntu Pastebin after nearly two decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -173,6 +193,15 @@
                 <span class="title"><a href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g" target="_blank">Gemma 4 challenge inspired me to build my first app!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/google-genkit-middleware/en/headerimage/generatedHeaderImage-1779644472413.jpg" alt="Google Introduces Middleware Architecture for Genkit Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/google-genkit-middleware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces Middleware Architecture for Genkit Applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-24 17:55</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +222,20 @@
                 <span class="time">2026-05-24 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3442406%2Fa8f8305b-ac37-401d-af17-221c18c10e80.png" alt="🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.
-
-Would love feedback from the dev community 🙌" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prem_gaikwad_316d716c3/built-this-project-to-challenge-myself-with-real-time-collaboration-infinite-canvas-rendering-3c7i" target="_blank">🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.
-
-Would love feedback from the dev community 🙌</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/" target="_blank">Microsoft&#x27;s 6502 BASIC is now Open Source (2025)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-24 13:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/rocketleague.jpg" alt="First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rocket-league-upgrade-gives-us-our-first-look-at-unreal-engine-6-2000699032" target="_blank">First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-24 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/ss_240e97d85ac3391a4a332190f1af40b290b2d623.1920x1080-1280x720.jpg" alt="YouTuber Starts A Cult And Is Raided By Police In Attempt To Recover Old Man’s Star Wars LEGO Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +281,6 @@ Would love feedback from the dev community 🙌</a></span>
                 <span class="time">2026-05-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/kowloon-1280x815.jpg" alt="Hilltop Works Announce Fan Translation Of Infamous Kowloon Walled City PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hilltop-works-announce-fan-translation-of-infamous-kowloon-walled-city-playstation-game-2000698985" target="_blank">Hilltop Works Announce Fan Translation Of Infamous Kowloon Walled City PlayStation Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-23 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +300,8 @@ Would love feedback from the dev community 🙌</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 19:27 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 20:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
