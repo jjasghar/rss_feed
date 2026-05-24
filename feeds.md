@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 11:26:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 12:17:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 11:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 12:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship" target="_blank">Religious leaders, lawmakers push for $1 billion to secure houses of worship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Rubio-DB-260524_1779612803777_hpMain_4x3t_384.jpg" alt="Iran live updates: Rubio says &#x27;significant progress&#x27; made in Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Rubio says &#x27;significant progress&#x27; made in Iran talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-24 11:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,20 @@
                 <span class="time">2026-05-24 08:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-train-bombing-pakistan_7256957.jpg?20260524081605" alt="24 people die after suicide bomber targets train carrying military personnel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pakistan-dozens-injured-in-bombing-near-railway-track-as-train-passes-officials-say-13547487" target="_blank">24 people die after suicide bomber targets train carrying military personnel</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-24 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss" target="_blank">Usyk avoids shock defeat with 11th-round stoppage of Verhoeven</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 06:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-500x500.jpg" alt="Whatever the mirror test tells us, beluga whales pass it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/" target="_blank">Whatever the mirror test tells us, beluga whales pass it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-24 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-500x500.jpg" alt="Belugas may pass the mirror test—but does the mirror test still pass?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -112,6 +123,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/" target="_blank">Belugas may pass the mirror test—but does the mirror test still pass?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-24 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0c9b5a028aaee97d26288d/master/pass/Topo%20Designs%20Rover%20Trail%20PackSOURCE%20Topo%20Designs%20(Bag%20Check).jpg" alt="Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/topo-designs-rover-trail-pack/" target="_blank">Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-24 11:01</span>
             </div>
         </div>
 <div class="story">
@@ -139,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds" target="_blank">Record Club is trying to be Letterboxd for music nerds</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-23 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/" target="_blank">SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-23 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/starshipflight12_inflight-500x500-1779558160.jpg" alt="SpaceX&#x27;s Starship V3—still a work in progress—mostly successful on first flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/" target="_blank">SpaceX&#x27;s Starship V3—still a work in progress—mostly successful on first flight</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-23 17:54</span>
             </div>
         </div>
 </div>
@@ -224,6 +226,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/pokemonpentecost-1280x720.jpg" alt="Here Are The Perfect Pokémon For Each Of Jesus Christ’s 12 Apostles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-teams-twelve-apostles-2000698265" target="_blank">Here Are The Perfect Pokémon For Each Of Jesus Christ’s 12 Apostles</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/kowloon-1280x815.jpg" alt="Hilltop Works Announce Fan Translation Of Infamous Kowloon Walled City PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -259,15 +270,6 @@
                 <span class="time">2026-05-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/image-50.jpg" alt="A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spyro-dragon-statue-e3-insomniac-playstation-activision-2000698746" target="_blank">A Piece Of Lost Spyro The Dragon History Was Found In An Oregon Gas Station</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-23 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -287,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 242 |
-        🔄 Last Updated: 11:26 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 245 |
+        🔄 Last Updated: 12:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
