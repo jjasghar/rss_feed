@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 18:17:03 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 19:27:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 18:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 19:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +46,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss" target="_blank">Fatou Bensouda on Israeli threats against her and the ICC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-24 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa" target="_blank">DR Congo Ebola cases rise amid distrust, armed conflict zone</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 17:18</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +91,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer says rape of two girls by boys spared custody &#x27;appalling&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-24 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine" target="_blank">More than 500 children have died in an outbreak that the world is virtually ignoring</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-24 13:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/canonical-donate.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical to shut down Ubuntu Pastebin after nearly two decades" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/canonical-ubuntu-pastebin-shutdown" target="_blank">Canonical to shut down Ubuntu Pastebin after nearly two decades</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-24 18:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3860723%2F17664281-c5ce-4e9b-9f01-8999849fc88d.jpg" alt="Gemma 4 challenge inspired me to build my first app!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -216,15 +213,6 @@ Would love feedback from the dev community 🙌</a></span>
                 <span class="title"><a href="https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/" target="_blank">Microsoft&#x27;s 6502 BASIC is now Open Source (2025)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-24 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;ssl=1" alt="Ubuntu 26.10 daily builds now available to download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/ubuntu-26-10-daily-builds" target="_blank">Ubuntu 26.10 daily builds now available to download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-24 13:14</span>
             </div>
         </div>
 </div>
@@ -305,8 +293,8 @@ Would love feedback from the dev community 🙌</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 18:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 19:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
