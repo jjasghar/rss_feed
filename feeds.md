@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 01:37:05 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-24 03:00:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 01:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 03:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/wh-incident-5-23-5_1779578274510_hpMain_4x3t_384.jpg" alt="Suspect dead, bystander wounded after gunfire near White House: Secret Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Suspect dead, bystander wounded after gunfire near White House: Secret Service</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-24 02:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/cc2e1e60-570a-11f1-b6ba-0f41b010246c.jpg" alt="Heatwave likely to be confirmed as record-breaking temperatures forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss" target="_blank">Heatwave likely to be confirmed as record-breaking temperatures forecast</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-24 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house" target="_blank">Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 00:23</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-23 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss" target="_blank">US police responding to dozens of shots fired near the White House</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-23 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss" target="_blank">Funerals for medics killed in Israeli air strikes in southern Lebanon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-23 21:14</span>
             </div>
         </div>
 </div>
@@ -171,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank">Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-24 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/pid-tuning-that-actually-converges-ziegler-nichols-and-the-root-locus-view-206n" target="_blank">PID Tuning That Actually Converges: Ziegler-Nichols and the Root Locus View</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://veronicaexplains.net/my-first-writerdeck/" target="_blank">It&#x27;s time to talk about my writerdeck</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-23 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/erickeduardoramos03/como-solucionar-el-error-de-permiso-al-ejecutar-pipexe-en-entorno-virtual-python-310-en-3jcj" target="_blank">Cómo solucionar el error de permiso al ejecutar `pip.exe` en entorno virtual (Python 3.10 en Windows)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-23 17:16</span>
             </div>
         </div>
 </div>
@@ -282,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 01:37 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 246 |
+        🔄 Last Updated: 03:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
