@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 15:22:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 16:18:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 15:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 16:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss" target="_blank">‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5305/live/6c77b5c0-5779-11f1-bafe-434e6ec4ac4b.jpg" alt="Keir Starmer says rape of two girls by boys spared custody &#x27;appalling&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer says rape of two girls by boys spared custody &#x27;appalling&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-24 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,29 @@
                 <span class="time">2026-05-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Rubio-DB-260524_1779612803777_hpMain_4x3t_384.jpg" alt="Iran live updates: Rubio says &#x27;significant progress&#x27; made in Iran talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Rubio says &#x27;significant progress&#x27; made in Iran talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-24 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026?traffic_source=rss" target="_blank">What to know about Cape Verde at World Cup 2026</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a06188db84b146a9eec38c1/master/pass/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="Memorial Day Tech Deals: Sony, Anker, Beats (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/memorial-day-tech-deals-2026-1/" target="_blank">Memorial Day Tech Deals: Sony, Anker, Beats (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-24 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026" target="_blank">The best Memorial Day sales you can shop this weekend</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-24 15:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/" target="_blank">Belugas may pass the mirror test—but does the mirror test still pass?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-24 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0c9b5a028aaee97d26288d/master/pass/Topo%20Designs%20Rover%20Trail%20PackSOURCE%20Topo%20Designs%20(Bag%20Check).jpg" alt="Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/topo-designs-rover-trail-pack/" target="_blank">Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-24 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo" target="_blank">Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-24 11:00</span>
             </div>
         </div>
 </div>
@@ -266,22 +264,13 @@ Would love feedback from the dev community 🙌</a></span>
                 <span class="time">2026-05-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/colbert.jpg" alt="Stephen Colbert Lands New Hosting Gig On Michigan Public Access 24 Hours After Wrapping Up Late Night Career" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stephen-colbert-already-lands-new-hosting-gig-on-michigan-public-access-2000698949" target="_blank">Stephen Colbert Lands New Hosting Gig On Michigan Public Access 24 Hours After Wrapping Up Late Night Career</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 40 | 📸 With Images: 247 |
-        🔄 Last Updated: 15:22 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 16:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
