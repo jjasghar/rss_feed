@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-23 23:16:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-24 00:22:37 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, May 23, 2026 - 23:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 00:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival" target="_blank">Romanian director Cristian Mungiu&#x27;s &#x27;Fjord&#x27; wins top prize at Cannes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-24 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779577751927_wnn_jts_gunshots_heard_near_white_house_260523_S3_1920x1080-fjy0g9.jpg" alt="Gunshots heard near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/gunshots-heard-near-white-house-263861829945" target="_blank">Gunshots heard near White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-23 23:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/WhiteHouse5-23_1779575505066_hpMain_4x3t_384.jpg" alt="Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Secret Service, FBI respond to reports of &#x27;shots fired&#x27; near White House</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-23 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss" target="_blank">US police responding to dozens of shots fired near the White House</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-23 22:52</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Iran deal &#x27;largely negotiated&#x27; including reopening Strait of Hormuz</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-23 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-ap-gmh-260522_1779475992207_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says framework of Iran peace deal to be announced shortly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203" target="_blank">Iran live updates: Trump says framework of Iran peace deal to be announced shortly</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-23 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ukraine-soldiers-army_7256758.jpg?20260523214231" alt="Death of British national confirmed in Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417" target="_blank">Death of British national confirmed in Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-23 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg" alt="Iran &#x27;getting a lot closer&#x27; to agreement with US, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss" target="_blank">Iran &#x27;getting a lot closer&#x27; to agreement with US, Trump says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-23 19:46</span>
             </div>
         </div>
 </div>
@@ -171,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/pid-tuning-that-actually-converges-ziegler-nichols-and-the-root-locus-view-206n" target="_blank">PID Tuning That Actually Converges: Ziegler-Nichols and the Root Locus View</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502" target="_blank">How do you handle bugs in apps built with AI builders?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 22:59</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/yahya_saleh_d157cf3d7fe2e/using-an-llm-to-automate-a-task-that-used-to-take-hours-by-hand-16c2" target="_blank">Using an LLM to automate a task that used to take hours by hand</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-23 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Mint-May-2026" target="_blank">Linux Mint Making Improvements To Its File Manager, Theme &amp; Dialogs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-23 14:52</span>
             </div>
         </div>
 </div>
@@ -290,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:16 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 00:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
