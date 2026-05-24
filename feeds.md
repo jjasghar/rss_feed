@@ -1,9 +1,10 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 20:17:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-24 21:16:11 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -12,29 +13,24 @@
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 20:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 21:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/" target="_blank">Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/" target="_blank">6 kitchen gadgets that make adulting feel easier</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-24 17:00</span>
@@ -154,20 +159,20 @@
                 <span class="time">2026-05-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-547332154-500x500.jpg" alt="Whatever the mirror test tells us, beluga whales pass it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/" target="_blank">Whatever the mirror test tells us, beluga whales pass it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-24 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Vessel Ops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nswitzer/vessel-ops-3i2a" target="_blank">Vessel Ops</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/canonical-donate.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical to shut Ubuntu Pastebin after 18 years of service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc5-AI-This-Week" target="_blank">GitHub Copilot &amp; Claude Code Helped With Graphics, WiFi Linux Driver Issues This Week</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-24 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4dz9ehd0n8k7iax7x19i.jpg" alt="Caching Layers in 2026: CDN, App, DB, Query: What Goes Where" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m" target="_blank">Caching Layers in 2026: CDN, App, DB, Query: What Goes Where</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 15:20</span>
             </div>
         </div>
 </div>
@@ -300,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 20:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 21:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
