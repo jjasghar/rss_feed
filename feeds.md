@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 07:00:26 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-24 08:47:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 07:00 UTC</div>
+    <div class="newspaper-date">Sunday, May 24, 2026 - 08:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8961/live/22088430-5736-11f1-8b8c-6d33e1d5abb6.jpg" alt="Girl raped by boys spared jail tells BBC judge&#x27;s decision was like &#x27;rock in my face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss" target="_blank">Girl raped by boys spared jail tells BBC judge&#x27;s decision was like &#x27;rock in my face&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-24 08:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -57,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges" target="_blank">Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-24 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779598204821_nbc_spec_secret_service_white_house_260523_S3_1920x1080-nd6xxr.jpg" alt="Special Report: Secret Service kill man who opened fire outside of White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -72,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965" target="_blank">Suspect dead, bystander wounded after gunfire near White House: Secret Service</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-24 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/cc2e1e60-570a-11f1-b6ba-0f41b010246c.jpg" alt="Heatwave likely to be confirmed as record-breaking temperatures forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss" target="_blank">Heatwave likely to be confirmed as record-breaking temperatures forecast</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-24 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house" target="_blank">Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-24 00:23</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/achiya-automation/my-agent-could-see-the-dropdown-it-just-couldnt-pick-anything-140" target="_blank">My agent could see the dropdown. It just couldn&#x27;t pick anything.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-24 08:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5" target="_blank">Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 06:53</span>
@@ -199,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wild-Linker-0.9" target="_blank">Rust-Based Wild Linker 0.9 Brings New Platform Coverage, Linker Plugin API</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-24 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/01888927bd0e8aa92caca/pid-tuning-that-actually-converges-ziegler-nichols-and-the-root-locus-view-206n" target="_blank">PID Tuning That Actually Converges: Ziegler-Nichols and the Root Locus View</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 00:17</span>
             </div>
         </div>
 </div>
@@ -279,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 246 |
-        🔄 Last Updated: 07:00 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 244 |
+        🔄 Last Updated: 08:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
