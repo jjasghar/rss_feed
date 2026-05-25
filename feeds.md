@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 03:01:14 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-25 05:27:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 05:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court" target="_blank">‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-25 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss" target="_blank">Africa Day 2026: Has the continent achieved true liberation?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-dassault-falcon-900lx_7257803.jpg?20260525042416" alt="RAF jet flying defence secretary has signal jammed near Russian border" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/raf-jet-flying-defence-secretary-has-signal-jammed-near-russian-border-13547778" target="_blank">RAF jet flying defence secretary has signal jammed near Russian border</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-25 02:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,36 +96,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate" target="_blank">California chemical tank has cracked causing state of emergency, thousands to evacuate</a></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate" target="_blank">California chemical tank has cracked, causing state of emergency, thousands to evacuate</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-24 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/24/inside-a-beirut-barbershop-shaped-by-war-and-crisis?traffic_source=rss" target="_blank">Inside a Beirut barbershop shaped by war and crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg" alt="Trump tells US negotiators &#x27;not to rush&#x27; into deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss" target="_blank">Trump tells US negotiators &#x27;not to rush&#x27; into deal with Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-24 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks" target="_blank">Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-24 19:07</span>
             </div>
         </div>
 </div>
@@ -111,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | May 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-25 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +160,20 @@
                 <span class="time">2026-05-24 15:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/" target="_blank">I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-24 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17347676/bambu-lab-caught-violating-agplv3" target="_blank">Bambu Lab Has Been Violating AGPLv3 for Years, SFC Says</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-25 04:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/nswitzer/vessel-ops-3i2a" target="_blank">Vessel Ops</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-24 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc5-Released" target="_blank">Linux 7.1-rc5 Released With Fixes Ramping Up From AI Coding Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-24 20:51</span>
             </div>
         </div>
 </div>
@@ -302,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 254 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 05:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
