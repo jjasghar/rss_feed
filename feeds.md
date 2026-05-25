@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 16:00:42 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-25 17:30:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 16:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 17:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who" target="_blank">Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/how-technology-is-shaping-hajj?traffic_source=rss" target="_blank">How technology is shaping Hajj</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai" target="_blank">Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI&#x27;s rise</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-25 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss" target="_blank">What are the biggest FIFA World Cup upsets in history?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779708088366_tdy_news_7a_engel_trump_deal_iran_260525_S3_1920x1080-6uslsy.jpg" alt="Trump Says He Told Negotiators &#x27;Not to Rush Into&#x27; a Deal With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-says-he-told-negotiators-not-to-rush-into-a-deal-with-iran-263890501762" target="_blank">Trump Says He Told Negotiators &#x27;Not to Rush Into&#x27; a Deal With Iran</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-25 11:21</span>
             </div>
         </div>
 </div>
@@ -164,6 +157,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Sway-1.12-Released" target="_blank">Sway 1.12 Released With HDR Support On Vulkan Renderer, New Protocols</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-25 16:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883912&w=600" alt="A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -208,15 +210,6 @@
                 <span class="time">2026-05-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb" target="_blank">The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-25 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/04/forzahoriz6-1280x720.jpg" alt="Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forza-horizon-6-drivatar-bowie-knife99-has-become-so-infamous-that-even-the-official-xbox-account-is-smack-talking-it-2000699153" target="_blank">Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-25 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +283,6 @@
                 <span class="time">2026-05-24 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/ss_240e97d85ac3391a4a332190f1af40b290b2d623.1920x1080-1280x720.jpg" alt="YouTuber Starts A Cult And Is Raided By Police In Attempt To Recover Old Man’s Star Wars LEGO Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/youtuber-starts-a-cult-and-is-raided-by-police-in-attempt-to-recover-old-mans-star-wars-lego-collection-2000699026" target="_blank">YouTuber Starts A Cult And Is Raided By Police In Attempt To Recover Old Man’s Star Wars LEGO Collection</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 253 |
-        🔄 Last Updated: 16:00 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 17:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
