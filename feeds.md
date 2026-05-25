@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 20:26:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-25 21:22:41 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 20:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 21:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss" target="_blank">Czech police detain Russian priest over ‘white substance’ find</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss" target="_blank">Trump dangles normalisation amid pro-Israel criticism of possible Iran deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-25 19:59</span>
@@ -62,6 +69,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount" target="_blank">After Stephen Colbert&#x27;s viral talk show parody, CBS backs down from copyright action</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-25 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-pope-leo-magnifica-humanitas_7258427.jpg?20260525203758" alt="Pope Leo warns about AI and calls for regulation as he quotes from the Lord of the Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pope-leo-warns-about-ai-and-calls-for-regulation-as-he-quotes-from-the-lord-of-the-rings-13547991" target="_blank">Pope Leo warns about AI and calls for regulation as he quotes from the Lord of the Rings</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-25 19:10</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +98,20 @@
                 <span class="time">2026-05-25 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who" target="_blank">Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/how-technology-is-shaping-hajj?traffic_source=rss" target="_blank">How technology is shaping Hajj</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a14b4e9be8e06a7214bd4ae/master/pass/Luce_30rtv4_lightson_6000x3375.jpg" alt="The Electric Ferrari Luce Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ferrari-luce-ev-is-finally-here/" target="_blank">The Electric Ferrari Luce Is Finally Here</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-25 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,29 @@
                 <span class="time">2026-05-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a07afab67132e88ffa73314/master/pass/Culture_TheDecentralizedHook-upApp_v3.jpg" alt="These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/" target="_blank">These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mukundakatta/context-window-exceeded-at-turn-23-heres-how-i-track-token-usage-without-a-tokenizer-2cm1" target="_blank">Context window exceeded at turn 23. Here&#x27;s how I track token usage without a tokenizer.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-25 21:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18996182&w=600" alt="Scaling Cloud Data Automation: A Practical Guide to Open Table Formats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-cloud-data-automation-a-practical-guide" target="_blank">Scaling Cloud Data Automation: A Practical Guide to Open Table Formats</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-25 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout" target="_blank">Exit IP VPN servers mitigation rollout</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-25 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Sway-1.12-Released" target="_blank">Sway 1.12 Released With HDR Support On Vulkan Renderer, New Protocols</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-25 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/" target="_blank">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883912&w=600" alt="A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-5-step-soc-guide-that-meets-rbi-expectations-and" target="_blank">A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-VK_KHR_shader_fma" target="_blank">RADV Driver Lands Support For VK_KHR_shader_fma</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-25 14:12</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/ASUS-Chromebook-CM30.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished ASUS Chromebook handles the basics for $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/25/this-refurbished-asus-chromebook-handles-the-basics-for-150.html" target="_blank">This refurbished ASUS Chromebook handles the basics for $150</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-25 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Kotaku_SummerPreview_Frame-1@2x-1280x712.jpg" alt="CALX Is The Journey-Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2026-05-25 14:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/harada-waffle-house-1280x720.jpg" alt="Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tekken-8-katsuhiro-harada-waffle-house-fight-stage-2000699143" target="_blank">Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-25 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 249 |
-        🔄 Last Updated: 20:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 21:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
