@@ -1,41 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 07:25:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-25 09:14:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 07:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 09:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/5/25/how-did-a-rare-strain-of-ebola-outrun-doctors?traffic_source=rss" target="_blank">How did a rare strain of Ebola outrun doctors?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-world-surf-league-surfing_7257862.jpg?20260525073355" alt="Surf competition halted after unknown sea creature bites photographer in &#x27;scary&#x27; incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/photographer-bitten-by-a-shark-or-sea-lion-during-surf-competition-in-new-zealand-13547800" target="_blank">Surf competition halted after unknown sea creature bites photographer in &#x27;scary&#x27; incident</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-25 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edba/live/853b1690-580c-11f1-8b8c-6d33e1d5abb6.jpg" alt="Rubio says &#x27;solid&#x27; Iran deal may come on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio says &#x27;solid&#x27; Iran deal may come on Monday</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-25 08:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +107,20 @@
                 <span class="time">2026-05-25 05:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court" target="_blank">‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-25 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss" target="_blank">Africa Day 2026: Has the continent achieved true liberation?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-dassault-falcon-900lx_7257803.jpg?20260525042416" alt="RAF jet flying defence secretary has signal jammed near Russian border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/raf-jet-flying-defence-secretary-has-signal-jammed-near-russian-border-13547778" target="_blank">RAF jet flying defence secretary has signal jammed near Russian border</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-25 02:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0e191fd0686dea38590442/master/pass/PIA26775.png" alt="A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/" target="_blank">A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-25 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,15 +164,6 @@
                 <span class="title"><a href="https://www.wired.com/story/memorial-day-tech-deals-2026-1/" target="_blank">Memorial Day Tech Deals: Sony, Anker, Beats (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-24 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026" target="_blank">The best Memorial Day sales you can shop this weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-24 15:28</span>
             </div>
         </div>
 </div>
@@ -215,10 +217,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/mint-thumb-1.jpg?resize=406%2C232&amp;ssl=1" alt="Cinnamon’s new screenshot tool fixes app window shadow quirks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/mint-thumb-1.jpg?resize=406%2C232&amp;ssl=1" alt="Cinnamon desktop is getting its own, native screenshot tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-mint-new-cinnamon-screenshot-tool" target="_blank">Cinnamon’s new screenshot tool fixes app window shadow quirks</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-mint-new-cinnamon-screenshot-tool" target="_blank">Cinnamon desktop is getting its own, native screenshot tool</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-05-24 23:40</span>
             </div>
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 07:25 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
