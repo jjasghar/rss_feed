@@ -1,28 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 17:30:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-25 18:28:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 17:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 18:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss" target="_blank">Mexico says it will host Iranian team during 2026 FIFA World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-19-gty-gmh-260525_1779729624994_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump honors troops killed in Iran war during Memorial Day remarks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump honors troops killed in Iran war during Memorial Day remarks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-25 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +100,29 @@
                 <span class="time">2026-05-25 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ginza-tokyo-japan_7257869.jpg?20260525074431" alt="More than 20 people taken to hospital after unknown substance sprayed in Tokyo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/more-than-20-people-taken-to-hospital-after-unknown-substance-sprayed-in-tokyo-13547924" target="_blank">More than 20 people taken to hospital after unknown substance sprayed in Tokyo</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-25 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai" target="_blank">Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI&#x27;s rise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-25 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine" target="_blank">Cox Media fined after bragging it spied on users through their phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-25 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/" target="_blank">What ClickUp’s mass layoff tells us about the future of work</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg" alt="Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,29 +159,29 @@
                 <span class="time">2026-05-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="30% Off Canon Promo Codes | May 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">30% Off Canon Promo Codes | May 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/" target="_blank">Everyone is navigating AI security in real time — even Google</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-24 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chris_lee_5e58cce05f5d01d/when-apis-lie-a-lesson-in-defensive-debugging-291j" target="_blank">When APIs Lie: A Lesson in Defensive Debugging</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-25 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995730&w=600" alt="Build Self-Managing Data Pipelines With an LLM Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llm-agent-self-managing-data-pipelines" target="_blank">Build Self-Managing Data Pipelines With an LLM Agent</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +218,6 @@
                 <span class="time">2026-05-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/" target="_blank">Search engines alternatives now that Google isn&#x27;t Google anymore</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-25 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995238&w=600" alt="LLM Agents and Getting Started with Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-agents-and-getting-started-with-them" target="_blank">LLM Agents and Getting Started with Them</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/goblinamerica-summer-preview-1280x713.jpg" alt="Surreal Boomer Shooter goblinAmerica Asks You To Speedrun Through Our Crumbling Political Landscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/surreal-boomer-shooter-goblinamerica-asks-you-to-speedrun-through-our-crumbling-political-landscape-2000697185" target="_blank">Surreal Boomer Shooter goblinAmerica Asks You To Speedrun Through Our Crumbling Political Landscape</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/04/forzahoriz6-1280x720.jpg" alt="Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +291,6 @@
                 <span class="time">2026-05-24 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/rocketleague.jpg" alt="First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rocket-league-upgrade-gives-us-our-first-look-at-unreal-engine-6-2000699032" target="_blank">First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 17:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 18:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
