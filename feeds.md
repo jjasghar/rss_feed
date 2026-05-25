@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 05:27:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-25 07:25:08 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 05:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 07:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj" target="_blank">Muslims begin the annual Hajj against a backdrop of war concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-25 07:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/rubio-trumps-not-going-to-make-a-bad-deal?traffic_source=rss" target="_blank">Rubio: ‘Trump’s not going to make a bad deal’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Rubio-DB-260525_1779686260264_hpMain_4x3t_384.jpg" alt="Iran live updates: Peace deal a &#x27;work in progress,&#x27; Rubio says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Peace deal a &#x27;work in progress,&#x27; Rubio says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-25 05:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +103,6 @@
                 <span class="title"><a href="https://news.sky.com/story/raf-jet-flying-defence-secretary-has-signal-jammed-near-russian-border-13547778" target="_blank">RAF jet flying defence secretary has signal jammed near Russian border</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-25 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss" target="_blank">Oil prices fall amid mixed signals on US-Iran peace deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss" target="_blank">LIVE: Trump says Iran deal not ‘fully negotiated yet’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate" target="_blank">California chemical tank has cracked, causing state of emergency, thousands to evacuate</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-24 22:14</span>
             </div>
         </div>
 </div>
@@ -166,12 +170,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnllxknmexs8btpy5nxiy.png" alt="How to use Claude in vscode?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/router/how-to-use-claude-in-vscode-23dc" target="_blank">How to use Claude in vscode?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-25 07:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://feed.itsfoss.com/link/24361/17347676/bambu-lab-caught-violating-agplv3" target="_blank">Bambu Lab Has Been Violating AGPLv3 for Years, SFC Says</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2026-05-25 04:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://seriot.ch/computation/jira.html" target="_blank">Jira Is Turing-Complete</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-25 03:54</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +221,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-mint-new-cinnamon-screenshot-tool" target="_blank">Cinnamon’s new screenshot tool fixes app window shadow quirks</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-05-24 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ai_nikitka93/how-i-use-ai-agents-to-turn-ideas-into-public-demos-i7k" target="_blank">How I use AI agents to turn ideas into public demos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Vessel Ops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nswitzer/vessel-ops-3i2a" target="_blank">Vessel Ops</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 21:03</span>
             </div>
         </div>
 </div>
@@ -284,6 +288,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/25/lightfall" target="_blank">Lightfall</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-25 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1779491352-20260524 - edit.png" alt="Saturday Morning Breakfast Cereal - Cave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -297,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 05:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 253 |
+        🔄 Last Updated: 07:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
