@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 21:22:41 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-25 22:19:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 21:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 22:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth" target="_blank">Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a14b4e9be8e06a7214bd4ae/master/pass/Luce_30rtv4_lightson_6000x3375.jpg" alt="The Electric Ferrari Luce Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,20 +158,20 @@
                 <span class="time">2026-05-25 13:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-500x500.jpeg" alt="US&#x27;s big bet on quantum computing may not be entirely legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/" target="_blank">US&#x27;s big bet on quantum computing may not be entirely legal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-25 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oqa/vibe-coding-problems-7-visual-bugs-ai-code-generators-always-ship-37mf" target="_blank">Vibe Coding Problems: 7 Visual Bugs AI Code Generators Always Ship</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-25 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout" target="_blank">Exit IP VPN servers mitigation rollout</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-25 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Sway-1.12-Released" target="_blank">Sway 1.12 Released With HDR Support On Vulkan Renderer, New Protocols</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-25 16:20</span>
             </div>
         </div>
 </div>
@@ -304,6 +305,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779672714-20260525 - edit.png" alt="Saturday Morning Breakfast Cereal - Bonzo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bonzo" target="_blank">Saturday Morning Breakfast Cereal - Bonzo</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-25 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -312,13 +322,22 @@
                 <span class="time">2026-05-25 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/flag_design.png" alt="Flag Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3250/" target="_blank">Flag Design</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-25 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 21:22 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 22:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
