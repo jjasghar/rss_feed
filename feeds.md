@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 18:28:51 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-25 19:29:13 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 18:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 19:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a148361663a6251fd7bf24b/master/pass/Enhanced-Games-Kristian-Gkolomeev-Culture-2278066458.jpg" alt="A Swimmer Broke a World Record at the Enhanced Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/" target="_blank">A Swimmer Broke a World Record at the Enhanced Games</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-25 17:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,15 +156,6 @@
                 <span class="time">2026-05-25 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0e191fd0686dea38590442/master/pass/PIA26775.png" alt="A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/" target="_blank">A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -192,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/" target="_blank">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883912&w=600" alt="A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -207,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RADV-VK_KHR_shader_fma" target="_blank">RADV Driver Lands Support For VK_KHR_shader_fma</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-25 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/schema-proliferation-problem/en/headerimage/schema-proliferation-problem-header-1779270222602.jpg" alt="Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/schema-proliferation-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-25 13:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/shutterstock_551379514.jpg?fit=1000%2C625&amp;quality=60&amp;ssl=1" alt="The International Space Station has sprung a new leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/25/the-international-space-station-has-sprung-a-new-leak.html" target="_blank">The International Space Station has sprung a new leak</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-25 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/goblinamerica-summer-preview-1280x713.jpg" alt="Surreal Boomer Shooter goblinAmerica Asks You To Speedrun Through Our Crumbling Political Landscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2026-05-24 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/rtype3-1280x769.jpg" alt="R-Type Dimensions III Gives Shoot ‘Em Up Classic Amazing Look And Awful Hitboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/r-type-dimensions-iii-gives-shoot-em-up-classic-amazing-look-and-awful-hitboxes-2000699042" target="_blank">R-Type Dimensions III Gives Shoot ‘Em Up Classic Amazing Look And Awful Hitboxes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,7 +308,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 18:29 UTC
+        🔄 Last Updated: 19:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
