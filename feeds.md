@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 13:01:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-25 14:59:06 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 13:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 14:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss" target="_blank">Trump links Iran negotiations to expansion of Abraham Accords</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779708088366_tdy_news_7a_engel_trump_deal_iran_260525_S3_1920x1080-6uslsy.jpg" alt="Trump Says He Told Negotiators &#x27;Not to Rush Into&#x27; a Deal With Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-says-he-told-negotiators-not-to-rush-into-a-deal-with-iran-263890501762" target="_blank">Trump Says He Told Negotiators &#x27;Not to Rush Into&#x27; a Deal With Iran</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-25 11:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Trump-Tehran-DB-260525_1779706152676_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran deal critics &#x27;know nothing&#x27; of potential agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -86,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates" target="_blank">U.S.-Iran peace deal emerging, while war threats still loom</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-25 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2026/5/25/how-did-a-rare-strain-of-ebola-outrun-doctors?traffic_source=rss" target="_blank">How did a rare strain of Ebola outrun doctors?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-world-surf-league-surfing_7257862.jpg?20260525073355" alt="Surf competition halted after unknown sea creature bites photographer in &#x27;scary&#x27; incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/photographer-bitten-by-a-shark-or-sea-lion-during-surf-competition-in-new-zealand-13547800" target="_blank">Surf competition halted after unknown sea creature bites photographer in &#x27;scary&#x27; incident</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-25 08:30</span>
             </div>
         </div>
 </div>
@@ -171,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-VK_KHR_shader_fma" target="_blank">RADV Driver Lands Support For VK_KHR_shader_fma</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-25 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/" target="_blank">Search engines alternatives now that Google isn&#x27;t Google anymore</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-25 12:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995238&w=600" alt="LLM Agents and Getting Started with Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -206,22 +217,18 @@
                 <span class="time">2026-05-25 10:11</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17347774/amd-vivado-bait-and-switch-on-linux-users" target="_blank">AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-25 08:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnllxknmexs8btpy5nxiy.png" alt="How to use Claude in vscode?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/router/how-to-use-claude-in-vscode-23dc" target="_blank">How to use Claude in vscode?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-25 07:20</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/" target="_blank">Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2026-05-25 13:21</span>
             </div>
         </div>
 </div>
@@ -229,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185" target="_blank">Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-25 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/harada-waffle-house-1280x720.jpg" alt="Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +290,6 @@
                 <span class="time">2026-05-24 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/piker.jpg" alt="Twitch Streamer Hasan Piker Gets Subpoenaed By Trump Government Over Aid Trip To Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/twitch-streamer-hasan-piker-subpoenaed-over-aid-trip-to-cuba-2000699014" target="_blank">Twitch Streamer Hasan Piker Gets Subpoenaed By Trump Government Over Aid Trip To Cuba</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 13:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 251 |
+        🔄 Last Updated: 14:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
