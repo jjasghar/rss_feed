@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-24 23:18:56 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-25 00:23:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, May 24, 2026 - 23:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 00:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-iran-deal-not-fully-negotiated-yet?traffic_source=rss" target="_blank">LIVE: Trump says Iran deal not ‘fully negotiated yet’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-24 23:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg" alt="Trump tells US negotiators &#x27;not to rush&#x27; into deal with Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss" target="_blank">Trump tells US negotiators &#x27;not to rush&#x27; into deal with Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-24 20:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss" target="_blank">Fatou Bensouda on Israeli threats against her and the ICC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-24 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa" target="_blank">DR Congo Ebola cases rise amid distrust, armed conflict zone</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-24 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-team-trains-through-world-cup-uncertainty?traffic_source=rss" target="_blank">Iran team trains through World Cup uncertainty</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-24 16:40</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/mint-thumb-1.jpg?resize=406%2C232&amp;ssl=1" alt="Cinnamon’s new screenshot tool fixes app window shadow quirks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-mint-new-cinnamon-screenshot-tool" target="_blank">Cinnamon’s new screenshot tool fixes app window shadow quirks</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-24 23:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/canonical-ubuntu-pastebin-shutdown" target="_blank">Canonical to shut down Ubuntu Pastebin after nearly two decades</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2026-05-24 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3860723%2F17664281-c5ce-4e9b-9f01-8999849fc88d.jpg" alt="Gemma 4 challenge inspired me to build my first app!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g" target="_blank">Gemma 4 challenge inspired me to build my first app!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-24 18:11</span>
             </div>
         </div>
 </div>
@@ -291,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 253 |
-        🔄 Last Updated: 23:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 00:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
