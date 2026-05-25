@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 14:59:06 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-25 16:00:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 14:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 16:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/pope-leo-calls-for-disarming-of-artificial-intelligence?traffic_source=rss" target="_blank">Pope Leo calls for ‘disarming’ of artificial intelligence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss" target="_blank">Trump links Iran negotiations to expansion of Abraham Accords</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-25 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-ginza-tokyo-japan_7257869.jpg?20260525074431" alt="More than 20 people taken to hospital after unknown substance sprayed in Tokyo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/more-than-20-people-taken-to-hospital-after-unknown-substance-sprayed-in-tokyo-13547924" target="_blank">More than 20 people taken to hospital after unknown substance sprayed in Tokyo</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-25 14:41</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +99,20 @@
                 <span class="time">2026-05-25 11:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-Tehran-DB-260525_1779706152676_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran deal critics &#x27;know nothing&#x27; of potential agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump says Iran deal critics &#x27;know nothing&#x27; of potential agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-25 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates" target="_blank">U.S.-Iran peace deal emerging, while war threats still loom</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-25 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg" alt="Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-memorial-day-deals-2026-2/" target="_blank">Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-25 13:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/image-2-500x500.jpeg" alt="US&#x27;s big bet on quantum computing may not be entirely legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +158,20 @@
                 <span class="time">2026-05-24 21:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/" target="_blank">Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-24 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18883912&w=600" alt="A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/a-5-step-soc-guide-that-meets-rbi-expectations-and" target="_blank">A 5-Step SOC Guide That Meets RBI Expectations and Strengthens Security Operations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,6 +179,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RADV-VK_KHR_shader_fma" target="_blank">RADV Driver Lands Support For VK_KHR_shader_fma</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-25 14:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/schema-proliferation-problem/en/headerimage/schema-proliferation-problem-header-1779270222602.jpg" alt="Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/schema-proliferation-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-25 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb" target="_blank">The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-25 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-USB4STREAM" target="_blank">Intel Introducing USB4STREAM Protocol For Linux - Opening Up Some Nifty Uses For USB4</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-25 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html" target="_blank">Magnifica Humanitas (Encyclical Letter)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-25 10:11</span>
             </div>
         </div>
 </div>
@@ -304,22 +304,13 @@
                 <span class="time">2026-05-25 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779491352-20260524 - edit.png" alt="Saturday Morning Breakfast Cereal - Cave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/cave-3" target="_blank">Saturday Morning Breakfast Cereal - Cave</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 74 | 📡 Total Sources: 39 | 📸 With Images: 251 |
-        🔄 Last Updated: 14:59 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 70 | 📡 Total Sources: 39 | 📸 With Images: 253 |
+        🔄 Last Updated: 16:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
