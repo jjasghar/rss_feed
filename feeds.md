@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 09:14:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-25 11:18:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 09:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, May 25, 2026 - 11:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Trump-Tehran-DB-260525_1779706152676_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran deal critics &#x27;know nothing&#x27; of potential agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump says Iran deal critics &#x27;know nothing&#x27; of potential agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-25 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates" target="_blank">U.S.-Iran peace deal emerging, while war threats still loom</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-25 10:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj" target="_blank">Muslims begin the annual Hajj against a backdrop of war concerns</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-25 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/25/rubio-trumps-not-going-to-make-a-bad-deal?traffic_source=rss" target="_blank">Rubio: ‘Trump’s not going to make a bad deal’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Rubio-DB-260525_1779686260264_hpMain_4x3t_384.jpg" alt="Iran live updates: Peace deal a &#x27;work in progress,&#x27; Rubio says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Peace deal a &#x27;work in progress,&#x27; Rubio says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-25 05:43</span>
             </div>
         </div>
 </div>
@@ -172,6 +166,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb" target="_blank">The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-25 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Linux-USB4STREAM" target="_blank">Intel Introducing USB4STREAM Protocol For Linux - Opening Up Some Nifty Uses For USB4</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-25 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html" target="_blank">Magnifica Humanitas (Encyclical Letter)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-25 10:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnllxknmexs8btpy5nxiy.png" alt="How to use Claude in vscode?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,38 +219,20 @@
                 <span class="time">2026-05-25 03:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joseph_anady_214bacedf939/visual-search-optimization-3ggk" target="_blank">Visual Search Optimization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-25 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/en/headerimage/java-istock-image-01-1779658216775.jpg" alt="OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenJDK News Roundup: Vector API, Compact Object Headers and G1GC as Default in JDK 27</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-25 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/mint-thumb-1.jpg?resize=406%2C232&amp;ssl=1" alt="Cinnamon desktop is getting its own, native screenshot tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/linux-mint-new-cinnamon-screenshot-tool" target="_blank">Cinnamon desktop is getting its own, native screenshot tool</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-24 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/harada-waffle-house-1280x720.jpg" alt="Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tekken-8-katsuhiro-harada-waffle-house-fight-stage-2000699143" target="_blank">Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-25 11:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/MeetScribe-Pro.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This $60 AI meeting assistant listens to your meetings so you don&#x27;t have to" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +278,6 @@
                 <span class="time">2026-05-24 15:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/piker.jpg" alt="Twitch Streamer Hasan Piker Subpoenaed Over Aid Trip To Cuba" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/twitch-streamer-hasan-piker-subpoenaed-over-aid-trip-to-cuba-2000699014" target="_blank">Twitch Streamer Hasan Piker Subpoenaed Over Aid Trip To Cuba</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-24 15:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:14 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
