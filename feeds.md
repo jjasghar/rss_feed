@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 07:04:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-26 09:02:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5830090/morning-news-brief" target="_blank">Morning news brief</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-26 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/26/miami-says-messi-diagnosed-with-hamstring-fatigue-ahead-of-argentina-camp?traffic_source=rss" target="_blank">Miami says Messi diagnosed with hamstring fatigue ahead of Argentina camp</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 08:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +106,6 @@
                 <span class="time">2026-05-26 04:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/cost-of-living-crisis-reshapes-eid-spending-in-nigeria?traffic_source=rss" target="_blank">Cost of living crisis reshapes Eid spending in Nigeria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg" alt="US military says it has launched new strikes on southern Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military says it has launched new strikes on southern Iran</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-26 02:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth" target="_blank">Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-500x500-1779741774.jpg" alt="Citing Gandalf, Pope Leo says we must &quot;disarm&quot; AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/" target="_blank">Citing Gandalf, Pope Leo says we must &quot;disarm&quot; AI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-25 21:07</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +165,29 @@
                 <span class="time">2026-05-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg" alt="Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-memorial-day-deals-2026-2/" target="_blank">Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/architecting-cloud-native-kafka/en/headerimage/architecting-cloud-native-kafka-header-1779433382367.jpg" alt="Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/architecting-cloud-native-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/run-agentic-workloads-on-arm-and-ubuntu" target="_blank">Run agentic workloads on Arm and Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-26 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,46 +200,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dynip.dev/" target="_blank">DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-26 07:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-PoC-ML-KEM-X-Wing" target="_blank">ML-KEM + X-Wing Patches Posted For Linux To Help With Post-Quantum Security</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/bajandole-todos-los-minutos-posibles-al-ci-del-backend-con-mas-de-1000-tests-5ecm" target="_blank">Bajándole todos los minutos posibles al CI del backend con mas de 1000 tests</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CacheLib-2026.05.25" target="_blank">Meta&#x27;s CacheLib Sees New Release After Two Year Hiatus For Helping With High DRAM Prices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-26 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thegdsks/cursor-3-ships-parallel-ai-agents-here-is-the-multi-agent-workflow-that-actually-works-2bk8" target="_blank">Cursor 3 ships parallel AI agents. Here is the multi-agent workflow that actually works.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/java-news-roundup-may18-2026/en/headerimage/java-news-roundup-image-1779748584910.jpg" alt="Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish Plugin, Open Liberty</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-26 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Labwc-0.20-Compositor" target="_blank">Labwc 0.20 Wayland Compositor Released With Numerous New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-26 00:22</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
