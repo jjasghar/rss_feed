@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 09:02:27 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 12:51:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 12:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5e/live/0d101980-18a7-11f1-8a24-35cedd1a21de.png" alt="Sentences of boys spared custody over Hampshire rape referred to Court of Appeal, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss" target="_blank">Sentences of boys spared custody over Hampshire rape referred to Court of Appeal, PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-26 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Tehran-DB-260526_1779788352085_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts &#x27;self-defense&#x27; strikes, Rubio says Strait will re-open" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US conducts &#x27;self-defense&#x27; strikes, Rubio says Strait will re-open</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-26 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +101,47 @@
                 <span class="time">2026-05-26 05:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ecc/live/eefa0160-5891-11f1-8341-7fde06439c12.jpg" alt="Gisèle Pelicot &#x27;deeply shocked&#x27; by decision not to jail boys in rape case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2117685lwo?at_medium=RSS&at_campaign=rss" target="_blank">Gisèle Pelicot &#x27;deeply shocked&#x27; by decision not to jail boys in rape case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-26 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/26/starbucks-korean-sales-fall-after-backlash-to-tank-day-ad-campaign?traffic_source=rss" target="_blank">Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 04:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop" target="_blank">Nobody wants to tell me why they only listen to their own Suno slop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-26 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/2026-Porsche-Cayenne-Coupe-Turbo-2-500x500.jpg" alt="Driving Porsche&#x27;s most powerful car—and no, it&#x27;s not a 911" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/" target="_blank">Driving Porsche&#x27;s most powerful car—and no, it&#x27;s not a 911</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/" target="_blank">Amazon fulfillment competitor Stord raises $250M at $3B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0f33524bfa87f10e0f19eb/master/pass/GettyImages-2198332668.jpg" alt="The Cookware Industry Has a Major Fight Brewing Over PFAS Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/" target="_blank">The Cookware Industry Has a Major Fight Brewing Over PFAS Claims</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,47 +160,20 @@
                 <span class="time">2026-05-25 21:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a14b4e9be8e06a7214bd4ae/master/pass/Luce_30rtv4_lightson_6000x3375.jpg" alt="The Electric Ferrari Luce Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ferrari-luce-ev-is-finally-here/" target="_blank">The Electric Ferrari Luce Is Finally Here</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine" target="_blank">Cox Media fined after bragging it spied on users through their phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-25 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a148361663a6251fd7bf24b/master/pass/Enhanced-Games-Kristian-Gkolomeev-Culture-2278066458.jpg" alt="A Swimmer Broke a World Record at the Enhanced Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/" target="_blank">A Swimmer Broke a World Record at the Enhanced Games</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-25 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/" target="_blank">What ClickUp’s mass layoff tells us about the future of work</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-pmtctl-Tool" target="_blank">Intel Working On pmtctl Tool For Linux In Dealing With Platform Telemetry Data</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 09:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/architecting-cloud-native-kafka/en/headerimage/architecting-cloud-native-kafka-header-1779433382367.jpg" alt="Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +219,6 @@
                 <span class="time">2026-05-26 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/bajandole-todos-los-minutos-posibles-al-ci-del-backend-con-mas-de-1000-tests-5ecm" target="_blank">Bajándole todos los minutos posibles al CI del backend con mas de 1000 tests</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 05:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS80EAPM6V2P634PN8TZ8N4J/hero-image.png" alt="These Nothing ANC Headphones Are at Their Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/nothing-anc-headphones-sale-may-2026?utm_medium=RSS" target="_blank">These Nothing ANC Headphones Are at Their Lowest Price Ever Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-26 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/cromwell.jpg?fit=902%2C574&amp;quality=60&amp;ssl=1" alt="Irish councilor proposes tiny statue of mosquito blamed for killing invader Oliver Cromwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/26/cromwell.html" target="_blank">Irish councilor proposes tiny statue of mosquito blamed for killing invader Oliver Cromwell</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-26 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/rhythmheavensummer.jpg" alt="A New Rhythm Heaven Game Is A Rare Treat And Worth Celebrating" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-cant-believe-brand-new-rhythm-heaven-game-2000698743" target="_blank">A New Rhythm Heaven Game Is A Rare Treat And Worth Celebrating</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/chatgpt.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI needs a 26x revenue increase to justify its buildout" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178" target="_blank">CALX Is The Journey-Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2021/11/shutterstock_551379514.jpg?fit=1000%2C625&amp;quality=60&amp;ssl=1" alt="The International Space Station has sprung a new leak" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/25/the-international-space-station-has-sprung-a-new-leak.html" target="_blank">The International Space Station has sprung a new leak</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-25 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/goblinamerica-summer-preview-1280x713.jpg" alt="Surreal Boomer Shooter goblinAmerica Asks You To Speedrun Through Our Crumbling Political Landscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/surreal-boomer-shooter-goblinamerica-asks-you-to-speedrun-through-our-crumbling-political-landscape-2000697185" target="_blank">Surreal Boomer Shooter goblinAmerica Asks You To Speedrun Through Our Crumbling Political Landscape</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/04/forzahoriz6-1280x720.jpg" alt="Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-6-drivatar-bowie-knife99-has-become-so-infamous-that-even-the-official-xbox-account-is-smack-talking-it-2000699153" target="_blank">Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-25 17:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
