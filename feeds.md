@@ -1,44 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 20:37:35 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-26 21:30:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 20:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 21:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +47,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835227/world-cup-2026-cities-training-base" target="_blank">39 World Cup teams will be based in the U.S. Here&#x27;s which squad will be closest to you</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-26 21:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss" target="_blank">Four people killed after minibus collides with train in Belgium</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 21:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835300/trump-opm-nda-leaks-federal-employees" target="_blank">To stop leaks, the Trump administration wants federal workers to sign NDAs</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-26 20:29</span>
@@ -73,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/longview-mill-02-ht-jt-260526_1779817332923_hpMain_4x3t_384.jpg" alt="Fatalities confirmed after chemical tank ruptures at pulp and paper mill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-injuries-reported-chemical-explosion-facility-washington-state/story?id=133316638" target="_blank">Fatalities confirmed after chemical tank ruptures at pulp and paper mill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-26 19:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -81,38 +97,20 @@
                 <span class="time">2026-05-26 18:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/longview-mill-02-ht-jt-260526_1779817332923_hpMain_4x3t_384.jpg" alt="Fatalities confirmed after chemical tank ruptures at Washington state facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/multiple-injuries-reported-chemical-explosion-facility-washington-state/story?id=133316638" target="_blank">Fatalities confirmed after chemical tank ruptures at Washington state facility</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-26 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce8/live/3fea0db0-5908-11f1-a656-5bf9ca1d9342.jpg" alt="UK&#x27;s hottest May day record broken for second day in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clypp7ljvpvo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s hottest May day record broken for second day in a row</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-26 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5834992/trump-deletes-jan-6-info" target="_blank">Trump DOJ mass-deletes info on Jan. 6 riot cases, including violent assaults on cops</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-26 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lucas-drone-500x500-1779827564.jpg" alt="Musk says US military suicide drones used Starlink in violation of SpaceX rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/" target="_blank">Musk says US military suicide drones used Starlink in violation of SpaceX rules</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-26 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Millions of AI agents imperiled by critical vulnerability in open source package" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +156,20 @@
                 <span class="time">2026-05-26 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/936358/amazon-spider-noir-review" target="_blank">Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-26 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ANGLE-Merges-Wayland" target="_blank">Google&#x27;s ANGLE Merges Wayland Support, Unblocking Chromium Embedded Framework On Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 20:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,30 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!P4An!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29e3225d-e5fc-492f-a554-b000806a74d2_1220x1058.png" alt="State of the software engineering job market in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026" target="_blank">State of the software engineering job market in 2026</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-26 18:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18997921&w=600" alt="Catching Data Perimeter Drift Before It Reaches Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/catching-data-perimeter-drift" target="_blank">Catching Data Perimeter Drift Before It Reaches Production</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18991433&w=600" alt="Bringing Intelligence Closer to the Source: Why Real-Time Processing is the Heart of Edge AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/bringing-intelligence-closer-why-real-time-matters" target="_blank">Bringing Intelligence Closer to the Source: Why Real-Time Processing is the Heart of Edge AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frhjukw0to8yucnepi07d.png" alt="Redshift Spectrum + Lake Formation — Enterprise Governance on NAS Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/redshift-spectrum-lake-formation-enterprise-governance-on-nas-data-2pik" target="_blank">Redshift Spectrum + Lake Formation — Enterprise Governance on NAS Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 16:58</span>
             </div>
         </div>
 </div>
@@ -245,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KS3R1PCYKNRMTRZW5GAEM194/hero-image.jpg" alt="10 Hacks Every LastPass User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-lastpass-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every LastPass User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-26 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Epic-Games-Fornite-Porsche-AI-collab-image-1280x714.jpeg" alt="Epic Explains It Didn’t Make Fortnite Porsche AI Concept Image Following Online Dogpile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +288,6 @@
                 <span class="time">2026-05-26 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KS80EAPM6V2P634PN8TZ8N4J/hero-image.png" alt="These Nothing ANC Headphones Are at Their Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/nothing-anc-headphones-sale-may-2026?utm_medium=RSS" target="_blank">These Nothing ANC Headphones Are at Their Lowest Price Ever Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-26 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 20:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 21:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
