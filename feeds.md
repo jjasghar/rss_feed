@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 03:00:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2026-05-26 05:16:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 05:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ecc/live/eefa0160-5891-11f1-8341-7fde06439c12.jpg" alt="Gisèle Pelicot &#x27;deeply shocked&#x27; by decision not to jail boys in rape case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2117685lwo?at_medium=RSS&at_campaign=rss" target="_blank">Gisèle Pelicot &#x27;deeply shocked&#x27; by decision not to jail boys in rape case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-26 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/26/starbucks-korean-sales-fall-after-backlash-to-tank-day-ad-campaign?traffic_source=rss" target="_blank">Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 04:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,39 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354" alt="Starbucks Korea boss apologises after advert sparks big backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/starbucks-korea-boss-apologises-after-advert-sparks-big-backlash-13548037" target="_blank">Starbucks Korea boss apologises after advert sparks big backlash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-26 01:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="US military launches new strikes on targets in southern Iran, US Central Command says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military launches new strikes on targets in southern Iran, US Central Command says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-25 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-5-ht-gmh-260522_1779455677024_hpMain_4x3t_384.jpeg" alt="Iran live updates: US forces conduct &#x27;self-defense&#x27; strikes in Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US forces conduct &#x27;self-defense&#x27; strikes in Iran, CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-25 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/trump-renews-petition-for-white-house-ballroom-pointing-to-nearby-shooting?traffic_source=rss" target="_blank">Trump renews petition for White House ballroom, pointing to nearby shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-5-ht-gmh-260522_1779455677024_hpMain_4x3t_384.jpeg" alt="Iran live updates: US conducts &#x27;self-defense&#x27; strikes in Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US conducts &#x27;self-defense&#x27; strikes in Iran, CENTCOM says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-25 23:19</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/" target="_blank">Do you have what it takes to run AI in production?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-26 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/bajandole-todos-los-minutos-posibles-al-ci-del-backend-con-mas-de-1000-tests-5ecm" target="_blank">Bajándole todos los minutos posibles al CI del backend con mas de 1000 tests</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 05:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CacheLib-2026.05.25" target="_blank">Meta&#x27;s CacheLib Sees New Release After Two Year Hiatus For Helping With High DRAM Prices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thegdsks/cursor-3-ships-parallel-ai-agents-here-is-the-multi-agent-workflow-that-actually-works-2bk8" target="_blank">Cursor 3 ships parallel AI agents. Here is the multi-agent workflow that actually works.</a></span>
                 <span class="feed">DEV Community</span>
@@ -186,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Labwc-0.20-Compositor" target="_blank">Labwc 0.20 Wayland Compositor Released With Numerous New Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-26 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v42-377d" target="_blank">RAG 시스템 실전 구축 (v42)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/" target="_blank">Using AI to write better code more slowly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-25 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oqa/vibe-coding-problems-7-visual-bugs-ai-code-generators-always-ship-37mf" target="_blank">Vibe Coding Problems: 7 Visual Bugs AI Code Generators Always Ship</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-25 22:13</span>
             </div>
         </div>
 </div>
@@ -320,22 +324,13 @@
                 <span class="time">2026-05-25 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/flag_design.png" alt="Flag Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3250/" target="_blank">Flag Design</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-25 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 05:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
