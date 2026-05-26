@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 19:37:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-26 20:37:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 19:37 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 20:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835300/trump-opm-nda-leaks-federal-employees" target="_blank">To stop leaks, the Trump administration wants federal workers to sign NDAs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-26 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss" target="_blank">Did Trump oversell a broken Iran ceasefire deal?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +108,20 @@
                 <span class="time">2026-05-26 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/iran-3-ap-gnh-260525_1779717477574_hpMain_4x3t_384.jpg" alt="Iran live updates: Iran&#x27;s internet blackout partially lifted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Iran&#x27;s internet blackout partially lifted</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-26 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup?traffic_source=rss" target="_blank">Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Millions of AI agents imperiled by critical vulnerability in open source package" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" target="_blank">Millions of AI agents imperiled by critical vulnerability in open source package</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-26 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -112,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai" target="_blank">Google Health is here, but a lot of people want their Fitbit app back instead</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-26 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/" target="_blank">SpaceX’s Starlink nabs American Airlines contract, another win for its IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-26 18:48</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +167,20 @@
                 <span class="time">2026-05-26 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/" target="_blank">This startup is betting India’s gig economy can train the world’s robots</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic" target="_blank">Oppo’s Bubble is a thin round screen for taking rear camera selfies</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-26 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b" target="_blank">98. RAG: Give Your AI Access to Your Documents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 20:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +226,6 @@
                 <span class="time">2026-05-26 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/12/raspberry-pi-1GB.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi 6 won’t arrive before 2028 – and is skipping an NPU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/raspberry-pi-6-2028-no-npu" target="_blank">Raspberry Pi 6 won’t arrive before 2028 – and is skipping an NPU</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-26 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Epic-Games-Fornite-Porsche-AI-collab-image-1280x714.jpeg" alt="Epic Explains It Didn’t Make Fortnite Porsche AI Concept Image Following Online Dogpile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-epic-porsche-ai-image-logo-cayenne-turbo-electric-2000699472" target="_blank">Epic Explains It Didn’t Make Fortnite Porsche AI Concept Image Following Online Dogpile</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-26 20:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/10/LV5houHniU8eox8FuabjWQ-1280x720.jpg" alt="Take-Two Forcing Another Popular GTA Roleplay Multiplayer Platform To Shut Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +299,6 @@
                 <span class="time">2026-05-26 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/cromwell.jpg?fit=902%2C574&amp;quality=60&amp;ssl=1" alt="Irish councilor proposes tiny statue of mosquito blamed for killing invader Oliver Cromwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/26/cromwell.html" target="_blank">Irish councilor proposes tiny statue of mosquito blamed for killing invader Oliver Cromwell</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-26 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,22 +322,13 @@
                 <span class="time">2026-05-26 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/25/lightfall" target="_blank">Lightfall</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-25 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 19:37 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 20:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
