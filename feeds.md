@@ -1,28 +1,42 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 13:58:35 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 15:11:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 13:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 15:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss" target="_blank">‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1545/live/65ce5bc0-5904-11f1-b682-cf91850925ea.jpg" alt="Iran condemns US strikes as &#x27;gross violation&#x27; of ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss" target="_blank">Iran condemns US strikes as &#x27;gross violation&#x27; of ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-26 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +106,38 @@
                 <span class="time">2026-05-26 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5830090/morning-news-brief" target="_blank">Morning news brief</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-26 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/26/miami-says-messi-diagnosed-with-hamstring-fatigue-ahead-of-argentina-camp?traffic_source=rss" target="_blank">Miami says Messi diagnosed with hamstring fatigue ahead of Argentina camp</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 08:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic" target="_blank">Oppo’s Bubble is a thin round screen for taking rear camera selfies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-26 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/" target="_blank">Universal Music Group and TikTok renew agreement to combat unauthorized AI music</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-26 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0f9f970a863d3b9a0af4cc/master/pass/Big-Interview-UV-Jason-Rezaian-Business-2272612773.jpg" alt="The US Can Put People on the Moon. Why Can’t It Get Iranians Online?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/" target="_blank">The US Can Put People on the Moon. Why Can’t It Get Iranians Online?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-26 14:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/rocket-body-mass-500x500.jpg" alt="Analyst on China&#x27;s spent rocket stages: &quot;Things only continue to get worse&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -124,38 +165,29 @@
                 <span class="time">2026-05-26 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/2026-Porsche-Cayenne-Coupe-Turbo-2-500x500.jpg" alt="Driving Porsche&#x27;s most powerful car—and no, it&#x27;s not a 911" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/" target="_blank">Driving Porsche&#x27;s most powerful car—and no, it&#x27;s not a 911</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/" target="_blank">Amazon fulfillment competitor Stord raises $250M at $3B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0f33524bfa87f10e0f19eb/master/pass/GettyImages-2198332668.jpg" alt="The Cookware Industry Has a Major Fight Brewing Over PFAS Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/" target="_blank">The Cookware Industry Has a Major Fight Brewing Over PFAS Claims</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yechielk/shipping-your-machine-building-a-container-in-50-lines-of-code-part-2-4cm4" target="_blank">Shipping Your Machine: Building a Container in 50 Lines of Code (Part 2)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18905345&w=600" alt="Building Enterprise-Grade Real-Time IoT Dashboards with Vue 3, MQTT, and Kafka" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-enterprise-grade-real-time-iot-dashboards" target="_blank">Building Enterprise-Grade Real-Time IoT Dashboards with Vue 3, MQTT, and Kafka</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,28 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-pmtctl-Tool" target="_blank">Intel Working On pmtctl Tool For Linux In Dealing With Platform Telemetry Data</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-26 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/architecting-cloud-native-kafka/en/headerimage/architecting-cloud-native-kafka-header-1779433382367.jpg" alt="Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/architecting-cloud-native-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Architecting Cloud-Native Kafka: From Tiered Storage Towards a Diskless Future</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/run-agentic-workloads-on-arm-and-ubuntu" target="_blank">Run agentic workloads on Arm and Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-26 08:00</span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17348668/age-verification-open-source-exemptions" target="_blank">Linux is Getting a Free Pass on Age Verification in California and Colorado</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-26 11:49</span>
             </div>
         </div>
 </div>
@@ -297,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 13:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 15:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
