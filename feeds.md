@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 00:23:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-26 01:34:27 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 00:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 01:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +51,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military launches new strikes on targets in southern Iran, US Central Command says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-25 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-5-ht-gmh-260522_1779455677024_hpMain_4x3t_384.jpeg" alt="Iran live updates: US forces conduct &#x27;self-defense&#x27; strikes in Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US forces conduct &#x27;self-defense&#x27; strikes in Iran, CENTCOM says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-25 23:43</span>
             </div>
         </div>
 <div class="story">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal?traffic_source=rss" target="_blank">Trump dangles normalisation amid pro-Israel criticism of possible Iran deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-25 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount" target="_blank">After Stephen Colbert&#x27;s viral talk show parody, CBS backs down from copyright action</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-25 19:58</span>
             </div>
         </div>
 </div>
@@ -170,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Labwc-0.20-Compositor" target="_blank">Labwc 0.20 Wayland Compositor Released With Numerous New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v42-377d" target="_blank">RAG 시스템 실전 구축 (v42)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/" target="_blank">Using AI to write better code more slowly</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-25 23:16</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/scaling-cloud-data-automation-a-practical-guide" target="_blank">Scaling Cloud Data Automation: A Practical Guide to Open Table Formats</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chris_lee_5e58cce05f5d01d/when-apis-lie-a-lesson-in-defensive-debugging-291j" target="_blank">When APIs Lie: A Lesson in Defensive Debugging</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-25 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18995730&w=600" alt="Build Self-Managing Data Pipelines With an LLM Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-agent-self-managing-data-pipelines" target="_blank">Build Self-Managing Data Pipelines With an LLM Agent</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-25 18:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 00:23 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 81 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 01:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
