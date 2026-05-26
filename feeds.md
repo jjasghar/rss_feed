@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 15:11:17 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 17:02:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 15:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/" target="_blank">This startup is betting India’s gig economy can train the world’s robots</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic" target="_blank">Oppo’s Bubble is a thin round screen for taking rear camera selfies</a></span>
                 <span class="feed">The Verge</span>
@@ -156,20 +159,38 @@
                 <span class="time">2026-05-26 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop" target="_blank">Nobody wants to tell me why they only listen to their own Suno slop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-26 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18991433&w=600" alt="Bringing Intelligence Closer to the Source: Why Real-Time Processing is the Heart of Edge AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/bringing-intelligence-closer-why-real-time-matters" target="_blank">Bringing Intelligence Closer to the Source: Why Real-Time Processing is the Heart of Edge AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frhjukw0to8yucnepi07d.png" alt="Redshift Spectrum + Lake Formation — Enterprise Governance on NAS Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/redshift-spectrum-lake-formation-enterprise-governance-on-nas-data-2pik" target="_blank">Redshift Spectrum + Lake Formation — Enterprise Governance on NAS Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2605.26099" target="_blank">Language Models Need Sleep</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-26 15:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,37 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcindudekdev/wordpress-manifesto-15-years-in-heres-whats-actually-broken-36oo" target="_blank">WordPress Manifesto - 15 Years In, Here&#x27;s What&#x27;s Actually Broken</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18996217&w=600" alt="Designing API-First EMR Architectures in .NET: Enabling Modular Growth in Compliance-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-api-first-emr-architectures-in-net" target="_blank">Designing API-First EMR Architectures in .NET: Enabling Modular Growth in Compliance-Driven Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/formae-k8s-helm-integration/en/headerimage/generatedHeaderImage-1779526130360.jpg" alt="Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17348668/age-verification-open-source-exemptions" target="_blank">Linux is Getting a Free Pass on Age Verification in California and Colorado</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-26 11:49</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/nvidia-vera-benchmarks" target="_blank">NVIDIA Vera CPU Benchmarks: Olympus Cores Delivering The Best Performance Ever Seen On ARM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-26 14:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +223,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSJF6JQNTS0V2EH3KTKRPEKQ/hero-image.jpg" alt="Apple May Make It Easier to Manage AirPods With iOS 27" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-may-make-it-easier-to-manage-airpods-with-ios-27?utm_medium=RSS" target="_blank">Apple May Make It Easier to Manage AirPods With iOS 27</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-26 16:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KS80EAPM6V2P634PN8TZ8N4J/hero-image.png" alt="These Nothing ANC Headphones Are at Their Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,20 +277,20 @@
                 <span class="time">2026-05-25 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Kotaku_SummerPreview_Frame-1@2x-1280x712.jpg" alt="CALX Is The Journey-Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178" target="_blank">CALX Is The Journey-Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-25 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779672771-20260526 - edit.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gates-2" target="_blank">Saturday Morning Breakfast Cereal - Gates</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -297,22 +300,13 @@
                 <span class="time">2026-05-25 20:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779672714-20260525 - edit.png" alt="Saturday Morning Breakfast Cereal - Bonzo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bonzo" target="_blank">Saturday Morning Breakfast Cereal - Bonzo</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 15:11 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
