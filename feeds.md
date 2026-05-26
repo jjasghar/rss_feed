@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-25 23:22:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 00:23:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, May 25, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="US military launches new strikes on targets in southern Iran, US Central Command says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military launches new strikes on targets in southern Iran, US Central Command says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-25 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/trump-renews-petition-for-white-house-ballroom-pointing-to-nearby-shooting?traffic_source=rss" target="_blank">Trump renews petition for White House ballroom, pointing to nearby shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-25 23:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/iran-5-ht-gmh-260522_1779455677024_hpMain_4x3t_384.jpeg" alt="Iran live updates: US conducts &#x27;self-defense&#x27; strikes in Iran, CENTCOM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount" target="_blank">After Stephen Colbert&#x27;s viral talk show parody, CBS backs down from copyright action</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-25 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-pope-leo-magnifica-humanitas_7258427.jpg?20260525203758" alt="Pope Leo warns about AI and calls for regulation as he quotes from the Lord of the Rings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pope-leo-warns-about-ai-and-calls-for-regulation-as-he-quotes-from-the-lord-of-the-rings-13547991" target="_blank">Pope Leo warns about AI and calls for regulation as he quotes from the Lord of the Rings</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-25 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss" target="_blank">Mexico says it will host Iranian team during 2026 FIFA World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-25 18:11</span>
             </div>
         </div>
 </div>
@@ -162,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v42-377d" target="_blank">RAG 시스템 실전 구축 (v42)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 00:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/oqa/vibe-coding-problems-7-visual-bugs-ai-code-generators-always-ship-37mf" target="_blank">Vibe Coding Problems: 7 Visual Bugs AI Code Generators Always Ship</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-25 22:13</span>
@@ -203,15 +221,6 @@
                 <span class="time">2026-05-25 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout" target="_blank">Exit IP VPN servers mitigation rollout</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-25 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/chatgpt.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI needs a 26x revenue increase to justify its buildout" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/25/openai-needs-a-26x-revenue-increase-to-justify-its-buildout.html" target="_blank">OpenAI needs a 26x revenue increase to justify its buildout</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-25 23:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/ASUS-Chromebook-CM30.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This refurbished ASUS Chromebook handles the basics for $150" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/forza-horizon-6-drivatar-bowie-knife99-has-become-so-infamous-that-even-the-official-xbox-account-is-smack-talking-it-2000699153" target="_blank">Forza Horizon 6 Drivatar Bowie Knife99 Has Become So Infamous That Even The Official Xbox Account Is Smack-Talking It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-25 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/zuckerberg-1280x720.jpg" alt="Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185" target="_blank">Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-25 14:58</span>
             </div>
         </div>
 </div>
@@ -332,7 +341,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 78 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 23:22 UTC
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
