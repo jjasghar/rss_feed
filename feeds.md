@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 12:51:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 13:58:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 12:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 13:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates" target="_blank">Prospects fade for imminent end to Iran war as attacks restart</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-26 13:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5e/live/0d101980-18a7-11f1-8a24-35cedd1a21de.png" alt="Sentences of boys spared custody over rape referred to Court of Appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss" target="_blank">Sentences of boys spared custody over rape referred to Court of Appeal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-26 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5e/live/0d101980-18a7-11f1-8a24-35cedd1a21de.png" alt="Sentences of boys spared custody over Hampshire rape referred to Court of Appeal, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +92,29 @@
                 <span class="time">2026-05-26 08:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola" target="_blank">Attacks from residents complicate the fight against a rare type of Ebola</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-26 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg" alt="US launches new strikes on Iran, targeting missile sites and boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US launches new strikes on Iran, targeting missile sites and boats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-26 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/rocket-body-mass-500x500.jpg" alt="Analyst on China&#x27;s spent rocket stages: &quot;Things only continue to get worse&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/" target="_blank">Analyst on China&#x27;s spent rocket stages: &quot;Things only continue to get worse&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-26 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a14a4d99f939ad5b9106d3b/master/pass/New%20Google%20Fitbit%20Air%20Review%20top%20art%20052026%20SOURCE%20Google.jpg" alt="Google Fitbit Air Review: Barely There, Always Running" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/google-fitbit-air/" target="_blank">Google Fitbit Air Review: Barely There, Always Running</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +151,38 @@
                 <span class="time">2026-05-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth" target="_blank">Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-500x500-1779741774.jpg" alt="Citing Gandalf, Pope Leo says we must &quot;disarm&quot; AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/" target="_blank">Citing Gandalf, Pope Leo says we must &quot;disarm&quot; AI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-25 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcindudekdev/wordpress-manifesto-15-years-in-heres-whats-actually-broken-36oo" target="_blank">WordPress Manifesto - 15 Years In, Here&#x27;s What&#x27;s Actually Broken</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18996217&w=600" alt="Designing API-First EMR Architectures in .NET: Enabling Modular Growth in Compliance-Driven Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-api-first-emr-architectures-in-net" target="_blank">Designing API-First EMR Architectures in .NET: Enabling Modular Growth in Compliance-Driven Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-26 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/formae-k8s-helm-integration/en/headerimage/generatedHeaderImage-1779526130360.jpg" alt="Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Platform Engineering Labs Expands formae with Kubernetes Support, Native Helm Integration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,47 +208,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/run-agentic-workloads-on-arm-and-ubuntu" target="_blank">Run agentic workloads on Arm and Ubuntu</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2026-05-26 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/" target="_blank">Do you have what it takes to run AI in production?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-26 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dynip.dev/" target="_blank">DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-26 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-PoC-ML-KEM-X-Wing" target="_blank">ML-KEM + X-Wing Patches Posted For Linux To Help With Post-Quantum Security</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-26 07:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/" target="_blank">Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2026-05-25 13:21</span>
             </div>
         </div>
 </div>
@@ -320,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:51 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 13:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
