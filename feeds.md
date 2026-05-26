@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 18:44:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-26 19:37:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 18:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 19:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/russia-slams-us-for-not-granting-visa-to-diplomat-for-un-meeting?traffic_source=rss" target="_blank">Russia slams US for not granting visa to diplomat for UN meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-26 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/longview-mill-02-ht-jt-260526_1779817332923_hpMain_4x3t_384.jpg" alt="Fatalities confirmed after chemical tank ruptures at Washington state facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/multiple-injuries-reported-chemical-explosion-facility-washington-state/story?id=133316638" target="_blank">Fatalities confirmed after chemical tank ruptures at Washington state facility</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-26 18:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce8/live/3fea0db0-5908-11f1-a656-5bf9ca1d9342.jpg" alt="UK&#x27;s hottest May day record broken for second day in a row" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +100,20 @@
                 <span class="time">2026-05-26 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss" target="_blank">‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1545/live/65ce5bc0-5904-11f1-b682-cf91850925ea.jpg" alt="Iran condemns US strikes as &#x27;gross violation&#x27; of ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss" target="_blank">Iran condemns US strikes as &#x27;gross violation&#x27; of ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-26 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai" target="_blank">Google Health is here, but a lot of people want their Fitbit app back instead</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-26 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +159,20 @@
                 <span class="time">2026-05-26 15:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/" target="_blank">Universal Music Group and TikTok renew agreement to combat unauthorized AI music</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carryologist/qwen-is-not-yet-ready-to-power-local-openclaw-deployments-5ha3" target="_blank">Qwen Is Not Yet Ready to Power Local OpenClaw Deployments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-26 19:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +218,6 @@
                 <span class="time">2026-05-26 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2605.26099" target="_blank">Language Models Need Sleep</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-26 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/10/LV5houHniU8eox8FuabjWQ-1280x720.jpg" alt="Take-Two Forcing Another Popular GTA Roleplay Multiplayer Platform To Shut Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/take-two-forcing-another-popular-gta-roleplay-multiplayer-platform-to-shut-down-2000699497" target="_blank">Take-Two Forcing Another Popular GTA Roleplay Multiplayer Platform To Shut Down</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-26 19:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Sign-indicating-a-London-Underground-station-at--e1779819410202.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="London police launch manhunt for artist behind &quot;I farted in yoga&quot; graffiti" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/26/london-police-launch-manhunt-for-artist-behind-i-farted-in-yoga-graffiti.html" target="_blank">London police launch manhunt for artist behind &quot;I farted in yoga&quot; graffiti</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-26 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2724535035.jpg?fit=1280%2C803&amp;quality=60&amp;ssl=1" alt="K6 Project maps Britain&#x27;s red telephone boxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +291,20 @@
                 <span class="time">2026-05-26 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/rhythmheavensummer.jpg" alt="A New Rhythm Heaven Game Is A Rare Treat And Worth Celebrating" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/i-cant-believe-brand-new-rhythm-heaven-game-2000698743" target="_blank">A New Rhythm Heaven Game Is A Rare Treat And Worth Celebrating</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-26 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/chatgpt.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="OpenAI needs a 26x revenue increase to justify its buildout" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/25/openai-needs-a-26x-revenue-increase-to-justify-its-buildout.html" target="_blank">OpenAI needs a 26x revenue increase to justify its buildout</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-25 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://assets.penny-arcade.com/news/60843840076135358.eLukesEc.jpg" alt="Demeo x Battlemarked: Dungeons &amp; Dragons &amp; Acquisitions &amp; Incorporated!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/26/demeo-x-battlemarked-dungeons-dragons-acquisitions-incorporated" target="_blank">Demeo x Battlemarked: Dungeons &amp; Dragons &amp; Acquisitions &amp; Incorporated!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-26 18:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1779672771-20260526 - edit.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 18:44 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 19:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
