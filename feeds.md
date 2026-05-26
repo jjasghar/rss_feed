@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 05:16:43 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-26 07:04:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 05:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, May 26, 2026 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola" target="_blank">Attacks from residents complicate the fight against a rare type of Ebola</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-26 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg" alt="US launches new strikes on Iran, targeting missile sites and boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US launches new strikes on Iran, targeting missile sites and boats</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-26 05:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ecc/live/eefa0160-5891-11f1-8341-7fde06439c12.jpg" alt="Gisèle Pelicot &#x27;deeply shocked&#x27; by decision not to jail boys in rape case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military says it has launched new strikes on southern Iran</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-26 02:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354" alt="Starbucks Korea boss apologises after advert sparks big backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/starbucks-korea-boss-apologises-after-advert-sparks-big-backlash-13548037" target="_blank">Starbucks Korea boss apologises after advert sparks big backlash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-26 01:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="US military launches new strikes on targets in southern Iran, US Central Command says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss" target="_blank">US military launches new strikes on targets in southern Iran, US Central Command says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-25 23:51</span>
             </div>
         </div>
 </div>
@@ -315,22 +316,13 @@
                 <span class="time">2026-05-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/25/lightfall" target="_blank">Lightfall</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-25 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 40 | 📸 With Images: 252 |
-        🔄 Last Updated: 05:16 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 252 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
