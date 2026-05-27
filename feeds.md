@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 14:12:31 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-27 16:16:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 14:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 16:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,51 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174e/live/5ccdc960-59e1-11f1-ad45-03463f64a221.jpg" alt="Safety warning after nine water-related deaths during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss" target="_blank">Safety warning after nine water-related deaths during heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump leads Cabinet meeting at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump leads Cabinet meeting at the White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-27 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola" target="_blank">WHO chief calls for DRC ceasefire to tackle Ebola outbreak</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-27 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5835275/former-obama-advisor-reflects-on-the-battle-for-american-identity" target="_blank">Former Obama advisor reflects on the &#x27;Battle for American Identity&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-27 15:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/lv_ny1_trump_cabinet-3xm21r.jpg" alt="Trump holds a Cabinet meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-trump-holds-a-cabinet-meeting-264008773848" target="_blank">Trump holds a Cabinet meeting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-27 14:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/ken-paxton-7-ap-gmh-260526_1779848190472_hpMain_4x3t_384.jpg" alt="Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -54,56 +100,20 @@
                 <span class="time">2026-05-27 13:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb0/live/e76d1710-59cd-11f1-89a3-d1f559421220.jpg" alt="Water safety warning after nine people die during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss" target="_blank">Water safety warning after nine people die during heatwave</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-27 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israeli strike in Gaza City kills new head of Hamas&#x27;s military wing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss" target="_blank">Israeli strike in Gaza City kills new head of Hamas&#x27;s military wing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-27 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel says new head of Hamas&#x27; military wing killed in Gaza City strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss" target="_blank">Israel says new head of Hamas&#x27; military wing killed in Gaza City strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-27 06:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5836209/nasa-moon-base-plans" target="_blank">NASA lays out moon base plans with landers, buggies and drones at the top of the list</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-27 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/AP26059041911196_1779843487634_hpMain_4x3t_384.jpg" alt="Biden sues DOJ to block release of audio recordings tied to special counsel probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/biden-sues-doj-block-release-audio-recordings-tied/story?id=133331055" target="_blank">Biden sues DOJ to block release of audio recordings tied to special counsel probe</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-27 03:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-500x500-1779892997.jpg" alt="Nvidia kills Windows XP-era Control Panel &quot;after 20 years of dedicated service&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/" target="_blank">Nvidia kills Windows XP-era Control Panel &quot;after 20 years of dedicated service&quot;</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-27 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +159,6 @@
                 <span class="time">2026-05-27 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">Home Depot Promo Codes: 50% Off in June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-27 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,24 @@
                 <span class="title"><a href="https://dev.to/vaultkeepr_xyz/clear-signing-the-end-of-blind-signing-attacks-on-ethereum-2d64" target="_blank">Clear Signing: The End of Blind Signing Attacks on Ethereum</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-27 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cache-aware-scheduling-hedt" target="_blank">Cache Aware Scheduling Shows Nice Wins For AMD Zen 5 On PostgreSQL, Valkey, Network Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/canonical-workshop-dev.webp?resize=406%2C232&amp;ssl=1" alt="Canonical’s Workshop: sandboxed, reproducible dev environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/canonical-workshop-dev-environments" target="_blank">Canonical’s Workshop: sandboxed, reproducible dev environments</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-27 13:52</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +218,6 @@
                 <span class="time">2026-05-27 09:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-27 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://badhost.org" target="_blank">CVE-2026-48710 Starlette Host-Header Auth Bypass</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-27 07:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +232,29 @@
                 <span class="time">2026-05-27 14:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html" target="_blank">Identifying People Using Wi-Fi Routers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-26 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/simgone.jpg" alt="Dev Behind Racist Plantation Game Quietly Removes It From Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dev-behind-racist-plantation-game-quietly-removes-it-from-steam-2000699837" target="_blank">Dev Behind Racist Plantation Game Quietly Removes It From Steam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-27 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Build apps faster, blame tools less—Visual Studio Pro 2026 is just $35 through 5/31" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/build-apps-faster-blame-tools-less-visual-studio-pro-2026-is-just-35-through-5-31.html" target="_blank">Build apps faster, blame tools less—Visual Studio Pro 2026 is just $35 through 5/31</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/summer-preview-1280x717.jpg" alt="The 10 Upcoming Summer 2026 Anime You Should Be Most Excited For" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +291,20 @@
                 <span class="time">2026-05-27 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/witcher3.jpg" alt="The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754" target="_blank">The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-27 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Raising many questions, Grandpa Pudding Brains says he&#x27;s &quot;studied&quot; circumcision for a long time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/26/raising-many-questions-grandpa-pudding-brains-says-hes-studied-circumcision-for-a-long-time.html" target="_blank">Raising many questions, Grandpa Pudding Brains says he&#x27;s &quot;studied&quot; circumcision for a long time</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 00:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779842282-20260527 - edit.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-17" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,22 +332,13 @@
                 <span class="time">2026-05-26 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779672771-20260526 - edit.png" alt="Saturday Morning Breakfast Cereal - Gates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gates-2" target="_blank">Saturday Morning Breakfast Cereal - Gates</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 255 |
-        🔄 Last Updated: 14:12 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 259 |
+        🔄 Last Updated: 16:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
