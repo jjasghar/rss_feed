@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 16:16:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-27 17:58:47 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Generated 17 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 16:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 17:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/27/fifa-subpoenaed-by-new-york-new-jersey-in-world-cup-ticket-investigation?traffic_source=rss" target="_blank">FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-27 17:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel strikes Tyre after ordering evacuation of south Lebanon city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Tyre after ordering evacuation of south Lebanon city</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-7-epa-gmh-260527_1779901480820_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran wants to make a deal, but he isn&#x27;t &#x27;satisfied&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump says Iran wants to make a deal, but he isn&#x27;t &#x27;satisfied&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-27 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779899687345_now_brk_alba_trump_cabinet_260527_S3_1920x1080-svf8z5.jpg" alt="Trump: Iran is ‘negotiating on fumes’ as deal remains unclear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-iran-is-negotiating-on-fumes-as-deal-remains-unclear-264024133814" target="_blank">Trump: Iran is ‘negotiating on fumes’ as deal remains unclear</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-27 16:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174e/live/5ccdc960-59e1-11f1-ad45-03463f64a221.jpg" alt="Safety warning after nine water-related deaths during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,47 +102,29 @@
                 <span class="time">2026-05-27 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola" target="_blank">WHO chief calls for DRC ceasefire to tackle Ebola outbreak</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-27 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5835275/former-obama-advisor-reflects-on-the-battle-for-american-identity" target="_blank">Former Obama advisor reflects on the &#x27;Battle for American Identity&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-27 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/lv_ny1_trump_cabinet-3xm21r.jpg" alt="Trump holds a Cabinet meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-trump-holds-a-cabinet-meeting-264008773848" target="_blank">Trump holds a Cabinet meeting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-27 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ken-paxton-7-ap-gmh-260526_1779848190472_hpMain_4x3t_384.jpg" alt="Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/cornyns-defeat-leaves-republicans-vulnerable-senate-nominee-analysis/story?id=133333431" target="_blank">Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-27 13:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/" target="_blank">With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a172ae1a9e1ae7dde3152d5/master/pass/Dating-App-Free-Gas-Incentive-Culture.jpg" alt="A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/" target="_blank">A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-27 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-500x500-1779892997.jpg" alt="Nvidia kills Windows XP-era Control Panel &quot;after 20 years of dedicated service&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +161,56 @@
                 <span class="time">2026-05-27 12:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-500x500.jpg" alt="Motorola&#x27;s 2026 Razrs are almost worth buying just for their stunning looks… almost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/" target="_blank">Motorola&#x27;s 2026 Razrs are almost worth buying just for their stunning looks… almost</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-27 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/" target="_blank">Airbnb-backed WeRoad raises $58M to take its group travel platform to the US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-27 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzq2ebjq4z7wdk7phbl9x.jpg" alt="How to Set Up a Clean Page Object Model (POM) in Selenium with Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/master_blaster_20713/how-to-set-up-a-clean-page-object-model-pom-in-selenium-with-java-o4l" target="_blank">How to Set Up a Clean Page Object Model (POM) in Selenium with Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.2" target="_blank">Ubuntu 26.10 Planning To Ship With The Linux 7.2 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-27 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000444&w=600" alt="Feature Flag Debt: Performance Impact in Enterprise Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/feature-flag-debt" target="_blank">Feature Flag Debt: Performance Impact in Enterprise Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17349539/firefox-smart-window" target="_blank">I Tried Firefox Smart Window, and It Won Me Over a Little</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-27 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/opencode" target="_blank">Building OpenCode with Dax Raad</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-27 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,51 +218,6 @@
                 <span class="title"><a href="https://dev.to/vaultkeepr_xyz/clear-signing-the-end-of-blind-signing-attacks-on-ethereum-2d64" target="_blank">Clear Signing: The End of Blind Signing Attacks on Ethereum</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-27 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cache-aware-scheduling-hedt" target="_blank">Cache Aware Scheduling Shows Nice Wins For AMD Zen 5 On PostgreSQL, Valkey, Network Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/05/canonical-workshop-dev.webp?resize=406%2C232&amp;ssl=1" alt="Canonical’s Workshop: sandboxed, reproducible dev environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/canonical-workshop-dev-environments" target="_blank">Canonical’s Workshop: sandboxed, reproducible dev environments</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-27 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18997942&w=600" alt="You Don&#x27;t Get to Retrofit Trust: Why API Security Must Be Designed In, Not Bolted On" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/api-security-by-design" target="_blank">You Don&#x27;t Get to Retrofit Trust: Why API Security Must Be Designed In, Not Bolted On</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://orchidfiles.com/im-tired-of-ai-generated-answers/" target="_blank">I&#x27;m Tired of Talking to AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-27 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://miniscript.org/MiniMicro/index.html#about" target="_blank">Mini Micro Fantasy Computer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-27 09:56</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/PXL_20260430_015017209-1280x720.jpg" alt="Staff At The Publisher Behind Some Beloved Star Wars And Cyberpunk Comics Are Unionizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dark-horse-comics-workers-unionizing-2000699889" target="_blank">Staff At The Publisher Behind Some Beloved Star Wars And Cyberpunk Comics Are Unionizing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-27 17:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/simgone.jpg" alt="Dev Behind Racist Plantation Game Quietly Removes It From Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +293,20 @@
                 <span class="time">2026-05-27 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/sinclairlogo.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Make your own futuristic computer logo with the Sinclair-o-Matic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/make-your-own-futuristic-computer-logo-with-the-sinclair-o-matic.html" target="_blank">Make your own futuristic computer logo with the Sinclair-o-Matic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/quick-thoughts-on-horizon-6-and-007" target="_blank">Quick Thoughts on Horizon 6 and 007!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-27 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1779842282-20260527 - edit.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -337,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 39 | 📸 With Images: 259 |
-        🔄 Last Updated: 16:16 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 17:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
