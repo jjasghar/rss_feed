@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 21:31:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-27 22:29:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 21:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 22:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe3/live/cd580120-59b7-11f1-a709-a756a39103f6.jpg" alt="One in six young people will not be in work or training in five years without action, report warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss" target="_blank">One in six young people will not be in work or training in five years without action, report warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 21:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss" target="_blank">Markets rally amid hopes of US-Iran deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-27 21:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel issues evacuation order for swathes of southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss" target="_blank">Israel issues evacuation order for swathes of southern Lebanon</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 20:26</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +99,20 @@
                 <span class="time">2026-05-27 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/27/fifa-subpoenaed-by-new-york-new-jersey-in-world-cup-ticket-investigation?traffic_source=rss" target="_blank">FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-27 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel strikes Tyre after ordering evacuation of south Lebanon city" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss" target="_blank">Israel strikes Tyre after ordering evacuation of south Lebanon city</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-27 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a175fb9c2f57d80967f645b/master/pass/Google-Employee-Accused-of-Turning-Insider-Information-Into-1-Million-Business-2272777124.jpg" alt="Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/" target="_blank">Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-27 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2026-05-27 19:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports" target="_blank">Roids were all the rage at the Enhanced Games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-27 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theasf/asf-project-spotlight-apache-iceberg-fl5" target="_blank">ASF Project Spotlight: Apache Iceberg</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2026-05-27 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000553&w=600" alt="Stateless JWT Auth Microservice Architecture With Spring Boot 3 and Redis Sentinel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jwt-auth-spring-boot-redis-sentinel" target="_blank">Stateless JWT Auth Microservice Architecture With Spring Boot 3 and Redis Sentinel</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-27 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Cadborosaurus.jpg?fit=1200%2C775&amp;quality=60&amp;ssl=1" alt="Workers opened a whale in 1937 and found something inside that still doesn&#x27;t have a name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/workers-opened-a-whale-in-1937-and-found-something-inside-that-still-doesnt-have-a-name.html" target="_blank">Workers opened a whale in 1937 and found something inside that still doesn&#x27;t have a name</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 21:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/babies.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="UK Births drop for fourth straight year as costs and dread pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/the-sonos-roam-2-speaker-deal-may-2026?utm_medium=RSS" target="_blank">This Sonos Portable Speaker Is $45 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-27 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/paraglider.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Austrian plane clips paraglider mid-air; emergency chute saves pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/austrian-plane-clips-paraglider-mid-air-emergency-chute-saves-pilot.html" target="_blank">Austrian plane clips paraglider mid-air; emergency chute saves pilot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 18:20</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
