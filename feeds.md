@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 03:00:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-27 05:25:53 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 05:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -92,10 +86,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-washington-state-tank-spill_7259258.jpg?20260527023002" alt="One killed and nine missing after chemical tank implodes in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-washington-state-tank-spill_7259258.jpg?20260527023002" alt="One killed, nine missing as 3.4m-litre chemical tank implodes in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/one-killed-and-nine-missing-after-chemical-tank-implodes-in-washington-13548338" target="_blank">One killed and nine missing after chemical tank implodes in US</a></span>
+                <span class="title"><a href="https://news.sky.com/story/one-killed-and-nine-missing-after-chemical-tank-implodes-in-washington-13548338" target="_blank">One killed, nine missing as 3.4m-litre chemical tank implodes in US</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2026-05-26 23:50</span>
             </div>
@@ -105,6 +99,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/" target="_blank">UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-26 23:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a15ebea591e522c95b4533e/master/pass/The-Pope-Gets-Tolkien-Culture-2277270022.jpg" alt="Pope Leo Schooled the Tech Bros on Tolkien" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +153,20 @@
                 <span class="time">2026-05-26 21:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/" target="_blank">Starship’s path to reusability looks murky after SpaceX’s S-1</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orieken/two-knowledge-hierarchies-structuring-context-for-ai-agents-and-llms-2o6c" target="_blank">Two Knowledge Hierarchies: Structuring Context for AI Agents and LLMs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 05:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b" target="_blank">98. RAG: Give Your AI Access to Your Documents</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18997932&w=600" alt="Architecting Zero-Trust AI Agents: How to Handle Data Safely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/architecting-zero-trust-ai-agents" target="_blank">Architecting Zero-Trust AI Agents: How to Handle Data Safely</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-26 20:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 249 |
+        🔄 Last Updated: 05:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
