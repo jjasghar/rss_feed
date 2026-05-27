@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 12:59:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-27 14:12:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 12:59 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 14:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ken-paxton-7-ap-gmh-260526_1779848190472_hpMain_4x3t_384.jpg" alt="Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/cornyns-defeat-leaves-republicans-vulnerable-senate-nominee-analysis/story?id=133333431" target="_blank">Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-27 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb0/live/e76d1710-59cd-11f1-89a3-d1f559421220.jpg" alt="Water safety warning after nine people die during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss" target="_blank">Water safety warning after nine people die during heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 13:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israeli strike in Gaza City kills new head of Hamas&#x27;s military wing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +99,29 @@
                 <span class="time">2026-05-27 03:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss" target="_blank">Group of women and children with alleged ISIL ties returns to Australia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-27 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779844394631_now_brk_paxton_win_260526_S3_1920x1080-v6vc47.jpg" alt="Ken Paxton wins Republican Senate primary in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/ken-paxton-wins-republican-senate-primary-in-texas-263983173998" target="_blank">Ken Paxton wins Republican Senate primary in Texas</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-27 01:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/" target="_blank">Spotify now lets you ‘clip’ moments from your favorite podcast</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review" target="_blank">This smart bird feeder captures more of my backyard drama</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,29 @@
                 <span class="time">2026-05-27 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/" target="_blank">UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a15ebea591e522c95b4533e/master/pass/The-Pope-Gets-Tolkien-Culture-2277270022.jpg" alt="Pope Leo Schooled the Tech Bros on Tolkien" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/" target="_blank">Pope Leo Schooled the Tech Bros on Tolkien</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-26 23:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaultkeepr_xyz/clear-signing-the-end-of-blind-signing-attacks-on-ethereum-2d64" target="_blank">Clear Signing: The End of Blind Signing Attacks on Ethereum</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 14:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18997942&w=600" alt="You Don&#x27;t Get to Retrofit Trust: Why API Security Must Be Designed In, Not Bolted On" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/api-security-by-design" target="_blank">You Don&#x27;t Get to Retrofit Trust: Why API Security Must Be Designed In, Not Bolted On</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +217,20 @@
                 <span class="time">2026-05-27 07:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev-architecture-blog/veltrix-configuration-was-the-least-of-our-worries-when-our-treasure-hunt-engine-almost-took-down-4fda" target="_blank">Veltrix Configuration Was the Least of Our Worries When Our Treasure Hunt Engine Almost Took Down the Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/pullfrog-ai-github/en/headerimage/generatedHeaderImage-1779809250656.jpg" alt="Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-27 06:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html" target="_blank">FBI’s 2025 Internet Crime Report</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-27 14:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/summer-preview-1280x717.jpg" alt="The 10 Upcoming Summer 2026 Anime You Should Be Most Excited For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-10-upcoming-summer-2026-anime-you-should-be-most-excited-for-2000698322" target="_blank">The 10 Upcoming Summer 2026 Anime You Should Be Most Excited For</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSM5DS00BSVE17H1YGEQ8M8S/hero-image.png" alt="The New M5 MacBook Air Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-air-sale-may-2026?utm_medium=RSS" target="_blank">The New M5 MacBook Air Is $200 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-27 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KSM6FN0BW36KW5NWEDT6W7BQ/hero-image.png" alt="These Versatile Beats Studio Buds+ Are Nearly $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/26/raising-many-questions-grandpa-pudding-brains-says-hes-studied-circumcision-for-a-long-time.html" target="_blank">Raising many questions, Grandpa Pudding Brains says he&#x27;s &quot;studied&quot; circumcision for a long time</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-27 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Triage-1280x733.jpg" alt="Marathon Goes Full Survival Horror Mode In New Nightfall Trailer And I Can’t Believe I’m About To Get Sucked In All Over Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604" target="_blank">Marathon Goes Full Survival Horror Mode In New Nightfall Trailer And I Can’t Believe I’m About To Get Sucked In All Over Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-26 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/black-bear-e1763736908961.jpeg?fit=768%2C511&amp;quality=60&amp;ssl=1" alt="Bears, smarter than average, decide to attend Calabasas school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/26/bears-smarter-than-average-decide-to-attend-calabasas-school.html" target="_blank">Bears, smarter than average, decide to attend Calabasas school</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-26 21:11</span>
             </div>
         </div>
 </div>
@@ -334,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 252 |
-        🔄 Last Updated: 12:59 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 101 | 📡 Total Sources: 39 | 📸 With Images: 255 |
+        🔄 Last Updated: 14:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
