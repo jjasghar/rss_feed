@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 07:18:25 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-27 09:01:54 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 07:18 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israeli strike in Gaza City kills new head of Hamas&#x27;s military wing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss" target="_blank">Israeli strike in Gaza City kills new head of Hamas&#x27;s military wing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 08:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel says new head of Hamas&#x27; military wing killed in Gaza City strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -59,6 +68,15 @@
                 <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5836209/nasa-moon-base-plans" target="_blank">NASA lays out moon base plans with landers, buggies and drones at the top of the list</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-27 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/AP26059041911196_1779843487634_hpMain_4x3t_384.jpg" alt="Biden sues DOJ to block release of audio recordings tied to special counsel probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/biden-sues-doj-block-release-audio-recordings-tied/story?id=133331055" target="_blank">Biden sues DOJ to block release of audio recordings tied to special counsel probe</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-27 03:10</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +97,20 @@
                 <span class="time">2026-05-27 01:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835745/paxton-republican-texas-senate-nominee-trump-cornyn-talarico" target="_blank">Texas Republicans nominate Ken Paxton for Senate seat, ousting incumbent John Cornyn</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-27 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss" target="_blank">How decision-making happens in Iran</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-27 00:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/" target="_blank">Airbnb-backed WeRoad raises $58M to take its group travel platform to the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2026-05-26 22:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates" target="_blank">NASA&amp;#8217;s permanent Moon base plans start with three missions this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-26 22:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://badhost.org" target="_blank">CVE-2026-48710 Starlette Host-Header Auth Bypass</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-27 07:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/wilsonhoe/i-replaced-my-entire-business-stack-with-4-notion-templates-i22" target="_blank">I Replaced My Entire Business Stack with 4 Notion Templates</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-27 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek" target="_blank">I Built a Free Finance Dashboard as a Solo Dev — Here&#x27;s What I Learned</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 23:10</span>
             </div>
         </div>
 </div>
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
-        🔄 Last Updated: 07:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 251 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
