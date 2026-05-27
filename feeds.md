@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 05:25:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2026-05-27 07:18:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 05:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 07:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/054bbfc0-5942-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel says new head of Hamas&#x27; military wing killed in Gaza City strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss" target="_blank">Israel says new head of Hamas&#x27; military wing killed in Gaza City strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-27 06:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5836209/nasa-moon-base-plans" target="_blank">NASA lays out moon base plans with landers, buggies and drones at the top of the list</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-27 06:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +97,20 @@
                 <span class="time">2026-05-27 00:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss" target="_blank">UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-27 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-washington-state-tank-spill_7259258.jpg?20260527023002" alt="One killed, nine missing as 3.4m-litre chemical tank implodes in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/one-killed-and-nine-missing-after-chemical-tank-implodes-in-washington-13548338" target="_blank">One killed, nine missing as 3.4m-litre chemical tank implodes in US</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-26 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="Home Depot Promo Codes: 50% Off in June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">Home Depot Promo Codes: 50% Off in June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-27 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +156,29 @@
                 <span class="time">2026-05-26 22:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/lucas-drone-500x500-1779827564.jpg" alt="Musk says US military suicide drones used Starlink in violation of SpaceX rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/" target="_blank">Musk says US military suicide drones used Starlink in violation of SpaceX rules</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-26 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev-architecture-blog/veltrix-configuration-was-the-least-of-our-worries-when-our-treasure-hunt-engine-almost-took-down-4fda" target="_blank">Veltrix Configuration Was the Least of Our Worries When Our Treasure Hunt Engine Almost Took Down the Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 07:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/pullfrog-ai-github/en/headerimage/generatedHeaderImage-1779809250656.jpg" alt="Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/pullfrog-ai-github/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pullfrog AI: Open-Source CodeRabbit Alternative Powered by GitHub Actions</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-27 06:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek" target="_blank">I Built a Free Finance Dashboard as a Solo Dev — Here&#x27;s What I Learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ANGLE-Merges-Wayland" target="_blank">Google&#x27;s ANGLE Merges Wayland Support, Unblocking Chromium Embedded Framework On Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-26 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b" target="_blank">98. RAG: Give Your AI Access to Your Documents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 20:23</span>
             </div>
         </div>
 </div>
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 40 | 📸 With Images: 249 |
-        🔄 Last Updated: 05:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 07:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
