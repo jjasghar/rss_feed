@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 18:58:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-27 19:44:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 18:58 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 19:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +112,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/" target="_blank">Payroll startup Remote says it grew revenue 50% per employee without adding headcount</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports" target="_blank">Roids were all the rage at the Enhanced Games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-27 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/" target="_blank">UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-27 18:25</span>
@@ -142,29 +162,38 @@
                 <span class="time">2026-05-27 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-500x500-1779892997.jpg" alt="Nvidia kills Windows XP-era Control Panel &quot;after 20 years of dedicated service&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/" target="_blank">Nvidia kills Windows XP-era Control Panel &quot;after 20 years of dedicated service&quot;</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-27 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/" target="_blank">Spotify now lets you ‘clip’ moments from your favorite podcast</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-27 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lars_winstand/i-found-the-ropenclaw-thread-with-27-upvotes-where-someone-gave-an-agent-a-real-iphone-and-now-i-20ab" target="_blank">I found the r/openclaw thread with 27 upvotes where someone gave an agent a real iPhone and now I can’t stop thinking about it</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 19:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000553&w=600" alt="Stateless JWT Auth Microservice Architecture With Spring Boot 3 and Redis Sentinel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/jwt-auth-spring-boot-redis-sentinel" target="_blank">Stateless JWT Auth Microservice Architecture With Spring Boot 3 and Redis Sentinel</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-27 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/en/headerimage/linkedin-kernel-lock-freeze-1779903552098.jpg" alt="How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000530&w=600" alt="Stop Running Two Data Systems for One Agent Query" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +221,6 @@
                 <span class="time">2026-05-27 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzq2ebjq4z7wdk7phbl9x.jpg" alt="How to Set Up a Clean Page Object Model (POM) in Selenium with Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/master_blaster_20713/how-to-set-up-a-clean-page-object-model-pom-in-selenium-with-java-o4l" target="_blank">How to Set Up a Clean Page Object Model (POM) in Selenium with Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.2" target="_blank">Ubuntu 26.10 Planning To Ship With The Linux 7.2 Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-27 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000444&w=600" alt="Feature Flag Debt: Performance Impact in Enterprise Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/feature-flag-debt" target="_blank">Feature Flag Debt: Performance Impact in Enterprise Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-27 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Orbitals-Preview-2026-1280x720.jpg" alt="Nintendo’s Most Unique Exclusive This Year Is A Love Letter To Retro Anime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/orbitals-nintendo-switch-2-it-takes-two-retro-anime-2000699552" target="_blank">Nintendo’s Most Unique Exclusive This Year Is A Love Letter To Retro Anime</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-27 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/image-84.jpg" alt="I Really Hope Clockwork Revolutions Is One Of This Year’s Surprise Xbox Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +294,6 @@
                 <span class="time">2026-05-27 16:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Microsoft-Visual-Studio-Professional-2026-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Build apps faster, blame tools less—Visual Studio Pro 2026 is just $35 through 5/31" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/build-apps-faster-blame-tools-less-visual-studio-pro-2026-is-just-35-through-5-31.html" target="_blank">Build apps faster, blame tools less—Visual Studio Pro 2026 is just $35 through 5/31</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:58 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
