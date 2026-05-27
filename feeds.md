@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 11:07:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-27 12:59:19 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 11:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 12:59 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion" target="_blank">The Witcher 3 is getting another expansion, more than a decade after launch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-27 12:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-500x500.jpg" alt="Motorola&#x27;s 2026 Razrs are almost worth buying just for their stunning looks… almost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,15 +156,6 @@
                 <span class="time">2026-05-26 23:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/" target="_blank">What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-26 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://orchidfiles.com/im-tired-of-ai-generated-answers/" target="_blank">I&#x27;m Tired of Talking to AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-27 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://miniscript.org/MiniMicro/index.html#about" target="_blank">Mini Micro Fantasy Computer</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-27 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/azure-logic-apps-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure Logic Apps Adds Sandboxed Code Interpreters to Agent Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-27 09:45</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +215,6 @@
                 <span class="time">2026-05-27 06:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orieken/two-knowledge-hierarchies-structuring-context-for-ai-agents-and-llms-2o6c" target="_blank">Two Knowledge Hierarchies: Structuring Context for AI Agents and LLMs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-On-ARM64-Experiment" target="_blank">ReactOS Now Running On ARM64 In Experimental Form</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-27 00:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSM6FN0BW36KW5NWEDT6W7BQ/hero-image.png" alt="These Versatile Beats Studio Buds+ Are Nearly $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-studio-buds-plus-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Versatile Beats Studio Buds+ Are Nearly $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-27 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/sinclairlogo.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Make your own futuristic computer logo with the Sinclair-o-Matic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/make-your-own-futuristic-computer-logo-with-the-sinclair-o-matic.html" target="_blank">Make your own futuristic computer logo with the Sinclair-o-Matic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 11:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/witcher3.jpg" alt="The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +288,20 @@
                 <span class="time">2026-05-26 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KS3R1PCYKNRMTRZW5GAEM194/hero-image.jpg" alt="10 Hacks Every LastPass User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-lastpass-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every LastPass User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Epic-Games-Fornite-Porsche-AI-collab-image-1280x714.jpeg" alt="Epic Explains It Didn’t Make Fortnite Porsche AI Concept Image Following Online Dogpile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-epic-porsche-ai-image-logo-cayenne-turbo-electric-2000699472" target="_blank">Epic Explains It Didn’t Make Fortnite Porsche AI Concept Image Following Online Dogpile</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-26 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/27/doom-eater" target="_blank">Doom-Eater</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-27 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.penny-arcade.com/news/60843840076135358.eLukesEc.jpg" alt="Demeo x Dungeons &amp; Dragons: Battlemarked &amp; Acquisitions &amp; Incorporated!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 251 |
-        🔄 Last Updated: 11:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 99 | 📡 Total Sources: 39 | 📸 With Images: 252 |
+        🔄 Last Updated: 12:59 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
