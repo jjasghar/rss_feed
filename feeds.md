@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 00:25:12 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-27 01:38:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 00:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 01:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss" target="_blank">How decision-making happens in Iran</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-27 00:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss" target="_blank">UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-27 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-washington-state-tank-spill_7259258.jpg?20260527023002" alt="One killed and nine missing after chemical tank implodes in US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/one-killed-and-nine-missing-after-chemical-tank-implodes-in-washington-13548338" target="_blank">One killed and nine missing after chemical tank implodes in US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-26 23:50</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +103,6 @@
                 <span class="time">2026-05-26 21:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835227/world-cup-2026-cities-training-base" target="_blank">39 World Cup teams will be based in the U.S. Here&#x27;s which squad will be closest to you</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-26 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss" target="_blank">Four people killed after minibus collides with train in Belgium</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-26 21:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +124,15 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/" target="_blank">What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-26 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-500x500-1779832446.jpg" alt="Is Peter Thiel the target of Pope Leo&#x27;s Gandalf quote? An investigation." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/" target="_blank">Is Peter Thiel the target of Pope Leo&#x27;s Gandalf quote? An investigation.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-26 22:27</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +162,20 @@
                 <span class="time">2026-05-26 21:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg" alt="Millions of AI agents imperiled by critical vulnerability in open source package" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" target="_blank">Millions of AI agents imperiled by critical vulnerability in open source package</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-26 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ReactOS-On-ARM64-Experiment" target="_blank">ReactOS Now Running On ARM64 In Experimental Form</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-27 00:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +221,6 @@
                 <span class="time">2026-05-26 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carryologist/qwen-is-not-yet-ready-to-power-local-openclaw-deployments-5ha3" target="_blank">Qwen Is Not Yet Ready to Power Local OpenClaw Deployments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Raising many questions, Grandpa Pudding Brains says he&#x27;s &quot;studied&quot; circumcision for a long time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/26/raising-many-questions-grandpa-pudding-brains-says-hes-studied-circumcision-for-a-long-time.html" target="_blank">Raising many questions, Grandpa Pudding Brains says he&#x27;s &quot;studied&quot; circumcision for a long time</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 00:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Triage-1280x733.jpg" alt="Marathon Goes Full Survival Horror Mode In New Nightfall Trailer And I Can’t Believe I’m About To Get Sucked In All Over Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +294,6 @@
                 <span class="time">2026-05-26 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Sign-indicating-a-London-Underground-station-at--e1779819410202.jpg?fit=768%2C509&amp;quality=60&amp;ssl=1" alt="London police launch manhunt for artist behind &quot;I farted in yoga&quot; graffiti" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/26/london-police-launch-manhunt-for-artist-behind-i-farted-in-yoga-graffiti.html" target="_blank">London police launch manhunt for artist behind &quot;I farted in yoga&quot; graffiti</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-26 18:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 00:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 250 |
+        🔄 Last Updated: 01:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
