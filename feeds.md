@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 17:58:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-27 18:58:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 17 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 17:59 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 18:58 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya" target="_blank">US building Ebola quarantine center in Kenya for Americans amid outbreak</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +101,29 @@
                 <span class="time">2026-05-27 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  President Trump leads Cabinet meeting at the White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/video/41463246/" target="_blank">LIVE:  President Trump leads Cabinet meeting at the White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-27 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/" target="_blank">UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1615f55f7c39896f97f413/master/pass/AI-Lab-Huawei-Chip-Queen-Says-No-More-Moores-Law-Business.jpg" alt="Huawei&#x27;s ‘Chip Queen’ Throws Down the Gauntlet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/huawei-chip-queen-moores-law-tau/" target="_blank">Huawei&#x27;s ‘Chip Queen’ Throws Down the Gauntlet</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +160,38 @@
                 <span class="time">2026-05-27 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review" target="_blank">This smart bird feeder captures more of my backyard drama</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion" target="_blank">The Witcher 3 is getting another expansion, more than a decade after launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-27 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19000530&w=600" alt="Stop Running Two Data Systems for One Agent Query" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/single-data-system-agent-query" target="_blank">Stop Running Two Data Systems for One Agent Query</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17349594/raspberry-pi-6-delayed" target="_blank">Don&amp;#x27;t Expect a Raspberry Pi 6 Until At Least 2028</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-27 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/introducing-workshop-sandboxed-development-environments" target="_blank">Introducing Workshop: launch sandboxed development environments on Ubuntu with a single command</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-27 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzq2ebjq4z7wdk7phbl9x.jpg" alt="How to Set Up a Clean Page Object Model (POM) in Selenium with Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +219,6 @@
                 <span class="time">2026-05-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17349539/firefox-smart-window" target="_blank">I Tried Firefox Smart Window, and It Won Me Over a Little</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-27 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/opencode" target="_blank">Building OpenCode with Dax Raad</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-27 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaultkeepr_xyz/clear-signing-the-end-of-blind-signing-attacks-on-ethereum-2d64" target="_blank">Clear Signing: The End of Blind Signing Attacks on Ethereum</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 14:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/image-84.jpg" alt="I Really Hope Clockwork Revolutions Is One Of This Year’s Surprise Xbox Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/i-really-hope-clockwork-revolutions-is-one-of-this-years-surprise-xbox-games-2000699881" target="_blank">I Really Hope Clockwork Revolutions Is One Of This Year’s Surprise Xbox Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-27 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSN757DZRJT7D6HT2YYSZPNW/hero-image.png" alt="This Sonos Portable Speaker Is $45 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-sonos-roam-2-speaker-deal-may-2026?utm_medium=RSS" target="_blank">This Sonos Portable Speaker Is $45 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/paraglider.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Austrian plane clips paraglider mid-air; emergency chute saves pilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/austrian-plane-clips-paraglider-mid-air-emergency-chute-saves-pilot.html" target="_blank">Austrian plane clips paraglider mid-air; emergency chute saves pilot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/PXL_20260430_015017209-1280x720.jpg" alt="Staff At The Publisher Behind Some Beloved Star Wars And Cyberpunk Comics Are Unionizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/27/build-apps-faster-blame-tools-less-visual-studio-pro-2026-is-just-35-through-5-31.html" target="_blank">Build apps faster, blame tools less—Visual Studio Pro 2026 is just $35 through 5/31</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/summer-preview-1280x717.jpg" alt="The 10 Upcoming Summer 2026 Anime You Should Be Most Excited For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-10-upcoming-summer-2026-anime-you-should-be-most-excited-for-2000698322" target="_blank">The 10 Upcoming Summer 2026 Anime You Should Be Most Excited For</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSM5DS00BSVE17H1YGEQ8M8S/hero-image.png" alt="The New M5 MacBook Air Is $200 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m5-macbook-air-sale-may-2026?utm_medium=RSS" target="_blank">The New M5 MacBook Air Is $200 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-27 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSM6FN0BW36KW5NWEDT6W7BQ/hero-image.png" alt="These Versatile Beats Studio Buds+ Are Nearly $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-studio-buds-plus-earbuds-sale-may-2026?utm_medium=RSS" target="_blank">These Versatile Beats Studio Buds+ Are Nearly $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-27 12:30</span>
             </div>
         </div>
 </div>
@@ -325,31 +324,13 @@
                 <span class="time">2026-05-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://assets.penny-arcade.com/news/60843840076135358.eLukesEc.jpg" alt="Demeo x Dungeons &amp; Dragons: Battlemarked &amp; Acquisitions &amp; Incorporated!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/26/demeo-x-battlemarked-dungeons-dragons-acquisitions-incorporated" target="_blank">Demeo x Dungeons &amp; Dragons: Battlemarked &amp; Acquisitions &amp; Incorporated!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-26 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://assets.penny-arcade.com/news/60843840076135358.eLukesEc.jpg" alt="Demeo x Battlemarked: Dungeons &amp; Dragons &amp; Acquisitions &amp; Incorporated!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/26/demeo-x-battlemarked-dungeons-dragons-acquisitions-incorporated" target="_blank">Demeo x Battlemarked: Dungeons &amp; Dragons &amp; Acquisitions &amp; Incorporated!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-26 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 17:59 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:58 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
