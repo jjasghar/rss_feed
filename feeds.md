@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 22:29:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-27 23:26:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 22:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 23:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -255,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSNDV2MPMEA5KTGC50ZGAQPD/hero-image.jpg" alt="Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-will-give-you-more-trade-in-value-for-certain-iphones-ipads-and-macs?utm_medium=RSS" target="_blank">Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LAPD discovers huge fireworks cache, raising fears of another LAPD fireworks disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,20 +291,20 @@
                 <span class="time">2026-05-27 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSN757DZRJT7D6HT2YYSZPNW/hero-image.png" alt="This Sonos Portable Speaker Is $45 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-sonos-roam-2-speaker-deal-may-2026?utm_medium=RSS" target="_blank">This Sonos Portable Speaker Is $45 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-27 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/nocturnal-transmissions" target="_blank">Nocturnal Transmissions</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-27 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,13 +341,22 @@
                 <span class="time">2026-05-27 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/time_machine_conversation.png" alt="Time Machine Conversation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3251/" target="_blank">Time Machine Conversation</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-27 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 23:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
