@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-26 23:22:51 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2026-05-27 00:25:12 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, May 26, 2026 - 23:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss" target="_blank">UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-27 00:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss" target="_blank">Four people killed after minibus collides with train in Belgium</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-26 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/26/nx-s1-5835300/trump-opm-nda-leaks-federal-employees" target="_blank">To stop leaks, the Trump administration wants federal workers to sign NDAs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-26 20:29</span>
             </div>
         </div>
 </div>
@@ -174,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wilsonhoe/i-replaced-my-entire-business-stack-with-4-notion-templates-i22" target="_blank">I Replaced My Entire Business Stack with 4 Notion Templates</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-27 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek" target="_blank">I Built a Free Finance Dashboard as a Solo Dev — Here&#x27;s What I Learned</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 23:10</span>
@@ -198,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18997932&w=600" alt="Architecting Zero-Trust AI Agents: How to Handle Data Safely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/architecting-zero-trust-ai-agents" target="_blank">Architecting Zero-Trust AI Agents: How to Handle Data Safely</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-26 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/carryologist/qwen-is-not-yet-ready-to-power-local-openclaw-deployments-5ha3" target="_blank">Qwen Is Not Yet Ready to Power Local OpenClaw Deployments</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-26 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/blog-post/methyl-methacrylate-tank" target="_blank">Chemistry behind the Garden Grove chemical tank</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-26 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jonathan_diniz_cee738f10e/how-i-wired-stripe-subscriptions-to-supabase-in-nextjs-15-the-parts-tutorials-skip-2b9l" target="_blank">How I wired Stripe subscriptions to Supabase in Next.js 15 (the parts tutorials skip)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-26 18:32</span>
             </div>
         </div>
 </div>
@@ -334,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 248 |
-        🔄 Last Updated: 23:22 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 248 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
