@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 20:39:37 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-27 21:31:47 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 20:39 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, May 27, 2026 - 21:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss" target="_blank">Markets rally amid hopes of US-Iran deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-27 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2026-05-27 17:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-7-epa-gmh-260527_1779901480820_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump says Iran wants to make a deal, but he isn&#x27;t &#x27;satisfied&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump says Iran wants to make a deal, but he isn&#x27;t &#x27;satisfied&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-27 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/" target="_blank">Rivian will deliver the first R2 SUVs on June 9</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-27 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-500x500-1779913514.jpg" alt="California defeats Tesla&#x27;s attempt to throw out racial discrimination lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/" target="_blank">California defeats Tesla&#x27;s attempt to throw out racial discrimination lawsuit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-27 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +160,6 @@
                 <span class="time">2026-05-27 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/" target="_blank">UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-27 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1615f55f7c39896f97f413/master/pass/AI-Lab-Huawei-Chip-Queen-Says-No-More-Moores-Law-Business.jpg" alt="Huawei&#x27;s ‘Chip Queen’ Throws Down the Gauntlet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/huawei-chip-queen-moores-law-tau/" target="_blank">Huawei&#x27;s ‘Chip Queen’ Throws Down the Gauntlet</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-13.3-Released" target="_blank">NVIDIA CUDA 13.3 Rolls Out CUDA Python 1.0, CUDA Tile For C++</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-27 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/" target="_blank">YouTube to automatically label AI-generated videos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-27 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +219,6 @@
                 <span class="time">2026-05-27 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/en/headerimage/linkedin-kernel-lock-freeze-1779903552098.jpg" alt="How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How LinkedIn Identified a Kernel Lock Contention Issue Causing Recurring System Freezes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/babies.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="UK Births drop for fourth straight year as costs and dread pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/uk-births-drop-for-fourth-straight-year-as-costs-and-dread-pile-up.html" target="_blank">UK Births drop for fourth straight year as costs and dread pile up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-27 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LAPD discovers huge fireworks cache, raising fears of another LAPD fireworks disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +292,20 @@
                 <span class="time">2026-05-27 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/PXL_20260430_015017209-1280x720.jpg" alt="Staff At The Publisher Behind Some Beloved Star Wars And Cyberpunk Comics Are Unionizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dark-horse-comics-workers-unionizing-2000699889" target="_blank">Staff At The Publisher Behind Some Beloved Star Wars And Cyberpunk Comics Are Unionizing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-27 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/doom-eater" target="_blank">Doom-Eater</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-27 19:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:39 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 39 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
