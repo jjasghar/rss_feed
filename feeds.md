@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 05:20:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2026-05-28 07:11:35 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 05:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 07:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online" target="_blank">Iranians are back online after a monthslong shutdown but face heavy restrictions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-28 06:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg" alt="US strikes Iran targets for second time in three days" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +103,29 @@
                 <span class="time">2026-05-28 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts new airstrikes in southern Iran, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US conducts new airstrikes in southern Iran, US official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-27 23:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a16fe815ed9addadda866cb/master/pass/3-3%20copy.jpg" alt="Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/" target="_blank">Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/" target="_blank">Vertu wants CEOs to run companies from an AI foldable starting at $6,880</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="Expedia Coupons: 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +162,20 @@
                 <span class="time">2026-05-28 00:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a175fb9c2f57d80967f645b/master/pass/Google-Employee-Accused-of-Turning-Insider-Information-Into-1-Million-Business-2272777124.jpg" alt="Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/" target="_blank">Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-27 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/" target="_blank">Rivian will deliver the first R2 SUVs on June 9</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-27 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naveenmalothu/unlocking-insights-with-observability-my-journey-with-opentelemetry-27fe" target="_blank">Unlocking Insights with Observability: My Journey with OpenTelemetry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 07:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/daniel_ugot_8f1e5c3cc3f3c/mastering-azure-entra-id-a-hands-on-guide-to-user-management-and-privileged-roles-pb8" target="_blank">Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-28 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theasf/asf-project-spotlight-apache-iceberg-fl5" target="_blank">ASF Project Spotlight: Apache Iceberg</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 22:11</span>
             </div>
         </div>
 </div>
@@ -333,22 +335,13 @@
                 <span class="time">2026-05-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/27/doom-eater" target="_blank">Doom-Eater</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-27 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:20 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
