@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 22:30:08 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 23:26:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 22:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 23:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg" alt="US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups?traffic_source=rss" target="_blank">PSG vs Arsenal: UEFA Champions League final – 10 things to know</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +102,20 @@
                 <span class="time">2026-05-28 19:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss" target="_blank">Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have draft deal, leaders haven&#x27;t approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Negotiators believe they have draft deal, leaders haven&#x27;t approved</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-28 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/" target="_blank">How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg" alt="LLMs believe false statements even after explicit warnings that they&#x27;re false" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +161,20 @@
                 <span class="time">2026-05-28 19:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a173a47faa2148b4ab454f6/master/pass/Made-In-China-6-Billion-Chinese-Startup-Making-Hands-for-Humanoids-Business-1480052903.jpg" alt="The $6 Billion Chinese Startup Trying to Build Hands for Every Robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/" target="_blank">The $6 Billion Chinese Startup Trying to Build Hands for Every Robot</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvshz2qwju8ou5c277mfm.png" alt="Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e" target="_blank">Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsavrk9g4wy65zzbmahb1.png" alt="Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +220,6 @@
                 <span class="time">2026-05-28 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!jc0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44648fa6-3c4b-4d02-84ee-bef090ea707d_1474x792.png" alt="The Pulse: a trend of trying to cut back on AI spend within eng departments?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut" target="_blank">The Pulse: a trend of trying to cut back on AI spend within eng departments?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2026-05-28 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -227,6 +232,15 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/28/artist-paints-zuckerbergs-yacht-on-fire.html" target="_blank">Artist paints Zuckerberg&#x27;s yacht on fire</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-28 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/remakeoftheend-1280x720.jpg" alt="This Indie RPG Isn’t A Remake Of Chrono Trigger, It’s Something Much Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/someone-finally-remade-the-end-of-the-greatest-rpg-of-all-time-2000700254" target="_blank">This Indie RPG Isn’t A Remake Of Chrono Trigger, It’s Something Much Weirder</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-28 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -265,15 +279,6 @@
                 <span class="time">2026-05-28 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSQJSBYA6W20MAKCTFZJ3QKV/hero-image.png" alt="You Can Get a Free Ryobi Tool From Home Depot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/home-depot-free-ryobi-tool-deal?utm_medium=RSS" target="_blank">You Can Get a Free Ryobi Tool From Home Depot Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-28 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 22:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 23:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
