@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 21:35:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-28 22:30:08 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 21:35 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 22:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -126,6 +121,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game" target="_blank">Nintendo&amp;#8217;s newest WarioWare is a weirdo smartphone app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-28 20:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1272885374-500x500.jpg" alt="Researchers develop a new process to get lithium out of rocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -150,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/" target="_blank">The $6 Billion Chinese Startup Trying to Build Hands for Every Robot</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-28 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-500x500-1779991646.jpg" alt="A respectable port of Age of Empires II: Definitive Edition invades macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/" target="_blank">A respectable port of Age of Empires II: Definitive Edition invades macOS</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 18:42</span>
             </div>
         </div>
 </div>
@@ -226,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/3Ca-href_3D_22https-www.instagram.com-p-DY3swvDx7Re.jpg?fit=1080%2C825&amp;quality=60&amp;ssl=1" alt="Artist paints Zuckerberg&#x27;s yacht on fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/28/artist-paints-zuckerbergs-yacht-on-fire.html" target="_blank">Artist paints Zuckerberg&#x27;s yacht on fire</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-28 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Start solo-mining Bitcoin from your desk for $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -270,15 +274,6 @@
                 <span class="time">2026-05-28 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/dk64nso2-1280x720.jpg" alt="The Most Underappreciated Donkey Kong Game Is Finally Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-most-underappreciated-donkey-kong-game-is-finally-back-2000700239" target="_blank">The Most Underappreciated Donkey Kong Game Is Finally Back</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-28 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:35 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 22:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
