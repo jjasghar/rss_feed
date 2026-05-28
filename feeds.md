@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 15:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 17:09:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 17:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-28 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/28/g-s1-124669/australian-woman-charged-over-travel-to-syria-to-join-islamic-state" target="_blank">Australian woman charged over travel to Syria to join Islamic State</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-28 16:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,29 @@
                 <span class="time">2026-05-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil" target="_blank">Dormitory fire at Kenyan girls’ school kills at least 16 students</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-28 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd9b/live/7f870410-5a7e-11f1-8954-638c887fc9b3.jpg" alt="Teenager is 10th person to die in water during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&at_campaign=rss" target="_blank">Teenager is 10th person to die in water during heatwave</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-500x500-1779984827.jpg" alt="Trump loses more control over AI regulation as Illinois passes landmark law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/" target="_blank">Trump loses more control over AI regulation as Illinois passes landmark law</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort" target="_blank">Claude’s new model is more ‘honest’ when it messes up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-28 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,38 @@
                 <span class="time">2026-05-28 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0cc4591b63989e349c1286/master/pass/Cotopaxi%20Allpa%2035L%20Travel%20Pack%20Del%20Dia%20Dark%20SOURCE%20Cotopaxi%20(Bag%20Check).jpg" alt="Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/" target="_blank">Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243931787-500x500.jpg" alt="Forecasters predict below-average hurricane season, advise against complacency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/" target="_blank">Forecasters predict below-average hurricane season, advise against complacency</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19004576&w=600" alt="Why Your DLP Policies Fall Short the Moment AI Agents Enter the Picture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agents-break-dlp-policies" target="_blank">Why Your DLP Policies Fall Short the Moment AI Agents Enter the Picture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!jc0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44648fa6-3c4b-4d02-84ee-bef090ea707d_1474x792.png" alt="The Pulse: a trend of trying to cut back on AI spend within eng departments?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut" target="_blank">The Pulse: a trend of trying to cut back on AI spend within eng departments?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2026-05-28 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-4-8" target="_blank">Claude Opus 4.8</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-28 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,48 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-b70-linux-gaming" target="_blank">Intel Arc Pro B70 BMG-G31 Linux Gaming Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-28 15:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="There is no source language: a manifesto for symmetric multilingual content" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arvavit/there-is-no-source-language-a-manifesto-for-symmetric-multilingual-content-6o7" target="_blank">There is no source language: a manifesto for symmetric multilingual content</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-28 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Metis-Agentic-AI-Security" target="_blank">Arm Announces Metis: Agentic AI Security Framework</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-28 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/vmware-hypervisor-deployment-using-maas" target="_blank">VMware hypervisor deployment using MAAS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-28 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/framework-best-practices-startup/en/mediumimage/medium-1779194881438.jpeg" alt="Presentation: From Founding Engineer to CTO to CEO – At the Same Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/framework-best-practices-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Founding Engineer to CTO to CEO – At the Same Startup</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-28 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/R300-Gallium3D-No-TGSI-Part-1" target="_blank">24 Years After The ATI R300 Launched, Open-Source R300 Driver Continues With Big Rework</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-28 12:23</span>
             </div>
         </div>
 </div>
@@ -300,31 +298,13 @@
                 <span class="time">2026-05-27 19:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/quick-thoughts-on-horizon-6-and-007" target="_blank">Quick Thoughts on Horizon 6 and 007!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-27 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779842282-20260527 - edit.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-17" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 259 |
+        🔄 Last Updated: 17:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
