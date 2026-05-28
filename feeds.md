@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 03:00:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 05:20:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 03:00 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 05:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="Expedia Coupons: 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/expedia-coupon/" target="_blank">Expedia Coupons: 75% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,20 +160,20 @@
                 <span class="time">2026-05-27 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/tesla-fremont-500x500-1779913514.jpg" alt="California defeats Tesla&#x27;s attempt to throw out racial discrimination lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/" target="_blank">California defeats Tesla&#x27;s attempt to throw out racial discrimination lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-27 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muralipala/how-i-hosted-a-production-ai-app-for-10year-huggingface-spaces-cloudflare-worker-5gfk" target="_blank">How I Hosted a Production AI App for $10/Year — HuggingFace Spaces + Cloudflare Worker</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 05:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkyaxed2x9dwv0vyzz8k.png" alt="Day 9 - Sparse embedding continued - RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0.8-Released" target="_blank">Mesa 26.0.8 Released To End Out The Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-28 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd2erxwlb5sec5kowbpwa.JPG" alt="Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/theasf/asf-project-spotlight-apache-iceberg-fl5" target="_blank">ASF Project Spotlight: Apache Iceberg</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-27 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-13.3-Released" target="_blank">NVIDIA CUDA 13.3 Rolls Out CUDA Python 1.0, CUDA Tile For C++</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-27 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/" target="_blank">YouTube to automatically label AI-generated videos</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-27 20:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/starbucks.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Starbucks Korea chose &quot;Tank Day&quot; for the anniversary of a massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/27/starbucks-korea-chose-tank-day-for-the-anniversary-of-a-massacre.html" target="_blank">Starbucks Korea chose &quot;Tank Day&quot; for the anniversary of a massacre</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-28 03:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/youtube.jpg?fit=2000%2C1125&amp;quality=60&amp;ssl=1" alt="YouTube to label AI videos automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-will-give-you-more-trade-in-value-for-certain-iphones-ipads-and-macs?utm_medium=RSS" target="_blank">Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-27 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/shutterstock_1430014880-1-e1749661914914.jpg?fit=768%2C532&amp;quality=60&amp;ssl=1" alt="LAPD discovers huge fireworks cache, raising fears of another LAPD fireworks disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/lapd-discovers-huge-fireworks-cache-raising-fears-of-another-lapd-fireworks-disaster.html" target="_blank">LAPD discovers huge fireworks cache, raising fears of another LAPD fireworks disaster</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 20:11</span>
             </div>
         </div>
 </div>
@@ -340,22 +342,13 @@
                 <span class="time">2026-05-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/time_machine_conversation.png" alt="Time Machine Conversation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3251/" target="_blank">Time Machine Conversation</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2026-05-27 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 03:00 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 05:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
