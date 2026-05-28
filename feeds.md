@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 17:09:16 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-28 18:47:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 17:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 18:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have draft deal, leaders haven&#x27;t approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Negotiators believe they have draft deal, leaders haven&#x27;t approved</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-28 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss" target="_blank">Rebuilding US weapons stockpile may ‘take years’ post-Iran war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 18:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-28 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779986330624_now_daily_a_doj_ejean_carroll_260528_S3_1920x1080-djv7ic.jpg" alt="Justice Department launches criminal probe into E. Jean Carroll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/justice-department-launches-criminal-probe-into-e-jean-carroll-264092229741" target="_blank">Justice Department launches criminal probe into E. Jean Carroll</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-28 16:38</span>
             </div>
         </div>
 <div class="story">
@@ -63,39 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg" alt="Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/28/sinner-shocked-in-french-open-exit-as-cerundolo-recovers-from-two-sets-down?traffic_source=rss" target="_blank">Sinner shocked in French Open exit as Cerundolo recovers from two-sets down</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-28 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5836525/affordability-report-brookings-inflation-wages" target="_blank">Americans aren&#x27;t just on the financial edge because of inflation. Wages are falling behind too</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5836525/affordability-report-brookings-inflation-wages" target="_blank">A new report shows how close American households are to the financial edge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-28 12:00</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 16:20</span>
             </div>
         </div>
 </div>
@@ -103,6 +103,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-500x500-1779991646.jpg" alt="A respectable port of Age of Empires II: Definitive Edition invades macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/" target="_blank">A respectable port of Age of Empires II: Definitive Edition invades macOS</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale" target="_blank">Motorola’s last-gen Razr Ultra is almost half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-28 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/" target="_blank">Just like gold and oil, we’ll soon be able to trade AI token futures</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-500x500-1779984827.jpg" alt="Trump loses more control over AI regulation as Illinois passes landmark law" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,33 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/" target="_blank">Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-28 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1777966027-500x500.jpg" alt="Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/" target="_blank">Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/" target="_blank">Has the hunt for AI compute uncovered the next Cerebras?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1705b3ffcf41ce6042581a/master/pass/New%20Oura%20Ring%205%20News%20top%20art%20052026%20SOURCE%20Oura.jpg" alt="Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/oura-ring-5/" target="_blank">Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 12:00</span>
             </div>
         </div>
 </div>
@@ -193,6 +193,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/28/artisans-and-builders/" target="_blank">In an AI world, the most valuable developers will be both artisans and builders​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿​​​﻿‌​‌‍‌‌​﻿​‌‌‍​‍​﻿‌‌‌‍‌‍​﻿‌‍​‍﻿‌‌‍​‍‌‍​‍​﻿‌​​﻿‌​​‍﻿‌​﻿‌​​﻿​‍​﻿‌‍​﻿‌‍​‍﻿‌​﻿‍‌‌‍‌​​﻿​‌​﻿‍​​‍﻿‌‌‍‌‍‌‍​﻿‌‍​﻿​﻿‌﻿​﻿‌‌​﻿​‌​﻿‌﻿​﻿‌‍‌‍‌‍​﻿​​‌‍​‍​﻿​‌​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2026/05/28/artisans-and-builders/" target="_blank">In an AI world, the most valuable developers will be both artisans and builders</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2026-05-28 16:00</span>
@@ -207,20 +216,20 @@
                 <span class="time">2026-05-28 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="There is no source language: a manifesto for symmetric multilingual content" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvavit/there-is-no-source-language-a-manifesto-for-symmetric-multilingual-content-6o7" target="_blank">There is no source language: a manifesto for symmetric multilingual content</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trudeau.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="New biography captures Doonesbury&#x27;s 50-year sweep of American life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/28/new-biography-captures-doonesburys-50-year-sweep-of-american-life.html" target="_blank">New biography captures Doonesbury&#x27;s 50-year sweep of American life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-28 18:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/mw4-1280x720.jpg" alt="Call Of Duty: Modern Warfare 4 Is Making Some Exciting Changes To The Formula, But It Might Not Be Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +275,6 @@
                 <span class="time">2026-05-28 00:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/pokemon-cards.jpg" alt="10 Billion Pokémon Cards Were Printed Last Year And It Still Wasn’t Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-2000699977" target="_blank">10 Billion Pokémon Cards Were Printed Last Year And It Still Wasn’t Enough</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-27 21:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 259 |
-        🔄 Last Updated: 17:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
