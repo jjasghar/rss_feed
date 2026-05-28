@@ -1,45 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 20:44:16 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 21:35:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 37 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 20:44 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 21:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss" target="_blank">Europe hit by record-breaking heatwave</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5838002/treasury-department-prepares-250-bill-with-trumps-face-on-it" target="_blank">Treasury Department prepares $250 bill with Trump&#x27;s face on it</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2026-05-28 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f25/live/e8f162b0-5ab5-11f1-8f60-593796f4e07d.jpg" alt="US and Iran reach tentative deal to extend ceasefire, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran reach tentative deal to extend ceasefire, US officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 20:28</span>
             </div>
         </div>
 <div class="story">
@@ -91,29 +102,20 @@
                 <span class="time">2026-05-28 18:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss" target="_blank">Rebuilding US weapons stockpile may ‘take years’ post-Iran war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Negotiators believe they have deal, but leaders haven&#x27;t signed off</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-28 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg" alt="LLMs believe false statements even after explicit warnings that they&#x27;re false" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/" target="_blank">LLMs believe false statements even after explicit warnings that they&#x27;re false</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -159,20 +161,20 @@
                 <span class="time">2026-05-28 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale" target="_blank">Motorola’s last-gen Razr Ultra is almost half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-28 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsavrk9g4wy65zzbmahb1.png" alt="Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04" target="_blank">Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 21:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19004597&w=600" alt="Chaos Engineering Has a Blind Spot. Agentic AI Lives in It." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -218,20 +220,29 @@
                 <span class="time">2026-05-28 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/claude-opus-4-8" target="_blank">Claude Opus 4.8</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-28 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Start solo-mining Bitcoin from your desk for $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/28/start-solo-mining-bitcoin-from-your-desk-for-60.html" target="_blank">Start solo-mining Bitcoin from your desk for $60</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSR1GMKJY1W74JSBTWCN2P22/hero-image.png" alt="I Used Garmin&#x27;s Heart Rate Monitor to Measure My &#x27;Running Economy,&#x27; and Here&#x27;s What I Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/i-used-garmins-heart-rate-monitor-to-measure-my-running-economy?utm_medium=RSS" target="_blank">I Used Garmin&#x27;s Heart Rate Monitor to Measure My &#x27;Running Economy,&#x27; and Here&#x27;s What I Learned</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/witcher-3.jpg" alt="Witcher 3 Devs Tease Expansion Size, More Gwent, And A Mysterious New Sword After Confirming It Was Originally Supposed To Come Out This Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +279,6 @@
                 <span class="time">2026-05-28 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_1854575815.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="CIA officer stashed 308 gold bars and $2m cash at home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/cia-officer-stash.html" target="_blank">CIA officer stashed 308 gold bars and $2m cash at home</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trudeau.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="New biography captures Doonesbury&#x27;s 50-year sweep of American life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/new-biography-captures-doonesburys-50-year-sweep-of-american-life.html" target="_blank">New biography captures Doonesbury&#x27;s 50-year sweep of American life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +302,13 @@
                 <span class="time">2026-05-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/nocturnal-transmissions" target="_blank">Nocturnal Transmissions</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-27 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:44 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 21:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
