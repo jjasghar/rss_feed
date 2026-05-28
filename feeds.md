@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-27 23:26:09 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 00:23:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, May 27, 2026 - 23:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 00:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss" target="_blank">US returns Palestinian rights expert Francesca Albanese to sanctions list</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: US conducts new airstrikes in southern Iran, US official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: US conducts new airstrikes in southern Iran, US official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-27 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges" target="_blank">DOJ charges Google staffer over Polymarket trades netting $1.2 million</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-27 23:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe3/live/cd580120-59b7-11f1-a709-a756a39103f6.jpg" alt="One in six young people will not be in work or training in five years without action, report warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,39 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg" alt="Israel issues evacuation order for swathes of southern Lebanon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260528-Nippon-Dynawave-vl-228p-a4383e.jpg" alt="11 presumed dead in Washington state paper mill implosion as rescue shifts to recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss" target="_blank">Israel issues evacuation order for swathes of southern Lebanon</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-27 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/27/floridas-alligator-alcatraz-migrant-detention-centre-to-close?traffic_source=rss" target="_blank">Florida’s ‘Alligator Alcatraz’ migrant detention centre to close</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-27 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/27/nx-s1-5836624/npr-layoffs-job-cuts" target="_blank">NPR&#x27;s newsroom shrinks through buyouts and layoffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-27 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya" target="_blank">US building Ebola quarantine center in Kenya for Americans amid outbreak</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-27 18:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/two-confirmed-dead-search-missing-longview-implosion-rcna347145" target="_blank">11 presumed dead in Washington state paper mill implosion as rescue shifts to recovery</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-27 21:07</span>
             </div>
         </div>
 </div>
@@ -105,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/" target="_blank">Why Google’s AI can’t spell Google (or anything else)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1769e135f75a644600c4ac/master/pass/Illionois-AI-Safetry-Bill-Business-2270597563.jpg" alt="Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/" target="_blank">Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a175fb9c2f57d80967f645b/master/pass/Google-Employee-Accused-of-Turning-Insider-Information-Into-1-Million-Business-2272777124.jpg" alt="Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,20 @@
                 <span class="time">2026-05-27 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-500x500.webp" alt="Mina the Hollower is the best old-school action adventure I&#x27;ve played in a while" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/" target="_blank">Mina the Hollower is the best old-school action adventure I&#x27;ve played in a while</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-27 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/" target="_blank">Payroll startup Remote says it grew revenue 50% per employee without adding headcount</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-27 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd2erxwlb5sec5kowbpwa.JPG" alt="Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daniel_ugot_8f1e5c3cc3f3c/mastering-azure-entra-id-a-hands-on-guide-to-user-management-and-privileged-roles-pb8" target="_blank">Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 00:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/mainframe-fixed-width-to-delta-lake" target="_blank">Ingesting Fixed-Width Mainframe Files Into Delta Lake: The Details Nobody Writes Down</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lars_winstand/i-found-the-ropenclaw-thread-with-27-upvotes-where-someone-gave-an-agent-a-real-iphone-and-now-i-20ab" target="_blank">I found the r/openclaw thread with 27 upvotes where someone gave an agent a real iPhone and now I can’t stop thinking about it</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-27 19:34</span>
             </div>
         </div>
 </div>
@@ -355,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 23:26 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 106 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
