@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 13:03:32 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 15:02:13 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 13:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/28/sinner-shocked-in-french-open-exit-as-cerundolo-recovers-from-two-sets-down?traffic_source=rss" target="_blank">Sinner shocked in French Open exit as Cerundolo recovers from two-sets down</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 14:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-28 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5836525/affordability-report-brookings-inflation-wages" target="_blank">Americans aren&#x27;t just on the financial edge because of inflation. Wages are falling behind too</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-28 12:00</span>
             </div>
         </div>
 <div class="story">
@@ -89,29 +100,29 @@
                 <span class="time">2026-05-28 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk" target="_blank">An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg" alt="Iran says it targeted American base after fresh US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it targeted American base after fresh US strikes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 09:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/" target="_blank">Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1777966027-500x500.jpg" alt="Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/" target="_blank">Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 13:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +159,47 @@
                 <span class="time">2026-05-28 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a17e36ec83b1cd2df7cc746/master/pass/052826-ballot-seizures.jpg" alt="Ballots Have Been Seized Across the US. No One Knows What Will Happen Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/" target="_blank">Ballots Have Been Seized Across the US. No One Knows What Will Happen Next</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a16fe815ed9addadda866cb/master/pass/3-3%20copy.jpg" alt="Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/" target="_blank">Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/28/artisans-and-builders/" target="_blank">In an AI world, the most valuable developers will be both artisans and builders</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="There is no source language: a manifesto for symmetric multilingual content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvavit/there-is-no-source-language-a-manifesto-for-symmetric-multilingual-content-6o7" target="_blank">There is no source language: a manifesto for symmetric multilingual content</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Metis-Agentic-AI-Security" target="_blank">Arm Announces Metis: Agentic AI Security Framework</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-28 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/vmware-hypervisor-deployment-using-maas" target="_blank">VMware hypervisor deployment using MAAS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2026-05-28 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/framework-best-practices-startup/en/mediumimage/medium-1779194881438.jpeg" alt="Presentation: From Founding Engineer to CTO to CEO – At the Same Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,67 +218,35 @@
                 <span class="time">2026-05-28 12:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lenz.io/research/llm-disagreement" target="_blank">Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-28 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/a3e_ecosystem/cursor-users-who-write-failing-tests-before-prompting-the-ai-complete-features-in-37-fewer-7hl" target="_blank">Cursor users who write failing tests before prompting the AI complete features in 37% fewer iterations than those who pr</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Arm-Mali-KRAID" target="_blank">KRAID Being Developed As New Compiler For Modern Arm Mali Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-28 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/adaptive-hedged-requests-p99-latency/en/headerimage/adaptive-hedged-requests-p99-latency-header-1779785816730.jpg" alt="Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/adaptive-hedged-requests-p99-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-28 09:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html" target="_blank">FBI’s 2025 Internet Crime Report</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-27 14:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/mw4-1280x720.jpg" alt="Call Of Duty: Modern Warfare 4 Is Making Some Exciting Changes To The Formula, But It Might Not Be Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-modern-warfare-4-is-making-some-exciting-changes-to-the-formula-but-it-might-not-be-enough-2000699884" target="_blank">Call Of Duty: Modern Warfare 4 Is Making Some Exciting Changes To The Formula, But It Might Not Be Enough</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/yoshibook-1280x720.jpg" alt="Yoshi And The Mysterious Book: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/yoshi-and-the-mysterious-book-the-kotaku-review-2000699833" target="_blank">Yoshi And The Mysterious Book: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-05-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSPZ9JEDKJ5ZX8TZCGC2TC1G/hero-image.png" alt="This Eufy Solar Security Camera Is 33% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-solocam-e42-solar-security-camera-sale-may-2026?utm_medium=RSS" target="_blank">This Eufy Solar Security Camera Is 33% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-28 13:00</span>
             </div>
         </div>
@@ -278,24 +275,6 @@
                 <span class="title"><a href="https://kotaku.com/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-2000699977" target="_blank">10 Billion Pokémon Cards Were Printed Last Year And It Still Wasn’t Enough</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-27 21:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Cadborosaurus.jpg?fit=1200%2C775&amp;quality=60&amp;ssl=1" alt="Workers opened a whale in 1937 and found something inside that still doesn&#x27;t have a name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/workers-opened-a-whale-in-1937-and-found-something-inside-that-still-doesnt-have-a-name.html" target="_blank">Workers opened a whale in 1937 and found something inside that still doesn&#x27;t have a name</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/babies.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="UK Births drop for fourth straight year as costs and dread pile up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/uk-births-drop-for-fourth-straight-year-as-costs-and-dread-pile-up.html" target="_blank">UK Births drop for fourth straight year as costs and dread pile up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-27 21:01</span>
             </div>
         </div>
 </div>
@@ -344,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
