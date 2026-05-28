@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 11:08:07 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-28 13:03:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 11:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 13:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: CENTCOM accuses Iran of &#x27;egregious ceasefire violation&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-28 12:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5836525/affordability-report-brookings-inflation-wages" target="_blank">A new report shows how close American households are to the financial edge</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil" target="_blank">Dormitory fire at Kenyan girls’ school kills at least 16 students</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-28 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd9b/live/7f870410-5a7e-11f1-8954-638c887fc9b3.jpg" alt="Teenager is 10th person to die in water during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +107,29 @@
                 <span class="time">2026-05-28 09:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil" target="_blank">Dormitory fire at Kenyan school kills at least 15 students</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-28 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss" target="_blank">Neymar injury threatens Brazil forward’s World Cup as scans needed on calf</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 08:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/iran-7-ht-gmh-260527_1779886596376_hpMain_4x3t_384.jpg" alt="Iran live updates: IRGC claims attack on US airbase after Bandar Abbas strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: IRGC claims attack on US airbase after Bandar Abbas strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-28 07:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/" target="_blank">Has the hunt for AI compute uncovered the next Cerebras?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1705b3ffcf41ce6042581a/master/pass/New%20Oura%20Ring%205%20News%20top%20art%20052026%20SOURCE%20Oura.jpg" alt="Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/oura-ring-5/" target="_blank">Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a0cc4591b63989e349c1286/master/pass/Cotopaxi%20Allpa%2035L%20Travel%20Pack%20Del%20Dia%20Dark%20SOURCE%20Cotopaxi%20(Bag%20Check).jpg" alt="Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +166,38 @@
                 <span class="time">2026-05-28 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/" target="_blank">Vertu wants CEOs to run companies from an AI foldable starting at $6,880</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="Expedia Coupons: 75% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/expedia-coupon/" target="_blank">Expedia Coupons: 75% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/framework-best-practices-startup/en/mediumimage/medium-1779194881438.jpeg" alt="Presentation: From Founding Engineer to CTO to CEO – At the Same Startup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/framework-best-practices-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Founding Engineer to CTO to CEO – At the Same Startup</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-28 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/R300-Gallium3D-No-TGSI-Part-1" target="_blank">24 Years After The ATI R300 Launched, Open-Source R300 Driver Continues With Big Rework</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-28 12:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lenz.io/research/llm-disagreement" target="_blank">Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-28 12:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +225,6 @@
                 <span class="time">2026-05-28 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naveenmalothu/unlocking-insights-with-observability-my-journey-with-opentelemetry-27fe" target="_blank">Unlocking Insights with Observability: My Journey with OpenTelemetry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 07:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muralipala/how-i-hosted-a-production-ai-app-for-10year-huggingface-spaces-cloudflare-worker-5gfk" target="_blank">How I Hosted a Production AI App for $10/Year — HuggingFace Spaces + Cloudflare Worker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkyaxed2x9dwv0vyzz8k.png" alt="Day 9 - Sparse embedding continued - RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/indumathi__r/day-9-sparse-embedding-continued-rag-3nj5" target="_blank">Day 9 - Sparse embedding continued - RAG</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 02:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/yoshibook-1280x720.jpg" alt="Yoshi And The Mysterious Book: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/yoshi-and-the-mysterious-book-the-kotaku-review-2000699833" target="_blank">Yoshi And The Mysterious Book: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/starbucks.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Starbucks Korea chose &quot;Tank Day&quot; for the anniversary of a massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/27/uk-births-drop-for-fourth-straight-year-as-costs-and-dread-pile-up.html" target="_blank">UK Births drop for fourth straight year as costs and dread pile up</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-27 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSNDV2MPMEA5KTGC50ZGAQPD/hero-image.jpg" alt="Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-will-give-you-more-trade-in-value-for-certain-iphones-ipads-and-macs?utm_medium=RSS" target="_blank">Apple Will Now Give You More Trade-In Value for These iPhones, iPads, and Macs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-27 21:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
