@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 09:06:47 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-28 11:08:07 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 09:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 11:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd9b/live/7f870410-5a7e-11f1-8954-638c887fc9b3.jpg" alt="Teenager is 10th person to die in water during heatwave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&at_campaign=rss" target="_blank">Teenager is 10th person to die in water during heatwave</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk" target="_blank">An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-28 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg" alt="Iran says it targeted American base after fresh US strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss" target="_blank">Iran says it targeted American base after fresh US strikes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,38 +98,29 @@
                 <span class="time">2026-05-28 07:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online" target="_blank">Iranians are back online after a monthslong shutdown but face heavy restrictions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-28 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg" alt="US strikes Iran targets for second time in three days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss" target="_blank">US strikes Iran targets for second time in three days</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 02:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss" target="_blank">Google employee charged with insider trading over Polymarket bets</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 02:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0cc4591b63989e349c1286/master/pass/Cotopaxi%20Allpa%2035L%20Travel%20Pack%20Del%20Dia%20Dark%20SOURCE%20Cotopaxi%20(Bag%20Check).jpg" alt="Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/" target="_blank">Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2243931787-500x500.jpg" alt="Forecasters predict below-average hurricane season, advise against complacency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/" target="_blank">Forecasters predict below-average hurricane season, advise against complacency</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a17e36ec83b1cd2df7cc746/master/pass/052826-ballot-seizures.jpg" alt="Ballots Have Been Seized Across the US. No One Knows What Will Happen Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +157,29 @@
                 <span class="time">2026-05-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/" target="_blank">Google engineer charged with insider trading after making $1.2M on Polymarket</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/" target="_blank">Why Google’s AI can’t spell Google (or anything else)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a3e_ecosystem/cursor-users-who-write-failing-tests-before-prompting-the-ai-complete-features-in-37-fewer-7hl" target="_blank">Cursor users who write failing tests before prompting the AI complete features in 37% fewer iterations than those who pr</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-28 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Arm-Mali-KRAID" target="_blank">KRAID Being Developed As New Compiler For Modern Arm Mali Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-28 10:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/adaptive-hedged-requests-p99-latency/en/headerimage/adaptive-hedged-requests-p99-latency-header-1779785816730.jpg" alt="Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/indumathi__r/day-9-sparse-embedding-continued-rag-3nj5" target="_blank">Day 9 - Sparse embedding continued - RAG</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-28 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mlsu.io/posts/day-off/" target="_blank">Can we have the day off?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-28 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-26.0.8-Released" target="_blank">Mesa 26.0.8 Released To End Out The Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-28 00:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:06 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
