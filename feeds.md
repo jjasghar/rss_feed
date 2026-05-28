@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 18:47:07 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-28 19:46:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 18:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, May 28, 2026 - 19:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss" target="_blank">Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-28 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Iran live updates: Negotiators believe they have draft deal, leaders haven&#x27;t approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +97,38 @@
                 <span class="time">2026-05-28 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg" alt="Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1272885374-500x500.jpg" alt="Researchers develop a new process to get lithium out of rocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/" target="_blank">Researchers develop a new process to get lithium out of rocks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/" target="_blank">Bluesky embraces long-form content to counter X Articles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-28 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a173a47faa2148b4ab454f6/master/pass/Made-In-China-6-Billion-Chinese-Startup-Making-Hands-for-Humanoids-Business-1480052903.jpg" alt="The $6 Billion Chinese Startup Trying to Build Hands for Every Robot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/" target="_blank">The $6 Billion Chinese Startup Trying to Build Hands for Every Robot</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 19:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/20260528114910_1-500x500-1779991646.jpg" alt="A respectable port of Age of Empires II: Definitive Edition invades macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +156,20 @@
                 <span class="time">2026-05-28 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1476750862-500x500-1779984827.jpg" alt="Trump loses more control over AI regulation as Illinois passes landmark law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/" target="_blank">Trump loses more control over AI regulation as Illinois passes landmark law</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort" target="_blank">Claude’s new model is more ‘honest’ when it messes up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-28 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/" target="_blank">Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/" target="_blank">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2026-05-28 18:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19004576&w=600" alt="Why Your DLP Policies Fall Short the Moment AI Agents Enter the Picture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +215,38 @@
                 <span class="time">2026-05-28 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-b70-linux-gaming" target="_blank">Intel Arc Pro B70 BMG-G31 Linux Gaming Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-28 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSQJSBYA6W20MAKCTFZJ3QKV/hero-image.png" alt="You Can Get a Free Ryobi Tool From Home Depot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/home-depot-free-ryobi-tool-deal?utm_medium=RSS" target="_blank">You Can Get a Free Ryobi Tool From Home Depot Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-28 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/dk64nso2-1280x720.jpg" alt="The Most Underappreciated Donkey Kong Game Is Finally Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-most-underappreciated-donkey-kong-game-is-finally-back-2000700239" target="_blank">The Most Underappreciated Donkey Kong Game Is Finally Back</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-28 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_1854575815.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="CIA officer stashed 308 gold bars and $2m cash at home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/28/cia-officer-stash.html" target="_blank">CIA officer stashed 308 gold bars and $2m cash at home</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-28 18:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/trudeau.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="New biography captures Doonesbury&#x27;s 50-year sweep of American life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,38 +274,20 @@
                 <span class="time">2026-05-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSPZ9JEDKJ5ZX8TZCGC2TC1G/hero-image.png" alt="This Eufy Solar Security Camera Is 33% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-solocam-e42-solar-security-camera-sale-may-2026?utm_medium=RSS" target="_blank">This Eufy Solar Security Camera Is 33% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/starbucks.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Starbucks Korea chose &quot;Tank Day&quot; for the anniversary of a massacre" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/starbucks-korea-chose-tank-day-for-the-anniversary-of-a-massacre.html" target="_blank">Starbucks Korea chose &quot;Tank Day&quot; for the anniversary of a massacre</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/youtube.jpg?fit=2000%2C1125&amp;quality=60&amp;ssl=1" alt="YouTube to label AI videos automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/27/youtube-to-label-ai.html" target="_blank">YouTube to label AI videos automatically</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 00:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/a-team/" target="_blank">A Team</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2026-05-28 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -289,22 +297,13 @@
                 <span class="time">2026-05-27 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/27/doom-eater" target="_blank">Doom-Eater</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-27 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 18:47 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
