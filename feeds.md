@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 18:00:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-29 19:45:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 18:00 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 19:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-ap-gmh-260529_1780082290161_hpMain_4x3t_384.jpg" alt="Federal judge orders Trump&#x27;s name be removed from Kennedy Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-orders-trumps-removed-kennedy-center/story?id=133430502" target="_blank">Federal judge orders Trump&#x27;s name be removed from Kennedy Center</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +101,29 @@
                 <span class="time">2026-05-29 13:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss" target="_blank">Harvard Medical School graduate dedicates speech to Lebanon and Palestine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg" alt="Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/" target="_blank">Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld" target="_blank">Acer’s launching a Linux handheld for streaming your PC games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-29 19:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +160,29 @@
                 <span class="time">2026-05-29 16:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a0e3bc2ebc845925eb93dd9/master/pass/Review%20samsung%20movingstyle%20m7%20052026%20SOURCE%20Amazon.jpg" alt="Samsung Movingstyle Essential Review: A Screen on Wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/samsung-movingstyle-32-m7/" target="_blank">Samsung Movingstyle Essential Review: A Screen on Wheels</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple" target="_blank">How Ferrari bungled the design of its first EV</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-29 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toboreeee/how-ai-is-reshaping-software-development-and-the-tech-industry-in-2026-412o" target="_blank">How AI Is Reshaping Software Development and the Tech Industry in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.1.4-Released" target="_blank">Fwupd 2.1.4 Brings Many Fixes For Bugs Spotted By Anthrophic&#x27;s Mythos, Firmware Update Support For Intel Arc Pro B65/B70</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-29 18:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhnqah4ca30mzkmbfa8z.png" alt="🇺🇸 Introducing Rails HTTP Lab: Test Your Rails Routes Directly Inside Your Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +219,6 @@
                 <span class="time">2026-05-29 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya00jaiev4siafvcjc77.png" alt="Building an Alien Language from Scratch with LangChain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harishkotra/building-an-alien-language-from-scratch-with-langchain-43ji" target="_blank">Building an Alien Language from Scratch with LangChain</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19006953&w=600" alt="Event-Driven Pipelines With Apache Pulsar and Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/event-driven-pipelines-pulsar-go" target="_blank">Event-Driven Pipelines With Apache Pulsar and Go</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-29 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/teeth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Drug that grew extra teeth in mice enters first human trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/29/drug-that-grew-extra-teeth-in-mice-enters-first-human-trial.html" target="_blank">Drug that grew extra teeth in mice enters first human trial</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVT2B8WBGXESQPJFBD8WCDMZ/hero-image.png" alt="This 65-Inch Premium Sony OLED TV Is $700 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/65-inch-sony-bravia-8-ii-tv-deal-may-2026?utm_medium=RSS" target="_blank">This 65-Inch Premium Sony OLED TV Is $700 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-29 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-29-at-11.38.48-AM-1280x720.jpg" alt="Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/craftsman-battery-kit-free-tool-deal-may-2026?utm_medium=RSS" target="_blank">This Craftsman Battery Kit Comes With a Free Tool Worth up to $139</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-29 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/mtg-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Library of Leng archives decades of articles about Magic: The Gathering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/library-of-leng.html" target="_blank">Library of Leng archives decades of articles about Magic: The Gathering</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2312427865-e1772212434907.jpg?fit=768%2C586&amp;quality=60&amp;ssl=1" alt="CNN sues Perplexity AI over &quot;verbatim&quot; copies of articles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/cnn-sues-perplexity-ai-over-verbatim-copies-of-articles.html" target="_blank">CNN sues Perplexity AI over &quot;verbatim&quot; copies of articles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 10:21</span>
             </div>
         </div>
 </div>
@@ -323,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:00 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 19:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
