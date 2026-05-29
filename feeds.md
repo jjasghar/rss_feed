@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 16:15:00 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 18:00:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 14 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 16:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 18:00 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/g-s1-124359/ebola-outbreak-trust-death-burial-democratic-republic-congo" target="_blank">Why are people attacking Ebola clinics? It revolves around trust, death and body bags</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg" alt="&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +95,38 @@
                 <span class="time">2026-05-29 13:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/29/firefighters-work-to-free-riders-stuck-atop-a-rollercoaster-in-texas?traffic_source=rss" target="_blank">Firefighters work to free riders stuck atop a rollercoaster in Texas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/" target="_blank">What happens when companies become too AI-pilled?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-29 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-500x500-1780073932.jpg" alt="DOJ sues states that rejected ICE requests for undercover license plates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/" target="_blank">DOJ sues states that rejected ICE requests for undercover license plates</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data" target="_blank">Tech companies desperately want to film you doing chores</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-29 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-500x500.jpg" alt="After years of stability, F1 reliability can no longer be taken for granted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +154,47 @@
                 <span class="time">2026-05-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a198bcf19d7dd93413aa792/master/pass/2193560373" alt="Blue Origin Rocket Explodes in Fiery Setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/" target="_blank">Blue Origin Rocket Explodes in Fiery Setback</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a15cec9122d96f4e19bcf02/master/pass/Review%20HP%20Omnibook%203%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="HP Omnibook 3 Review: Redefining the Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/hp-omnibook-3/" target="_blank">HP Omnibook 3 Review: Redefining the Budget Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277596847-500x500.jpg" alt="These researchers would be in Africa fighting ebola—but Trump cut their funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/" target="_blank">These researchers would be in Africa fighting ebola—but Trump cut their funding</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhnqah4ca30mzkmbfa8z.png" alt="🇺🇸 Introducing Rails HTTP Lab: Test Your Rails Routes Directly Inside Your Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/videosdeti/introducing-rails-http-lab-test-your-rails-routes-directly-inside-your-application-1c5" target="_blank">🇺🇸 Introducing Rails HTTP Lab: Test Your Rails Routes Directly Inside Your Application</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/" target="_blank">CVE-2026-48710: A Maintainer&#x27;s Perspective</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-29 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19011224&w=600" alt="Slopsquatting: Building a Scanner That Catches AI-Hallucinated Packages Before They Reach Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/slopsquatting-ai-package-scanner" target="_blank">Slopsquatting: Building a Scanner That Catches AI-Hallucinated Packages Before They Reach Production</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://koenvangilst.nl/lab/mistral-ai-now-summit" target="_blank">Notes from the Mistral AI Now Summit in Paris</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-29 16:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya00jaiev4siafvcjc77.png" alt="Building an Alien Language from Scratch with LangChain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,42 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/event-driven-pipelines-pulsar-go" target="_blank">Event-Driven Pipelines With Apache Pulsar and Go</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/flutter-ubuntu-1.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical takes over Flutter desktop maintenance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained" target="_blank">Canonical takes over Flutter desktop maintenance</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2026-05-29 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/cachyos-thelio-major" target="_blank">CachyOS Delivers Lead Over Arch Linux, Pop!_OS &amp; Ubuntu On System76 Thelio Major</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17350773/steam-deck-oled-stock-out" target="_blank">Steam Deck OLED is Absurdly Overpriced Now, Yet It Sold Out in North America Overnight</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2026-05-29 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ishucodes/git-rebase-vs-reset-vs-revert-when-to-use-what--28kp" target="_blank">Git Rebase vs Reset vs Revert | When to use What ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 12:54</span>
             </div>
         </div>
 </div>
@@ -313,13 +309,22 @@
                 <span class="time">2026-05-29 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/ancestral_genomes.png" alt="Ancestral Genomes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3252/" target="_blank">Ancestral Genomes</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2026-05-29 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:00 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
