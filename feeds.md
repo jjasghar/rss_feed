@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 00:26:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-29 01:36:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 00:26 UTC</div>
+    <div class="newspaper-date">Friday, May 29, 2026 - 01:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +57,24 @@
                 <span class="title"><a href="https://abcnews.com/US/search-ongoing-victims-after-massive-fire-dallas-apartment/story?id=133399153" target="_blank">Confirmed fatalities after explosion, massive fire at Dallas apartment complex</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-29 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss" target="_blank">US to designate two Brazilian gangs as ‘terrorist’ organisations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e633/live/6551a390-cd33-11ef-b4d0-4da3e3ebfd74.png" alt="SAS troops accused of war crimes not referred to police over morale fears, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&at_campaign=rss" target="_blank">SAS troops accused of war crimes not referred to police over morale fears, inquiry hears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-28 23:40</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss" target="_blank">Europe hit by record-breaking heatwave</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-28 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/28/nx-s1-5838002/treasury-department-prepares-250-bill-with-trumps-face-on-it" target="_blank">Treasury Department prepares $250 bill with Trump&#x27;s face on it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-28 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f25/live/e8f162b0-5ab5-11f1-8f60-593796f4e07d.jpg" alt="US and Iran reach tentative deal to extend ceasefire, US officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran reach tentative deal to extend ceasefire, US officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 20:28</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michelfaure/une-journee-avec-challenger-4-bugs-4-hypotheses-refutees-avant-le-fix-1ikh" target="_blank">Une journée avec `/challenger` : 4 bugs, 4 hypothèses réfutées avant le fix</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 01:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Directed-Pkg-Therm-Inter" target="_blank">Intel Sends Out Revised Linux Patches For Directed Package Thermal Interrupts</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-29 00:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ashg2099/data-scientist-ai-engineer-open-to-full-time-opportunities-2248" target="_blank">Data Scientist &amp; AI Engineer — Open to Full-Time Opportunities</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-29 00:20</span>
@@ -194,24 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/chaos-engineering-blind-spot-agentic-ai" target="_blank">Chaos Engineering Has a Blind Spot. Agentic AI Lives in It.</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-optimized-ubuntu-images-for-tpu-virtual-machines-by-google-cloud" target="_blank">Canonical announces optimized Ubuntu images for TPU virtual machines by Google Cloud</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2026-05-28 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/" target="_blank">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2026-05-28 18:18</span>
             </div>
         </div>
 </div>
@@ -302,7 +310,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:26 UTC
+        🔄 Last Updated: 01:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
