@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 14:01:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-29 16:15:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 14 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 16:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg" alt="&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-29 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Judge temporarily freezes payments from administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/judge-temporary-freezes-payments-trump-administrations-anti-weaponization/story?id=133418762" target="_blank">Judge temporarily freezes payments from administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-10/241018-donald-trump-2021-ac-806p-e2d449.jpg" alt="Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/judge-halts-trump-anti-weaponization-fund-jan-6-prosecutor-files-suit-rcna347539" target="_blank">Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-29 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/23/08/1920x1080/skynews-kenneth-law_6261789.jpg?20260528233808" alt="Canadian man admits aiding &amp;#8204;suicide by selling &amp;#8204;deadly chemicals online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/canadian-man-admits-aiding-8204suicide-by-selling-8204deadly-chemicals-online-13549071" target="_blank">Canadian man admits aiding &amp;#8204;suicide by selling &amp;#8204;deadly chemicals online</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-29 13:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -57,47 +99,29 @@
                 <span class="time">2026-05-29 12:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting" target="_blank">Israel, Lebanon officials to meet. And, judge won&#x27;t block Trump&#x27;s mail-in voting order</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-29 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19b/live/f7023e70-5b40-11f1-9f9e-2f9c8c5baaa2.jpg" alt="Eight students arrested in Kenya after suspected deadly school arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss" target="_blank">Eight students arrested in Kenya after suspected deadly school arson attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-29 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville" target="_blank">Photos show the world&#x27;s &#x27;uncounted&#x27; people -- and what it takes to be counted</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-29 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5830385/voting-equipment-report" target="_blank">Replacing aging U.S. voting equipment will take years and billions of dollars</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-29 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-500x500.jpg" alt="After years of stability, F1 reliability can no longer be taken for granted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/" target="_blank">After years of stability, F1 reliability can no longer be taken for granted</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 16:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a0e3bc2ebc845925eb93dd9/master/pass/Review%20samsung%20movingstyle%20m7%20052026%20SOURCE%20Amazon.jpg" alt="Samsung Movingstyle Essential Review: A Screen on Wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/samsung-movingstyle-32-m7/" target="_blank">Samsung Movingstyle Essential Review: A Screen on Wheels</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 15:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +158,47 @@
                 <span class="time">2026-05-29 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays" target="_blank">Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-29 08:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | June 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fya00jaiev4siafvcjc77.png" alt="Building an Alien Language from Scratch with LangChain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harishkotra/building-an-alien-language-from-scratch-with-langchain-43ji" target="_blank">Building an Alien Language from Scratch with LangChain</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 16:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19006953&w=600" alt="Event-Driven Pipelines With Apache Pulsar and Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/event-driven-pipelines-pulsar-go" target="_blank">Event-Driven Pipelines With Apache Pulsar and Go</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/flutter-ubuntu-1.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical takes over Flutter desktop maintenance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained" target="_blank">Canonical takes over Flutter desktop maintenance</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2026-05-29 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/cachyos-thelio-major" target="_blank">CachyOS Delivers Lead Over Arch Linux, Pop!_OS &amp; Ubuntu On System76 Thelio Major</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,42 +215,6 @@
                 <span class="title"><a href="https://dev.to/ishucodes/git-rebase-vs-reset-vs-revert-when-to-use-what--28kp" target="_blank">Git Rebase vs Reset vs Revert | When to use What ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-29 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/ai-nginx-higress/en/headerimage/generatedHeaderImage-1779528783880.jpg" alt="AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Graphics-Background-Color" target="_blank">Intel To Support DRM Background Color Property With Linux 7.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-29 10:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/github-agentic-token-savings/en/headerimage/header-1779918825690.jpeg" alt="GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-29 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/" target="_blank">The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2026-05-29 07:40</span>
             </div>
         </div>
 </div>
@@ -230,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-29-at-11.38.48-AM-1280x720.jpg" alt="Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-anime-horizons-mega-raichu-x-y-subs-dub-netflix-2000700547" target="_blank">Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-29 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/Slay-the-Spire-2-official-art-from-early-access-launch-date-trailer-1280x601.jpg" alt="China’s Top Slay The Spire 2 Players Explain The Logic Behind Their Review Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +290,20 @@
                 <span class="time">2026-05-29 10:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Screenshot-from-Space-Coast-Live.jpg?fit=1080%2C569&amp;quality=60&amp;ssl=1" alt="Blue Origin rocket explodes during Florida test" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/blue-origin-rocket-explodes-during-florida-test.html" target="_blank">Blue Origin rocket explodes during Florida test</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 03:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1779933574-20260529.png" alt="Saturday Morning Breakfast Cereal - Debunking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/debunking" target="_blank">Saturday Morning Breakfast Cereal - Debunking</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -298,31 +313,13 @@
                 <span class="time">2026-05-29 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/a-team/" target="_blank">A Team</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2026-05-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779842329-20260528.png" alt="Saturday Morning Breakfast Cereal - Meaning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/meaning-8" target="_blank">Saturday Morning Breakfast Cereal - Meaning</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
