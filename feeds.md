@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 05:22:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-29 07:11:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 05:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 07:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d9/live/a7082610-5b26-11f1-89a3-d1f559421220.jpg" alt="Nato condemns Russian &#x27;recklessness&#x27; after drone hits Romanian apartment block" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss" target="_blank">Nato condemns Russian &#x27;recklessness&#x27; after drone hits Romanian apartment block</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-29 07:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears?traffic_source=rss" target="_blank">Messi to captain Argentina at World Cup as Scaloni plays down injury fears</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 06:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5838582/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test" target="_blank">Blue Origin rocket explodes on the launch pad during an engine-firing test</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc" target="_blank">Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-29 05:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -64,42 +96,6 @@
                 <span class="title"><a href="https://abcnews.com/US/blue-origin-rocket-explodes-test-cape-canaveral/story?id=133407922" target="_blank">Blue Origin rocket explodes during test at Cape Canaveral</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-29 03:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss" target="_blank">US Treasury secretary confirms plans for banknote featuring Trump’s face</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic" target="_blank">WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-29 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/23/08/1920x1080/skynews-kenneth-law_6261789.jpg?20260528233808" alt="Man who allegedly sold poison to Britons won&#x27;t face justice in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/kenneth-law-canadian-who-allegedly-sold-poison-to-britons-wont-face-justice-in-uk-13548917" target="_blank">Man who allegedly sold poison to Britons won&#x27;t face justice in UK</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-29 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dallas-fire-ap-jt-260528_1780004873918_hpMain_4x3t_384.jpg" alt="Confirmed fatalities after explosion, massive fire at Dallas apartment complex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/search-ongoing-victims-after-massive-fire-dallas-apartment/story?id=133399153" target="_blank">Confirmed fatalities after explosion, massive fire at Dallas apartment complex</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-29 00:20</span>
             </div>
         </div>
 </div>
@@ -129,6 +125,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/" target="_blank">Blue Origin’s New Glenn rocket explodes during testing in Florida</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-29 01:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/" target="_blank">Waymo dominates autonomous vehicle registrations as Tesla trails behind</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-29 00:14</span>
@@ -152,20 +157,29 @@
                 <span class="time">2026-05-28 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/RS5Austria203-500x500.jpg" alt="2027 Audi RS5 first drive: A performance PHEV with split personalities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/" target="_blank">2027 Audi RS5 first drive: A performance PHEV with split personalities</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/" target="_blank">The find out stage of AI is just supply chain and password protection​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‌‍‌‍​‌​﻿‍‌​﻿​‌‌‍‌‍​﻿‌‍‌‍​‌​﻿‍​​‍﻿‌​﻿‌​‌‍​‍‌‍‌‍​﻿​​​‍﻿‌​﻿‌​‌‍​‌​﻿‌​‌‍​‌​‍﻿‌‌‍​‌‌‍​﻿​﻿​​​﻿‌﻿​‍﻿‌​﻿‍​‌‍‌‌​﻿‌﻿‌‍‌‌‌‍‌‍‌‍‌​‌‍‌‌​﻿‌﻿​﻿​‍​﻿​﻿​﻿‌‌‌‍‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2026-05-29 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moksh/top-mcp-servers-every-developer-should-install-in-2026-22bh" target="_blank">Top MCP Servers Every Developer Should Install in 2026</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 07:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/ashg2099/data-scientist-ai-engineer-open-to-full-time-opportunities-2248" target="_blank">Data Scientist &amp; AI Engineer — Open to Full-Time Opportunities</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-29 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-29-2026-red-hat" target="_blank">Friday Five — May 29, 2026</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2026-05-29 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvshz2qwju8ou5c277mfm.png" alt="Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e" target="_blank">Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 23:22</span>
             </div>
         </div>
 </div>
@@ -307,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 109 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
