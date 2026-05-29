@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 12:55:54 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 14:01:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 12:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss" target="_blank">Harvard Medical School graduate dedicates speech to Lebanon and Palestine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 13:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +93,29 @@
                 <span class="time">2026-05-29 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0621/live/4c2b92f0-59db-11f1-9d25-fb65b8b0488d.jpg" alt="Two charged after bystander fatally shot outside bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5pjd43y80o?at_medium=RSS&at_campaign=rss" target="_blank">Two charged after bystander fatally shot outside bar</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-29 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple" target="_blank">How Ferrari bungled the design of its first EV</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a198bcf19d7dd93413aa792/master/pass/2193560373" alt="Blue Origin Rocket Explodes in Fiery Setback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/" target="_blank">Blue Origin Rocket Explodes in Fiery Setback</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 13:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a15cec9122d96f4e19bcf02/master/pass/Review%20HP%20Omnibook%203%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="HP Omnibook 3 Review: Redefining the Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +152,20 @@
                 <span class="time">2026-05-29 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2-500x500.jpg" alt="The most spectacular rocket explosion since N1 just happened in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" target="_blank">The most spectacular rocket explosion since N1 just happened in Florida</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/" target="_blank">Blue Origin’s New Glenn rocket explodes during testing in Florida</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-29 01:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://feed.itsfoss.com/link/24361/17350773/steam-deck-oled-stock-out" target="_blank">Steam Deck OLED is Absurdly Overpriced Now, Yet It Sold Out in North America Overnight</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2026-05-29 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +211,6 @@
                 <span class="time">2026-05-29 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moksh/top-mcp-servers-every-developer-should-install-in-2026-22bh" target="_blank">Top MCP Servers Every Developer Should Install in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Slay-the-Spire-2-official-art-from-early-access-launch-date-trailer-1280x601.jpg" alt="China’s Top Slay The Spire 2 Players Explain The Logic Behind Their Review Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/slay-the-spire-2-review-bombs-steam-china-doormaker-save-loading-scumming-2000700481" target="_blank">China’s Top Slay The Spire 2 Players Explain The Logic Behind Their Review Bombs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-29 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSR3N0B6SDX5SFT917ZAXT2J/hero-image.jpg" alt="We Finally Know More About Apple&#x27;s New Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/we-finally-know-more-about-apples-new-ai-siri?utm_medium=RSS" target="_blank">We Finally Know More About Apple&#x27;s New Siri</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-29 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KSSDQ98J82DAR3SWMA41NZEV/hero-image.png" alt="This Craftsman Battery Kit Comes With a Free Tool Worth up to $139" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/28/blue-origin-rocket-explodes-during-florida-test.html" target="_blank">Blue Origin rocket explodes during Florida test</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-29 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/quantum.jpg?fit=1200%2C633&amp;quality=60&amp;ssl=1" alt="Scientists built a machine to solve what AI can&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/scientists-built-a-machine-to-solve-what-ai-cant.html" target="_blank">Scientists built a machine to solve what AI can&#x27;t</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/3Ca-href_3D_22https-www.instagram.com-p-DY3swvDx7Re.jpg?fit=1080%2C825&amp;quality=60&amp;ssl=1" alt="Artist paints Zuckerberg&#x27;s yacht on fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/artist-paints-zuckerbergs-yacht-on-fire.html" target="_blank">Artist paints Zuckerberg&#x27;s yacht on fire</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 22:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:56 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
