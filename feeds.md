@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-28 23:26:59 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 00:26:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, May 28, 2026 - 23:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 00:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dallas-fire-ap-jt-260528_1780004873918_hpMain_4x3t_384.jpg" alt="Confirmed fatalities after explosion, massive fire at Dallas apartment complex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/search-ongoing-victims-after-massive-fire-dallas-apartment/story?id=133399153" target="_blank">Confirmed fatalities after explosion, massive fire at Dallas apartment complex</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg" alt="US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +96,6 @@
                 <span class="time">2026-05-28 20:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260528-kenya-who-ebola-supplies-vl-320p-70acbe.jpg" alt="Americans who get Ebola will go to Europe for treatment, not U.S., officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/health-news/americans-ebola-go-europe-treatment-not-us-rcna347364" target="_blank">Americans who get Ebola will go to Europe for treatment, not U.S., officials say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-28 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,9 +105,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/" target="_blank">Waymo dominates autonomous vehicle registrations as Tesla trails behind</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-29 00:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a1871f1d6d974ccfc93c9a9/master/pass/GOP-Attacks-Talarico-Culture-2277887773.jpg" alt="The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/" target="_blank">The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-28 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/" target="_blank">How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-28 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/RS5Austria203-500x500.jpg" alt="2027 Audi RS5 first drive: A performance PHEV with split personalities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/" target="_blank">2027 Audi RS5 first drive: A performance PHEV with split personalities</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-28 22:01</span>
             </div>
         </div>
 <div class="story">
@@ -134,38 +155,20 @@
                 <span class="time">2026-05-28 20:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game" target="_blank">Nintendo&amp;#8217;s newest WarioWare is a weirdo smartphone app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-28 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1272885374-500x500.jpg" alt="Researchers develop a new process to get lithium out of rocks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/" target="_blank">Researchers develop a new process to get lithium out of rocks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/" target="_blank">Bluesky embraces long-form content to counter X Articles</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-28 19:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashg2099/data-scientist-ai-engineer-open-to-full-time-opportunities-2248" target="_blank">Data Scientist &amp; AI Engineer — Open to Full-Time Opportunities</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvshz2qwju8ou5c277mfm.png" alt="Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/" target="_blank">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2026-05-28 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19004576&w=600" alt="Why Your DLP Policies Fall Short the Moment AI Agents Enter the Picture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agents-break-dlp-policies" target="_blank">Why Your DLP Policies Fall Short the Moment AI Agents Enter the Picture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-28 17:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 23:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
