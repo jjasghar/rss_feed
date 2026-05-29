@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 01:36:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-29 03:00:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 01:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 03:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss" target="_blank">US Treasury secretary confirms plans for banknote featuring Trump’s face</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 02:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/23/08/1920x1080/skynews-kenneth-law_6261789.jpg?20260528233808" alt="Man who allegedly sold poison to Britons won&#x27;t face justice in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/kenneth-law-canadian-who-allegedly-sold-poison-to-britons-wont-face-justice-in-uk-13548917" target="_blank">Man who allegedly sold poison to Britons won&#x27;t face justice in UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-29 00:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/dallas-fire-ap-jt-260528_1780004873918_hpMain_4x3t_384.jpg" alt="Confirmed fatalities after explosion, massive fire at Dallas apartment complex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2026-05-28 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups?traffic_source=rss" target="_blank">PSG vs Arsenal: UEFA Champions League final – 10 things to know</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss" target="_blank">Europe hit by record-breaking heatwave</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-28 20:57</span>
             </div>
         </div>
 </div>
@@ -196,6 +191,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-may-29-2026-red-hat" target="_blank">Friday Five — May 29, 2026</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2026-05-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvshz2qwju8ou5c277mfm.png" alt="Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -213,20 +217,20 @@
                 <span class="time">2026-05-28 21:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19004597&w=600" alt="Chaos Engineering Has a Blind Spot. Agentic AI Lives in It." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/chaos-engineering-blind-spot-agentic-ai" target="_blank">Chaos Engineering Has a Blind Spot. Agentic AI Lives in It.</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/quantum.jpg?fit=1200%2C633&amp;quality=60&amp;ssl=1" alt="Scientists built a machine to solve what AI can&#x27;t" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/28/scientists-built-a-machine-to-solve-what-ai-cant.html" target="_blank">Scientists built a machine to solve what AI can&#x27;t</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 00:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/3Ca-href_3D_22https-www.instagram.com-p-DY3swvDx7Re.jpg?fit=1080%2C825&amp;quality=60&amp;ssl=1" alt="Artist paints Zuckerberg&#x27;s yacht on fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +276,6 @@
                 <span class="time">2026-05-28 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSQNNYH2RHQ9DXDHFV7SAV8J/hero-image.jpg" alt="What You Get With Each Paid AI Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-you-get-with-each-paid-ai-subscription?utm_medium=RSS" target="_blank">What You Get With Each Paid AI Subscription</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-28 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
