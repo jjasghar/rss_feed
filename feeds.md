@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 11:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 12:55:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 12:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/29/firefighters-work-to-free-riders-stuck-atop-a-rollercoaster-in-texas?traffic_source=rss" target="_blank">Firefighters work to free riders stuck atop a rollercoaster in Texas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting" target="_blank">Israel, Lebanon officials to meet. And, judge won&#x27;t block Trump&#x27;s mail-in voting order</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19b/live/f7023e70-5b40-11f1-9f9e-2f9c8c5baaa2.jpg" alt="Eight students arrested in Kenya after suspected deadly school arson attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss" target="_blank">Eight students arrested in Kenya after suspected deadly school arson attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-29 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,39 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0621/live/4c2b92f0-59db-11f1-9d25-fb65b8b0488d.jpg" alt="Two charged after bystander fatally shot outside bar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss" target="_blank">Gaza parents brave dental dilemma: Costly treatment or food on the table?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 08:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d9/live/a7082610-5b26-11f1-89a3-d1f559421220.jpg" alt="Nato condemns Russian &#x27;recklessness&#x27; after drone hits Romanian apartment block" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss" target="_blank">Nato condemns Russian &#x27;recklessness&#x27; after drone hits Romanian apartment block</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5pjd43y80o?at_medium=RSS&at_campaign=rss" target="_blank">Two charged after bystander fatally shot outside bar</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2026-05-29 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears?traffic_source=rss" target="_blank">Messi to captain Argentina at World Cup as Scaloni plays down injury fears</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5838582/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test" target="_blank">Blue Origin rocket explodes on the launch pad during an engine-firing test</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-29 05:49</span>
+                <span class="time">2026-05-29 08:17</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ishucodes/git-rebase-vs-reset-vs-revert-when-to-use-what--28kp" target="_blank">Git Rebase vs Reset vs Revert | When to use What ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/ai-nginx-higress/en/headerimage/generatedHeaderImage-1779528783880.jpg" alt="AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI-Assisted Migration Tool Helps Teams Move from ingress-nginx to Higress in Minutes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Graphics-Background-Color" target="_blank">Intel To Support DRM Background Color Property With Linux 7.2</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,22 +218,18 @@
                 <span class="time">2026-05-29 07:05</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse" target="_blank">Cars are trying to spy on you, and it&#x27;s only just the beginning</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-29 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michelfaure/une-journee-avec-challenger-4-bugs-4-hypotheses-refutees-avant-le-fix-1ikh" target="_blank">Une journée avec `/challenger` : 4 bugs, 4 hypothèses réfutées avant le fix</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 01:16</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/chilling-effects.html" target="_blank">Chilling Effects</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-29 11:02</span>
             </div>
         </div>
 </div>
@@ -228,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSSDQ98J82DAR3SWMA41NZEV/hero-image.png" alt="This Craftsman Battery Kit Comes With a Free Tool Worth up to $139" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/craftsman-battery-kit-free-tool-deal-may-2026?utm_medium=RSS" target="_blank">This Craftsman Battery Kit Comes With a Free Tool Worth up to $139</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-29 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/mtg-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Library of Leng archives decades of articles about Magic: The Gathering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/29/library-of-leng.html" target="_blank">Library of Leng archives decades of articles about Magic: The Gathering</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 12:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2312427865-e1772212434907.jpg?fit=768%2C586&amp;quality=60&amp;ssl=1" alt="CNN sues Perplexity AI over &quot;verbatim&quot; copies of articles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2026/05/28/artist-paints-zuckerbergs-yacht-on-fire.html" target="_blank">Artist paints Zuckerberg&#x27;s yacht on fire</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-28 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/remakeoftheend-1280x720.jpg" alt="This Indie RPG Isn’t A Remake Of Chrono Trigger, It’s Something Much Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/someone-finally-remade-the-end-of-the-greatest-rpg-of-all-time-2000700254" target="_blank">This Indie RPG Isn’t A Remake Of Chrono Trigger, It’s Something Much Weirder</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-28 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/BlockChance.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Start solo-mining Bitcoin from your desk for $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/28/start-solo-mining-bitcoin-from-your-desk-for-60.html" target="_blank">Start solo-mining Bitcoin from your desk for $60</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-28 21:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
