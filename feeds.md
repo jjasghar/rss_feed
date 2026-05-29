@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 09:02:39 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 11:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville" target="_blank">Photos show the world&#x27;s &#x27;uncounted&#x27; people -- and what it takes to be counted</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 10:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +105,29 @@
                 <span class="time">2026-05-29 05:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc" target="_blank">Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-29 05:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a15cec9122d96f4e19bcf02/master/pass/Review%20HP%20Omnibook%203%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="HP Omnibook 3 Review: Redefining the Budget Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/hp-omnibook-3/" target="_blank">HP Omnibook 3 Review: Redefining the Budget Laptop</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277596847-500x500.jpg" alt="These researchers would be in Africa fighting ebola—but Trump cut their funding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/" target="_blank">These researchers would be in Africa fighting ebola—but Trump cut their funding</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +164,29 @@
                 <span class="time">2026-05-29 01:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/" target="_blank">Waymo dominates autonomous vehicle registrations as Tesla trails behind</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-29 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1871f1d6d974ccfc93c9a9/master/pass/GOP-Attacks-Talarico-Culture-2277887773.jpg" alt="The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/" target="_blank">The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-28 23:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Graphics-Background-Color" target="_blank">Intel To Support DRM Background Color Property With Linux 7.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-29 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/github-agentic-token-savings/en/headerimage/header-1779918825690.jpeg" alt="GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/github-agentic-token-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitHub Slashes Agent Workflow Token Spend up to 62% with Daily Audits and MCP Pruning</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-29 08:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +223,20 @@
                 <span class="time">2026-05-29 01:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Directed-Pkg-Therm-Inter" target="_blank">Intel Sends Out Revised Linux Patches For Directed Package Thermal Interrupts</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-29 00:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashg2099/data-scientist-ai-engineer-open-to-full-time-opportunities-2248" target="_blank">Data Scientist &amp; AI Engineer — Open to Full-Time Opportunities</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/02/shutterstock_2312427865-e1772212434907.jpg?fit=768%2C586&amp;quality=60&amp;ssl=1" alt="CNN sues Perplexity AI over &quot;verbatim&quot; copies of articles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/29/cnn-sues-perplexity-ai-over-verbatim-copies-of-articles.html" target="_blank">CNN sues Perplexity AI over &quot;verbatim&quot; copies of articles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 10:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Screenshot-from-Space-Coast-Live.jpg?fit=1080%2C569&amp;quality=60&amp;ssl=1" alt="Blue Origin rocket explodes during Florida test" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,20 +282,20 @@
                 <span class="time">2026-05-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSR1GMKJY1W74JSBTWCN2P22/hero-image.png" alt="I Used Garmin&#x27;s Heart Rate Monitor to Measure My &#x27;Running Economy,&#x27; and Here&#x27;s What I Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/i-used-garmins-heart-rate-monitor-to-measure-my-running-economy?utm_medium=RSS" target="_blank">I Used Garmin&#x27;s Heart Rate Monitor to Measure My &#x27;Running Economy,&#x27; and Here&#x27;s What I Learned</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/29/modernity" target="_blank">Modernity</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-29 07:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
