@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 19:45:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-29 20:43:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 19:45 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 20:44 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5839349/president-trump-kennedy-center-name-judge-order" target="_blank">Trump&#x27;s name must come off of the Kennedy Center, judge rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-ap-gmh-260529_1780082290161_hpMain_4x3t_384.jpg" alt="Federal judge orders Trump&#x27;s name be removed from Kennedy Center, blocks closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-orders-trumps-removed-kennedy-center/story?id=133430502" target="_blank">Federal judge orders Trump&#x27;s name be removed from Kennedy Center, blocks closure</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-ap-gmh-260529_1780082290161_hpMain_4x3t_384.jpg" alt="Federal judge orders Trump&#x27;s name be removed from Kennedy Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic" target="_blank">WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-29 16:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg" alt="&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -74,38 +99,20 @@
                 <span class="time">2026-05-29 15:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260527_1779902436683_hpMain_4x3t_384.jpg" alt="Judge temporarily freezes payments from administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/US/judge-temporary-freezes-payments-trump-administrations-anti-weaponization/story?id=133418762" target="_blank">Judge temporarily freezes payments from administration&#x27;s &#x27;Anti-Weaponization Fund&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-29 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-10/241018-donald-trump-2021-ac-806p-e2d449.jpg" alt="Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/judge-halts-trump-anti-weaponization-fund-jan-6-prosecutor-files-suit-rcna347539" target="_blank">Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-29 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/23/08/1920x1080/skynews-kenneth-law_6261789.jpg?20260528233808" alt="Canadian man admits aiding &amp;#8204;suicide by selling &amp;#8204;deadly chemicals online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/canadian-man-admits-aiding-8204suicide-by-selling-8204deadly-chemicals-online-13549071" target="_blank">Canadian man admits aiding &amp;#8204;suicide by selling &amp;#8204;deadly chemicals online</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-29 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a19e1a8738675473398eb9e/master/pass/Protests-Outside-Meta-Business-IMG_0894.jpg" alt="‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-covalen-protest-strike-dublin/" target="_blank">‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 20:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg" alt="Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld" target="_blank">Acer’s launching a Linux handheld for streaming your PC games</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-29 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6-500x500.jpg" alt="Botnet of more than 17 million devices dismantled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/" target="_blank">Botnet of more than 17 million devices dismantled</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 18:46</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +158,29 @@
                 <span class="time">2026-05-29 17:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data" target="_blank">Tech companies desperately want to film you doing chores</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-29 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278023232-500x500.jpg" alt="After years of stability, F1 reliability can no longer be taken for granted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/" target="_blank">After years of stability, F1 reliability can no longer be taken for granted</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27xl8qyr8348xdaajuiv.png" alt="Inside Uber&#x27;s Architecture: Engineering Decisions That Power Millions of Rides Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codetirtho97/inside-ubers-architecture-engineering-decisions-that-power-millions-of-rides-every-day-1kde" target="_blank">Inside Uber&#x27;s Architecture: Engineering Decisions That Power Millions of Rides Every Day</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19006948&w=600" alt="Implementing Secure API Gateways for Microservices Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-secure-api-gateways-for-microservices" target="_blank">Implementing Secure API Gateways for Microservices Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2026-05-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,28 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/" target="_blank">CVE-2026-48710: A Maintainer&#x27;s Perspective</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2026-05-29 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=19011224&w=600" alt="Slopsquatting: Building a Scanner That Catches AI-Hallucinated Packages Before They Reach Production" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/slopsquatting-ai-package-scanner" target="_blank">Slopsquatting: Building a Scanner That Catches AI-Hallucinated Packages Before They Reach Production</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2026-05-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://koenvangilst.nl/lab/mistral-ai-now-summit" target="_blank">Notes from the Mistral AI Now Summit in Paris</a></span>
+                <span class="title"><a href="https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/" target="_blank">SQLite is all you need for durable workflows</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2026-05-29 16:22</span>
+                <span class="time">2026-05-29 17:54</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 19:45 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 20:44 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
