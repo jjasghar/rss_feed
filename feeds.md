@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 03:00:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-29 05:22:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 03:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 05:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5837572/scripps-national-spelling-bee-shrey-parikh-spell-off" target="_blank">Shrey Parikh, 14, wins the Scripps Spelling Bee after a nail-biting &#x27;spell-off&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-29 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/blue-origin_1780022299076_hpMain_4x3t_384.jpg" alt="Blue Origin rocket explodes during test at Cape Canaveral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/US/blue-origin-rocket-explodes-test-cape-canaveral/story?id=133407922" target="_blank">Blue Origin rocket explodes during test at Cape Canaveral</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 03:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss" target="_blank">US Treasury secretary confirms plans for banknote featuring Trump’s face</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-29 02:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic" target="_blank">WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2026-05-29 02:10</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +102,29 @@
                 <span class="time">2026-05-29 00:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss" target="_blank">US to designate two Brazilian gangs as ‘terrorist’ organisations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-29 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e633/live/6551a390-cd33-11ef-b4d0-4da3e3ebfd74.png" alt="SAS troops accused of war crimes not referred to police over morale fears, inquiry hears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&at_campaign=rss" target="_blank">SAS troops accused of war crimes not referred to police over morale fears, inquiry hears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/13cf4080-5aeb-11f1-b8b0-e75ba6be4215.jpg" alt="US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss" target="_blank">US and Iran &#x27;very close&#x27; to deal but &#x27;not there yet&#x27;, Vance says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-28 23:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" alt="AirDoctor Coupon Codes: 40% Off | June 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/airdoctor-coupon-code/" target="_blank">AirDoctor Coupon Codes: 40% Off | June 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2-500x500.jpg" alt="The most spectacular rocket explosion since N1 just happened in Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/" target="_blank">The most spectacular rocket explosion since N1 just happened in Florida</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 02:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,20 @@
                 <span class="time">2026-05-28 22:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-500x500.jpg" alt="LLMs believe false statements even after explicit warnings that they&#x27;re false" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/" target="_blank">LLMs believe false statements even after explicit warnings that they&#x27;re false</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-500x500.jpg" alt="Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/" target="_blank">Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-28 20:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse" target="_blank">Cars are trying to spy on you, and it&#x27;s only just the beginning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-29 03:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e" target="_blank">Decoding the Observability Pipeline: A Java Architect&#x27;s Guide to Metrics, Logs, and Traces</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-28 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsavrk9g4wy65zzbmahb1.png" alt="Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04" target="_blank">Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-28 21:29</span>
             </div>
         </div>
 </div>
@@ -304,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
