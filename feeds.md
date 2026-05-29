@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 20:43:53 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-29 21:31:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 20:44 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 21:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278036477-500x500.jpg" alt="Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/" target="_blank">Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-29 21:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a19e1a8738675473398eb9e/master/pass/Protests-Outside-Meta-Business-IMG_0894.jpg" alt="‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +157,20 @@
                 <span class="time">2026-05-29 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2230548231-500x500-1780073932.jpg" alt="DOJ sues states that rejected ICE requests for undercover license plates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/" target="_blank">DOJ sues states that rejected ICE requests for undercover license plates</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 17:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1" target="_blank">Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27xl8qyr8348xdaajuiv.png" alt="Inside Uber&#x27;s Architecture: Engineering Decisions That Power Millions of Rides Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,20 +216,20 @@
                 <span class="time">2026-05-29 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/" target="_blank">SQLite is all you need for durable workflows</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-29 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html" target="_blank">Friday Squid Blogging: Another Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2026-05-29 21:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01KSTBGPYD5V3VYZZDKA4B0XQA/hero-image.jpg" alt="10 Hacks Every Claude User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-claude-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Claude User Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-29 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/teeth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Drug that grew extra teeth in mice enters first human trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +298,6 @@
                 <span class="time">2026-05-29 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSSDQ98J82DAR3SWMA41NZEV/hero-image.png" alt="This Craftsman Battery Kit Comes With a Free Tool Worth up to $139" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/craftsman-battery-kit-free-tool-deal-may-2026?utm_medium=RSS" target="_blank">This Craftsman Battery Kit Comes With a Free Tool Worth up to $139</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-29 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:44 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
