@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 22:28:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-29 23:26:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 22:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 23:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-1-rt-gmh-260527_1779899590830_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump yet to announce decision following Situation Room meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump yet to announce decision following Situation Room meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-29 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss" target="_blank">ICE agent arrested over shooting of Venezuelan man in US immigration raid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-29 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2026-05-29 17:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic" target="_blank">WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-29 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d2/live/38648570-5b4c-11f1-8b8c-6d33e1d5abb6.jpg" alt="&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Poison seller&#x27; who sold toxic chemicals online to people across world admits aiding suicides</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2026-05-29 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a19f2067b6d6b1cd5a42704/master/pass/Gifts%20for%20dads%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="24 Best Father’s Day Gifts for Dads (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-dads-2026/" target="_blank">24 Best Father’s Day Gifts for Dads (2026)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/" target="_blank">SpaceX awarded $6.45B in Space Force contracts ahead of IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-29 22:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="time">2026-05-29 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg" alt="Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/" target="_blank">Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld" target="_blank">Acer’s launching a Linux handheld for streaming your PC games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-29 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-48-hours-heres-what-i-learned-about-the-future-5131" target="_blank">I Let an AI Agent Hunt Open Source Bounties for 48 Hours — Here&#x27;s What I Learned About the Future of Contributing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-29 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1" target="_blank">Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-29 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://bernat.tech/posts/blanket-deterministic-threading/" target="_blank">Deterministic Multithreaded Testing in Python with blanket</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2026-05-29 20:54</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/toboreeee/how-ai-is-reshaping-software-development-and-the-tech-industry-in-2026-412o" target="_blank">How AI Is Reshaping Software Development and the Tech Industry in 2026</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-29 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.1.4-Released" target="_blank">Fwupd 2.1.4 Brings Many Fixes For Bugs Spotted By Anthrophic&#x27;s Mythos, Firmware Update Support For Intel Arc Pro B65/B70</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-29 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhnqah4ca30mzkmbfa8z.png" alt="🇺🇸 Introducing Rails HTTP Lab: Test Your Rails Routes Directly Inside Your Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/videosdeti/introducing-rails-http-lab-test-your-rails-routes-directly-inside-your-application-1c5" target="_blank">🇺🇸 Introducing Rails HTTP Lab: Test Your Rails Routes Directly Inside Your Application</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 17:57</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2641081941.jpg?fit=1000%2C668&amp;quality=60&amp;ssl=1" alt="This weekend&#x27;s blue moon is also a micromoon (but won&#x27;t be blue and isn&#x27;t smaller)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/29/this-weekends-blu.html" target="_blank">This weekend&#x27;s blue moon is also a micromoon (but won&#x27;t be blue and isn&#x27;t smaller)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="RFK Jr.&#x27;s &quot;just a rash&quot; disease filled Texas hospital beds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +301,6 @@
                 <span class="time">2026-05-29 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-29-at-11.38.48-AM-1280x720.jpg" alt="Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-anime-horizons-mega-raichu-x-y-subs-dub-netflix-2000700547" target="_blank">Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-29 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
