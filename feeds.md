@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 21:31:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-29 22:28:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 21:32 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, May 29, 2026 - 22:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,12 +107,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract" target="_blank">SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-29 21:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278036477-500x500.jpg" alt="Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/" target="_blank">Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2026-05-29 21:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/master/pass/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg" alt="Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/" target="_blank">Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-29 20:56</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld" target="_blank">Acer’s launching a Linux handheld for streaming your PC games</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2026-05-29 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6-500x500.jpg" alt="Botnet of more than 17 million devices dismantled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/" target="_blank">Botnet of more than 17 million devices dismantled</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/" target="_blank">What happens when companies become too AI-pilled?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-29 17:57</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="RFK Jr.&#x27;s &quot;just a rash&quot; disease filled Texas hospital beds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/29/rfk-jr-s-just-a-rash-disease-filled-texas-hospital-beds.html" target="_blank">RFK Jr.&#x27;s &quot;just a rash&quot; disease filled Texas hospital beds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-29 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Youngster_ORAS_Trailer.jpg" alt="11-Year-Old Pokémon Card Collector Isn’t A Fan: ‘I Just Flip Cards’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-cards-resellers-scalpers-worlds-plush-ban-2000700684" target="_blank">11-Year-Old Pokémon Card Collector Isn’t A Fan: ‘I Just Flip Cards’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-29 21:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KSTBGPYD5V3VYZZDKA4B0XQA/hero-image.jpg" alt="10 Hacks Every Claude User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,24 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-anime-horizons-mega-raichu-x-y-subs-dub-netflix-2000700547" target="_blank">Everyone Look At My Perfect Children In The Latest Pokémon Anime Episode</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2026-05-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Slay-the-Spire-2-official-art-from-early-access-launch-date-trailer-1280x601.jpg" alt="China’s Top Slay The Spire 2 Players Explain The Logic Behind Their Review Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/slay-the-spire-2-review-bombs-steam-china-doormaker-save-loading-scumming-2000700481" target="_blank">China’s Top Slay The Spire 2 Players Explain The Logic Behind Their Review Bombs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-29 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSR3N0B6SDX5SFT917ZAXT2J/hero-image.jpg" alt="We Finally Know More About Apple&#x27;s New Siri" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/we-finally-know-more-about-apples-new-ai-siri?utm_medium=RSS" target="_blank">We Finally Know More About Apple&#x27;s New Siri</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-29 13:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 39 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:32 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
