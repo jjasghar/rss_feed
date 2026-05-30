@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 21:18:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-30 22:17:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 21:18 UTC</div>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 22:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss" target="_blank">Al Jazeera exclusive interview with rebel FARC faction in Colombia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss" target="_blank">Senior Sri Lankan monk suspended over child sex abuse allegation</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-30 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-arsenal-psg-champions-league_7261860.jpg?20260530191323" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Arsenal vs PSG ends level as game goes to extra time&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Arsenal vs PSG ends level as game goes to extra time&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-30 14:39</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/engrwithhabeeb/the-trap-of-perfect-architecture-what-building-a-shopping-cart-taught-me-3ice" target="_blank">The Trap of &quot;Perfect&quot; Architecture: What Building a Shopping Cart Taught Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftj70mi0f05lajxoao3df.png" alt="Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +218,6 @@
                 <span class="time">2026-05-30 17:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fsvg%2FZmxvd2NoYXJ0IExSCiAgc3ViZ3JhcGggVHJhZGl0aW9uYWxbIlRyYWRpdGlvbmFsIE1STSJdCiAgICB0dlsiUGVyaW9kaWMgVmFsaWRhdGlvbiJdCiAgICBzZFsiU3RhdGljIERvY3VtZW50YXRpb24iXQogICAgdG1bIlRocmVzaG9sZCBNb25pdG9yaW5nIl0KICAgIHB0c1siUHJlZGVmaW5lZCBUZXN0IFN1aXRlcyJdCiAgICBsclsiTG9nIFJldmlld3MiXQogIGVuZAogIHN1YmdyYXBoIEFnZW50aWNbIkFnZW50aWMgTVJNIl0KICAgIGN2WyJDb250aW51b3VzIFZhbGlkYXRpb24iXQogICAgZGRbIkR5bmFtaWMgRG9jdW1lbnRhdGlvbiJdCiAgICBhbVsiQW5vbWFseSBEZXRlY3Rpb24iXQogICAgYXNnWyJBZHZlcnNhcmlhbCBTY2VuYXJpb3MiXQogICAgZGN0WyJEZWNpc2lvbi1DaGFpbiBUcmFjaW5nIl0KICBlbmQKICB0diAtLT58ZXZvbHZlcyB0b3wgY3YKICBzZCAtLT58ZXZvbHZlcyB0b3wgZGQKICB0bSAtLT58ZXZvbHZlcyB0b3wgYW0KICBwdHMgLS0%2BfGV2b2x2ZXMgdG98IGFzZwogIGxyIC0tPnxldm9sdmVzIHRvfCBkY3Q%3D%3Fwidth%3D800" alt="Agentic AI Model Risk Management: Aligning with Regulatory Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/omnithium/agentic-ai-model-risk-management-aligning-with-regulatory-expectations-52jp" target="_blank">Agentic AI Model Risk Management: Aligning with Regulatory Expectations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-30 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -230,6 +229,15 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/researchers-put-grok-ai-in-charge-of-a-world-simulation-and-it-ended-with-183-crimes-committed-and-humanitys-total-extinction-2000700821" target="_blank">Researchers Put Grok AI In Charge Of A World Simulation And It Ended With ‘183 Crimes Committed’ And Humanity’s Total ‘Extinction’</a></span>
                 <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/Apple-Macbook-Pro-2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="MacBook Pro shoppers, this 16GB/512GB setup is just $395 while stock lasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/30/macbook-pro-shoppers-this-16gb-512gb-setup-is-just-395-while-stock-lasts.html" target="_blank">MacBook Pro shoppers, this 16GB/512GB setup is just $395 while stock lasts</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-30 21:00</span>
             </div>
         </div>
@@ -269,15 +277,6 @@
                 <span class="time">2026-05-30 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/nickelodeonallstarbrawl2eltigrerevealtrailer-ign-blogroll-1693429576150.jpg" alt="El Tigre Creator Backs Away From AI Amazon Cartoon After One Day Of Guillermo Del Toro Subtweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/el-tigre-creator-backs-away-from-ai-amazon-cartoon-after-one-day-of-guillermo-del-toro-subtweets-2000700807" target="_blank">El Tigre Creator Backs Away From AI Amazon Cartoon After One Day Of Guillermo Del Toro Subtweets</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-30 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
