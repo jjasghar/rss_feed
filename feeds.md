@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 20:19:20 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-30 21:18:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 20:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 21:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal" target="_blank">PSG wins back-to-back Champions League titles after shootout victory against Arsenal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-30 21:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss" target="_blank">Women bear the brunt of DRC’s Ebola outbreak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/cabinet-14-ap-gmh-260527_1779902435461_hpMain_4x3t_384.jpg" alt="Trump announces rally after artists pull out of 250th anniversary celebration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,20 @@
                 <span class="time">2026-05-30 14:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-kai-havertz-arsenal_7261795.jpg?20260530171240" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Havertz fires Arsenal into early lead vs PSG&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Havertz fires Arsenal into early lead vs PSG&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-30 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-champions-league-arsenal_7261709.jpg?20260530154444" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Follow the on-pitch action with Sky Sports as Arsenal face PSG&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Follow the on-pitch action with Sky Sports as Arsenal face PSG&lt;/a&gt;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-30 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/" target="_blank">This weekend’s two biggest movies were both directed by YouTubers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-30 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,20 @@
                 <span class="time">2026-05-30 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai" target="_blank">How one founder’s bet on ‘the old school web’ is paying off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftj70mi0f05lajxoao3df.png" alt="Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skomfi/hermes-blueprint-a-multi-agent-hedge-fund-morning-briefing-system-4ih3" target="_blank">Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 21:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2026/05/arm-metis-agentic-security/en/headerimage/arm-metis-1780165811953.jpeg" alt="Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,34 +219,20 @@
                 <span class="time">2026-05-30 16:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NixOS-26.05-Released" target="_blank">NixOS 26.05 Released With 20,442 New Packages, Stage 1 Now Based On systemd By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-30 14:05</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html" target="_blank">Friday Squid Blogging: Another Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2026-05-29 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Emergence-World-image-from-Grok-playthrough-1280x630.jpg" alt="Researchers Put Grok AI In Charge Of A World Simulation And It Ended With ‘183 Crimes Committed’ And Humanity’s Total ‘Extinction’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/researchers-put-grok-ai-in-charge-of-a-world-simulation-and-it-ended-with-183-crimes-committed-and-humanitys-total-extinction-2000700821" target="_blank">Researchers Put Grok AI In Charge Of A World Simulation And It Ended With ‘183 Crimes Committed’ And Humanity’s Total ‘Extinction’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/levertige.jpg" alt="Rubber Director’s New Film Follows Low-Poly Man Convinced He’s In A PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +278,6 @@
                 <span class="time">2026-05-30 16:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-report-suggests-age-verification-service-used-by-playstation-and-meta-is-a-privacy-mess-2000700789" target="_blank">New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-30 16:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 40 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
