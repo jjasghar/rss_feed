@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 11:27:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-30 12:19:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 11:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 12:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss" target="_blank">Egypt warns Israel that dangerous Gaza escalations threaten ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 12:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +100,29 @@
                 <span class="time">2026-05-30 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-cave-laos_7261489.jpg?20260530103401" alt="Four people trapped in flooded cave in Laos pulled to safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/four-people-trapped-in-flooded-cave-in-laos-pulled-to-safety-13549218" target="_blank">Four people trapped in flooded cave in Laos pulled to safety</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2026-05-30 08:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc" target="_blank">Sometimes, a short game hits the spot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/9798217155002-1-500x500-1780066311.jpeg" alt="Grifters, cynics, and true believers: The family tree of vaccine opponents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/" target="_blank">Grifters, cynics, and true believers: The family tree of vaccine opponents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2026-05-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/master/pass/GettyImages-1241968547.jpg" alt="Do You Actually Need to Pay for Transcription Software?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,29 +159,20 @@
                 <span class="time">2026-05-29 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg" alt="Proposed new US funding rules: We can cancel any grant at any time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/" target="_blank">Proposed new US funding rules: We can cancel any grant at any time</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-29 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a19f2067b6d6b1cd5a42704/master/pass/Gifts%20for%20dads%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="24 Best Father’s Day Gifts for Dads (2026)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-dads-2026/" target="_blank">24 Best Father’s Day Gifts for Dads (2026)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-29 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0012303/http-200-is-a-lie-a-30-line-schema-canary-for-source-drift-4m74" target="_blank">HTTP 200 Is a Lie: A 30-Line Schema Canary for Source Drift</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/jeevansrivastava/i-spent-a-decade-chasing-microservices-before-realizing-what-scalability-actually-means-2aj" target="_blank">I Spent a Decade Chasing Microservices Before Realizing What Scalability Actually Means</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-30 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/meta-cdc-migration/en/headerimage/generatedHeaderImage-1779134681732.jpg" alt="How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-30 06:01</span>
             </div>
         </div>
 </div>
@@ -282,21 +274,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png" alt="I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS" target="_blank">I’m a Deals Writer, and These Are My Top 10 Tech Deals This Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2026-05-29 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01KSTBGPYD5V3VYZZDKA4B0XQA/hero-image.jpg" alt="10 Hacks Every Claude User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-claude-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Claude User Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2026-05-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/teeth.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Drug that grew extra teeth in mice enters first human trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/drug-that-grew-extra-teeth-in-mice-enters-first-human-trial.html" target="_blank">Drug that grew extra teeth in mice enters first human trial</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 18:58</span>
             </div>
         </div>
 </div>
@@ -318,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:28 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
