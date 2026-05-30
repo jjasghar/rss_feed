@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 19:28:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-30 20:19:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 19:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 20:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -185,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openrouter.ai/announcements/series-b" target="_blank">OpenRouter raises $113M Series B</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-30 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.9" target="_blank">Rust Coreutils 0.9 Released With Additional Security Hardening, Zero-Copy I/O</a></span>
                 <span class="feed">Phoronix</span>
@@ -209,15 +219,6 @@
                 <span class="time">2026-05-30 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0012303/http-200-is-a-lie-a-30-line-schema-canary-for-source-drift-4m74" target="_blank">HTTP 200 Is a Lie: A 30-Line Schema Canary for Source Drift</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-30 12:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/levertige.jpg" alt="Rubber Director’s New Film Follows Low-Poly Man Convinced He’s In A PlayStation Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rubber-directors-next-film-follows-low-poly-man-convinced-hes-in-a-playstation-game-2000700825" target="_blank">Rubber Director’s New Film Follows Low-Poly Man Convinced He’s In A PlayStation Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2017/02/1280px-Flag_of_Nebraska.svg_.jpg?fit=800%2C480&amp;quality=60&amp;ssl=1" alt="Acupuncture hits different in Nebraska" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/30/accupuncture-hits-different-in-nebraska.html" target="_blank">Acupuncture hits different in Nebraska</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-30 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/cedarpoint.jpg" alt="YouTuber Banned From Cedar Point After Eating Chicken Nuggets On Coaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,29 +292,20 @@
                 <span class="time">2026-05-30 16:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/xbox-logo.jpg" alt="The Xbox Fan Freakout Over Logos Points To An Impossible Balancing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-xbox-fan-freakout-over-logos-points-to-an-impossible-balancing-act-2000700790" target="_blank">The Xbox Fan Freakout Over Logos Points To An Impossible Balancing Act</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/InfoSec4TC-Platinum-Membership.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This cybersecurity course library includes over 90 classes for $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/30/this-cybersecurity-course-library-includes-over-90-classes-for-50.html" target="_blank">This cybersecurity course library includes over 90 classes for $50</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2026/05/30/modernity" target="_blank">Modernity</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2026-05-30 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1780099563-20260530.png" alt="Saturday Morning Breakfast Cereal - Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:28 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
