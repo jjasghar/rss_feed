@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 15:23:35 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-30 16:19:00 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 15:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 16:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260529_1780069381476_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Suspected&#x27; mine reported in Strait of Hormuz, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: &#x27;Suspected&#x27; mine reported in Strait of Hormuz, authorities say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-30 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss" target="_blank">Senior Sri Lankan monk suspended over child sex abuse allegation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-kai-havertz-arsenal_7261795.jpg?20260530171240" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Havertz fires Arsenal into early lead vs PSG&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Havertz fires Arsenal into early lead vs PSG&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-30 14:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/26/05/1920x1080/skynews-champions-league-arsenal_7261709.jpg?20260530154444" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Follow the on-pitch action with Sky Sports as Arsenal face PSG&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +107,29 @@
                 <span class="time">2026-05-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss" target="_blank">Egypt warns Israel that dangerous Gaza escalations threaten ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-30 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss" target="_blank">What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-30 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition" target="_blank">Bound by blood: new film highlights Jamaica’s outlawed obeah belief system</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2026-05-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves" target="_blank">Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/" target="_blank">Meta is reportedly developing an AI pendant</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-30 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +166,20 @@
                 <span class="time">2026-05-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a1a020425a5da05d3b76d35/master/pass/review%20keychron%20k2%20concrete%20edition%20top%20art%20052026%20SOURCE%20Keychron.jpg" alt="Keychron K2 HE Concrete Edition Review: Rock-Solid Typing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/keychron-k2-he-concrete-edition/" target="_blank">Keychron K2 HE Concrete Edition Review: Rock-Solid Typing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/master/pass/GettyImages-1241968547.jpg" alt="Do You Actually Need to Pay for Transcription Software?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/" target="_blank">Do You Actually Need to Pay for Transcription Software?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2026-05-30 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fsvg%2FZmxvd2NoYXJ0IExSCiAgc3ViZ3JhcGggVHJhZGl0aW9uYWxbIlRyYWRpdGlvbmFsIE1STSJdCiAgICB0dlsiUGVyaW9kaWMgVmFsaWRhdGlvbiJdCiAgICBzZFsiU3RhdGljIERvY3VtZW50YXRpb24iXQogICAgdG1bIlRocmVzaG9sZCBNb25pdG9yaW5nIl0KICAgIHB0c1siUHJlZGVmaW5lZCBUZXN0IFN1aXRlcyJdCiAgICBsclsiTG9nIFJldmlld3MiXQogIGVuZAogIHN1YmdyYXBoIEFnZW50aWNbIkFnZW50aWMgTVJNIl0KICAgIGN2WyJDb250aW51b3VzIFZhbGlkYXRpb24iXQogICAgZGRbIkR5bmFtaWMgRG9jdW1lbnRhdGlvbiJdCiAgICBhbVsiQW5vbWFseSBEZXRlY3Rpb24iXQogICAgYXNnWyJBZHZlcnNhcmlhbCBTY2VuYXJpb3MiXQogICAgZGN0WyJEZWNpc2lvbi1DaGFpbiBUcmFjaW5nIl0KICBlbmQKICB0diAtLT58ZXZvbHZlcyB0b3wgY3YKICBzZCAtLT58ZXZvbHZlcyB0b3wgZGQKICB0bSAtLT58ZXZvbHZlcyB0b3wgYW0KICBwdHMgLS0%2BfGV2b2x2ZXMgdG98IGFzZwogIGxyIC0tPnxldm9sdmVzIHRvfCBkY3Q%3D%3Fwidth%3D800" alt="Agentic AI Model Risk Management: Aligning with Regulatory Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/omnithium/agentic-ai-model-risk-management-aligning-with-regulatory-expectations-52jp" target="_blank">Agentic AI Model Risk Management: Aligning with Regulatory Expectations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 16:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +225,6 @@
                 <span class="time">2026-05-30 10:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2026/05/railway-gcp-account-outage/en/headerimage/generatedHeaderImage-1779878225205.jpg" alt="Google Cloud Suspends Railway&#x27;s Production Account, Causing Eight-Hour Platform-Wide Outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2026/05/railway-gcp-account-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Suspends Railway&#x27;s Production Account, Causing Eight-Hour Platform-Wide Outage</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2026-05-30 10:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-report-suggests-age-verification-service-used-by-playstation-and-meta-is-a-privacy-mess-2000700789" target="_blank">New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 16:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/xbox-logo.jpg" alt="The Xbox Fan Freakout Over Logos Points To An Impossible Balancing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,13 +298,18 @@
                 <span class="time">2026-05-29 22:49</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="RFK Jr.&#x27;s &quot;just a rash&quot; disease filled Texas hospital beds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1780099563-20260530.png" alt="Saturday Morning Breakfast Cereal - Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/rfk-jr-s-just-a-rash-disease-filled-texas-hospital-beds.html" target="_blank">RFK Jr.&#x27;s &quot;just a rash&quot; disease filled Texas hospital beds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 22:10</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/free-4" target="_blank">Saturday Morning Breakfast Cereal - Free</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2026-05-30 15:20</span>
             </div>
         </div>
 </div>
@@ -294,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
