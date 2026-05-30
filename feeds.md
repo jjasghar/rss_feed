@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 08:45:30 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-30 09:34:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 08:45 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 09:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260528-Xavier-Becerra-Deb-Haaland-Keisha-Lance-Bottoms-vsb-2105-c84584.jpg" alt="How three major candidates for governor are talking about their Biden administration experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/three-major-candidates-governor-are-talking-biden-administration-exper-rcna346892" target="_blank">How three major candidates for governor are talking about their Biden administration experience</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2026-05-30 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +96,20 @@
                 <span class="time">2026-05-29 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-1-rt-gmh-260527_1779899590830_hpMain_4x3t_384.jpg" alt="Iran live updates: Trump yet to announce decision following Situation Room meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077" target="_blank">Iran live updates: Trump yet to announce decision following Situation Room meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-29 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/master/pass/GettyImages-1241968547.jpg" alt="Do You Actually Need to Pay for Transcription Software?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/" target="_blank">Do You Actually Need to Pay for Transcription Software?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-30 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/the-best-gifts-for-dads-2026/" target="_blank">24 Best Father’s Day Gifts for Dads (2026)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-29 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/" target="_blank">SpaceX awarded $6.45B in Space Force contracts ahead of IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-29 22:21</span>
             </div>
         </div>
 </div>
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:45 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 40 | 📸 With Images: 270 |
+        🔄 Last Updated: 09:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
