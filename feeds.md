@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 12:19:39 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2026-05-30 13:29:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 12:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 13:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss" target="_blank">Violence against foreign-owned shops in South Africa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships" target="_blank">Pride celebrations struggle as corporate sponsorships dry up</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2026-05-30 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5787938/colombias-untapped-wonder-the-mavecure-mountains" target="_blank">Colombia&#x27;s untapped wonder: The Mavecure Mountains</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260528-Xavier-Becerra-Deb-Haaland-Keisha-Lance-Bottoms-vsb-2105-c84584.jpg" alt="How three major candidates for governor are talking about their Biden administration experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/three-major-candidates-governor-are-talking-biden-administration-exper-rcna346892" target="_blank">How three major candidates for governor are talking about their Biden administration experience</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2026-05-30 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai" target="_blank">How one founder’s bet on ‘the old school web’ is paying off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,6 +134,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6a1a020425a5da05d3b76d35/master/pass/review%20keychron%20k2%20concrete%20edition%20top%20art%20052026%20SOURCE%20Keychron.jpg" alt="Keychron K2 HE Concrete Edition Review: Rock-Solid Typing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/keychron-k2-he-concrete-edition/" target="_blank">Keychron K2 HE Concrete Edition Review: Rock-Solid Typing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/master/pass/GettyImages-1241968547.jpg" alt="Do You Actually Need to Pay for Transcription Software?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -139,24 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/" target="_blank">Founders seize on Indian court ruling to revive criticism of Google’s ad business</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2026-05-30 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/" target="_blank">I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser" target="_blank">Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-29 23:03</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/codmw4K_0003_MW4_CAM_009_BRANDED-1280x720.jpg" alt="Everything We Know About Call Of Duty: Modern Warfare 4: Campaign, Multiplayer, And DMZ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/everything-we-know-about-call-of-duty-modern-warfare-4-campaign-multiplayer-and-dmz-2000700661" target="_blank">Everything We Know About Call Of Duty: Modern Warfare 4: Campaign, Multiplayer, And DMZ</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/WASNATMALL.jpg?fit=1600%2C1200&amp;quality=60&amp;ssl=1" alt="Stars ditch Trump&#x27;s &quot;Freedom 250&quot; concert series after they realize he&#x27;s behind it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +292,6 @@
                 <span class="time">2026-05-29 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01KSTBGPYD5V3VYZZDKA4B0XQA/hero-image.jpg" alt="10 Hacks Every Claude User Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/10-hacks-every-claude-user-should-know?utm_medium=RSS" target="_blank">10 Hacks Every Claude User Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2026-05-29 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 40 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
