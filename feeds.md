@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 17:21:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2026-05-30 18:18:29 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 17:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 18:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-14-ap-gmh-260527_1779902435461_hpMain_4x3t_384.jpg" alt="Trump announces rally after artists pull out of 250th anniversary celebration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.com/Politics/growing-number-artists-pull-250th-anniversary-celebration-national/story?id=133417043" target="_blank">Trump announces rally after artists pull out of 250th anniversary celebration</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2026-05-30 17:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/iran-1-ht-gmh-260529_1780069381476_hpMain_4x3t_384.jpg" alt="Iran live updates: &#x27;Suspected&#x27; mine reported in Strait of Hormuz, authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -62,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss" target="_blank">Senior Sri Lankan monk suspended over child sex abuse allegation</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-30 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-arsenal-psg-champions-league_7261860.jpg?20260530191323" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Arsenal vs PSG ends level as game goes to extra time&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Arsenal vs PSG ends level as game goes to extra time&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-30 14:39</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +101,29 @@
                 <span class="time">2026-05-30 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss" target="_blank">Violence against foreign-owned shops in South Africa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-30 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships" target="_blank">Pride celebrations struggle as corporate sponsorships dry up</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/" target="_blank">Snap alums unveil Ghost Angels fund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening" target="_blank">Backrooms is a certified blockbuster with a $38 million opening day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-30 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,20 @@
                 <span class="time">2026-05-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc" target="_blank">Sometimes, a short game hits the spot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2026/05/9798217155002-1-500x500-1780066311.jpeg" alt="Grifters, cynics, and true believers: The family tree of vaccine opponents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/" target="_blank">Grifters, cynics, and true believers: The family tree of vaccine opponents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2026-05-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fex11bgus5jbet9gfvylj.png" alt="Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7" target="_blank">Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2026-05-30 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Expands-Zen-6-Family-Linux" target="_blank">AMD Expands The Range Of Zen 6 CPUs Detected By The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-30 10:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/Kirstin.jpg" alt="Minecraft Movie 2 Reveals Full Title And Confirms Kirsten Dunst As Alex With Matt Berry Back As Someone New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-movie-2-reveals-full-title-and-confirms-kirsten-dunst-as-alex-with-matt-berry-back-as-someone-new-2000700788" target="_blank">Minecraft Movie 2 Reveals Full Title And Confirms Kirsten Dunst As Alex With Matt Berry Back As Someone New</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2026/05/nickelodeonallstarbrawl2eltigrerevealtrailer-ign-blogroll-1693429576150.jpg" alt="El Tigre Creator Backs Away From AI Amazon Cartoon After One Day Of Guillermo Del Toro Subtweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,30 +275,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/InfoSec4TC-Platinum-Membership.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This cybersecurity course library includes over 90 classes for $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2026/05/30/this-cybersecurity-course-library-includes-over-90-classes-for-50.html" target="_blank">This cybersecurity course library includes over 90 classes for $50</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2026-05-30 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/backrooms-1.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Backrooms is a blockbuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2026/05/30/backrooms-is-a-blockbuster.html" target="_blank">Backrooms is a blockbuster</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2026-05-30 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/codmw4K_0003_MW4_CAM_009_BRANDED-1280x720.jpg" alt="Everything We Know About Call Of Duty: Modern Warfare 4: Campaign, Multiplayer, And DMZ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/everything-we-know-about-call-of-duty-modern-warfare-4-campaign-multiplayer-and-dmz-2000700661" target="_blank">Everything We Know About Call Of Duty: Modern Warfare 4: Campaign, Multiplayer, And DMZ</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/WASNATMALL.jpg?fit=1600%2C1200&amp;quality=60&amp;ssl=1" alt="Stars ditch Trump&#x27;s &quot;Freedom 250&quot; concert series after they realize he&#x27;s behind it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/stars-ditch-trumps-freedom-250-concert-series-after-they-realize-hes-behind-it.html" target="_blank">Stars ditch Trump&#x27;s &quot;Freedom 250&quot; concert series after they realize he&#x27;s behind it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-30 01:44</span>
             </div>
         </div>
 </div>
@@ -310,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:21 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
