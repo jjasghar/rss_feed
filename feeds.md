@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 04:28:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2026-05-30 06:04:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 04:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 06:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss" target="_blank">Frustration in Lebanon as Israel expands invasion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2026-05-30 04:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260428-james-comey-seashells-ew-245p-cc8de9.jpg" alt="Lead federal prosecutor in James Comey seashells photo case steps aside" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.com/Politics/federal-judge-orders-trumps-removed-kennedy-center/story?id=133430502" target="_blank">Federal judge orders Trump&#x27;s name be removed from Kennedy Center, blocks closure</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2026-05-29 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-ap-gmh-260529_1780082290161_hpMain_4x3t_384.jpg" alt="Federal judge orders Trump&#x27;s name be removed from Kennedy Center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-orders-trumps-removed-kennedy-center/story?id=133430502" target="_blank">Federal judge orders Trump&#x27;s name be removed from Kennedy Center</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-29 19:35</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/coderhu/wen-zhang-biao-ti-23-23je" target="_blank">文章标题23</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 05:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SteamOS-3.8.6-Beta" target="_blank">SteamOS 3.8.6 Beta Released With Initial Native Support For AMD HDMI VRR</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-11.10-Released" target="_blank">Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-29 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1" target="_blank">Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 21:23</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 39 | 📸 With Images: 270 |
-        🔄 Last Updated: 04:28 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 269 |
+        🔄 Last Updated: 06:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
