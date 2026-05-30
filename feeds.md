@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 22:17:57 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-30 23:18:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 22:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 23:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss" target="_blank">Al Jazeera exclusive interview with rebel FARC faction in Colombia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-30 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5839989/judge-review-trump-anti-weaponization-fund" target="_blank">Judge agrees to review Trump&#x27;s $1.8 billion &#x27;anti-weaponization&#x27; fund</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-30 21:32</span>
             </div>
         </div>
 <div class="story">
@@ -91,20 +105,20 @@
                 <span class="time">2026-05-30 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss" target="_blank">Senior Sri Lankan monk suspended over child sex abuse allegation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-30 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/" target="_blank">SoftBank says it will invest up to €75 billion to build French data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2026-05-30 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +164,20 @@
                 <span class="time">2026-05-30 15:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability" target="_blank">Microsoft is threatening legal action for disclosing exploits</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-30 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi" target="_blank">Session Management, Rate Limiting &amp; Caching using Redis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/" target="_blank">Domain expertise has always been the real moat</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2026-05-30 20:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2026/05/arm-metis-agentic-security/en/headerimage/arm-metis-1780165811953.jpeg" alt="Arm Open-Sources Metis, an AI Security Framework Outperforming Traditional SAST Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7" target="_blank">Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-30 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openrouter.ai/announcements/series-b" target="_blank">OpenRouter raises $113M Series B</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-30 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.9" target="_blank">Rust Coreutils 0.9 Released With Additional Security Hardening, Zero-Copy I/O</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-30 17:08</span>
             </div>
         </div>
 </div>
@@ -305,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 40 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:18 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
