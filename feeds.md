@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 16:19:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2026-05-30 17:21:30 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 16:19 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 17:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.9" target="_blank">Rust Coreutils 0.9 Released With Additional Security Hardening, Zero-Copy I/O</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-30 17:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fsvg%2FZmxvd2NoYXJ0IExSCiAgc3ViZ3JhcGggVHJhZGl0aW9uYWxbIlRyYWRpdGlvbmFsIE1STSJdCiAgICB0dlsiUGVyaW9kaWMgVmFsaWRhdGlvbiJdCiAgICBzZFsiU3RhdGljIERvY3VtZW50YXRpb24iXQogICAgdG1bIlRocmVzaG9sZCBNb25pdG9yaW5nIl0KICAgIHB0c1siUHJlZGVmaW5lZCBUZXN0IFN1aXRlcyJdCiAgICBsclsiTG9nIFJldmlld3MiXQogIGVuZAogIHN1YmdyYXBoIEFnZW50aWNbIkFnZW50aWMgTVJNIl0KICAgIGN2WyJDb250aW51b3VzIFZhbGlkYXRpb24iXQogICAgZGRbIkR5bmFtaWMgRG9jdW1lbnRhdGlvbiJdCiAgICBhbVsiQW5vbWFseSBEZXRlY3Rpb24iXQogICAgYXNnWyJBZHZlcnNhcmlhbCBTY2VuYXJpb3MiXQogICAgZGN0WyJEZWNpc2lvbi1DaGFpbiBUcmFjaW5nIl0KICBlbmQKICB0diAtLT58ZXZvbHZlcyB0b3wgY3YKICBzZCAtLT58ZXZvbHZlcyB0b3wgZGQKICB0bSAtLT58ZXZvbHZlcyB0b3wgYW0KICBwdHMgLS0%2BfGV2b2x2ZXMgdG98IGFzZwogIGxyIC0tPnxldm9sdmVzIHRvfCBkY3Q%3D%3Fwidth%3D800" alt="Agentic AI Model Risk Management: Aligning with Regulatory Expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -216,15 +218,6 @@
                 <span class="time">2026-05-30 10:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kunal_pareek/the-day-i-stopped-thinking-like-a-developer-and-started-thinking-like-an-owner-ic" target="_blank">The Day I Stopped Thinking Like a Developer and Started Thinking Like an Owner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-30 10:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/nickelodeonallstarbrawl2eltigrerevealtrailer-ign-blogroll-1693429576150.jpg" alt="El Tigre Creator Backs Away From AI Amazon Cartoon After One Day Of Guillermo Del Toro Subtweets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/el-tigre-creator-backs-away-from-ai-amazon-cartoon-after-one-day-of-guillermo-del-toro-subtweets-2000700807" target="_blank">El Tigre Creator Backs Away From AI Amazon Cartoon After One Day Of Guillermo Del Toro Subtweets</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 16:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg" alt="New Report Suggests Age Verification Service Used By PlayStation And Meta Is A Privacy Mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +291,6 @@
                 <span class="time">2026-05-30 01:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/shutterstock_2641081941.jpg?fit=1000%2C668&amp;quality=60&amp;ssl=1" alt="This weekend&#x27;s blue moon is also a micromoon (but won&#x27;t be blue and isn&#x27;t smaller)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2026/05/29/this-weekends-blu.html" target="_blank">This weekend&#x27;s blue moon is also a micromoon (but won&#x27;t be blue and isn&#x27;t smaller)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2026-05-29 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 40 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:19 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
