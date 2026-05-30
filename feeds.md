@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2026-05-29 23:26:06 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-30 00:24:59 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, May 29, 2026 - 23:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 00:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -177,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.10-Released" target="_blank">Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2026-05-29 22:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1" target="_blank">Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +221,6 @@
                 <span class="title"><a href="https://dzone.com/articles/implementing-secure-api-gateways-for-microservices" target="_blank">Implementing Secure API Gateways for Microservices Architecture</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2026-05-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/toboreeee/how-ai-is-reshaping-software-development-and-the-tech-industry-in-2026-412o" target="_blank">How AI Is Reshaping Software Development and the Tech Industry in 2026</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 19:37</span>
             </div>
         </div>
 </div>
@@ -338,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:26 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 40 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
