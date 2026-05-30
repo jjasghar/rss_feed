@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 14:28:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2026-05-30 15:23:35 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 14:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 15:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/26/05/1920x1080/skynews-champions-league-arsenal_7261709.jpg?20260530154444" alt="&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Follow the on-pitch action with Sky Sports as Arsenal face PSG&lt;/a&gt;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/champions-league-final-live-follow-the-on-pitch-action-with-sky-sports-as-arsenal-face-psg-13549320" target="_blank">&lt;a href=&quot;https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950&quot;&gt;Champions League final LIVE! Follow the on-pitch action with Sky Sports as Arsenal face PSG&lt;/a&gt;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2026-05-30 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2026-05-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/30/nx-s1-5835242/ntsb-cockpit-audio-cvr-reconstruction" target="_blank">The NTSB tries to keep cockpit audio recordings private. AI is making that harder</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-30 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability" target="_blank">Microsoft is threatening legal action for disclosing exploits</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-30 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/" target="_blank">Do You Actually Need to Pay for Transcription Software?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2026-05-30 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/" target="_blank">Founders seize on Indian court ruling to revive criticism of Google’s ad business</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 02:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2026/05/xbox-logo.jpg" alt="The Xbox Fan Freakout Over Logos Points To An Impossible Balancing Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-xbox-fan-freakout-over-logos-points-to-an-impossible-balancing-act-2000700790" target="_blank">The Xbox Fan Freakout Over Logos Points To An Impossible Balancing Act</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2026-05-30 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/backrooms-1.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Backrooms is a blockbuster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,36 +289,13 @@
                 <span class="time">2026-05-29 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2026/05/Youngster_ORAS_Trailer.jpg" alt="11-Year-Old Pokémon Card Collector Isn’t A Fan: ‘I Just Flip Cards’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tcg-cards-resellers-scalpers-worlds-plush-ban-2000700684" target="_blank">11-Year-Old Pokémon Card Collector Isn’t A Fan: ‘I Just Flip Cards’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2026-05-29 21:45</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1779933574-20260529.png" alt="Saturday Morning Breakfast Cereal - Debunking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/debunking" target="_blank">Saturday Morning Breakfast Cereal - Debunking</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2026-05-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 89 | 📡 Total Sources: 40 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
