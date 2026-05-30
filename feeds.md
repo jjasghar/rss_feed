@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2026-05-30 06:04:45 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-30 07:51:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, May 30, 2026 - 06:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, May 30, 2026 - 07:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac4/live/1ccc21b0-5b74-11f1-a914-b7de1b16af02.jpg" alt="Palace handed Andrew&#x27;s controversial envoy emails six years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss" target="_blank">Palace handed Andrew&#x27;s controversial envoy emails six years ago</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-30 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss" target="_blank">Frustration in Lebanon as Israel expands invasion</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-30 04:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f155/live/9136a770-5b77-11f1-b93a-99fdf449fe40.jpg" alt="No deal announced after Trump meeting to make &#x27;final determination&#x27; on Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss" target="_blank">No deal announced after Trump meeting to make &#x27;final determination&#x27; on Iran</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2026-05-30 04:19</span>
             </div>
         </div>
 <div class="story">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss" target="_blank">ICE agent arrested over shooting of Venezuelan man in US immigration raid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2026-05-29 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2026/05/29/nx-s1-5839349/president-trump-kennedy-center-name-judge-order" target="_blank">Trump&#x27;s name must come off of the Kennedy Center, judge rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2026-05-29 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-ctr-1-ap-gmh-260529_1780082290161_hpMain_4x3t_384.jpg" alt="Federal judge orders Trump&#x27;s name be removed from Kennedy Center, blocks closure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.com/Politics/federal-judge-orders-trumps-removed-kennedy-center/story?id=133430502" target="_blank">Federal judge orders Trump&#x27;s name be removed from Kennedy Center, blocks closure</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2026-05-29 19:50</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeevansrivastava/i-spent-a-decade-chasing-microservices-before-realizing-what-scalability-actually-means-2aj" target="_blank">I Spent a Decade Chasing Microservices Before Realizing What Scalability Actually Means</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-30 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/meta-cdc-migration/en/headerimage/generatedHeaderImage-1779134681732.jpg" alt="How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/meta-cdc-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Meta Rebuilt Data Ingestion for Petabyte-Scale Reliability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-30 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/coderhu/wen-zhang-biao-ti-23-23je" target="_blank">文章标题23</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-30 05:59</span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-1" target="_blank">Ubuntu 26.10 Snapshot 1 Released For Testing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2026-05-30 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-48-hours-heres-what-i-learned-about-the-future-5131" target="_blank">I Let an AI Agent Hunt Open Source Bounties for 48 Hours — Here&#x27;s What I Learned About the Future of Contributing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-29 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-11.10-Released" target="_blank">Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-29 22:14</span>
             </div>
         </div>
 </div>
@@ -313,22 +312,13 @@
                 <span class="time">2026-05-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2026/05/29/modernity" target="_blank">Modernity</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2026-05-29 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 39 | 📸 With Images: 269 |
-        🔄 Last Updated: 06:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 39 | 📸 With Images: 271 |
+        🔄 Last Updated: 07:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
