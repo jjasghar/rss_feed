@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 11:30:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-31 12:22:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 11:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 12:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation" target="_blank">User-replaceable batteries are coming back in a big way</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2026-05-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6a179f045921527be667b754/master/pass/Review%20M-Audio%20M%20Track%20Duo%20HD%20USB-C%20Audio%20Interface%20top%20art%20052026%20SOURCE%20Amazon.jpg" alt="M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,20 +161,29 @@
                 <span class="time">2026-05-30 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/" target="_blank">This weekend’s two biggest movies were both directed by YouTubers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ghostlyinc/how-to-share-client-links-safely-custom-urls-passwords-and-expiration-dates-4id1" target="_blank">How to Share Client Links Safely: Custom URLs, Passwords, and Expiration Dates</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2026/05/duckdb-quack-protocol/en/headerimage/generatedHeaderImage-1779460941997.jpg" alt="DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2026/05/duckdb-quack-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DuckDB Quack: Client/Server Protocol over HTTP for Multi-User Analytics</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2026-05-31 11:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/shanitiwari/webtree-resources-hub-for-devs-25e" target="_blank">Webtree - Resources Hub for Dev&#x27;s</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://specification.website/" target="_blank">The Website Specification</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-31 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-7.1-rc6-USB" target="_blank">Various USB Quirks Merged Ahead Of Linux 7.1-rc6</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2026-05-31 00:53</span>
             </div>
         </div>
 </div>
@@ -300,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 72 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
