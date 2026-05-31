@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 08:58:29 UTC -->
+<!-- Processing 54 RSS feeds at 2026-05-31 09:56:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 08:58 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 09:56 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks" target="_blank">These AI models are free, private, and will never say &#x27;no&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2026-05-31 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,20 @@
                 <span class="time">2026-05-31 02:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss" target="_blank">Iran war live: Lebanon accuses Israel of pursuing a ‘scorched earth policy’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2026-05-31 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6996524941ef0d6569ebc9b3/master/pass/Update-%20What%E2%80%99s%20the%20Best%20Unlimited%20Cell%20Phone%20Plan%20in%202026_%20Let%E2%80%99s%20Break%20It%20Down.png" alt="Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-unlimited-phone-plans/" target="_blank">Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-31 09:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +156,20 @@
                 <span class="time">2026-05-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/" target="_blank">Meta is reportedly developing an AI pendant</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2026-05-30 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devil_scrapes/google-ads-transparency-scraper-pull-any-competitors-ads-for-1201k-25fo" target="_blank">Google Ads Transparency Scraper: pull any competitor&#x27;s ads for $1.20/1K</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 09:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F44ghfcq3zk3qd5vnb4cf.png" alt="Webtree - Resources Hub for Dev&#x27;s" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)" target="_blank">Microsoft degrades functionality of perpetually-licensed offline products</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2026-05-30 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi" target="_blank">Session Management, Rate Limiting &amp; Caching using Redis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2026-05-30 23:00</span>
             </div>
         </div>
 </div>
@@ -301,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:58 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:56 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
