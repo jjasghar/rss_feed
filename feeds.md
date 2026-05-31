@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2026-05-31 09:56:13 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2026-05-31 10:38:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, May 31, 2026 - 09:56 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, May 31, 2026 - 10:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68bf50b180e9634d4134ea2f/master/pass/Should%20I%20Buy%20a%20Mesh%20System%20or%20a%20Wi-Fi%20Router_.png" alt="Wi-Fi Router vs. Mesh System: Which Is Best for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mesh-system-vs-wi-fi-router/" target="_blank">Wi-Fi Router vs. Mesh System: Which Is Best for You?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2026-05-31 10:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6996524941ef0d6569ebc9b3/master/pass/Update-%20What%E2%80%99s%20the%20Best%20Unlimited%20Cell%20Phone%20Plan%20in%202026_%20Let%E2%80%99s%20Break%20It%20Down.png" alt="Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +156,20 @@
                 <span class="time">2026-05-30 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves" target="_blank">Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2026-05-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6" target="_blank">The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2026-05-31 10:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jasmin/streaming-an-llm-response-in-4-gifs-16dh" target="_blank">Streaming an LLM response, in 4 GIFs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2026-05-31 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)" target="_blank">Microsoft degrades functionality of perpetually-licensed offline products</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2026-05-30 23:26</span>
             </div>
         </div>
 </div>
@@ -302,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 40 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:56 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 40 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
